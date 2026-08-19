@@ -221,7 +221,7 @@ python3 fetch_corpus.py --cik 1414767 --start 2021-01-01 --end 2024-06-30
 
 # score a run — deterministic layer needs no key
 python3 score_run.py --run run.sample.json --citations-only
-python3 score_run.py --run run.json            # full, needs GOOGLE_API_KEY
+python3 score_run.py --run run_windowed.json   # full, needs GOOGLE_API_KEY
 ```
 
 ## Deploy

@@ -179,7 +179,11 @@ embarrass you on camera.
 ---
 
 ### 3:10–3:33 — THE SCORECARD, INCLUDING WHAT IT DOESN'T DO
-**Screen:** `python3 score_run.py --run run.json`
+**Screen:** `python3 score_run.py --run run_windowed.json`
+
+*(`run.json` does not exist — the run files are named per configuration.
+`run_windowed.json` is the best scored run: 8 findings, 108 citations,
+100% accuracy. Its scorecard is committed as `scorecard_windowed.json`.)*
 
 > "Scored against the S-E-C's own complaint.
 > A hundred and eight citations, every one verified — deterministically, no

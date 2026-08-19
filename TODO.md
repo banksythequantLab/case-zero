@@ -22,14 +22,20 @@ record a video, push to your GitHub, or fill in a Devpost form.
 | ⚠️ Cloud Run URL not written down | it is a submission field and it is recorded nowhere |
 | ⚠️ Exposed Gemini API key | still live — rotate it (STEP 4) |
 | ❌ Video not recorded | **the single biggest scoring risk** |
-| ❌ Repo not pushed | Git**H**ub/GitLab/Bitbucket — **private is allowed** (see STEP 3) |
+| ✅ Git repo committed | 142 files, clean, leak-checked — needs only `git remote add` + push |
+| ✅ SUBMISSION.md cut | 3,375 → 1,542 words; full version kept as `SUBMISSION_FULL.md` |
+| ✅ Video script + architecture diagram | rewritten against current system, timed to 4:00 |
+| ❌ Repo not pushed | you add the remote — **private is allowed** (see STEP 3) |
 | ❌ Not submitted | |
 
 ---
 
 # STEP 1 — Watch the demo once, end to end (10 minutes)
 
-Before recording anything, see what you're recording.
+**I re-verified this on Aug 19 with all guards active** — 5 verdicts fire, H-05
+blocks at 0.79, one citation quarantine, tally reads
+`3 ACTIVE · 1 NOT SUPPORTED BY RECORD · 1 REFUTED`. `board_blocked.png` is a
+fresh screenshot of exactly that. Watch it anyway — you're about to narrate it.
 
 ```bash
 python3 -m casezero.board --demo --pace 0.7
@@ -89,19 +95,26 @@ history would otherwise publish the API key that was pasted in chat.
 Either way, **`.gitignore` already excludes the answer key
 and `.env`** — verify that rather than trusting it:
 
+**⚠ Correction #2: `.gitignore` did NOT exclude the answer key.** I told you it
+did. It only had `.env`. I found it by checking, rewrote `.gitignore`, and made
+the commit — so this is already done and verified:
+
+- `complaint.pdf`, `complaint.txt`, `ground_truth.json` — excluded
+- `cold_prompt_result.json`, `scorecard_*.json`, `bench_*.json`, `run_*.json` —
+  **deliberately included.** They are the evidence behind every number in the
+  submission, and preflight hard-FAILS without the contamination transcript. A
+  repo that cites results it doesn't contain asks to be taken on trust.
+- A simulated fresh clone was tested: **7 pass · 3 warn · 0 fail**, no leaks
+
+All you need to do:
+
 ```bash
-git init && git add -A && git status --short | grep -Ei 'complaint|ground_truth|\.env$'
-```
-
-✅ **Check:** that grep prints **nothing**. If it prints anything, stop.
-
-Then:
-
-```bash
-git commit -m "CASE ZERO — autonomous investigation fleet"
 git remote add origin https://github.com/<you>/case-zero.git
 git push -u origin main
 ```
+
+If you keep the repo private, grant `testing@devpost.com` and
+`cloudhackathons@google.com`.
 
 ---
 
