@@ -1,0 +1,297 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000172186822000031/f2sncpl8k110121.htm
+FORM: 8-K
+FILED: 2022-01-13
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2022-01-13
+
+2022-01-13
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date of Report (Date
+ of earliest event reported): 
+January 13,
+ 2022
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+One
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+781
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Not
+ Applicable
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ITEM
+7.01    
+Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On January 13, 2021, Netcapital Inc. (the “Company”)
+signed a separation agreement with Carole Murko, its chief marketing officer. The decision to terminate employment was not a result of
+any disagreement with the Company on any matter relating to the Company’s operations, policies or practices. As a result of the
+termination, Ms. Murko received severance pay of $7,384.60, and an unvested equity grant amounting to 8,855 shares of the Company’s
+common stock, par value $0.001, became fully vested.    
+
+    
+
+ITEM 9.01 Financial Statements and Exhibits.
+
+ 
+
+The exhibit listed in the following Exhibit Index
+is filed as part of this report.
+
+10.1 
+Terms of separation between Netcapital Inc. and Carole Murko
+
+ 
+
+ 
+
+    
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: 
+January
+ 13, 2022
+
+ 
+
+/s/ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+ 
+
+Principal Accounting Officer

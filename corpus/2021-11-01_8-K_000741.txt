@@ -1,0 +1,342 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000172186821000741/f2sncpl8k110121.htm
+FORM: 8-K
+FILED: 2021-11-01
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2021-10-28
+
+2021-10-28
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+October
+ 28, 2021
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+One
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+781
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Not
+ Applicable
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01
+Entry
+ into a Material Definitive Agreement.
+
+ 
+
+On
+October 28, 2021, Netcapital Inc. (the “Company”) entered into an Exchange Agreement (the “Agreement”) to acquire
+a 10% equity interest in Caesar Media Group, Inc. (“Caesar”), a Delaware corporation.
+
+ 
+
+In
+exchange for a 10% interest in Caesar, the Company shall issue an aggregate of two hundred thousand (200,000) shares of its common stock.
+Fifty thousand (50,000) shares of its common stock are issuable upon the execution of the Agreement, and the remaining one hundred fifty
+thousand (150,000) shares vest monthly (6,250 shares per month) over the next two years.
+
+ 
+
+The
+issuance of the common stock is intended to be exempt from registration under the Securities Act of 1933, as amended (the “Securities
+Act”), by virtue of Section 4(a)(2) and/or 4(a)(5) thereof and the exchange of shares of the Company’s common stock for the
+Caesar equity constitutes an exchange under Section 3(a)(9) of the Securities Act. The Company’s shares of common stock are restricted
+securities and have not been registered under the Securities Act. The purchasers of the Company’s common stock are knowledgeable
+and experienced in finance and business matters and can evaluate the risks and merits of their investment.
+
+ 
+
+A
+copy of the Agreement is attached hereto, and the foregoing description of the Agreement is qualified in its entirety by reference thereto.
+
+ 
+
+ 
+
+Item 3.02
+Unregistered
+ Sales of Equity Securities.
+
+ 
+
+The
+information set forth in Item 1.01 above is incorporated by reference herein.
+
+ITEM 9.01
+Financial Statements and Exhibits.
+
+The
+exhibits listed in the following Exhibit Index are filed as part of this report.
+
+10.1
+
+Exchange Agreement dated October 28, 2021 between Michael Woloshin, Joseph W and Patricia G Abrams Family Trust dtd 3/95 and Netcapital Inc.
+
+99.1
+
+Press Release issued by Netcapital Inc. on October 28, 2021.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: 
+November
+ 1, 2021
+
+ 
+
+/s/ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+ 
+
+Principal Accounting Officer

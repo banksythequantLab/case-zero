@@ -1,0 +1,780 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000016/f2sncpl8k010523.htm
+FORM: 8-K
+FILED: 2023-01-05
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2023-01-03
+
+2023-01-03
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+January
+ 3, 2023
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+Entry into a Material Definitive Agreement.  
+
+ 
+
+The disclosure under Item 5.02 below related to the Appointment of Chief
+Executive Officer and Employment Agreement with the Chief Executive Officer is incorporated into this Item 1.01 by reference.
+
+ 
+
+Item
+3.02. Unregistered Sales of Equity Securities. 
+
+ 
+
+The discussion under Item
+5.02 below related to Option Grants is incorporated into this Item 1.01 by reference.
+
+ 
+
+Item 5.02. Departure of Directors or Principal
+Officers; Election of Directors; Appointment of Principal Officers; Compensatory Arrangements of Certain Officers 
+
+ 
+
+2023
+Omnibus Equity Incentive Plan 
+
+ 
+
+On January 3, 2023, the Board
+of Directors of the Company approved and adopted the Netcapital Inc., 2023 Omnibus Equity Incentive Plan (the “2023 Plan”),
+subject to the approval of the 2023 Plan by the Company’s stockholders. The material terms of the 2023 Plan are set forth below.
+The description below of the 2023 Plan does not purport to be complete and is qualified in its entirety by reference to the full text
+of the 2023 Plan, a copy of which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.
+
+ 
+
+Purposes
+
+ 
+
+The
+purposes of the 2023 Plan are to (i) provide an additional incentive to selected employees, directors, and independent contractors of
+the Company or its affiliates whose contributions are essential to the growth and success of the Company, (ii) strengthen the commitment
+of such individuals to the Company and its affiliates, (iii) motivate those individuals to faithfully and diligently perform their responsibilities
+and (iv) attract and retain competent and dedicated individuals whose efforts will result in the long-term growth and profitability of
+the Company. 
+
+ 
+
+Shares
+Available
+
+ 
+
+The
+total number of Shares of Common Stock authorized for issuance under the 2023 Plan is (i) 2,000,000 Shares of
+
+Common
+Stock plus (ii) an annual increase on the first day of each calendar year beginning with May 1, 2024 and
+
+ending
+with the last May 1 during the initial ten-year term of the 2023 Plan, equal to the lesser of (A) five percent (5%) of the Shares of
+Common Stock outstanding (on an as-converted basis, which shall include Shares issuable upon
+
+the
+exercise or conversion of all outstanding securities or rights convertible into or exercisable for Shares of Common
+
+Stock,
+including without limitation, preferred stock, warrants and employee options to purchase any Shares of
+
+Common
+Stock) on the final day of the immediately preceding calendar year and (B) such lesser number of Shares
+
+of
+Common Stock as determined by the Board; provided, that, Shares of Common Stock issued under the 2023 Plan
+
+with
+respect to an Exempt Award shall not count against such share limit.
+
+ 
+
+No
+more than 2,000,000 Shares, and as increased on an annual basis, on the first day of each calendar year beginning with May 1, 2024 and
+ending with the last May 1 during the initial ten-year term of the Plan, by the lesser of (A) five percent (5%) of the shares
+of Common Stock outstanding (on an as-converted basis, which shall include Shares of Common Stock issuable upon the exercise or conversion
+of all outstanding securities or rights convertible into or exercisable for shares of Common Stock, including without limitation, preferred
+stock, warrants and employee options to purchase any shares of Common Stock) on the final day of the immediately preceding calendar year;
+(B) 300,000 shares of Common Stock, and (C) such lesser number of shares of Common Stock as determined by the Board, shall
+be issued pursuant to the exercise of ISOs.
+
+ 
+
+As
+of January 3, 2023, 2,000,000 Shares of Common Stock represents approximately 34.1% of our Common Stock outstanding. If any Shares subject
+to an Award are forfeited, cancelled, exchanged or surrendered or if an Award otherwise terminates or expires without a distribution
+of Shares to the participant, the Shares with respect to such Award shall, to the extent of any such forfeiture, cancellation, exchange,
+surrender, termination or expiration, again be available for granting Awards under the 2023 Plan.
+
+ 
+
+Administration
+
+ 
+
+The
+2023 Plan will be administered by the Board or a committee to which the Board delegates such responsibility (the “Administrator”).
+The 2023 Plan will be administered by the Administrator in accordance with Rule 16b-3 of the Securities Exchange Act of 1934, as amended.
+The Administrator may interpret the 2023 Plan and may prescribe, amend and rescind rules and make all other determinations necessary
+or desirable for the administration of the 2023 Plan. The 2023 Plan permits the Administrator to select the eligible recipients who will
+receive awards (“Awards”), to determine the terms and conditions of those awards, including but not limited to the exercise
+price or other purchase price of an award, the number of shares of common stock or cash or other property subject to an award, the term
+of an award and the vesting schedule applicable to an award, to determine the terms and conditions of written instruments evidencing
+such awards (an “Award Agreement”) and to amend the terms and conditions of outstanding awards.
+
+ 
+
+ 
+
+Eligibility
+
+ 
+
+Employees,
+directors and independent contractors of the Company or any of its affiliates of the Company will be eligible to receive Awards under
+the 2023 Plan, subject to certain limitations to avoid accelerated taxation and/or tax penalties under Section 409A of the Code. The
+participants in the 2023 Plan shall be selected from time to time by the Administrator, in its sole discretion, from those individuals
+that qualify as eligible recipients.
+
+ 
+
+Consideration
+for Awards
+
+ 
+
+The
+purchase price for any Award granted under the 2023 Plan or the Common Stock to be delivered pursuant to any such Award, as applicable,
+may be paid by means of any lawful consideration as determined by the Administrator, including, without limitation, one or a combination
+of the following methods:
+
+ 
+
+ 
+
+●
+
+services
+ rendered by the recipient of such Award;
+
+ 
+
+●
+
+cash,
+ check payable to the order of the Company, or electronic funds transfer;
+
+ 
+
+●
+
+notice
+ and third party payment in such manner as may be authorized by the Administrator;
+
+ 
+
+●
+
+the
+ delivery of previously owned and fully vested Shares of Common Stock;
+
+ 
+
+●
+
+by
+ a reduction in the number of Shares otherwise deliverable pursuant to the Award; or
+
+ 
+
+●
+
+subject
+ to such procedures as the Administrator may adopt, pursuant to a “cashless exercise” with a third party
+
+who
+ provides financing for the purposes of (or who otherwise facilitates) the purchase or exercise of Awards.
+
+ 
+
+Awards
+
+ 
+
+The
+2023 Plan permits the grant of: (a) stock options, which may be intended as incentive stock options (“ISOs”) or as nonqualified
+stock options (options not meeting the requirements to qualify as ISOs); (b) stock appreciation rights (“SARs”); (c) restricted
+stock; (d) restricted stock units; (e) cash incentive awards; or (f) other awards, including: (i) stock bonuses, performance stock, performance
+units, dividend equivalents, or similar rights to purchase or acquire Shares, whether at a fixed or variable price or ratio related to
+the Common Stock, upon the passage of time, the occurrence of one or more events, or the satisfaction of performance criteria or other
+conditions, or any combination thereof; or (ii) any similar securities with a value derived from the value of or related to the Common
+Stock and/or returns thereon.
+
+ 
+
+Adjustments
+
+ 
+
+To
+the extent necessary to preserve the economic intent of an Award or of the 2023 Plan, following a “Change in Capitalization”,
+such other equitable substitutions or adjustments shall be made as may be determined by the Administrator, in its sole discretion. A
+“Change in Capitalization” means any of the following: (i) merger, consolidation, reclassification, recapitalization, spin-off,
+spin-out, repurchase or other reorganization or corporate transaction or event, (ii) special or extraordinary dividend or other extraordinary
+distribution (whether in the form of cash, Common Stock or other property), stock split, reverse stock split, share subdivision or consolidation,
+(iii) combination or exchange of shares or (iv) other change in corporate structure, which, in any such case, the Administrator determines,
+in its sole discretion, affects the Shares such that an adjustment would be appropriate.
+
+ 
+
+Options
+
+ 
+
+Options
+granted under the 2023 Plan shall be designated as nonqualified stock options or ISOs. Each participant (“Participant”) who
+is granted an option (“Option”) shall enter into an Award Agreement with the Company, containing such terms and conditions
+as the Administrator shall determine, in its sole discretion, including, among other things, the Exercise Price (as defined in the 2023
+Plan) of the Option, the term of the Option and provisions regarding exercisability of the Option, and whether the Option is intended
+to be an ISO or a nonqualified stock option (and in the event the Award Agreement has no such designation, the Option shall be a nonqualified
+stock option). The provisions of each Option need not be the same with respect to each Participant. More than one Option may be granted
+to the same Participant and be outstanding concurrently hereunder. The Exercise Price of Shares purchasable under an Option shall be
+determined by the Administrator in its sole discretion at the time of grant, but in no event shall the exercise price of an Option be
+less than one hundred percent (100%) of the Fair Market Value of a Share of Common Stock on the date of grant. The maximum term of each
+Option shall be fixed by the Administrator, but no Option shall be exercisable more than ten (10) years after the date such Option is
+granted. The Administrator shall have the authority to accelerate the exercisability of any outstanding Option at such time and under
+such circumstances as the Administrator, in its sole discretion, deems appropriate.
+
+ 
+
+Each
+Option shall be exercisable at such time or times and subject to such terms and conditions, including the attainment of performance goals,
+as shall be determined by the Administrator in the applicable Award Agreement. The Administrator may also provide that any Option shall
+be exercisable only in installments, and the Administrator may waive such installment exercise provisions at any time, in whole or in
+part, based on such factors as the Administrator may determine in its sole discretion. The Administrator shall have the authority to
+accelerate the exercisability of any outstanding Option at such time and under such circumstances as the Administrator, in its sole discretion,
+deems appropriate.
+
+ 
+
+Notwithstanding
+anything to the contrary in the 2023 Plan, if an ISO is granted to a participant who owns Shares representing more than ten percent (10%)
+of the voting power of all classes of Shares of the Company at the time of grant, its “parent corporation” (as such term
+is defined in Section 424(e) of the Code) or a subsidiary of the Company, the term of the ISO shall not exceed five (5) years from the
+time of grant of such ISO and the Exercise Price shall be at least one hundred and ten percent (110%) of the Fair Market Value of the
+Shares on the date of grant. A Participant shall have no rights to dividends, dividend equivalents or distributions or any other rights
+of a stockholder with respect to the Shares subject to an Option until the Participant has given written notice of the exercise thereof,
+and has paid in full for such Shares and has satisfied the requirements of the 2023 Plan.
+
+ 
+
+Treatment
+of an Option upon termination of employment of a Participant shall be provided for by the Administrator in the Award Agreement. An Option
+shall be affected, both with regard to vesting schedule and termination, by leaves of absence, including unpaid and un-protected leaves
+of absence, changes from full-time to part-time employment, partial disability or other changes in the employment status or service status
+of a Participant, in the discretion of the Administrator.
+
+ 
+
+ 
+
+Stock
+Appreciation Rights
+
+ 
+
+The
+Administrator will be authorized to award SARs under the 2023 Plan. SARs will be subject to the terms and conditions established by the
+Administrator and reflected in the Award Agreement. A SAR is a contractual right that allows a participant to receive, in the form of
+either cash, Shares or any combination of cash and Shares, the appreciation, if any, in the value of a Share over a certain period of
+time. An option granted under the 2023 Plan may include SARs, and SARs may also be awarded to a participant independent of the grant
+of an option. SARs granted in connection with an option shall be subject to terms similar to the option corresponding to such SARs.
+
+ 
+
+Restricted
+Stock and Restricted Stock Units (RSUs)
+
+ 
+
+The
+Administrator will be authorized to award restricted stock or RSUs under the 2023 Plan. Awards of restricted stock and RSUs will be subject
+to the terms and conditions established by the Administrator at its sole discretion.
+
+ 
+
+Other
+Stock-Based Awards
+
+ 
+
+Other
+Stock-Based Awards may be issued under the 2023 Plan. Subject to the provisions of the 2023 Plan, the Administrator shall have sole and
+complete authority to determine the individuals to whom and the time or times at which such Other Stock-Based Awards shall be granted.
+An example of an Other Stock-Based Award is a performance bonus payable as Company Common Stock.
+
+ 
+
+Change
+in Control
+
+ 
+
+In
+the event that a change in control occurs, as defined in the 2023 Plan to include, among other things, the acquisition by a person of
+more than 50% of the voting power of the Company, the Administrator may, at its sole discretion, modify any unvested and un-exercisable
+portion of any Award to make it fully vested and exercisable.
+
+ 
+
+Amendment
+and Termination 
+
+ 
+
+The
+Board may amend, alter or terminate the 2023 Plan at any time, but no amendment, alteration or termination shall be made that would impair
+the rights of a participant under any Award theretofore granted without such participant’s consent. The Board shall obtain approval
+of the Company’s stockholders for any amendment that would require such approval in order to satisfy the requirements of any rules
+of the stock exchange on which the Common Stock is traded or other applicable law.
+
+ 
+
+The
+foregoing description of the 2023 Plan does not purport to be complete and is qualified in its entirety by reference to the full text
+of the 2023 Plan, a copy of which is filed as Exhibit 10.1 to this Quarterly Report on Form 10-Q and is incorporated herein by reference.
+
+ 
+
+ 
+Resignation
+of Chief Executive Officer 
+
+On January 3, 2023, Cecilia Lenk resigned
+as Chief Executive Officer of the Company. Her resignation was not because of any disagreements with the Company on matters relating to
+its operations, policies and practices. Ms. Lenk will continue to serve as a director and will also serve as CEO of Netcapital Advisors
+Inc., the Company’s wholly owned subsidiary.
+
+Appointment
+of Chief Executive Officer and Employment Agreement with the Chief Executive Officer
+
+On
+January 3, 2023, the Company’s Board appointed Martin Kay to serve as Chief Executive Officer to fill the vacancy created by Ms.
+Lenk’s resignation. Mr. Kay currently serves as a director of the Company.
+
+In
+connection with Mr. Kay’s employment as Chief Executive Officer, the Company entered into an Employment Agreement with Mr. Kay
+(the “Employment Agreement”) on January 3, 2023. Under the Employment Agreement, Mr. Kay is eligible to:
+
+ 
+
+(a)
+receive an annual base salary of $300,000;
+
+ 
+
+(b)
+receive an option grant to purchase 100,000 fully vested Shares of the Company pursuant to the 2023 Plan and an option grant to purchase
+1,000,000 Shares of the Company, which vest monthly over four (4) years pursuant to an option award agreement, described below, and in
+each case subject to the 2023 Plan;
+
+ 
+
+(b)
+receive periodic bonuses or additional salary in the discretion of the Board or compensation committee;
+
+ 
+
+(c)
+receive .005 time of gross revenue paid in cash annually so long as the Company reports positive earnings after the bonus is paid;
+
+ 
+
+(d)
+participate in the Company’s fringe benefits, health and welfare plans, and pension and/ or profit sharing plans provided to executives;
+
+ 
+
+(e)
+receive reimbursement for all reasonable business expenses;
+
+ 
+
+(f) receive
+sick leave, sick pay, and disability benefits in accordance with Company policy;
+
+ 
+
+The
+Employment Agreement, which has a three-year term, may be terminated upon the occurrence of the death of Mr. Kay, at any time by Mr.
+Kay, by the Company due to disability, by the Company for “cause”, and by Mr. Kay for “good reason”. The Employment
+Agreement also contain provisions regarding, among other things, a six (6)-month non-competition provision, confidential information,
+governing law, and covenants governing Mr. Kay’s conduct.
+
+The
+foregoing description of the Employment Agreement is qualified in its entirety by reference to the text of such agreement, which is filed
+as Exhibit 10.2 to this Current Report on Form 8-K and incorporated herein by reference.
+
+Set
+forth below is the biographical information of Mr. Kay, age 58, as required by Item 41 of Regulation S-K
+
+Martin
+Kay was appointed as Chief Executive Officer of the Company on January 3, 2023 and has served as a Director of the Company since May
+2022. Mr. Kay is currently a Managing Director at Accenture Strategy, a position he has held since October 2015. Mr. Kay holds a BA in
+physics from Oxford University and an MBA from Stanford University Graduate School of Business. Mr. Kay is an experienced C-suite advisor
+and digital media entrepreneur, working at the intersection of business and technology. His experience includes oversight of our funding
+portal when he served on the board of managers of Netcapital Systems LLC from 2017 – 2021.
+
+ 
+
+ 
+
+Option
+Grants
+
+ 
+
+In connection with the Employment Agreement with Martin
+Kay described above, on January 3, 2023, the Company granted Mr. Kay non-qualified stock options under the 2023 Plan to purchase one-million
+(1,000,000) shares (“Shares”) of the Company’s common stock (“Common Stock”) at an exercise price of $1.43
+per share, subject to the approval of the 2023 Plan by the Company’s stockholders]. The options vest and become exercisable in 48
+equal monthly installments. The issuance was exempt under Section 4(a)(2) of the Securities Act of the 1933, as amended.
+
+ 
+
+On January 3, 2023, Company granted non-qualified
+stock options to purchase 200,000 Shares of the Company’s Common Stock to each of Jason Frishman, Coreen Kraysler and Paul Riss
+(600,000 Shares total), under the 2023 Plan at an exercise price of $1.43 per Share, subject to the approval of the 2023 Plan by the Company’s
+stockholders. These options vest and become exercisable in 48 equal monthly installments. These issuances were exempt under Section 4(a)(2)
+of the Securities Act of the 1933, as amended.
+
+Each of the options referenced above were issued pursuant to a stock option agreement, the form of which is attached hereto as Exhibit
+10.3 and incorporated herein by reference.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+10.1
+
+ 
+
+Netcapital Inc 2023 Omnibus Equity Incentive Plan
+
+10.2
+
+ 
+
+Employment
+ Agreement with Martin Kay dated January 3, 2023
+
+10.3
+
+ 
+
+Form
+ of Stock Option Agreement
+
+99.1
+
+ 
+
+Press
+ Release dated January 4, 2023.
+
+  
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: January 5, 2022
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer

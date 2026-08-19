@@ -1,0 +1,2967 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224023156/formdef14a.htm
+FORM: DEF 14A
+FILED: 2024-06-07
+COMPANY: Netcapital Inc.
+
+DEF 14A
+
+1
+
+formdef14a.htm
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+SCHEDULE
+14A
+
+ 
+
+Proxy
+Statement Pursuant to Section 14(a) of the Securities
+
+Exchange
+Act of 1934
+
+(Amendment
+No. )
+
+ 
+
+Filed
+ by the Registrant ☒
+
+ 
+
+Filed
+ by a Party other than the Registrant ☐
+
+ 
+
+ 
+
+Check
+the appropriate box:
+
+ 
+
+☐
+
+Preliminary
+ Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Confidential,
+ for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+
+ 
+
+ 
+
+☒
+
+Definitive
+ Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Definitive
+ Additional Materials
+
+ 
+
+ 
+
+☐
+
+Soliciting
+ Material Pursuant to Section 240.14a-12
+
+ 
+
+NETCAPITAL
+INC.
+
+(Name
+of Registrant As Specified In Its Charter)
+
+ 
+
+Payment
+of Filing Fee (Check all boxes that apply):
+
+ 
+
+☒
+
+No
+ fee required.
+
+ 
+
+ 
+
+☐
+
+Fee
+ paid previously with preliminary materials.
+
+ 
+
+ 
+
+☐
+
+Fee
+ computed on table in exhibit required by Item 25(b) of Schedule 14A (17 CFR 240.14a-101) per Item 1 of this Schedule and Exchange
+ Act Rules 14c-5(g) and 0-11.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+INC.
+
+1
+Lincoln Street,
+
+Boston,
+MA 02111
+
+ 
+
+NOTICE
+OF SPECIAL MEETING OF SHAREHOLDERS
+
+ 
+
+TO
+BE HELD JULY 24, 2024
+
+ 
+
+TO
+OUR SHAREHOLDERS:
+
+ 
+
+You
+are cordially invited to attend the Special Meeting of Shareholders (the “Special Meeting”) of Netcapital Inc., a Utah corporation
+(together with its subsidiaries, the “Company,” “Netcapital,” “we,” “us” or “our”),
+which will be held on July 24, 2024, at 10:30 am ET. The Special Meeting will be a virtual meeting to be held as a listen-only conference
+call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If you encounter any technical difficulties
+with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or email, proxy@equitystock.com. The meeting
+will be held for the following purposes:
+
+ 
+
+1.
+
+To
+ approve a proposal to give our board of directors the authority, at its discretion, to file articles of amendment to our articles
+ of incorporation to effect a reverse split of our issued common stock at a ratio that is not less than 1-for-2 and not greater than
+ 1-for-100, without reducing the authorized number of shares of our common stock, with the exact ratio to be selected by our board
+ of directors in its discretion and to be effected, if at all, in the sole discretion of our board of directors at any time following
+ stockholder approval of the amendment to our articles of incorporation and before July 24, 2025 without further approval or authorization
+ of our stockholders (the “Reverse Stock Split Proposal”);
+
+ 
+
+ 
+
+2.
+
+To
+ authorize the adjournment of the Special Meeting if necessary or appropriate, including to
+ solicit additional proxies in the event that there are not sufficient votes at the time of
+ the Special Meeting or adjournment or postponement thereof to approve any of the foregoing
+ proposals (the “Adjournment Proposal”) and
+
+ 
+
+3.
+
+Other
+ Proposals – to consider and transact such other business as may properly come before the Special Meeting or any adjournment
+ or postponement thereof.
+
+ 
+
+A
+copy of the Annual Report of the Company’s operations during the fiscal year ended April 30, 2023 is available on request or at
+
+www.sec.gov
+.
+
+ 
+
+OUR
+BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT YOU VOTE “
+FOR
+” THE REVERSE STOCK SPLIT PROPOSAL, AND THE ADJOURNMENT
+PROPOSAL.
+
+ 
+
+The
+Company’s board of directors has fixed the close of business on June 4, 2024 as the record date for the determination of
+shareholders entitled to receive notice of and to vote at the Special Meeting of Shareholders and any adjournment or postponement thereof.
+
+ 
+
+ 
+
+Strategic
+Shareholder Advisor and Proxy Solicitation Agent
+
+200
+Broadacres Drive
+
+Bloomfield,
+NJ 07003
+
+North
+American Toll Free Phone:
+
+1-833-795-8488
+
+Email:
+
+NCPL@allianceadvisors.com
+
+ 
+
+ 
+
+By Order of the Board of Directors
+
+ 
+
+ 
+
+ 
+
+ 
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin
+ Kay
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+June
+ 7, 2024
+
+ 
+
+ 
+
+Boston,
+ Massachusetts
+
+ 
+
+ 
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+YOUR
+VOTE IS IMPORTANT
+
+ 
+
+WHETHER
+OR NOT YOU PLAN TO ATTEND THE SPECIAL MEETING IN PERSON, TO ASSURE THAT YOUR SHARES WILL BE REPRESENTED, PLEASE COMPLETE, DATE, SIGN
+AND RETURN THE ENCLOSED PROXY WITHOUT DELAY IN THE ENCLOSED ENVELOPE, WHICH REQUIRES NO ADDITIONAL POSTAGE IF MAILED IN THE UNITED STATES.
+IF YOU ATTEND THE SPECIAL MEETING, YOU MAY VOTE IN PERSON IF YOU WISH TO DO SO EVEN IF YOU HAVE PREVIOUSLY SENT IN YOUR PROXY.
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+PROXY
+STATEMENT
+
+ 
+
+SPECIAL
+MEETING OF SHAREHOLDERS
+
+TO
+BE HELD ON JULY 24, 2024
+
+ 
+
+GENERAL
+INFORMATION ABOUT THE PROXY STATEMENT AND SPECIAL MEETING
+
+ 
+
+General
+
+ 
+
+Netcapital
+Inc. (the “Company,” “Netcapital,” “we,” “us,” or “our”), a Utah corporation
+is providing this proxy statement in connection with the solicitation by the Company’s board of directors (the “Board”)
+of proxies to be voted at the special meeting (“Special Meeting”) of shareholders to be held virtually at 10:30 am ET on
+July 24, 2024 as a listen-only conference call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If
+you encounter any technical difficulties with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or
+email, proxy@equitystock.com.
+
+ 
+
+On
+or about June 7, 2024, we will begin mailing a Notice of Internet Availability of Proxy Materials (the “Notice”) to
+our shareholders of record on June 4, 2024 (the “Record Date”) (other than those who previously requested electronic
+or paper delivery of proxy materials), directing shareholders to a website where they can access our proxy materials, including this
+proxy statement and the 2023 Annual Report, and view instructions on how to vote. If you would prefer to receive a paper copy of our
+proxy materials, please follow the instructions included in the Notice. If you have previously elected to receive our proxy materials
+electronically, you will continue to receive access to those materials via e-mail unless you elect otherwise.
+
+ 
+
+The
+Special Meeting will be held for the purpose of considering and voting upon the following proposals:
+
+ 
+
+1.
+a
+ proposal to give our board of directors the authority, at its discretion, to file articles
+ of amendment to our articles of incorporation to effect a reverse split of our issued common
+ stock at a ratio that is not less than 1-for-2 and not greater than 1-for-100, without reducing
+ the authorized number of shares of our common stock, with the exact ratio to be selected
+ by our board of directors in its discretion and to be effected, if at all, in the sole discretion
+ of our board of directors at any time following stockholder approval of the amendment to
+ our articles of incorporation and before July 24, 2025 without further approval or authorization
+ of our stockholders (the “Reverse Stock Split Proposal”);
+
+ 
+ 
+ 
+
+2.
+a
+ proposal to authorize the adjournment of the Special Meeting if necessary or appropriate,
+ including to solicit additional proxies in the event that there are not sufficient votes
+ at the time of the Special Meeting or adjournment or postponement thereof to approve any
+ of the foregoing proposals (the “Adjournment Proposal”); and
+
+ 
+ 
+ 
+
+3.
+such
+ other business as may properly come before the Special Meeting or any adjournment or postponement
+ thereof.
+
+ 
+
+These
+proposals are more fully described in the accompanying proxy statement, which you should read carefully.
+
+ 
+
+If
+you are a shareholder of record, you may attend the Special Meeting in the following ways:
+
+ 
+
+ 
+
+●
+
+Access
+ an audio-only conference call by calling 877-407-3088 (Toll Free) or +1 877-407-3088 (International);
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Instructions
+ on how to attend and participate in the virtual Special Meeting, including how to demonstrate proof of stock ownership, are also
+ available as follows:
+
+ 
+
+-
+4
+-
+
+ 
+
+ 
+
+Shareholders
+of Record
+
+ 
+
+ 
+
+●
+
+Shareholders
+ of record as of the Record Date can attend the special meeting by accessing the live audio conference call at +1-877-407-3088 and
+ presenting the unique 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+Owners
+
+ 
+
+ 
+
+●
+
+If
+ you were a beneficial owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage firm, bank or
+ other similar agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have received a legal
+ proxy from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer, at proxy@equitystock.com
+ and should be labeled “Legal Proxy” in the subject line. Please include proof from your broker, bank or other agent of
+ your legal proxy (e.g., a forwarded email from your broker, bank or other agent with your legal proxy attached, or an image of your
+ valid proxy attached to your email). Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m.
+ Eastern Time, on July 22, 2024. You will then receive a confirmation of your registration, with a control number, by email from Equity
+ Stock Transfer. At the time of the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit
+ control number. 
+
+ 
+
+ 
+
+●
+
+Shareholders
+ may submit live questions on the conference line while attending the virtual Special Meeting.
+
+ 
+
+If
+you are a shareholder of record, you may vote your shares in the following ways:
+
+ 
+
+Whether
+you plan to attend the Special Meeting or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive
+through this solicitation, and that are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed
+via Internet. You may specify whether your shares should be voted for or “withheld” for each nominee for director, and whether
+your shares should be voted for, against or abstain with respect to each of the other proposals. Except as set forth below, if you properly
+submit a proxy without giving specific voting instructions, your shares will be voted in accordance with the Board’s recommendations
+as noted below. The Board has appointed Martin Kay, to serve as the proxy for the Special Meeting. Voting by proxy will not affect your
+right to attend the Special Meeting. If your shares are registered directly in your name through our stock transfer agent, Equity Stock
+Transfer, or you have stock certificates, you may vote:
+
+ 
+
+ 
+
+1.
+
+By
+ Internet. The website address for Internet voting is www.netcapital.vote. Please click “Vote Your Proxy” and enter your
+ control number.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+By
+ Email. Mark, date, sign and email the Proxy Card to proxy@equitystock.com, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+By
+ mail. Mark, date, sign and mail promptly the Proxy Card, to Equity Stock Transfer at 237 W 37
+th
+ St. Suite 602 New York,
+ NY 10018, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+By
+ Fax. Mark, date, sign and fax the Proxy Card to 646-201-9006, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.
+
+At
+ the Special Meeting. If you are a shareholder of record, you can participate and vote your shares in the Special Meeting by visiting
+ www.netcapital.vote and then clicking “Vote Your Proxy”. You may then enter the control number included on your Proxy
+ Card and view the proposals and cast your vote.
+
+ 
+
+If
+you hold your shares in “street name,” your bank, broker or other nominee should provide to you a request for voting instructions
+along with the Company’s proxy solicitation materials. By completing the voting instruction card, you may direct your nominee how
+to vote your shares. Alternatively, if you want to vote your shares during the Special Meeting, you must contact your nominee directly
+in order to obtain a proxy issued to you by your nominee holder. Note that a broker letter that identifies you as a shareholder is not
+the same as a nominee-issued proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m. Eastern Time
+on July 22, 2024, you will not be able to vote your nominee held shares during the Special Meeting.
+
+ 
+
+-
+5
+-
+
+ 
+
+ 
+
+QUESTIONS
+AND ANSWERS ABOUT THE SPECIAL MEETING
+
+ 
+
+These
+Questions and Answers are only summaries of the matters they discuss. They do not contain all of the information that may be important
+to you. You should read carefully the entire document, including any annexes to this proxy statement.
+
+ 
+
+Q:
+
+Why
+ are we holding a special meeting?
+
+ 
+
+A:
+
+The
+ primary goal of the reverse stock split, if implemented, is to increase the price per share
+ of our common stock to regain compliance with The Nasdaq Capital Market’s continued
+ listing requirements relating to maintaining a minimum bid price of $1.00 per share.
+
+ 
+
+On
+ September 1, 2023, the Company received a notification from The Nasdaq Stock Market, LLC (“Nasdaq”) notifying the Company
+ that it was not in compliance with the minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing
+ on The Nasdaq Capital Market. Specifically, Nasdaq Listing Rule 5550(a)(2) requires listed securities to maintain a minimum bid price
+ of $1.00 per share, and Nasdaq Listing Rule 5810(c)(3)(A) provides that a failure to meet the minimum bid price requirement exists
+ if the deficiency continues for a period of 30 consecutive business days. The Company initially had 180 calendar days, or until by
+ February 28, 2024, to regain compliance with the minimum bid price requirement. The Company was unable to regain compliance with
+ the minimum bid price requirement by February 28, 2024.
+
+ 
+
+On
+ February 29, 2024, the Company received a letter (the “Extension Notice”) from Nasdaq notifying the Company that its
+ request for an extension to regain compliance with the minimum bid price requirement has been granted, and the Company has an additional
+ 180 calendar days, or until August 26, 2024, to regain compliance with the minimum bid price requirement. Nasdaq’s determination
+ was based on the Company meeting the continued listing requirement for market value of publicly held shares and all other applicable
+ requirements for initial listing on the Nasdaq Capital Market with the exception of the bid price requirement, and the Company’s
+ written notice of its intention to cure the deficiency during the second compliance period by effecting a reverse stock split, if
+ necessary.
+
+ 
+
+The
+ Board believes it is in the best interest of the Company and our stockholders to maintain the listing of our common stock on The
+ Nasdaq Capital Market. For more information on the reasons for the Reverse Stock Split Proposal and its general effect, if implemented,
+ please refer to the section of this proxy statement entitled “PROPOSAL NO. 1- THE REVERSE STOCK SPLIT PROPOSAL.”
+
+ 
+
+Q:
+
+Why
+ did I receive a notice in the mail regarding the Internet availability of proxy materials instead of a full set of proxy materials?
+
+ 
+
+ 
+
+A:
+
+In
+ accordance with the rules adopted by the U.S. Securities and Exchange Commission (“SEC”), we may furnish proxy materials,
+ including this proxy statement and our 2023 Annual Report, to our shareholders by providing access to such documents on the Internet
+ instead of mailing printed copies. Most shareholders will not receive printed copies of the proxy materials unless they request them.
+ Instead, the Notice, which we will begin mailing to our shareholders on or about June 4, 2024, will instruct you as to how
+ you may access and review all of the proxy materials over the Internet. The Notice also instructs you as to how you may submit your
+ proxy on the Internet. If you would like to receive a paper or email copy of our proxy materials, you should follow the instructions
+ for requesting such materials in the Notice.
+
+ 
+
+Q:
+
+Who
+ is entitled to vote?
+
+ 
+
+ 
+
+A:
+
+Only
+ shareholders of record as of the close of business on the Record Date will be entitled to notice of, and to vote at, the Special
+ Meeting. A list of shareholders eligible to vote at the Special Meeting is available for inspection at any time up to the Special
+ Meeting. If you would like to inspect the list, please call our Corporate Secretary at (781) 925-1700 to arrange a visit to our offices.
+
+ 
+
+-
+6
+-
+
+ 
+
+ 
+
+Q:
+
+How
+ many shares of common stock can vote?
+
+ 
+
+ 
+
+A:
+
+There
+ were 34,904,680 shares of common stock issued and outstanding as of the close of business on the Record Date. Each shareholder
+ entitled to vote at the Special Meeting may cast one vote for each share of common stock owned by him, her or it which has voting
+ power upon each matter considered at the Special Meeting.
+
+ 
+
+Q:
+
+What
+ may I vote on?
+
+ 
+
+ 
+
+A:
+
+You
+ may vote on the following matters:
+
+ 
+
+ 
+
+1.
+
+To
+ approve the Reverse Stock Split Proposal;
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+To
+ approve the Adjournment Proposal; and
+
+ 
+
+ 
+
+3.
+
+any
+ other business that may properly come before the Special Meeting and any adjournment or postponement thereof.
+
+ 
+
+Q:
+
+Will
+ any other business be presented for action by shareholders at the Special Meeting?
+
+ 
+
+ 
+
+A:
+
+The
+ Board knows of no other matters that will be presented for consideration at the Special Meeting. If any other matters are properly
+ brought before the Special Meeting, it is the intention of the persons named in the accompanying proxy to vote on those matters in
+ accordance with their best judgment.
+
+ 
+
+Q:
+
+How
+ does the Board recommend that I vote on each of the proposals?
+
+ 
+
+ 
+
+A:
+
+Our
+ Board recommends a vote “
+FOR
+” the Reverse Stock Split Proposal (Proposal No. 1) and “
+FOR
+” the
+ Adjournment Proposal (Proposal No. 2).
+
+ 
+
+Q:
+
+How
+ do I vote my shares?
+
+ 
+
+ 
+
+A:
+
+Whether
+ you plan to attend the Special Meeting or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive
+ through this solicitation, and that are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed
+ via Internet. You may specify whether your shares should be voted “
+FOR
+”, “
+AGAINST
+” or “
+ABSTAIN
+”
+ for the (i) Reverse Stock Split Proposal (Proposal No. 1) and (ii) Adjournment Proposal (Proposal No. 2). Except as set forth below,
+ if you properly submit a proxy without giving specific voting instructions, your shares will be voted in accordance with the Board’s
+ recommendations as noted below. The Board has appointed Martin Kay, to serve as the proxy for the Special Meeting. Voting by proxy
+ will not affect your right to attend the Special Meeting. If your shares are registered directly in your name through our stock transfer
+ agent, Equity Stock Transfer, or you have stock certificates, you may vote:
+
+ 
+
+ 
+
+1.
+
+By
+ Internet. The website address for Internet voting is www.netcapital.vote. Please click “Vote Your Proxy” and enter your
+ control number.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+By
+ Email. Mark, date, sign and email the Proxy Card to proxy@equitystock.com, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+By
+ mail. Mark, date, sign and mail promptly the Proxy Card, to Equity Stock Transfer at 237 W 37th St. Suite 602 New York, NY 10018
+ ATTN: Shareholder Services.
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+By
+ Fax. Mark, date, sign and fax the Proxy Card to 646-201-9006, ATTN: Shareholder Services.
+
+ 
+
+-
+7
+-
+
+ 
+
+ 
+
+ 
+
+5.
+
+At
+ the Special Meeting. If you are a shareholder of record, you can participate and vote your shares in the Special Meeting by visiting
+ www.netcapital.vote and then clicking “Vote Your Proxy”. You may then enter the control number included on your Proxy
+ Card and view the proposals and cast your vote.
+
+ 
+
+If
+you hold your shares in “street name,” your bank, broker or other nominee should provide to you a request for voting instructions
+along with the Company’s proxy solicitation materials. By completing the voting instruction card, you may direct your nominee how
+to vote your shares. Alternatively, if you want to vote your shares during the Special Meeting, you must contact your nominee directly
+in order to obtain a proxy issued to you by your nominee holder. Note that a broker letter that identifies you as a shareholder is not
+the same as a nominee-issued proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m. Eastern Time
+on July 22, 2024, you will not be able to vote your nominee held shares during the Special Meeting.
+
+ 
+
+Q:
+
+What
+ is a proxy?
+
+ 
+
+ 
+
+A:
+
+A
+ proxy is a person you appoint to vote on your behalf. By using any of the methods discussed above, you will be appointing as your
+ proxy Martin Kay, our Chief Executive Officer. He may act on your behalf, and will have the authority to appoint a substitute to
+ act as proxy. Whether or not you expect to virtually attend the Special Meeting, we request that you please use the means available
+ to you to vote by proxy so as to ensure that your shares of common stock may be voted.
+
+ 
+
+Q:
+
+How
+ Will my Shares be Voted if I Give No Specific Instruction?
+
+ 
+
+ 
+
+A:
+
+We
+ must vote your shares as you have instructed. If there is a matter on which a shareholder
+ of record has given no specific instruction but has authorized us generally to vote the shares,
+ they will be voted “
+FOR
+” the Reverse Stock Split Proposal (Proposal No.
+ 1) and “
+FOR
+” the Adjournment Proposal (Proposal No. 2).
+
+ 
+
+This
+ authorization would exist, for example, if a shareholder of record merely signs, dates and returns the proxy card but does not indicate
+ how its shares are to be voted on one or more proposals. If other matters properly come before the Special Meeting and you do not
+ provide specific voting instructions, your shares will be voted at the discretion of the proxies.
+
+ 
+
+Q:
+
+Will
+ my shares be voted if I do not return my proxy?
+
+ 
+
+A:
+
+If
+ your shares are registered directly in your name, your shares may not be voted if you do
+ not vote by returning your proxy by mail, over the phone or over the Internet before the
+ Annual Meeting or in person at the Annual Meeting.
+
+ 
+
+If
+ your shares are held in “street name,” your brokerage firm, bank or other nominee may, under certain circumstances, vote
+ your shares if you do not timely return your voting instructions. Brokers, banks or other nominees can vote their customers’
+ unvoted shares on discretionary matters but cannot vote such shares on non-discretionary matters. If you do not timely return voting
+ instructions to your brokerage firm, bank or other nominee to vote your shares, your brokerage firm, bank or other nominee may, on
+ discretionary matters, either vote your shares or leave your shares unvoted.
+
+ 
+
+Proposal
+ No. 1
+, regarding the Reverse Stock Split Proposal, is a discretionary matter and a broker will be permitted to exercise its
+ discretion to vote uninstructed shares on the proposal; however, we encourage you to timely provide voting instructions to your
+ brokerage firm, bank or other nominee. This ensures that your shares will be voted at the Special Meeting according to your instructions.
+ You should receive directions from your brokerage firm, bank or other nominee about how to submit your voting instructions to them.
+
+ 
+
+Proposal
+ No. 2
+, regarding the Adjournment Proposal, is a discretionary matter and a broker will be permitted to exercise its discretion
+ to vote uninstructed shares on the proposal; however, we encourage you to timely provide voting instructions to your brokerage firm,
+ bank or other nominee. This ensures that your shares will be voted at the Special Meeting according to your instructions. You should
+ receive directions from your brokerage firm, bank or other nominee about how to submit your voting instructions to them.
+
+ 
+
+-
+8
+-
+
+ 
+
+ 
+
+Q:
+
+What
+ if I want to change my vote or revoke my proxy?
+
+ 
+
+ 
+
+A:
+
+If
+ your shares are registered directly in your name, you may revoke your proxy and change your vote at any time before the Special Meeting.
+ To do so, you must do one of the following:
+
+ 
+
+ 
+
+1.
+
+Vote
+ over the Internet as instructed above. Only your latest Internet vote is counted. You may not revoke or change your vote over the
+ Internet after 7:00 p.m. Eastern Time on July 22, 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+
+Sign
+ a new proxy and submit it by mail to Equity Stock Transfer at 237 W 37th St. Suite 602 New York, NY 10018 ATTN: Shareholder Services,
+ who must receive the proxy card no later than July 22, 2024. Only your latest dated proxy will be counted.
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.
+
+Virtually
+ attend the Special Meeting and vote electronically at the meeting. Virtually attending the Special Meeting alone will not revoke
+ your Internet vote or proxy submitted by mail, as the case may be.
+
+ 
+
+ 
+
+ 
+
+ 
+
+4.
+
+Give
+ our Corporate Secretary written notice before or at the Special Meeting that you want to revoke your proxy.
+
+ 
+
+If
+your shares are held in “street name,” you may submit new voting instructions with a later date by contacting your bank,
+brokerage firm, or other nominee. You may also vote electronically at the Special Meeting, which will have the effect of revoking any
+previously submitted voting instructions, if you obtain a broker’s legal proxy as described in the answer to the question “How
+do I vote my shares?” above.
+
+ 
+
+Q:
+
+What
+ is a quorum?
+
+ 
+
+ 
+
+A:
+
+The
+ holders of more than 50% of the 34,904,680 shares of common stock outstanding as of the Record Date, either present or represented
+ by proxy, constitute a quorum. A quorum is necessary in order to conduct the Special Meeting. If you choose to have your shares represented
+ by proxy at the Special Meeting, you will be considered part of the quorum. Broker non-votes and abstentions will be counted as present
+ for the purpose of establishing a quorum. If a quorum is not present by attendance at the Special Meeting or represented by proxy,
+ the shareholders present by attendance at the meeting or by proxy may adjourn the Special Meeting until a quorum is present.
+
+ 
+
+Q:
+
+What
+ is a Broker Non-Vote?
+
+ 
+
+ 
+
+A:
+
+A
+ “broker non-vote” occurs when shares held by a broker in “street name”
+ for a beneficial owner are not voted with respect to a proposal because (1) the broker has
+ not received voting instructions from the shareholder who beneficially owns the shares and
+ (2) the broker lacks the authority to vote the shares at their discretion. Broker non-votes
+ will not be included in the tabulation of the voting results of any of the “non-discretionary”
+ proposals and, therefore, will have no effect on such proposals.
+
+ 
+
+Our
+ common stock is listed on the Nasdaq Capital Market. However, under current New York Stock Exchange (“NYSE”) rules and
+ interpretations that govern broker non-votes:
+
+ 
+
+(i)
+ Proposal No. 1 for the Reverse Stock Split Proposal is considered a discretionary matter and a broker will be permitted to exercise
+ its discretion to vote uninstructed shares of the proposal;
+
+ 
+
+(ii)
+ Proposal No. 2 for the Adjournment Proposal is considered a discretionary matter, and a broker will be permitted to exercise its
+ discretion to vote uninstructed shares of the proposal;
+
+ 
+
+-
+9
+-
+
+ 
+
+ 
+
+Q:
+
+What
+ vote is required to approve each matter and how are votes counted?
+
+ 
+
+ 
+
+A:
+
+The
+ table below summarizes the proposal that will be voted on, the vote required to approve the proposal and how votes are counted:
+
+ 
+
+Proposal
+ 
+
+Votes
+ Required
+ 
+
+Voting
+ 
+Options
+ 
+
+Impact
+ 
+of
+ “Abstain” Votes
+ 
+
+Broker
+ Discretionary Voting
+ 
+Allowed
+
+Proposal No. 1: 
+Reverse Stock
+ Split Proposal
+ 
+
+The affirmative vote of the
+ holders of a majority in voting power of the votes cast affirmatively or negatively (excluding abstentions) at the Special Meeting
+ by the holders entitled to vote thereon.
+ 
+
+“FOR”
+
+“AGAINST”
+ “ABSTAIN”
+ 
+
+(1)
+ 
+
+Yes
+(2)
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Proposal No. 2: 
+Adjournment Proposal
+ 
+
+The affirmative vote of the holders of a
+ majority in voting power of the votes cast affirmatively or negatively (excluding abstentions) at the Special Meeting by the holders
+ entitled to vote thereon.
+ 
+
+“FOR” 
+“AGAINST”
+ 
+“ABSTAIN”
+ 
+
+(1)
+ 
+
+Yes
+(2)
+
+ 
+
+(1)
+
+A
+ vote marked as an “Abstention” is not considered a vote cast and will, therefore, not affect the outcome of this proposal.
+
+ 
+
+(2)
+
+As
+ this proposal is considered a discretionary matter, brokers are permitted to exercise their discretion to vote uninstructed shares
+ on this proposal.
+
+ 
+
+Q:
+
+Do
+ the directors and officers of the Company have an interest in the outcome of the matters to be voted on?
+
+ 
+
+ 
+
+A:
+
+Directors
+ and executive officers, who, as of the Record Date, had beneficial ownership (or had the right to acquire beneficial ownership within
+ sixty days following the Record Date) of approximately 7.81% of our outstanding common stock and are expected to vote in
+ favor of Reverse Stock Split Proposal and the Abstention Proposal.
+
+ 
+
+Q:
+
+Who
+ will count the votes?
+
+ 
+
+ 
+
+A:
+
+A
+ representative of Equity Stock Transfer, will serve as our inspector of elections and will count the votes cast by proxy and the
+ votes cast in person at the Special Meeting.
+
+ 
+
+Q:
+
+How
+ do I attend the Special Meeting?
+
+ 
+
+ 
+
+A:
+
+Shareholders
+ of Record:
+ Shareholders of record as of the Record Date can attend the special meeting
+ by accessing the live audio conference call at +1-877-407-3088 and presenting the unique
+ 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+ Owners:
+ If you were a beneficial owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage
+ firm, bank or other similar agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have received
+ a legal proxy from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer, at proxy@equitystock.com
+ and should be labeled “Legal Proxy” in the subject line. Please include proof from your broker, bank or other agent of
+ your legal proxy (e.g., a forwarded email from your broker, bank or other agent with your legal proxy attached, or an image of your
+ valid proxy attached to your email). Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m.
+ Eastern Time, on July 22, 2024. You will then receive a confirmation of your registration, with a control number, by email from Equity
+ Stock Transfer. At the time of the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit
+ control number.
+
+ 
+
+-
+10
+-
+
+ 
+
+ 
+
+Q:
+
+Why
+ a virtual meeting?
+
+ 
+
+ 
+
+A:
+
+We
+ are pleased to offer our shareholders a completely virtual Special Meeting, which provides
+ worldwide access, improved communication and cost savings for our shareholders and the Company.
+
+ 
+
+ 
+Q:
+
+What
+ if during the check-in time or during the meeting I have technical difficulties or trouble accessing the virtual audio conference
+ line?
+
+ 
+
+ 
+
+A:
+
+We
+ will have technicians ready to assist you with any technical difficulties you may have in accessing the virtual Special Meeting.
+ If you encounter any difficulties, please call: 877-804-2062 (Toll Free) or email proxy@equitystock.com. 
+
+ 
+
+Q:
+
+Are
+ there any expenses associated with collecting the shareholder votes?
+
+ 
+
+ 
+
+A:
+
+All
+ of the expenses involved in preparing, assembling and mailing these proxy materials and all costs of soliciting proxies will be paid
+ by us. In addition to the solicitation by mail, proxies may be solicited by our officers and other employees by telephone or in person.
+ Such persons will receive no compensation for their services other than their regular salaries. Arrangements will also be made with
+ brokerage houses and other custodians, nominees and fiduciaries to forward solicitation materials to the beneficial owners of the
+ shares held of record by such persons, and we may reimburse such persons for reasonable out of pocket expenses incurred by them in
+ forwarding solicitation materials. If you have any questions or require any assistance with completing your proxy, please contact
+ Equity Stock Transfer by telephone at 877-804-2062 (Toll Free) or email proxy@equitystock.com. In addition, we have retained Alliance
+ Advisors as our strategic shareholder advisor and proxy solicitation agent in connection with the solicitation of proxies for the
+ Special Meeting at an approximate cost of $15,000, plus reimbursement of expenses. If you have any questions or require any assistance
+ with completing your proxy, please contact Alliance Advisors by telephone (toll-free within North America) at 1-833-795-8488 or by
+ email at NCPL@allianceadvisors.com.
+
+ 
+
+Q:
+
+Do
+ I have Dissenters’ Rights of Appraisal?
+
+ 
+
+ 
+
+A:
+
+Our
+ shareholders do not have appraisal rights under Utah law or under our governing documents with respect to the matters to be voted
+ upon at the Special Meeting.
+
+ 
+
+Q:
+
+Where
+ can I find the voting results?
+
+ 
+
+ 
+
+A:
+
+Voting
+ results will be reported in a Current Report on Form 8-K, which we will file with the SEC within four business days following the
+ Special Meeting.
+
+ 
+
+Q:
+
+How
+ do I obtain an Annual Report on Form 10-K
+
+ 
+
+ 
+
+A:
+
+If
+ you would like a copy of our Annual Report on Form 10-K for the fiscal year ended April 30,
+ 2023 that we filed with the SEC, we will send you one without charge. Please write to:
+
+ 
+
+NETCAPITAL
+ INC.
+
+1
+ Lincoln Street,
+
+Boston,
+ MA 02111
+
+Attn:
+ Corporate Secretary
+
+ 
+
+All
+ of our SEC filings are also available free of charge under the heading “SEC Filings” in the “Investors” section
+ of our website at 
+www.netcapitalinc.com
+. 
+
+ 
+
+-
+11
+-
+
+ 
+
+ 
+
+PROPOSAL
+NO. 1
+
+ 
+
+THE
+REVERSE STOCK SPLIT PROPOSAL
+
+ 
+
+General
+
+ 
+
+Our
+Board is recommending that our stockholders approve an amendment to our articles of incorporation, as amended, to effect a reverse split
+of the issued shares of our common stock at a ratio that is not less than 1-for-2 and not greater than 1-for-100, without reducing
+the authorized number of shares of our common stock, with the exact ratio to be selected by the Board in its discretion, and to be effected,
+if at all, in the sole discretion of the Board at any time after stockholder approval of the amendment and before July 24, 2025 without
+further approval or authorization of our stockholders. If our stockholders approve this proposal, the Board will have authority to give
+effect to the reverse stock split. However, notwithstanding stockholder approval of this proposal, the Board may elect not to proceed
+with the reverse stock split if, at any time the Board, in its sole discretion, determines that it is no longer in our best interest
+and the best interests of our stockholders to proceed with the reverse stock split. By voting in favor of this proposal, you are expressly
+also authorizing the Board to determine not to proceed with the reverse stock split in its sole discretion.
+
+ 
+
+If
+the reverse stock split is implemented, at the effective time of the reverse split, the issued shares of our common stock immediately
+prior to the effective time will be combined and reclassified into a smaller number of shares such that, except for adjustments that
+may result from the treatment of fractional shares as described below, each of our stockholders will own one new share of our common
+stock for every 2 to 100 shares of common stock owned by such stockholder immediately prior to the effective time of the reverse split,
+depending on the exact ratio approved by the Board.
+
+ 
+
+A
+copy of the proposed form of articles of amendment to our articles of incorporation to effect the reverse stock split is attached as
+
+Appendix A
+ to this proxy statement. Any amendment to our articles of incorporation to effect the reverse stock split will include
+the reverse stock split ratio fixed by the board of directors, within the range approved by our stockholders.
+
+ 
+
+Reasons
+for the Reverse Stock Split; Potential Consequences of the Reverse Stock Split
+
+ 
+
+Our
+primary reason for recommending the reverse stock split is based on our belief that the reverse stock split will be necessary to increase
+the bid price of our common stock to avoid being delisted from The Nasdaq Capital Market. Our common stock is publicly traded and listed
+on The Nasdaq Capital Market under the trading symbol “NCPL.” To maintain our listing, we must comply with the continued
+listing requirements of The Nasdaq Capital Market, which include a minimum bid price requirement of $1.00 per share.
+
+ 
+
+On
+September 1, 2023, the Company received a notification from The Nasdaq Stock Market, LLC (“Nasdaq”) notifying the Company
+that it was not in compliance with the minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing
+on The Nasdaq Capital Market. Specifically, Nasdaq Listing Rule 5550(a)(2) requires listed securities to maintain a minimum bid price
+of $1.00 per share, and Nasdaq Listing Rule 5810(c)(3)(A) provides that a failure to meet the minimum bid price requirement exists if
+the deficiency continues for a period of 30 consecutive business days. The Company initially had 180 calendar days, or until by February
+28, 2024, to regain compliance with the minimum bid price requirement. The Company was unable to regain compliance with the minimum bid
+price requirement by February 28, 2024.
+
+ 
+
+On
+February 29, 2024, the Company received a letter (the “Extension Notice”) from Nasdaq notifying the Company that its request
+for an extension to regain compliance with the minimum bid price requirement has been granted, and the Company has an additional 180
+calendar days, or until August 26, 2024, to regain compliance with the minimum bid price requirement. Nasdaq’s determination was
+based on the Company meeting the continued listing requirement for market value of publicly held shares and all other applicable requirements
+for initial listing on the Nasdaq Capital Market with the exception of the bid price requirement, and the Company’s written notice
+of its intention to cure the deficiency during the second compliance period by effecting a reverse stock split, if necessary.
+
+ 
+
+The
+Board believes it is in the best interest of the Company and our stockholders to maintain the listing of our common stock on The Nasdaq
+Capital Market.
+
+ 
+
+-
+12
+-
+
+ 
+
+ 
+
+In
+evaluating whether to seek stockholder approval for the Reverse Stock Split, our Board took into consideration negative factors associated
+with reverse stock splits. These factors include: the negative perception of reverse stock splits that investors, analysts and other
+stock market participants may hold; the fact that the stock prices of some companies that have effected reverse stock splits have subsequently
+declined, sometimes significantly, following their reverse stock splits; the possible adverse effect on liquidity that a reduced number
+of outstanding shares could cause; and the costs associated with implementing a reverse stock split. Even if our stockholders approve
+the Reverse Stock Split, our Board reserves the right not to effect the Reverse Stock Split if in our Board’s opinion it would
+not be in the best interests of the Company or our stockholders to effect such Reverse Stock Split.
+
+ 
+
+The
+Board has considered the potential harm to the Company and our stockholders should Nasdaq delist our common stock from The Nasdaq Capital
+Market. Delisting our common stock could adversely affect the liquidity and market price of our common stock because alternatives, such
+as the OTCQB and the Pink markets operated by the OTC Markets Group Inc., are generally considered to be less efficient markets. An investor
+likely would find it less convenient to sell, or to obtain accurate quotations in seeking to buy our common stock on such markets. Many
+investors likely would not buy or sell our common stock due to difficulty in accessing the OTCQB or Pink markets, policies preventing
+them from trading in securities not listed on a national securities exchange, or other reasons. Delisting of our common stock from The
+Nasdaq Capital Market could also cause a loss of confidence of existing or potential industry partners, clients, lenders, and employees,
+which could further harm our business and our future prospects. The Board believes that the reverse stock split is a potentially effective
+means for us to regain compliance with the Minimum Bid Price Requirement by producing the immediate effect of increasing the per share
+bid price of our common stock to avoid, or at least mitigate, the likely adverse consequences of our common stock being delisted from
+The Nasdaq Capital Market.
+
+ 
+
+In
+addition, the reverse stock split may make our common stock a more attractive and cost-effective investment to a broader range of investors,
+which in turn could improve the marketability and liquidity of our common stock. For example, the current market price of our common
+stock may prevent certain institutional investors, professional investors and other members of the investing public from purchasing our
+common stock. Many brokerage houses and institutional investors have internal policies and practices that either prohibit them from investing
+in low-priced stocks or tend to discourage individual brokers from recommending low-priced stocks to their customers. Furthermore, some
+of those policies and practices may function to make the processing of trades in low-priced stocks economically unattractive to brokers.
+Moreover, because brokers’ commissions on low-priced stocks generally represent a higher percentage of the stock price than commissions
+on higher-priced stocks, the current average price per share of our common stock can result in investors paying transaction costs representing
+a higher percentage of their total share value than would be the case if the share price were higher.
+
+ 
+
+Reducing
+the number of outstanding shares of our common stock through the reverse stock split is intended, absent other factors, to increase the
+per share bid price of our common stock. However, other factors, such as our financial results, market conditions and the market perception
+of our business may adversely affect the bid price of our common stock. As a result, there can be no assurance that the reverse stock
+split, if completed, will result in the intended or expected benefits described above, that the bid price of our common stock will increase
+following the reverse stock split, that as a result of the reverse stock split we will be able to satisfy the Minimum Bid Price Requirement,
+or that the bid price of our common stock will not decrease in the future. Additionally, we cannot assure you that the bid price per
+share of our common stock after the reverse stock split will increase in proportion to the reduction in the number of shares of our common
+stock outstanding before the reverse stock split. Accordingly, the total market capitalization of our common stock after the reverse
+stock split may be lower than the total market capitalization before the reverse stock split, and a reduction in number of shares outstanding
+may impair the liquidity for our common stock, which may reduce the value of our common stock.
+
+ 
+
+Effects
+of the Reverse Stock Split
+
+ 
+
+Generally
+
+ 
+
+Based
+on 34,904,680 shares of our common stock issued as of the Record Date for the Meeting, immediately following the reverse stock
+split, if implemented (without giving effect to rounding for fractional shares):
+
+ 
+
+ 
+
+ 
+
+●
+
+assuming
+ a 1-for-2 reverse split ratio, we would have approximately 17,452,340 shares of common stock issued;
+
+ 
+
+-
+13
+-
+
+ 
+
+ 
+
+ 
+
+●
+
+assuming
+ a 1-for-20 reverse split ratio, we would have approximately 1,745,234 shares of common stock issued, which;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+assuming
+ a 1-for-50 reverse split ratio, we would have approximately 698,094 shares of common stock issued; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+assuming
+ a 1-for-100 reverse split ratio, we would have approximately 349,047 shares of common stock issued.
+
+ 
+
+The
+reverse stock split will affect all holders of our common stock uniformly and will not affect any stockholder’s percentage ownership
+interest or any stockholder’s proportionate voting power, except that, as described below under “Fractional Shares,”
+record holders of common stock otherwise entitled to a fractional share as a result of the reverse stock split because they hold a number
+of shares not evenly divisible by the reverse stock split ratio will automatically be entitled to receive an additional fraction of a
+share of common stock to round up to the next whole share.
+
+ 
+
+The
+reverse stock split may result in some stockholders owning “odd lots” of less than 100 shares of common stock. Odd lot shares
+may be more difficult to sell, and brokerage commissions and other costs of transactions in odd lots are generally somewhat higher than
+the costs of transactions in “round lots” of even multiples of 100 shares.
+
+ 
+
+If
+the reverse stock split is effected, our common stock will have a new Committee on Uniform Securities Identification Procedures (“CUSIP”)
+number, which is a number used to identify our common stock, and stock certificates with the older CUSIP numbers will need to be exchanged
+for stock certificates with the new CUSIP number by following the procedures described below under “Procedure for Implementing
+the Reverse Stock Split — Holders of Certificated Shares of Common Stock.”
+
+ 
+
+Our
+common stock is currently registered under the Securities Exchange Act of 1934 (the “Exchange Act”), and we are subject to
+the current and periodic reporting and other requirements of the Exchange Act. The reverse stock split will not affect the registration
+of our common stock under the Exchange Act. In addition, notwithstanding the decrease in the number of outstanding shares that will result
+if the reverse stock split is effected, the Board does not intend for this transaction to be the first step in a “going private
+transaction” within the meaning of Rule 13e-3 of the Exchange Act.
+
+ 
+
+Our
+common stock would continue to be listed on The Nasdaq Capital Market under the symbol “NCPL” immediately following the reverse
+stock split, although it is likely that Nasdaq would temporarily add the letter “D” to the end of the trading symbol to indicate
+that the reverse stock split occurred.
+
+ 
+
+Effect
+on Authorized Shares of Common Stock
+
+ 
+
+The
+reverse stock split will not change the number of authorized shares of our common stock. Because the number of issued shares of our common
+stock will decrease if the reverse stock split is effected, the number of shares of our common stock remaining available for issuance
+will increase. Currently, the number of authorized shares of our common stock is 900,000,000. Subject to limitations imposed by Nasdaq,
+the additional shares available for issuance may be issued without stockholder approval at any time, in the sole discretion of the Board.
+The authorized and unissued shares may be issued for cash, for acquisitions or for any other purpose that the Board determines to be
+in our best interests.
+
+ 
+
+By
+increasing the number of authorized but unissued shares of our common stock, the reverse stock split could, under certain circumstances,
+have an anti-takeover effect, although this is not the intent of the Board. For example, it may be possible for the Board to delay or
+impede a takeover or transfer of control of the Company by causing such additional authorized but unissued shares to be issued to holders
+who might side with the Board in opposing a takeover bid that the Board determines is not in the best interests of the Company or our
+stockholders. The reverse stock split therefore may have the effect of discouraging unsolicited takeover attempts. By potentially discouraging
+initiation of any such unsolicited takeover attempts, the reverse stock split may limit the opportunity for our stockholders to dispose
+of their shares at the higher price generally available in takeover attempts or that may be available under a merger proposal. The reverse
+stock split may have the effect of permitting our current management, including our current directors, to retain their position, and
+place it in a better position to resist changes that stockholders may wish to make if they are dissatisfied with our operations. However,
+the Board is not aware of any attempt to take control of the Company and the Board has not approved the reverse stock split with the
+intent that it be utilized as a type of anti-takeover device.
+
+ 
+
+-
+14
+-
+
+ 
+
+ 
+
+Effect
+on Par Value of our Common Stock
+
+ 
+
+The
+reverse stock split will not affect the per share par value of our common stock, which will remain at $0.001.
+
+ 
+
+Effect
+on Warrants, and Convertible or Exchangeable Securities
+
+ 
+
+If
+the reverse stock split is effected, proportionate adjustments are generally required to be made to the per share exercise price and
+the number of shares issuable upon the exercise or conversion of outstanding warrants, and convertible or exchangeable securities entitling
+the holders to purchase, exchange for, or convert into, shares of our common stock, if any. This will result in approximately the same
+aggregate price being required to be paid under such securities upon exercise, exchange or conversion, and approximately the same value
+of shares of common stock being delivered upon such exercise, exchange or conversion, immediately following the reverse stock split as
+was the case immediately preceding the reverse stock split. The number of shares reserved for issuance pursuant to these securities,
+if any, will be proportionately adjusted based on the reverse stock split ratio approved by the Board, subject to our treatment of fractional
+shares.
+
+ 
+
+Effect
+on our Equity Incentive Plans and Outstanding Awards
+
+ 
+
+Pursuant
+to the terms of our 2023 Omnibus Equity Incentive Plan (the “2023 Plan”) the number of shares of common stock issuable upon
+exercise or vesting of all then outstanding stock options, restricted stock units (“RSUs”), and other equity awards will
+be proportionately adjusted using the reverse stock split ratio approved by the Board for the reverse stock split, and rounded down to
+the nearest whole share. The number of shares then reserved for issuance under the Plans will also be reduced proportionately based upon
+the reverse stock split ratio approved by the Board. In addition, the exercise price for each outstanding stock option will be increased
+in inverse proportion to the reverse stock split ratio approved by the Board such that upon an exercise, the aggregate exercise price
+payable by the option holder to the Company for the shares subject to the option will remain approximately the same as the aggregate
+exercise price prior to the reverse stock split, subject to the terms of such securities.
+
+ 
+
+Effect
+on our Outstanding Warrants
+
+ 
+
+As
+of the Record Date, we have 20,562,932 shares of common stock issuable upon the exercise of stock warrants outstanding at a weighted
+average exercise price of $0.61 per share. The number of shares of common stock issuable upon exercise of all then outstanding
+stock warrants will be proportionately adjusted using the reverse stock split ratio approved by the Board for the reverse stock split,
+and rounded down to the nearest whole share.
+
+ 
+
+Fractional
+Shares
+
+ 
+
+We
+will not issue fractional shares in connection with the reverse stock split. Instead, record holders of our common stock who otherwise
+would be entitled to receive a fractional share because they hold a number of shares not evenly divisible by the reverse stock split
+ratio approved by the Board will automatically be entitled to receive an additional fraction of a share of common stock to round up to
+the next whole share. In any event, cash will not be paid for fractional shares.
+
+ 
+
+Procedure
+for Implementing the Reverse Stock Split
+
+ 
+
+If
+our stockholders approve this proposal, and if the Board determines that it is in our best interest and the best interests of our stockholders
+to implement the reverse stock split, we will file the articles of amendment to our articles of incorporation with the Secretary of State
+of the State of Utah to effect the reverse stock split with the reverse stock split ratio approved by the Board. As of the effective
+time of the reverse stock split, each stock certificate representing pre-split shares will be deemed for all corporate purposes to evidence
+ownership of post-split shares.
+
+ 
+
+-
+15
+-
+
+ 
+
+ 
+
+Holders
+of Certificated Shares of Common Stock
+
+ 
+
+If
+the reverse stock split is effected, stockholders holding shares of our common stock in certificated form will be sent a transmittal
+letter by our transfer agent after the effective time of the reverse stock split. The letter of transmittal will contain instructions
+on how a stockholder should surrender their certificate(s) representing pre-split shares of our common stock to our transfer agent in
+exchange for certificates representing the appropriate number of shares of post-reverse stock split common stock. No certificates representing
+post-split shares of our common stock will be issued to a stockholder until such stockholder has surrendered to our transfer agent all
+their certificates representing their pre-split shares, together with a properly completed and executed letter of transmittal. No stockholder
+will be required to pay a transfer or other fee to exchange their certificates representing pre-split shares of our common stock. Until
+surrendered, we will deem certificates representing pre-split shares of our common stock to be cancelled and only to represent the number
+of whole shares of post-split shares of our common stock to which these stockholders are entitled, subject to the treatment of fractional
+shares. If a certificate representing pre-split shares of our common stock bears a restrictive legend, the certificate issued in exchange
+therefor will bear the same restrictive legend. Any pre-split shares submitted for transfer, whether pursuant to a sale or other disposition,
+or otherwise, will automatically be exchanged for post-split shares. 
+Stockholders should not destroy any stock certificate(s) and
+should not submit any certificate(s) unless and until requested to do so.
+
+ 
+
+Registered
+“Book-Entry” Holders of Common Stock
+
+ 
+
+If
+the reverse stock split is effected, stockholders who hold their shares of our common stock electronically in book-entry form with our
+transfer agent will not need to any take action to receive their shares of post-reverse stock split common stock (i.e., the exchange
+will be automatic).
+
+ 
+
+Beneficial
+Owners
+
+ 
+
+If
+the reverse stock split is effected, we intend to treat shares held by stockholders through a broker, bank, or other nominee in the same
+manner as shares held by stockholders of record. Brokers, banks, and other nominees will be instructed to effect the reverse stock split
+for beneficial owners holding our common stock in street name. However, these brokers, banks, and other nominees may have different procedures
+for processing the reverse stock split than for stockholders of record. Stockholders who hold shares of our common stock in street name
+and who have questions in this regard are encouraged to contact the brokers, banks, or other nominees holding their shares.
+
+ 
+
+Accounting
+Matters
+
+ 
+
+The
+reverse stock split will not affect the per share par value of our common stock. As a result, as of the effective time of the reverse
+stock split, the stated capital attributable to common stock and the additional paid-in capital account on our balance sheet, in the
+aggregate, will not change due to the reverse stock split. Reported per share net income or loss will be higher because there will be
+fewer shares of common stock outstanding.
+
+ 
+
+Certain
+U.S. Federal Income Tax Consequences of the Reverse Stock Split
+
+ 
+
+The
+following summary describes, as of the date of this proxy statement, certain U.S. federal income tax consequences of the reverse stock
+split to holders of our common stock. This summary addresses the tax consequences only to a U.S. holder of our common stock, which is
+a beneficial owner of our common stock that is either:
+
+ 
+
+ 
+
+●
+
+an
+ individual citizen or resident of the United States;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+a
+ corporation, or other entity taxable as a corporation for U.S. federal income tax purposes, created or organized in or under the
+ laws of the United States or any state thereof or the District of Columbia;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+an
+ estate, the income of which is subject to U.S. federal income taxation regardless of its source; or
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+a
+ trust, if: (i) a court within the United States is able to exercise primary jurisdiction over its administration and one or more
+ U.S. persons has the authority to control all of its substantial decisions or (ii) it has a valid election in effect to be treated
+ as a U.S. person for U.S. federal income tax purposes.
+
+ 
+
+This
+summary is based on the provisions of the Internal Revenue Code of 1986, as amended (the “Code”), U.S. Treasury regulations,
+administrative rulings and judicial authority, all as in effect as of the date of this proxy statement. Subsequent developments in U.S.
+federal income tax law, including changes in law or differing interpretations, which may be applied retroactively, could have a material
+effect on the U.S. federal income tax consequences of the reverse stock split.
+
+ 
+
+-
+16
+-
+
+ 
+
+ 
+
+This
+summary does not address all of the tax consequences that may be relevant to any particular investor, including tax considerations that
+arise from rules of general application to all taxpayers or to certain classes of taxpayers or that are generally assumed to be known
+by investors. For example, this summary does not address the tax consequences to (i) persons that may be subject to special treatment
+under U.S. federal income tax law, such as banks, insurance companies, thrift institutions, regulated investment companies, real estate
+investment trusts, tax-exempt organizations, U.S. expatriates or former citizens or residents, persons subject to the alternative or
+corporate minimum tax, persons whose functional currency is not the U.S. dollar, partnerships or other pass-through entities, traders
+in securities that elect to mark to market and dealers in securities or currencies, (ii) persons who acquired their shares or equity
+awards in connection with employment or other performance of services, (iii) persons who hold our common stock as part of a position
+in a “straddle” or as part of a “hedging transaction,” “conversion transaction” or other integrated
+investment transaction for federal income tax purposes, or (iv) persons who do not hold our common stock as “capital assets”
+(generally, property held for investment). This summary does not address backup withholding and information reporting. This summary does
+not address U.S. holders who beneficially own common stock through a “foreign financial institution” (as defined in Code
+Section 1471(d)(4)) or certain other non-U.S. entities specified in Code Section 1472. This summary does not address the Medicare tax
+on net investment income, tax considerations in respect of our preferred stock, or tax considerations arising under any state, local
+or foreign laws, or under federal estate or gift tax laws.
+
+ 
+
+If
+a partnership (or other entity classified as a partnership for U.S. federal income tax purposes) is the beneficial owner of our common
+stock, the U.S. federal income tax treatment of a partner in the partnership will generally depend on the status of the partner and the
+activities of the partnership. Partnerships that hold our common stock, and partners in such partnerships, should consult their own tax
+advisors regarding the U.S. federal income tax consequences of the reverse stock split.
+
+ 
+
+We
+have not sought, and will not seek, an opinion of counsel or a ruling from the Internal Revenue Service regarding the U.S. federal income
+tax consequences of the reverse stock split, and there can be no assurance that the Internal Revenue Service will not challenge the statements
+and conclusions set forth below or that a court would not sustain any such challenge.
+
+ 
+
+Stockholders
+should consult their own tax advisors concerning the particular U.S. federal tax consequences of the reverse stock split to them, as
+well as the consequences to them arising under the laws of any other taxing jurisdiction, including any foreign, state, or local income
+tax consequences.
+
+ 
+
+General
+Tax Treatment of the Reverse Stock Split
+
+ 
+
+The
+reverse stock split is intended to qualify as a “reorganization” under Section 368 of the Code that should constitute a “recapitalization”
+for U.S. federal income tax purposes. Certain filings with the Internal Revenue Service must be made by us and certain ‘significant
+holders” of our common shares in order for the reverse stock split to qualify as a reorganization. Assuming the reverse stock split
+qualifies as a reorganization, other than with respect to any U.S. holder that receives a full share in lieu of a fractional share, a
+U.S. holder generally will not recognize gain or loss upon the exchange of shares of our common stock for a lesser number of shares of
+our common stock, based upon the reverse stock split ratio.
+
+ 
+
+A
+U.S. holder’s aggregate tax basis in the lesser number of shares of our common stock received in the reverse stock split will be
+the same such U.S. holder’s aggregate tax basis in the shares of our common stock that such U.S. holder owned immediately prior
+to the reverse stock split. The holding period for the common stock received as a result of the period during which a U.S. holder held
+the shares of our common stock that were surrendered in the reverse stock split. The United States Treasury regulations provide detailed
+rules for allocating the tax basis and holding period of the shares of our common stock surrendered for the shares of our common stock
+received pursuant to the reverse stock split. U.S. holders of shares of our common stock acquired on different dates and at different
+prices should consult their tax advisors regarding the allocation of the tax basis and holding period of such shares.
+
+ 
+
+-
+17
+-
+
+ 
+
+ 
+
+As
+noted above, we will not issue fractional shares in connection with the reverse stock split. Instead, stockholders who would be entitled
+to receive fractional shares because they hold a number of shares not evenly divisible by the reverse stock split ratio will automatically
+be entitled to receive an additional fraction of a share of common stock to round up to the next whole share of common stock. The U.S.
+federal income tax consequences of the receipt of such an additional fraction of a share are not clear. A U.S. holder that receives a
+full share in lieu of a fractional share may be treated as though it received a distribution from us to the extent that the value of
+the full share exceeds the value of the fractional share the holder otherwise would have received. Such distribution would generally
+be a dividend to the extent of our current or accumulated earnings and profits. Any amount in excess of earnings and profits would generally
+reduce the holder’s basis their shares by the amount of such excess. The portion of the full share in excess of the fractional
+share would generally have a tax basis equal to the amount recognized as a dividend and the holding period for such share would begin
+on the date of the deemed distribution. Holders are urged to consult their own tax advisors as to the possible tax consequences of receiving
+an additional fraction of a share in the reverse stock split.
+
+ 
+
+THE
+FOREGOING IS INTENDED ONLY AS A SUMMARY OF CERTAIN FEDERAL INCOME TAX CONSEQUENCES OF THE REVERSE STOCK SPLIT AND DOES NOT CONSTITUTE
+A TAX OPINION. EACH STOCKHOLDER SHOULD CONSULT THEIR OWN TAX ADVISOR REGARDING THE TAX CONSEQUENCES OF THE REVERSE STOCK SPLIT TO THEM
+AND FOR REFERENCE TO APPLICABLE PROVISIONS OF THE CODE.
+
+ 
+
+Interests
+of Directors and Executive Officers
+
+ 
+
+None
+of the Company’s directors or executive officers have any substantial interest, directly or indirectly, in this proposal except
+to the extent of their ownership of shares of the Company’s common stock.
+
+ 
+
+No
+Appraisal Rights
+
+ 
+
+Stockholders
+are not entitled to rights of appraisal with respect to this proposal.
+
+ 
+
+Required
+Vote
+
+ 
+
+The
+affirmative vote of a majority of the votes cast at the Special Meeting is required to approve Proposal No. 1.
+
+ 
+
+Recommendation
+of the Board of Directors
+
+ 
+
+THE
+BOARD UNANIMOUSLY RECOMMENDS A VOTE “FOR” PROPOSAL NO. 1.
+
+ 
+
+-
+18
+-
+
+ 
+
+ 
+
+PROPOSAL
+NO. 2
+
+ 
+
+ADJOURNMENT
+PROPOSAL
+
+ 
+
+At
+the Special Meeting, we may ask our shareholders to vote on a proposal to adjourn the Special Meeting if necessary or appropriate in
+the sole discretion of our Board, including to solicit additional proxies in the event that there are not sufficient votes at the time
+of the Special Meeting or any adjournment or postponement of the Special Meeting to approve any of the other proposals.
+
+ 
+
+If
+at the Special Meeting the number of shares authorized to vote present or represented by proxy and voting in favor of a proposal is insufficient
+to approve such proposal, then our Board may hold a vote on each proposal that has garnered sufficient votes, if any, and then move to
+adjourn the Special Meeting as to the remaining proposals in order to solicit additional proxies in favor of those remaining proposals.
+
+ 
+
+Alternatively,
+even if there are sufficient shares authorized to vote present or represented by proxy voting in favor of all of the proposals, our Board
+may hold a vote on the adjournment proposal if, in its sole discretion, it determines that it is necessary or appropriate for any reason
+to adjourn the Special Meeting to a later date and time. In that event, the Company will ask its shareholders to vote only upon the adjournment
+proposal and not any other proposal.
+
+ 
+
+Any
+adjournment may be made without notice (if the adjournment is not for more than thirty days and a new record date is not fixed for the
+adjourned meeting), other than by an announcement made at the Special Meeting of the time, date and place of the adjourned meeting.
+
+ 
+
+Any
+adjournment of the Special Meeting will allow our shareholders who have already sent in their proxies to revoke them at any time prior
+to their use at the Special Meeting as adjourned.
+
+ 
+
+If
+we adjourn the Special Meeting to a later date, we will transact the same business and, unless we must fix a new record date, only the
+shareholders who were eligible to vote at the original meeting will be permitted to vote at the adjourned meeting.
+
+ 
+
+Required
+Vote
+
+ 
+
+The
+affirmative vote of a majority of the votes cast at the Special Meeting is required to approve Proposal No. 2.
+
+ 
+
+Recommendation
+of the Board of Directors
+
+ 
+
+THE
+BOARD UNANIMOUSLY RECOMMENDS A VOTE “FOR” PROPOSAL NO. 2.
+
+ 
+
+-
+19
+-
+
+ 
+
+ 
+
+SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+ 
+
+The
+following table sets forth information with respect to the beneficial ownership of shares of our Common Stock as of the Record Date
+by:
+
+ 
+
+●
+
+each
+ person whom we know beneficially owns more than 5% of any class of equity security;
+
+ 
+
+ 
+
+●
+
+each
+ of our directors individually;
+
+ 
+
+ 
+
+●
+
+each
+ of our named executive officers individually; and
+
+ 
+
+ 
+
+●
+
+all
+ of our current directors and executive officers as a group.
+
+ 
+
+We
+have determined beneficial ownership in accordance with the rules of the SEC. These rules generally attribute beneficial ownership of
+securities to persons who possess sole or shared voting or investment power with respect to such securities. In addition, pursuant to
+such rules, we deemed outstanding shares of common stock subject to options or warrants held by that person that are currently exercisable
+or exercisable within 60 days of June 4, 2024. We did not deem such shares outstanding, however, for the purpose of computing
+the percentage ownership of any other person. Except as indicated by the footnotes below, we believe, based on the information furnished
+to us, that the beneficial owners named in the table below have sole voting and investment power with respect to all shares of our common
+stock that they beneficially own, subject to applicable community property laws. The inclusion in the table below of any shares deemed
+beneficially owned does not constitute an admission of beneficial ownership of those shares.
+
+ 
+
+Name and Address of Beneficial Owner
+(1)
+ 
+
+Number of Shares
+ 
+ 
+
+Percent of 
+ Common Stock*
+ 
+
+5% or Greater Shareholders:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Netcapital DE LLC
+(2)
+ 
+
+ 
+1,711,261
+ 
+ 
+
+ 
+4.90
+%
+
+Armistice Capital Master Fund Ltd.
+(3)(4)
+ 
+
+ 
+3,455,563
+ 
+ 
+
+ 
+9.99
+%
+
+Lind Global Fund II LP
+(5)
+ 
+
+ 
+3,455,563
+ 
+ 
+
+ 
+9.99
+%
+
+Officers and Directors:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Jason Frishman
+(6)
+ 
+
+ 
+1,802,928
+ 
+ 
+
+ 
+5.17
+%
+
+Martin Kay
+(7)
+ 
+
+ 
+395,833
+ 
+ 
+
+ 
+1.13
+%
+
+Steven Geary
+(8)
+ 
+
+ 
+259,366
+ 
+ 
+
+ 
+*
+ 
+
+Arnold Scott
+(9)
+ 
+
+ 
+92,807
+ 
+ 
+
+ 
+*
+ 
+
+Coreen Kraysler
+(10)
+ 
+
+ 
+114,167
+ 
+ 
+
+ 
+*
+ 
+
+Cecilia Lenk
+(11)
+ 
+
+ 
+38,568
+ 
+ 
+
+ 
+*
+ 
+
+Avi Liss
+(12)
+ 
+
+ 
+20,792
+ 
+ 
+
+ 
+*
+ 
+
+All Named Executive Officers and Directors as a Group (7 persons)
+ 
+
+ 
+2,724,460
+ 
+ 
+
+ 
+7.81
+%
+
+ 
+
+*
+Based on 34,904,680 shares outstanding as of the Record Date.
+
+**
+Less than 1%
+
+ 
+
+(1)
+
+Unless
+ otherwise noted, the business address of each member of our Board is c/o Netcapital Inc. 1 Lincoln Street, Boston Massachusetts 02111.
+
+ 
+
+(2)
+
+The
+ natural person with investment control over the securities held by Netcapital DE LLC is Jason Frishman. Netcapital Systems LLC has
+ agreed to vote its shares of common stock to support the resolutions of the Board of Netcapital Inc. on any matters that are brought
+ to a shareholder vote.
+
+ 
+
+-
+20
+-
+
+ 
+
+ 
+
+(3)
+
+Consists
+ of (i) 3,455,563 shares of Common Stock (including 3,006,000 shares of Common Stock held in abeyance at our transfer agent which
+ may not be issued if such issuance would result in the Armistice Capital Master Fund owning a percentage of our outstanding common
+ stock exceeding 9.99% after giving effect to the issuance and
+
+ (ii) Series A-1 Warrants to purchase 8,000,000 shares of Common Stock with such Series A-1 Warrants being subject to beneficial
+ ownership limitations that prohibit the Master Fund from exercising any portion of such warrants if such exercise would result in
+ the Master Fund owning a percentage of our outstanding common stock exceeding 4.99% after giving effect to the issuance of Common
+ Stock in connection with the Master Fund’s exercise of any portion of such warrants. Excludes (i) Series A-3 Warrants to purchase
+ 8,000,000 shares of Common Stock and (ii) Series A-4 Warrants to purchase 8,000,000 shares of Common Stock, as both the Series A-3
+ Warrants and Series A-4 Warrants (and the shares issuable thereunder) are subject to shareholder approval. Such Series A-3 Warrants
+ and Series A-4 Warrants contain beneficial ownership limitations that prohibit the Master Fund from exercising any portion of such
+ warrants if such exercise would result in the Master Fund owning a percentage of our outstanding common stock exceeding 4.99% after
+ giving effect to the issuance of Common Stock in connection with the Master Fund’s exercise of any portion of such warrants.
+
+ 
+
+ 
+
+(4)
+
+Armistice
+ Capital, LLC (“Armistice Capital”) is the investment manager of Armistice Capital Master Fund Ltd. (the “Master
+ Fund”), the direct holder of the Shares, and pursuant to an Investment Management Agreement, Armistice Capital exercises voting
+ and investment power over the securities of the Issuer held by the Master Fund and thus may be deemed to beneficially own the securities
+ of the Issuer held by the Master Fund. Mr. Boyd, as the managing member of Armistice Capital, may be deemed to beneficially own the
+ securities of the Issuer held by the Master Fund. The Master Fund specifically disclaims beneficial ownership of the securities of
+ the Issuer directly held by it by virtue of its inability to vote or dispose of such securities as a result of its Investment Management
+ Agreement with Armistice Capital. The address of Armistice Capital Master Fund Ltd. is c/o Armistice Capital, LLC, 510 Madison Avenue,
+ 7th Floor, New York, NY 10022.
+
+ 
+
+ 
+
+(5)
+
+Consists
+ of (i) 3,455,563 shares of Common Stock (including 2,550,000 shares of Common Stock held in abeyance at our transfer agent which
+ may not be issued if such issuance would result in the Lind Global Fund II LP owning a percentage of our outstanding common stock
+ exceeding 9.99% after giving effect to the issuance and (ii) Series A-1 Warrants to purchase 6,000,000 shares of Common Stock with
+ such Series A-1 Warrants being subject to beneficial ownership limitations that prohibit Lind Global Fund II LP from exercising any
+ portion of such warrants if such exercise would result in the Lind Global Fund II LP owning a percentage of our outstanding common
+ stock exceeding 9.99% after giving effect to the issuance of Common Stock in connection with the Lind Global Fund II LP’s exercise
+ of any portion of such warrants. Excludes (i) Series A-3 Warrants to purchase 6,000,000 shares of Common Stock and (ii) Series A-4
+ Warrants to purchase 6000,000 shares of Common Stock, as both the Series A-3 Warrants and Series A-4 Warrants (and the shares issuable
+ thereunder) are subject to shareholder approval. Such Series A-3 Warrants and Series A-4 Warrants contain beneficial ownership limitations
+ that prohibit the Lind Global Fund II LP from exercising any portion of such warrants if such exercise would result in the Lind Global
+ Fund II LP owning a percentage of our outstanding common stock exceeding 9.99% after giving effect to the issuance of Common Stock
+ in connection with the Master Fund’s exercise of any portion of such warrants.
+
+ The address of Lind Global Fund II LP is 444 Madison Ave, Floor 41 New York, NY 10022
+
+ 
+
+ 
+
+(6)
+
+Includes
+ (i) 91,667 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after
+ the Record Date, and (ii) 1,711,261 shares of common stock held by Netcapital Systems LLC, an entity that Jason Frishman is
+ the President of and in such capacity has the right to vote and dispose of the securities held by such entity.
+
+ 
+
+ 
+
+(7)
+
+Includes
+ (i) 395,833 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after
+ the Record Date.
+
+ 
+
+ 
+
+(8)
+
+Includes
+ (i) 249,274 shares of common stock and (ii) 9,792 shares of common stock subject to stock options that are presently
+ exercisable or exercisable within 60 days after the Record Date.
+
+ 
+
+ 
+
+(9)
+
+Includes
+ 6,667 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days of the
+ Record Date.
+
+ 
+
+ 
+
+(10)
+
+Includes
+ 91,667 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after
+ the Record Date.
+
+ 
+
+ 
+
+(11)
+
+Includes
+ 12,917 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after
+ the Record Date.
+
+ 
+
+ 
+
+(12)
+
+Includes
+ 9,792 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days of the
+ Record Date.
+
+ 
+
+-
+21
+-
+
+ 
+
+ 
+
+SHAREHOLDER
+PROPOSALS AND DIRECTOR NOMINATIONS FOR 2024 ANNUAL MEETING OF
+
+SHAREHOLDERS
+
+ 
+
+Shareholders
+who intend to have a proposal considered for inclusion in our proxy materials for presentation at our 2024 annual meeting of shareholders
+(the “2024 Annual Meeting”) must submit the proposal to us at our corporate headquarters no later than June 7, 2024, which
+proposal must be made in accordance with the provisions of Rule 14a-8 of the Exchange Act. In the event the date of the 2024 Annual Meeting
+has been changed by more than 30 days from the date of the 2023 Annual Meeting, shareholders who intend to have a proposal considered
+for inclusion in our proxy materials for presentation at our 2024 Annual Meeting must submit the proposal to us at our corporate headquarters
+no later than a reasonable time before we begin to print and send our proxy materials for our 2024 Annual Meeting.
+
+ 
+
+Shareholders
+who intend to present a proposal at our 2024 Annual Meeting without inclusion of the proposal in our proxy materials are required to
+provide notice of such proposal to our Corporate Secretary so that such notice is received by our Corporate Secretary at our principal
+executive offices on or after January 5, 2024 but no later than February 6, 2024; provided, however, in the event that the 2024 Annual
+Meeting occurs on a date that is not within 25 days before or after the anniversary date of the 2023 Annual Meeting, notice of such proposal
+must be received by our Corporate Secretary no later than the close of business on the 10
+th
+ day following the day on which
+such notice of the date of the 2024 Annual Meeting is mailed or public disclosure of the date of the 2024 Annual Meeting is made, whichever
+first occurs. We reserve the right to reject, rule out of order or take other appropriate action with respect to any proposal that does
+not comply with these and other applicable requirements.
+
+ 
+
+OTHER
+MATTERS
+
+ 
+
+The
+Board knows of no other business, which will be presented to the Special Meeting. If any other business is properly brought before the
+Special Meeting, proxies in the enclosed form will be voted in accordance with the judgment of the persons voting the proxies.
+
+ 
+
+If
+you do not plan to attend the Special Meeting, in order that your shares may be represented and in order to assure the required quorum,
+please sign, date and return your proxy promptly. In the event you are able to attend the Special Meeting virtually, at your request,
+we will cancel your previously submitted proxy.
+
+ 
+
+ADDITIONAL
+INFORMATION
+
+ 
+
+HOUSEHOLDING
+
+ 
+
+The
+SEC has adopted rules that permit companies and intermediaries (e.g., brokers) to satisfy the delivery requirements for proxy statements
+and other Special Meeting materials with respect to two or more stockholders sharing the same address by delivering a proxy statement
+or other Special Meeting materials addressed to those stockholders. This process, which is commonly referred to as householding, potentially
+provides extra convenience for stockholders and cost savings for companies. Stockholders who participate in householding will continue
+to be able to access and receive separate proxy cards.
+
+ 
+
+If
+you share an address with another stockholder and have received multiple copies of our proxy materials, you may write or call us at the
+address or phone number below to request delivery of a single copy of the notice and, if applicable, other proxy materials in the future.
+We undertake to deliver promptly upon written or oral request a separate copy of the proxy materials, as requested, to a stockholder
+at a shared address to which a single copy of the proxy materials was delivered. If you hold stock as a record stockholder and prefer
+to receive separate copies of our proxy materials either now or in the future, please contact us at 1 Lincoln Street, Boston, MA 02111,
+Attn: Secretary, or by phone at (781) 925-1700. If your stock is held through a brokerage firm or bank and you prefer to receive separate
+copies of our proxy materials either now or in the future, please contact your brokerage firm or bank.
+
+ 
+
+-
+22
+-
+
+ 
+
+ 
+
+ANNUAL
+REPORT
+
+ 
+
+Additional
+copies of our Annual Report on Form 10-K for the fiscal year ended April 30, 2023 may be obtained without charge by writing to the Company
+at 1 Lincoln Street, Boston, MA 02111, Attn: Secretary, or by phone at (781) 925-1700.
+
+ 
+
+ 
+
+By
+ Order of the Board of Directors
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin
+ Kay
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+ 
+
+Date:
+
+June
+ 7, 2024
+
+ 
+
+-
+23
+-
+
+ 
+
+ 
+
+APPENDIX
+A
+
+ 
+
+ 
+
+State
+ of Utah
+
+DEPARTMENT
+ OF COMMERCE
+
+Division
+ of Corporations & Commercial Code
+
+Articles
+ of Amendment to Articles of Incorporation (Profit)
+
+ 
+
+Entity
+Number: 
+866715-0142
+
+ 
+
+Non-Refundable
+Processing Fee: $37.00
+
+ 
+
+Pursuant
+to UCA § 16-10a part 10, the individual named below causes this Amendment to the Articles of Incorporation to be delivered to the
+Utah Division of Corporations for filing, and states as follows:
+
+ 
+
+1.
+The name of the corporation is: 
+Netcapital Inc.
+
+ 
+
+2.
+The date the following amendment(s) was adopted: 
+_________________________
+
+ 
+
+3.
+If changing the corporation name, the new name of the corporation is:
+
+ 
+
+4.
+The text of each amendment adopted (include attachment if additional space needed): The Articles of Incorporation are hereby amended
+by revising Article IV to include a new Section C as follows:
+
+ 
+
+“(C)
+Effective at 6:00 p.m. Eastern Time (the “
+Effective Time
+”) on the effective date of the articles of amendment
+adding this Section C to Article FOURTH of the certificate of incorporation of the corporation (the “
+Effective Date
+”),
+
+every [two to one hundred, depending on the exact ratio to be approved by the Board of Directors (2 to 100]
+) shares of Common
+Stock issued and outstanding or held by the corporation in treasury stock, in each case immediately prior to the Effective Time, shall
+automatically be combined and reclassified into one (1) validly issued, fully paid and non-assessable share of Common Stock without any
+further action by the corporation or the holder thereof (the “
+Reverse Split
+”); provided, however, that if the
+Reverse Split would result in the record account of any holder of Common Stock having a number of shares of Common Stock that is, in
+the aggregate, less than one (1) share (a “
+Fractional Share
+”), such holder shall be entitled to receive a whole
+share of Common Stock in lieu of a Fractional Share. The Reverse Split shall have no effect on the number of authorized shares of Common
+Stock or the par value per share thereof.”
+
+ 
+
+5.
+If providing for an exchange, reclassification or cancellation of issued shares, provisions for implementing the amendment if not contained
+in the amendment itself:
+
+ 
+
+6.
+Indicate the manner in which the amendment(s) was adopted (mark only one):
+
+ 
+
+   
+
+ 
+
+Adopted
+ by Incorporators or Board of Directors - Shareholder action not required.
+
+ 
+
+ 
+
+ 
+
+  X
+
+ 
+
+Adopted
+ by Shareholders - Number of votes cast for amendment was sufficient for approval.
+
+ 
+
+7.
+Delayed effective date (if not to be effective upon filing) _______ (MM-DD-YYYY not to exceed 90 days)
+
+ 
+
+Under
+penalties of perjury, I declare that this Amendment of Articles of Incorporation has been examined by me and is, to the best of my knowledge
+and belief, true, correct and complete.
+
+ 
+
+By:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+Date:
+_________, 2024
+
+ 
+
+Under
+GRAMA {63G-2-201}, all registration information maintained by the Division is classified as public record. For confidentiality purposes,
+you may use the business entity physical address rather than the residential or private address of any individual affiliated with the
+entity.
+
+ 
+
+Mailing/Faxing
+Information:www.corporations.utah.gov/contactus.html Division’s Website:www.corporations.utah.gov
+
+ 
+
+-
+24
+-

@@ -1,0 +1,6454 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000119/ncpl_def14a.htm
+FORM: DEF 14A
+FILED: 2023-02-09
+COMPANY: Netcapital Inc.
+
+DEF 14A
+
+1
+
+ncpl_def14a.htm
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+SCHEDULE
+14A
+
+ 
+
+Proxy Statement Pursuant to Section 14(a)
+of the Securities 
+
+Exchange Act of 1934
+
+(Amendment No. )
+
+ 
+
+Filed
+ by the Registrant ☒
+
+ 
+
+Filed
+ by a Party other than the Registrant ☐
+
+ 
+
+ 
+
+Check the appropriate box:
+
+ 
+
+☐
+
+Preliminary Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Confidential, for Use of the Commission
+ Only (as permitted by Rule 14a-6(e)(2))
+
+ 
+
+ 
+
+☒
+
+Definitive Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Definitive Additional Materials
+
+ 
+
+ 
+
+☐
+
+Soliciting Material Pursuant to
+ Section 240.14a-12
+
+ 
+
+NETCAPITAL
+INC.
+
+(Name of Registrant As Specified In Its Charter)
+
+ 
+
+Payment of Filing Fee (Check all boxes that
+apply):
+
+ 
+
+☒
+
+No fee required.
+
+ 
+
+ 
+
+☐
+
+Fee paid previously with preliminary
+ materials.
+
+ 
+
+ 
+
+☐
+
+Fee computed on table in exhibit required
+ by Item 25(b) of Schedule 14A (17 CFR 240.14a-101) per Item 1 of this Schedule and Exchange Act Rules 14c-5(g) and 0-11.
+
+ 
+
+1
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+State Street Financial Center, 1 Lincoln Street,
+
+Boston, MA 02111
+
+ 
+
+NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
+
+ 
+
+TO BE HELD MARCH 28, 2023
+
+ 
+
+TO OUR STOCKHOLDERS:
+
+ 
+
+You are cordially invited
+to attend the Special Meeting of Stockholders (the “Special Meeting”) of Netcapital Inc., a Utah corporation (together
+with its subsidiaries, the “Company”, “Netcapital”, “we”, “us” or “our”),
+which will be held on March 28, 2023, at 2:00pm ET. The Special Meeting will be a virtual meeting to be held as a listen-only conference
+call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If you encounter any technical difficulties
+with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or email 
+proxy@equitystock.com
+.
+
+The meeting will be held for the following purposes:
+
+ 
+
+1.
+
+To approve the adoption of the Netcapital Inc. 2023 Omnibus Equity Incentive Plan.
+
+ 
+
+ 
+
+2.
+
+Other Proposals - to consider and transact such other business as may properly come before the Special Meeting or any adjournment or postponement thereof.
+
+ 
+
+A copy of the Annual Report
+of the Company’s operations during the fiscal year ended April 30, 2022 is available on request or at www.sec.gov.
+
+ 
+
+The Board of Directors
+has fixed the close of business on January 27, 2023 as the record date for the determination of stockholders entitled to receive
+notice of and to vote at the Special Meeting of Stockholders and any adjournment or postponement thereof.
+
+ 
+
+ 
+
+By Order of the Board of Directors
+
+ 
+
+ 
+
+ 
+
+/s/ Martin Kay
+
+ 
+
+Name: Martin Kay
+
+ 
+
+Title: Chief Executive Officer
+
+February 9, 2023
+
+ 
+
+Boston, Massachusetts
+
+ 
+
+_______________________________________________________________________________________
+
+ 
+
+YOUR VOTE IS IMPORTANT
+
+ 
+
+WHETHER OR NOT YOU PLAN TO ATTEND THE SPECIAL
+MEETING IN PERSON, TO ASSURE THAT YOUR SHARES WILL BE REPRESENTED, PLEASE COMPLETE, DATE, SIGN AND RETURN THE ENCLOSED PROXY WITHOUT
+DELAY IN THE ENCLOSED ENVELOPE, WHICH REQUIRES NO ADDITIONAL POSTAGE IF MAILED IN THE UNITED STATES. IF YOU ATTEND THE SPECIAL
+MEETING, YOU MAY VOTE IN PERSON IF YOU WISH TO DO SO EVEN IF YOU HAVE PREVIOUSLY SENT IN YOUR PROXY.
+
+ 
+
+2
+
+ 
+
+ 
+
+PROXY STATEMENT
+
+ 
+
+SPECIAL MEETING OF STOCKHOLDERS
+
+TO BE HELD ON MARCH 28, 2023
+
+ 
+
+GENERAL INFORMATION ABOUT THE PROXY STATEMENT
+AND SPECIAL MEETING
+
+ 
+
+General
+
+ 
+
+NETCAPITAL INC. (the “Company,”
+“Netcapital,” “we,” “us,” or “our”), a Utah corporation is providing this proxy
+statement in connection with the solicitation by the Company’s board of directors of proxies to be voted at the special meeting
+(“Special Meeting”) of stockholders to be held virtually at 2:00pm ET on March 28, 2023 as a listen-only conference
+call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If you encounter any technical difficulties
+with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or email proxy@equitystock.com.
+
+ 
+
+On or about February 13,
+2023, we will begin mailing a Notice of Internet Availability of Proxy Materials (the “Notice”) to our stockholders (other
+than those who previously requested electronic or paper delivery of proxy materials), directing stockholders to a website where they
+can access our proxy materials, including this proxy statement and the 2022 Annual Report, and view instructions on how to vote. If you
+would prefer to receive a paper copy of our proxy materials, please follow the instructions included in the Notice. If you have previously
+elected to receive our proxy materials electronically, you will continue to receive access to those materials via e-mail unless you elect
+otherwise.
+
+ 
+
+The Special Meeting will
+be held for the sole purpose of considering and voting upon a proposal to approve the adoption of the Company’s 2023 Omnibus
+Equity Incentive Plan (the “2023 Plan”). This proposal is more fully described in the accompanying proxy statement,
+which you should read carefully.
+
+ 
+
+If you are a stockholder of record, you
+may attend the Special Meeting in the following ways:
+
+ 
+
+ 
+
+● 
+
+Access an audio-only conference call
+ by calling 877-407-3088 (Toll Free) or +1 877-407-3088 (International);
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Instructions on how to attend and participate
+ in the virtual Special Meeting, including how to demonstrate proof of stock ownership, are also available as follows:
+
+ 
+
+Stockholders
+of Record
+
+ 
+
+ 
+
+●
+
+Stockholders of record as of the Record
+ Date can attend the special meeting by accessing the live audio conference call at +1-877-407-3088 and presenting the unique
+ 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+Owners
+
+ 
+
+● 
+
+If you were a beneficial
+ owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage firm, bank or other similar
+ agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have received a legal proxy
+ from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer, at 
+proxy@equitystock.com
+ 
+and should be labeled “Legal Proxy”
+ in the subject line. Please include proof from your broker, bank or other agent of your legal proxy (e.g., a forwarded email
+ from your broker, bank or other agent with your legal proxy attached, or an image of your valid proxy attached to your email).
+ Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m. Eastern Time, on March 26, 2023.
+ You will then receive a confirmation of your registration, with a control number, by email from Equity Stock Transfer. At
+ the time of the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit control
+ number. 
+
+ 
+
+● 
+
+Stockholders may submit live questions
+ on the conference line while attending the virtual Special Meeting.
+
+3
+
+ 
+
+ 
+
+If you are a stockholder of record, you
+may vote your shares in the following ways:
+
+ 
+
+Whether you plan to attend
+the Special Meeting or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive through this
+solicitation, and that are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed via
+Internet. You may specify whether your shares should be voted for or “withheld” for each nominee for director, and
+whether your shares should be voted for, against or abstain with respect to each of the other proposals. Except as set forth below,
+if you properly submit a proxy without giving specific voting instructions, your shares will be voted in accordance with the Board
+of Director’s recommendations as noted below. The Board has appointed Martin Kay, to serve as the proxy for the Special Meeting.
+Voting by proxy will not affect your right to attend the Special Meeting. If your shares are registered directly in your name through
+our stock transfer agent, Equity Stock Transfer, or you have stock certificates, you may vote:
+
+ 
+
+1.
+By
+ Internet.
+ The
+ website
+ address
+ for
+ Internet
+ voting
+ is www.netcapital.vote.
+ Please
+ click
+ “Vote
+ Your
+ Proxy”
+ and
+ enter
+ your
+ control
+ number.
+ 
+
+ 
+
+2.
+By
+ Email.
+ Mark,
+ date,
+ sign
+ and
+ email
+ the
+ Proxy
+ Card
+ to proxy@equitystock.com,
+ ATTN:
+ Shareholder
+ Services.
+ 
+
+ 
+
+3.
+By
+ mail.
+ Mark,
+ date,
+ sign
+ and
+ mail
+ promptly
+ the
+ Proxy
+ Card,
+ to Equity
+ Stock
+ Transfer
+ at 237
+ W 37th
+ St.
+ Suite
+ 602
+ New
+ York,
+ NY 10018,
+ ATTN:
+ Shareholder
+ Services.
+ 
+
+ 
+
+4.
+By
+ Fax.
+ Mark,
+ date,
+ sign
+ and
+ fax
+ the
+ Proxy
+ Card
+ to 646-201-9006,
+ ATTN:
+ Shareholder
+ Services.
+
+ 
+
+5.
+At
+ the
+ Special
+ Meeting.
+ If you
+ are
+ a shareholder
+ of record,
+ you
+ can
+ participate
+ and
+ vote
+ your
+ shares
+ in the
+ Special
+ Meeting
+ by visiting
+ www.netcapital.vote
+ and
+ then
+ clicking
+ “Vote
+ Your
+ Proxy”.
+ You
+ may
+ then
+ enter
+ the
+ control
+ number
+ included
+ on your
+ Proxy
+ Card
+ and
+ view
+ the
+ proposals
+ and
+ cast
+ your
+ vote.
+ 
+
+ 
+
+If you hold your shares
+in “street name,” your bank, broker or other nominee should provide to you a request for voting instructions along
+with the Company’s proxy solicitation materials. By completing the voting instruction card, you may direct your nominee how
+to vote your shares. Alternatively, if you want to vote your shares during the Special Meeting, you must contact your nominee directly
+in order to obtain a proxy issued to you by your nominee holder. Note that a broker letter that identifies you as a stockholder
+is not the same as a nominee-issued proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m.
+Eastern Time on March 26, 2023, you will not be able to vote your nominee held shares during the Special Meeting.
+
+ 
+
+QUESTIONS AND ANSWERS ABOUT THE SPECIAL MEETING
+
+ 
+
+These Questions and Answers
+are only summaries of the matters they discuss. They do not contain all of the information that may be important to you. You should
+read carefully the entire document, including any annexes to this proxy statement.
+
+ 
+
+Q:
+
+Why are we holding a special meeting?
+
+ 
+
+ 
+
+A:
+
+On January 3, 2023, the Board of Directors
+ of the Company approved and adopted the Netcapital Inc., 2023 Omnibus Equity Incentive Plan (the “2023 Plan”). Under
+ Utah law, and the Company’s governing documents, the adoption of the 2023 Plan is subject to approval by the Company’s
+ stockholders. The material terms of the 2023 Plan are set forth below under “Proposal 1”. The description below of
+ the 2023 Plan does not purport to be complete and is qualified in its entirety by reference to the full text of the 2023 Plan,
+ a copy of which is filed as Annex A to this proxy statement.
+
+ 
+
+The purposes of the 2023 Plan are to (i) provide
+ an additional incentive to selected employees, directors, and independent contractors of the Company or its affiliates whose contributions
+ are essential to the growth and success of the Company, (ii) strengthen the commitment of such individuals to the Company and its
+ affiliates, (iii) motivate those individuals to faithfully and diligently perform their responsibilities and (iv) attract and retain
+ competent and dedicated individuals whose efforts will result in the long-term growth and profitability of the Company.
+
+ 
+
+4
+
+ 
+
+ 
+
+Q:
+
+Why did I receive a notice in the mail regarding the Internet availability of proxy materials instead of a full set of proxy materials?
+
+ 
+
+ 
+
+A:
+
+In accordance with the rules
+ adopted by the U.S. Securities and Exchange Commission (“SEC”), we may furnish proxy materials, including this proxy
+ statement and our 2022 Annual Report, to our stockholders by providing access to such documents on the Internet instead of mailing
+ printed copies. Most stockholders will not receive printed copies of the proxy materials unless they request them. Instead, the Notice,
+ which we will begin mailing to our stockholders on or about February 13, 2023, will instruct you as to how you may access
+ and review all of the proxy materials over the Internet. The Notice also instructs you as to how you may submit your proxy on the
+ Internet. If you would like to receive a paper or email copy of our proxy materials, you should follow the instructions for requesting
+ such materials in the Notice.
+
+ 
+
+Q:
+
+Who is entitled to vote?
+
+ 
+
+ 
+
+A:
+
+Only stockholders of record as of the close of business on January 27, 2023 (the “Record Date”) will be entitled to notice of, and to vote at, the Special Meeting. A list of stockholders eligible to vote at the Special Meeting is available for inspection at any time up to the Special Meeting. If you would like to inspect the list, please call our Corporate Secretary at (781) 925-1700 to arrange a visit to our offices.
+
+ 
+
+Q:
+
+How many shares of common stock can vote?
+
+ 
+
+ 
+
+A:
+
+There were 6,053,027 shares of common stock issued and outstanding as of the close of business on the Record Date. Each stockholder entitled to vote at the Special Meeting may cast one vote for each share of common stock owned by him, her or it which has voting power upon each matter considered at the Special Meeting.
+
+ 
+
+Q:
+
+What may I vote on?
+
+ 
+
+ 
+
+A:
+
+You may vote on the following matters:
+
+ 
+
+ 
+
+1.  
+
+the adoption of Netcapital’s
+ 2023 Omnibus Equity Incentive Plan;
+
+ 
+
+ 
+
+2
+
+any other business that may properly
+ come before the Special Meeting and any adjournment or postponement thereof.
+
+ 
+
+Q:
+
+Will any other business be presented for action by stockholders at the Special Meeting?
+
+ 
+
+ 
+
+A:
+
+The Board knows of no other matters that will be presented for consideration at the Special Meeting. If any other matters are properly brought before the Special Meeting, it is the intention of the persons named in the accompanying proxy to vote on those matters in accordance with their best judgment.
+
+ 
+
+Q:
+
+How does the Board recommend that I vote on each of the proposals?
+
+ 
+
+ 
+
+A:
+
+Our Board recommends a vote “FOR” the adoption of the Plan (Proposal 1),
+
+Q:
+
+How do I vote my shares?
+
+ 
+
+ 
+
+A:
+
+Whether you plan to attend the Special Meeting
+ or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive through this solicitation, and that
+ are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed via Internet. You may specify
+ whether your shares should be voted for or “withheld” for the proposal to approve the adoption of Netcapital’s
+ 2023 Omnibus Equity Incentive Plan. Except as set forth below, if you properly submit a proxy without giving specific voting instructions,
+ your shares will be voted in accordance with the Board of Director’s recommendations as noted below. The Board has appointed
+ Martin Kay, to serve as the proxy for the Special Meeting. Voting by proxy will not affect your right to attend the Special Meeting.
+ If your shares are registered directly in your name through our stock transfer agent, Equity Stock Transfer, or you have stock
+ certificates, you may vote:
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+6. 
+
+By Internet. The website address for
+ Internet voting is www.netcapital.vote. Please click “Vote Your Proxy” and enter your control number. 
+
+ 
+
+ 
+
+7.
+
+By Email. Mark, date, sign and email
+ the Proxy Card to proxy@equitystock.com, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+8.   
+
+By mail. Mark, date, sign and mail
+ promptly the Proxy Card, to Equity Stock Transfer at 237 W 37th St. Suite 602 New York, NY 10018 ATTN: Shareholder Services.
+ 
+
+ 
+
+ 
+
+9.     
+
+By Fax. Mark, date, sign and fax the
+ Proxy Card to 646-201-9006, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+10. 
+
+At the Special Meeting. If you are
+ a shareholder of record, you can participate and vote your shares in the Special Meeting by visiting www.netcapital.vote and
+ then clicking “Vote Your Proxy”. You may then enter the control number included on your Proxy Card and view the
+ proposals and cast your vote.
+
+ 
+
+If you hold your shares in “street name,”
+ your bank, broker or other nominee should provide to you a request for voting instructions along with the Company’s proxy
+ solicitation materials. By completing the voting instruction card, you may direct your nominee how to vote your shares. Alternatively,
+ if you want to vote your shares during the Special Meeting, you must contact your nominee directly in order to obtain a proxy issued
+ to you by your nominee holder. Note that a broker letter that identifies you as a stockholder is not the same as a nominee-issued
+ proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m. Eastern Time on March 26, 2023, you
+ will not be able to vote your nominee held shares during the Special Meeting.
+
+ 
+
+Q:
+
+What is a proxy?
+
+ 
+
+ 
+
+A:
+
+A proxy is a person you appoint to vote on your behalf. By using any of the methods discussed above, you will be appointing as your proxy Martin Kay, our Chief Executive Officer. He may act on your behalf, and will have the authority to appoint a substitute to act as proxy. Whether or not you expect to virtually attend the Special Meeting, we request that you please use the means available to you to vote by proxy so as to ensure that your shares of common stock may be voted.
+
+ 
+
+Q:
+
+How Will my Shares be Voted if I Give No Specific Instruction?
+
+ 
+
+ 
+
+A:
+
+We must vote your shares as you have instructed.
+ If there is a matter on which a stockholder of record has given no specific instruction but has authorized us generally to vote
+ the shares, they will be voted “FOR” the adoption of Netcapital’s 2023 Omnibus Equity Incentive Plan
+
+ 
+
+This authorization would exist, for example,
+ if a stockholder of record merely signs, dates and returns the proxy card but does not indicate how its shares are to be voted
+ on one or more proposals. If other matters properly come before the Special Meeting and you do not provide specific voting instructions,
+ your shares will be voted at the discretion of the proxies.
+
+ 
+
+Q:
+
+What if I want to change my vote or revoke my proxy?
+
+ 
+
+ 
+
+A:
+
+If your shares are registered directly in your
+ name, you may revoke your proxy and change your vote at any time before the Special Meeting. To do so, you must do one of the following:
+
+ 
+
+ 
+
+1. 
+
+Vote over the Internet
+ as instructed above. Only your latest Internet vote is counted. You may not revoke or change your vote over the Internet after 5:00
+ p.m. Eastern Time on March 27, 2023.
+
+ 
+
+ 
+
+2.  
+
+Sign a new proxy and submit
+ it by mail to Equity Stock Transfer at 237 W 37th St. Suite 602 New York, NY 10018 ATTN: Shareholder Services, who must receive the
+ proxy card no later than March 27, 2023. Only your latest dated proxy will be counted.
+
+ 
+
+ 
+
+3.
+
+Virtually attend the Special Meeting
+ and vote electronically at the meeting. Virtually attending the Special Meeting alone will not revoke your Internet vote or
+ proxy submitted by mail, as the case may be.
+
+ 
+
+ 
+
+4.   
+
+Give our Corporate Secretary written
+ notice before or at the Special Meeting that you want to revoke your proxy.
+
+ 
+
+6
+
+ 
+
+ 
+
+If your shares are held in “street name,”
+you may submit new voting instructions with a later date by contacting your bank, brokerage firm, or other nominee. You may also vote
+electronically at the Special Meeting, which will have the effect of revoking any previously submitted voting instructions, if you obtain
+a broker’s legal proxy as described in the answer to the question “How do I vote my shares?” above.
+
+ 
+
+Q:
+
+How many votes are needed to approve each proposal?
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+A:
+
+ To be approved, Proposal 1, the adoption of Netcapital’s 2023 Omnibus Equity Incentive Plan, must receive “For” votes from the holders of a majority of shares present in person or represented by proxy and entitled to vote, and which did not abstain. Only votes “For” or “Against” will affect the outcome with respect to this proposal, and abstentions will have no effect.
+
+ 
+
+Q:
+
+What is a quorum?
+
+ 
+
+ 
+
+A:
+
+The holders of 51% of the 6,053,027 shares of common stock outstanding as of the Record Date, either present or represented by proxy, constitute a quorum. A quorum is necessary in order to conduct the Special Meeting. If you choose to have your shares represented by proxy at the Special Meeting, you will be considered part of the quorum. Broker non-votes and abstentions will be counted as present for the purpose of establishing a quorum. If a quorum is not present by attendance at the Special Meeting or represented by proxy, the stockholders present by attendance at the meeting or by proxy may adjourn the Special Meeting until a quorum is present.
+
+ 
+
+Q:
+
+What is a Broker Non-Vote?
+
+ 
+
+ 
+
+A:
+
+If your shares are held in street name, you must instruct the organization who holds your shares how to vote your shares. If you sign your proxy card but do not provide instructions on how your broker should vote on “routine” proposals, your broker will vote your shares as recommended by the Board. If you do not provide voting instructions, your shares will not be voted on any “non-routine” proposals. This vote is called a “broker non-vote.”
+
+ 
+
+Q:
+
+Do the directors and officers of the Company have an interest in the outcome of the matters to be voted on?
+
+ 
+
+ 
+
+A:
+
+Directors and executive officers, who, as of the Record Date, had beneficial ownership (or had the right to acquire beneficial ownership within sixty days following the Record Date) of approximately 4.0% of our outstanding common stock and are expected to vote in favor of the adoption of the Plan.
+
+ 
+
+Q:
+
+Who will count the votes?
+
+ 
+
+ 
+
+A:
+
+A representative of Equity Stock Transfer, will serve as our inspector of elections and will count the votes cast by proxy and the votes cast in person at the Special Meeting.
+
+ 
+
+Q:
+
+How do I attend the Special Meeting?
+
+ 
+
+ 
+
+A:
+
+Stockholders of Record:
+
+ Stockholders of record as of the Record Date can attend the special meeting by accessing the live audio conference call at +1-877-407-3088
+ and presenting the unique 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+ Owners:
+ If you were a beneficial owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage
+ firm, bank or other similar agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have
+ received a legal proxy from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer,
+ at 
+proxy@equitystock.com
+ and should be labeled “Legal
+ Proxy” in the subject line. Please include proof from your broker, bank or other agent of your legal proxy (e.g., a forwarded
+ email from your broker, bank or other agent with your legal proxy attached, or an image of your valid proxy attached to your email).
+ Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m. Eastern Time, on March 26, 2023. You
+ will then receive a confirmation of your registration, with a control number, by email from Equity Stock Transfer. At the time
+ of the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit control number. 
+
+ 
+
+7
+
+ 
+
+ 
+
+Q:
+
+Why a virtual meeting?
+
+ 
+
+ 
+
+A:
+
+We are pleased to offer our stockholders a completely virtual Special Meeting, which provides worldwide access, improved communication and cost savings for our stockholders and the Company.
+
+ 
+
+Q:
+
+What if during the check-in time or during the meeting I have technical difficulties or trouble accessing the virtual audio conference line?
+
+ 
+
+ 
+
+A:
+
+We will have technicians ready to assist you with any technical difficulties you may have in accessing the virtual Special Meeting. If you encounter any difficulties, please call: 877-804-2062 (Toll Free) or email 
+proxy@equitystock.com
+. 
+
+ 
+
+Q:
+
+Are there any expenses associated with collecting the stockholder votes?
+
+ 
+
+ 
+
+A:
+
+All of the expenses involved in preparing, assembling and mailing these proxy materials and all costs of soliciting proxies will be paid by us. In addition to the solicitation by mail, proxies may be solicited by our officers and other employees by telephone or in person. Such persons will receive no compensation for their services other than their regular salaries. Arrangements will also be made with brokerage houses and other custodians, nominees and fiduciaries to forward solicitation materials to the beneficial owners of the shares held of record by such persons, and we may reimburse such persons for reasonable out of pocket expenses incurred by them in forwarding solicitation materials. If you have any questions or require any assistance with completing your proxy, please contact Equity Stock Transfer by telephone at 877-804-2062 (Toll Free) or email 
+proxy@equitystock.com
+. 
+
+ 
+
+Q:
+
+Do I have Dissenters’ Rights of Appraisal?
+
+ 
+
+ 
+
+A:
+
+Our stockholders do not have appraisal rights under Utah law or under our governing documents with respect to the matters to be voted upon at the Special Meeting.
+
+ 
+
+Q:
+
+Where can I find the voting results?
+
+ 
+
+ 
+
+A:
+
+Voting results will be reported in a Current Report on Form 8-K, which we will file with the SEC within four business days following the Special Meeting.
+
+ 
+
+Q:
+
+How do I obtain an Annual Report on Form 10-K
+
+ 
+
+ 
+
+A:
+
+If you would like a copy of
+ our Annual Report on Form 10-K for the fiscal year ended April 30, 2022 that we filed with the SEC, we will send you one without
+ charge. Please write to:
+
+ 
+
+NETCAPITAL INC.
+
+State Street Financial Center,
+ 1 Lincoln Street,
+
+Boston, MA 02111
+
+Attn: Corporate Secretary
+
+ 
+
+All of our SEC
+ filings are also available free of charge under the heading “SEC Filings” in the “Investors” section of
+ our website at 
+www.netcapitalinc.com
+. 
+
+ 
+
+8
+
+ 
+
+ 
+
+PROPOSAL 1
+
+APPROVAL OF THE
+
+NETCAPITAL INC., 2023 OMNIBUS EQUITY INCENTIVE
+PLAN
+
+ 
+
+Background
+
+ 
+
+On January 3, 2023, the
+Board of Directors of the Company approved and adopted the Netcapital Inc., 2023 Omnibus Equity Incentive Plan (the “2023
+Plan”), subject to the approval of the 2023 Plan by the Company’s stockholders.
+
+ 
+
+The 2023 Plan is intended
+to align the interests of stockholders and the recipients of awards under the 2023 Plan, and to advance the Company’s interests
+by attracting and retaining directors, officers, employees and other service providers and motivating them to act in our long-term
+best interests. The material terms of the 2023 Plan are set forth below. The description below of the 2023 Plan does not purport
+to be complete and is qualified in its entirety by reference to the full text of the 2023 Plan, a copy of which is filed as Annex
+A to this proxy statement.
+
+ 
+
+Summary of Key Terms of the 2023 Plan
+
+ 
+
+The following is a summary of the principal
+features of the Plan. This summary does not purport to be a complete description of all of the provisions of the Plan. It is qualified
+in its entirety by reference to the full text of the 2023 Plan, which is included as Appendix A to this information statement.
+
+ 
+
+Purposes
+
+ 
+
+The purposes of the 2023
+Plan are to (i) provide an additional incentive to selected employees, directors, and independent contractors of the Company or
+its affiliates whose contributions are essential to the growth and success of the Company, (ii) strengthen the commitment of such
+individuals to the Company and its affiliates, (iii) motivate those individuals to faithfully and diligently perform their responsibilities
+and (iv) attract and retain competent and dedicated individuals whose efforts will result in the long-term growth and profitability
+of the Company.
+
+ 
+
+Shares Available
+
+ 
+
+The total number of Shares
+of Common Stock authorized for issuance under the 2023 Plan is (i) 2,000,000 Shares of Common Stock plus (ii) an annual increase
+on the first day of each calendar year beginning with May 1, 2024 and ending with the last May 1 during the initial ten-year term
+of the 2023 Plan, equal to the lesser of (A) five percent (5%) of the Shares of Common Stock outstanding (on an as-converted basis,
+which shall include Shares issuable upon the exercise or conversion of all outstanding securities or rights convertible into or
+exercisable for Shares of Common Stock, including without limitation, preferred stock, warrants and employee options to purchase
+any Shares of Common Stock) on the final day of the immediately preceding calendar year and (B) such lesser number of Shares of
+Common Stock as determined by the Board; provided, that, Shares of Common Stock issued under the 2023 Plan with respect to an Exempt
+Award shall not count against such share limit. We use the term “Exempt Award” to mean (i) an Award granted in the
+assumption of, or in substitution for, outstanding Awards previously granted by another business entity acquired by us or any of
+our subsidiaries or with which we or any of our subsidiaries merges; (ii) an Award that a participant purchases at fair market
+value; or (iii) an Award granted as an inducement grant pursuant to NASDAQ Listing Rule 5635(c) or under the rules of an exchange
+on which the Common Stock is traded, to the extent it is not traded on NASDAQ
+
+ 
+
+No more than 2,000,000
+Shares, and as increased on an annual basis, on the first day of each calendar year beginning with May 1, 2024 and ending with
+the last May 1 during the initial ten-year term of the Plan, by the lesser of (A) five percent (5%) of the shares of Common Stock
+outstanding (on an as-converted basis, which shall include Shares of Common Stock issuable upon the exercise or conversion of all
+outstanding securities or rights convertible into or exercisable for shares of Common Stock, including without limitation, preferred
+stock, warrants and employee options to purchase any shares of Common Stock) on the final day of the immediately preceding calendar
+year; (B) 300,000 shares of Common Stock, and (C) such lesser number of shares of Common Stock as determined by the Board, shall
+be issued pursuant to the exercise of ISOs.
+
+ 
+
+9
+
+ 
+
+ 
+
+New Shares reserved for
+issuance under the 2023 Plan may be authorized but unissued Shares of Company’s Common Stock or Shares of Company’s
+Common Stock that will have been or may be reacquired by us in the open market, in private transactions or otherwise. If any Shares
+of Company’s Common Stock subject to an Award are forfeited, cancelled, exchanged or surrendered or if an Award terminates
+or expires without a distribution of Shares to the participant, the Shares of Company Common Stock with respect to such Award will,
+to the extent of any such forfeiture, cancellation, exchange, surrender, termination or expiration, again be available for Awards
+under the Plan except that (i) any Shares of Company Common Stock reacquired by the Company on the open market or otherwise using
+cash proceeds from the exercise of options, and (ii) any Shares of Company Common Stock surrendered or withheld as payment of either
+the exercise price of an Award and/or withholding taxes in respect of an Award will not again be available for Awards under the
+Plan. If an Award is denominated in Shares of Company’s Common Stock, but settled in cash, the number of Shares of Common
+Stock previously subject to the Award will again be available for grants under the 2023 Plan. If an Award can only be settled in
+cash, it will not be counted against the total number of Shares of Common Stock available for grant under the 2023 Plan. However,
+upon the exercise of any Award granted in tandem with any other Awards, such related Awards will be cancelled as to the number
+of Shares as to which the Award is exercised and such number of Shares of Company’s Common Stock will no longer be available
+for grant under the 2023 Plan.
+
+ 
+
+As of January 3, 2023,
+2,000,000 Shares of Common Stock represents approximately 34.1% of our Common Stock outstanding.
+
+ 
+
+Administration
+
+ 
+
+The 2023 Plan will be administered
+by the Board or a committee to which the Board delegates such responsibility (the “Administrator”). The 2023 Plan will
+be administered by the Administrator in accordance with Rule 16b-3 of the Securities Exchange Act of 1934, as amended, and any
+other applicable legal or stock exchange listing requirements. The Administrator may interpret the 2023 Plan and may prescribe,
+amend and rescind rules and make all other determinations necessary or desirable for the administration of the 2023 Plan. The 2023
+Plan permits the Administrator to select the eligible recipients who will receive awards (“Awards”), to determine the
+terms and conditions of those Awards, including but not limited to the exercise price or other purchase price of an Award, the
+number of Shares of Common Stock or cash or other property subject to an Award, the term of an Award and the vesting schedule applicable
+to an Award, to determine the terms and conditions of written instruments evidencing such Awards (an “Award Agreement”)
+and to amend the terms and conditions of outstanding Awards.
+
+ 
+
+Eligibility
+
+ 
+
+Employees, directors and
+independent contractors of the Company or any of its affiliates will be eligible to receive Awards under the 2023 Plan, subject
+to certain limitations to avoid accelerated taxation and/or tax penalties under Section 409A of the Code. The participants in the
+2023 Plan shall be selected from time to time by the Administrator, in its sole discretion, from those individuals that qualify
+as eligible recipients.
+
+ 
+
+The following table sets forth, as of February
+7, 2023, the approximate number of each class of participants eligible to participate in the Plan and the basis of such participation.
+
+ 
+
+Class
+ and Basis of Participation
+ 
+
+Approximate
+
+ Number of
+ Class
+
+Employees
+ 
+
+ 
+45
+ 
+
+Directors
+ 
+
+ 
+5
+ 
+
+Independent Contractors
+ 
+
+ 
+10
+ 
+
+ 
+
+Consideration for Awards
+
+ 
+
+The purchase price for
+any Award granted under the 2023 Plan or the Common Stock to be delivered pursuant to any such Award, as applicable, may be paid
+by means of any lawful consideration as determined by the Administrator, including, without limitation, one or a combination of
+the following methods:
+
+ 
+
+10
+
+ 
+
+ 
+
+●
+cash,
+ check
+ payable
+ to
+ the
+ order
+ of
+ the
+ Company,
+ or
+ electronic
+ funds
+ transfer;
+
+ 
+
+●
+the
+ delivery
+ of
+ previously
+ owned
+ and
+ fully
+ vested
+ Shares
+ of
+ Common
+ Stock;
+
+ 
+
+●
+by
+ a
+ reduction
+ in
+ the
+ number
+ of
+ Shares
+ otherwise
+ deliverable
+ pursuant
+ to
+ the
+ Award;
+
+ 
+
+●
+any
+ other
+ form
+ of
+ consideration
+ approved
+ by
+ the
+ Administrator
+ and
+ permitted
+ by
+ Applicable
+ Laws;
+ or
+
+ 
+
+●
+any
+ combination
+ of
+ the
+ foregoing.
+
+ 
+
+Types of Awards
+
+ 
+
+The 2023 Plan permits the
+grant of: (a) stock options, which may be intended as incentive stock options (“ISOs”) or as nonqualified stock options;
+(b) stock appreciation rights (“SARs”); (c) restricted stock; (d) restricted stock units; and (e) other stock-based
+awards. Items described above in the Section called “Shares Available” are incorporated herein by reference.
+
+ 
+
+Options
+
+ 
+
+Options granted under the
+2023 Plan shall be designated as nonqualified stock options or ISOs. Each participant (“Participant”) who is granted
+an option (“Option”) shall enter into an Award Agreement with the Company, containing such terms and conditions as
+the Administrator shall determine, in its sole discretion, including, among other things, the Exercise Price (as defined in the
+2023 Plan) of the Option, the term of the Option and provisions regarding exercisability of the Option, and whether the Option
+is intended to be an ISO or a nonqualified stock option (and in the event the Award Agreement has no such designation, the Option
+shall be a nonqualified stock option). The provisions of each Option need not be the same with respect to each Participant. More
+than one Option may be granted to the same Participant and be outstanding concurrently hereunder. The Exercise Price of Shares
+purchasable under an Option shall be determined by the Administrator in its sole discretion at the time of grant, but in no event
+shall the exercise price of an Option be less than one hundred percent (100%) of the Fair Market Value of a Share of Common Stock
+on the date of grant. The maximum term of each Option shall be fixed by the Administrator, but no Option shall be exercisable more
+than ten (10) years after the date such Option is granted. The Administrator shall have the authority to accelerate the exercisability
+of any outstanding Option at such time and under such circumstances as the Administrator, in its sole discretion, deems appropriate.
+
+ 
+
+Each Option shall be exercisable
+at such time or times and subject to such terms and conditions, including the attainment of performance goals, as shall be determined
+by the Administrator in the applicable Award Agreement. The Administrator may also provide that any Option shall be exercisable
+only in installments, and the Administrator may waive such installment exercise provisions at any time, in whole or in part, based
+on such factors as the Administrator may determine in its sole discretion. The Administrator shall have the authority to accelerate
+the exercisability of any outstanding Option at such time and under such circumstances as the Administrator, in its sole discretion,
+deems appropriate.
+
+ 
+
+Notwithstanding anything
+to the contrary in the 2023 Plan, if an ISO is granted to a participant who owns Shares representing more than ten percent (10%)
+of the voting power of all classes of Shares of the Company at the time of grant, its “parent corporation” (as such
+term is defined in Section 424(e) of the Code) or a subsidiary of the Company, the term of the ISO shall not exceed five (5) years
+from the time of grant of such ISO and the Exercise Price shall be at least one hundred and ten percent (110%) of the Fair Market
+Value of the Shares on the date of grant. A Participant shall have no rights to dividends, dividend equivalents or distributions
+or any other rights of a stockholder with respect to the Shares subject to an Option until the Participant has given written notice
+of the exercise thereof, and has paid in full for such Shares and has satisfied the requirements of the 2023 Plan.
+
+ 
+
+Treatment of an Option upon termination of
+employment of a Participant shall be provided for by the Administrator in the Award Agreement. An Option shall be affected, both
+with regard to vesting schedule and termination, by leaves of absence, including unpaid and un-protected leaves of absence, changes
+from full-time to part-time employment, partial disability or other changes in the employment status or service status of a Participant,
+in the discretion of the Administrator.
+
+ 
+
+Stock Appreciation Rights
+
+ 
+
+The Administrator will
+be authorized to award SARs under the 2023 Plan. SARs will be subject to the terms and conditions established by the Administrator
+and reflected in the Award Agreement. A SAR is a contractual right that allows a participant to receive, in the form of either
+cash, Shares or any combination of cash and Shares, the appreciation, if any, in the value of a Share over a certain period of
+time. An option granted under the 2023 Plan may include SARs, and SARs may also be awarded to a participant independent of the
+grant of an option. SARs granted in connection with an option shall be subject to terms similar to the option corresponding to
+such SARs.
+
+ 
+
+11
+
+ 
+
+ 
+
+Restricted Stock and Restricted Stock
+Units (RSUs)
+
+ 
+
+The Administrator will
+be authorized to award restricted stock or RSUs under the 2023 Plan. Awards of restricted stock and RSUs will be subject to the
+terms and conditions established by the Administrator at its sole discretion.
+
+ 
+
+Other Stock-Based Awards
+
+ 
+
+Other Stock-Based Awards
+may be issued under the 2023 Plan. Subject to the provisions of the 2023 Plan, the Administrator shall have sole and complete authority
+to determine the individuals to whom and the time or times at which such Other Stock-Based Awards shall be granted. An example
+of an Other Stock-Based Award is a performance bonus payable as Company Common Stock.
+
+ 
+
+Equitable Adjustments
+
+ 
+
+In the event of a merger,
+consolidation, reclassification, recapitalization, spin-off, spin-out, repurchase, reorganization, special or extraordinary dividend
+or other extraordinary distribution (whether in the form of common shares, cash or other property), combination, exchange of shares,
+or other change in corporate structure affecting our common stock, an equitable substitution or proportionate adjustment shall
+be made in (i) the aggregate number and kind of securities reserved for issuance under the 2023 Plan, (ii) the kind and number
+of securities subject to, and the exercise price of, any outstanding options and SARs granted under the 2023 Plan, (iii) the kind,
+number and purchase price of Shares of Common Stock, or the amount of cash or amount or type of property, subject to outstanding
+restricted stock, RSUs and other stock-based Awards granted under the 2023 Plan and (iv) the terms and conditions of any outstanding
+Awards (including any applicable performance targets). Equitable substitutions or adjustments other than those listed above may
+also be made as determined by the Administrator. In addition, the Administrator may terminate all outstanding Awards for the payment
+of cash or in-kind consideration having an aggregate fair market value equal to the excess of the fair market value of the Shares
+of Common Stock, cash or other property covered by such Awards over the aggregate exercise price, if any, of such Awards, but if
+the exercise price of any outstanding Award is equal to or greater than the fair market value of the Shares of Common Stock, cash
+or other property covered by such Award, the Administrator may cancel the Award without the payment of any consideration to the
+participant. With respect to Awards subject to foreign laws, adjustments will be made in compliance with applicable requirements.
+Except to the extent determined by the Administrator, adjustments to incentive stock options will be made only to the extent not
+constituting a “modification” within the meaning of Section 424(h)(3) of the Code.
+
+ 
+
+Change in Control
+
+ 
+
+The 2023 Plan provides
+that, unless otherwise determined by the Administrator and evidenced in an Award Agreement, if a “change in control”
+(as defined below) occurs and a participant is employed by us or any of our affiliates immediately prior to the consummation of
+the change in control, then the Administrator, in its sole and absolute discretion, may (i) provide that any unvested or unexercisable
+portion of an Award carrying a right to exercise will become fully vested and exercisable; and (ii) cause the restrictions, deferral
+limitations, payment conditions and forfeiture conditions applicable to any Award granted under the 2023 Plan to lapse, and the
+Awards will be deemed fully vested and any performance conditions imposed with respect to such Awards will be deemed to be fully
+achieved at target performance levels. The Administrator shall have discretion in connection with such change in control to provide
+that all outstanding and unexercised options and SARs shall expire upon the consummation of such change in control.
+
+ 
+
+For purposes of the 2023
+Plan, a “change in control” means, in summary, the first to occur of the following events: (i) a person or entity becomes
+the beneficial owner of more than 50% of our voting power; (ii) an unapproved change in the majority membership of our board of
+directors; (iii) a merger or consolidation of us or any of our subsidiaries, other than (A) a merger or consolidation that results
+in our voting securities continuing to represent 50% or more of the combined voting power of the surviving entity or its parent
+and our board of directors immediately prior to the merger or consolidation continuing to represent at least a majority of the
+board of directors of the surviving entity or its parent or (B) a merger or consolidation effected to implement a recapitalization
+in which no person is or becomes the beneficial owner of our voting securities representing more than 50% of our combined voting
+power; or (iv) stockholder approval of a plan of our complete liquidation or dissolution or the consummation of an agreement for
+the sale or disposition of substantially all of our assets, other than (A) a sale or disposition to an entity, more than 50% of
+the combined voting power of which is owned by our stockholders in substantially the same proportions as their ownership of us
+immediately prior to such sale or (B) a sale or disposition to an entity controlled by our board of directors. However, a change
+in control will not be deemed to have occurred as a result of any transaction or series of integrated transactions following which
+our stockholders, immediately prior thereto, hold immediately afterward the same proportionate equity interests in the entity that
+owns all or substantially all of our assets.
+
+ 
+
+12
+
+ 
+
+ 
+
+Amendment and Termination 
+
+ 
+
+The Board may amend, alter
+or terminate the 2023 Plan at any time, but no amendment, alteration or termination shall be made that would impair the rights
+of a participant under any outstanding Award theretofore granted without such participant’s consent. The Board shall obtain
+approval of the Company’s stockholders for any amendment that would require such approval in order to satisfy the requirements
+of any rules of the stock exchange on which the Common Stock is traded or other applicable law. The 2023 Plan will terminate on
+the tenth anniversary of January 3, 2023 ( the “Effective Date”) (although awards granted before that time will remain
+outstanding in accordance with their terms).
+
+ 
+
+Clawback
+
+ 
+
+If the Company is required
+to prepare a financial restatement due to the Company’s material non-compliance (whether one occurrence or a series of occurrences
+of noncompliance) with any financial reporting requirement under the securities laws (including if the Company is required to prepare
+an accounting restatement to correct an error (or a series of errors)), then the Committee may require any executive officer of
+the Company whom the Board has determined is subject to the reporting requirements of Section 10D-1(d) of the Securities Exchange
+Act of 1934, as amended from time to time (such officer, a “Executive Officer”) to repay or forfeit to the Company,
+and each Executive Officer agrees to so repay or forfeit, that part of any cash bonus and any award made pursuant to any employment
+agreement, equity award agreement or similar agreement (including any award made under the Plan) (collectively, “Incentive
+Compensation”) received by that Executive Officer during the three (3) completed fiscal years (together with any intermittent
+stub fiscal year period(s) of less than nine (9) months resulting from Company’s transition to different fiscal year measurement
+dates) preceding the date the Company is deemed to be required to prepare an accounting restatement of its financial statements
+that the Committee determines was in excess of the amount that such Executive Officer would have received had such Incentive Compensation
+been calculated based on the restated numbers, and irrespective of any fault, misconduct or responsibility of any Executive Officer
+for the accounting restatement of the Company’s financial statements. The amount and form of the Incentive Compensation to
+be recouped shall be determined by the Committee in its sole and absolute discretion and calculated on a pre-tax basis, and the
+form of such recoupment of Incentive Compensation may be made, in the Committee’s sole and absolute discretion, through the
+forfeiture or cancellation of vested or unvested awards, cash repayment or both. In addition, any award which is subject to recovery
+under any applicable laws, government regulation or stock exchange listing requirement (or any policy adopted by the Company pursuant
+to any such applicable law, government regulation or stock exchange listing requirement) will be subject to such deductions and
+clawback as may be required to be made pursuant to such applicable law, government regulation or stock exchange listing requirement
+(or any policy adopted by the Company pursuant to any such applicable law, government regulation or stock exchange listing requirement).
+
+ 
+
+US Federal Income Tax Consequences
+
+ 
+
+The following is a summary
+of certain United States federal income tax consequences of awards under the 2023 Plan. It does not purport to be a complete description
+of all applicable rules, and those rules (including those summarized here) are subject to change.
+
+ 
+
+Non-Qualified
+Stock Options
+
+ 
+
+A
+participant who has been granted a non-qualified stock option will not recognize taxable income upon the grant of a non-qualified
+stock option. Rather, at the time of exercise of such non-qualified stock option, the participant will recognize ordinary income
+for income tax purposes in an amount equal to the excess of the fair market value of the Shares of Common Stock purchased over
+the exercise price. We generally will be entitled to a tax deduction at such time and in the same amount that the participant recognizes
+ordinary income. If Shares of Common Stock acquired upon exercise of a non-qualified stock option are later sold or exchanged,
+then the difference between the amount received upon such sale or exchange and the fair market value of such Shares on the date
+of such exercise will generally be taxable as long-term or short-term capital gain or loss (if the Shares are a capital asset of
+the participant) depending upon the length of time such Shares were held by the participant.
+
+ 
+
+13
+
+ 
+
+ 
+
+Incentive
+Stock Options (“ISO”)
+
+ 
+
+In general, no taxable
+income is realized by a participant upon the grant of an ISO. If Shares of Common Stock are purchased by a participant, or option
+shares, pursuant to the exercise of an ISO granted under the 2023 Plan and the participant does not dispose of the option shares
+within the two-year period after the date of grant or within one year after the receipt of such option shares by the participant,
+such disposition a disqualifying disposition, then, generally (1) the participant will not realize ordinary income upon exercise
+and (2) upon sale of such option shares, any amount realized in excess of the exercise price paid for the option shares will be
+taxed to such participant as capital gain (or loss). The amount by which the fair market value of the Common Stock on the exercise
+date of an ISO exceeds the purchase price generally will constitute an item which increases the participant’s “alternative
+minimum taxable income.” If option shares acquired upon the exercise of an ISO are disposed of in a disqualifying disposition,
+the participant generally would include in ordinary income in the year of disposition an amount equal to the excess of the fair
+market value of the option shares at the time of exercise (or, if less, the amount realized on the disposition of the option shares),
+over the exercise price paid for the option shares. Subject to certain exceptions, an option generally will not be treated as an
+ISO if it is exercised more than three months following termination of employment. If an ISO is exercised at a time when it no
+longer qualifies as an ISO, such option will be treated as a nonqualified stock option as discussed above. In general, we will
+receive an income tax deduction at the same time and in the same amount as the participant recognizes ordinary income.
+
+ 
+
+Stock Appreciation Rights
+
+ 
+
+A participant who is granted
+an SAR generally will not recognize ordinary income upon receipt of the SAR. Rather, at the time of exercise of such SAR, the participant
+will recognize ordinary income for income tax purposes in an amount equal to the value of any cash received and the fair market
+value on the date of exercise of any shares of Common Stock received. We generally will be entitled to a tax deduction at such
+time and in the same amount, if any, that the participant recognizes as ordinary income. The participant’s tax basis in any
+shares of Common Stock received upon exercise of an SAR will be the fair market value of the shares of Common Stock on the date
+of exercise, and if the shares are later sold or exchanged, then the difference between the amount received upon such sale or exchange
+and the fair market value of such shares on the date of exercise will generally be taxable as long-term or short-term capital gain
+or loss (if the shares are a capital asset of the participant) depending upon the length of time such shares were held by the participant.
+
+ 
+
+Restricted
+Stock
+
+ 
+
+A
+participant generally will not be taxed upon the grant of restricted stock, but rather will recognize ordinary income in an amount
+equal to the fair market value of the shares of Common Stock at the earlier of the time the shares become transferable or are no
+longer subject to a substantial risk of forfeiture (within the meaning of the Code). 
+We 
+generally
+will be entitled to a deduction at the time when, and in the amount that, the participant recognizes ordinary income on account
+of the lapse of the restrictions. A participant’s tax basis in the shares of Common Stock will equal their fair market value
+at the time the restrictions lapse, and the participant’s holding period for capital gains purposes will begin at that time.
+Any cash dividends paid on the shares of Common Stock before the restrictions lapse will be taxable to the participant as additional
+compensation and not as dividend income, unless the individual has made an election under Section 83(b) of the Code. Under Section
+83(b) of the Code, a participant may elect to recognize ordinary income at the time the restricted 
+shares are 
+awarded
+in an amount equal to 
+their 
+fair market value at that time, notwithstanding
+the fact that such stock is subject to restrictions or transfer and a substantial risk of forfeiture. If such an election is made,
+no additional taxable income will be recognized by such participant at the time the restrictions lapse, the participant will have
+a tax basis in the shares of Common Stock equal to their fair market value on the date of their award, and the participant’s
+holding period for capital gains purposes will begin at that time. 
+We 
+generally
+will be entitled to a tax deduction at the time when, and to the extent that, ordinary income is recognized by such participant.
+
+ 
+
+Restricted
+Stock Units
+
+ 
+
+In general, the grant of
+RSUs will not result in income for the participant or in a tax deduction for us. Upon the settlement of such an award in cash or
+shares of Common Stock, the participant will recognize ordinary income equal to the aggregate value of the payment received, and
+we generally will be entitled to a tax deduction at the same time and in the same amount.
+
+ 
+
+14
+
+ 
+
+ 
+
+Other
+Awards
+
+ 
+
+With
+respect to other stock-based awards, generally when the participant receives payment in respect of the award, the amount of cash
+and/or the fair market value of any shares of Common Stock or other property received will be ordinary income to the participant,
+and 
+we 
+generally will be entitled to a tax deduction at the same time and
+in the same amount.
+
+ 
+
+New Plan Benefits
+
+ 
+
+Future grants under the
+2023 Plan will be made at the discretion of the Administrator and, accordingly, are not yet determinable. In addition, benefits
+under the 2023 Plan will depend on a number of factors, including the fair market value of our Common Stock on future dates and
+the exercise decisions made by participants. Other than the awards described below, we do not know of any other awards or future
+benefits, as all future awards will be made at the discretion of the Administrator. Consequently, at this time, it is not possible
+to determine the future benefits that might be received by participants receiving discretionary grants under the 2023 Plan.
+
+ 
+
+As of February 7, 2023
+the closing price of a Share of the Company’s Common Stock was $1.41.
+
+ 
+
+New
+Plan Benefits
+
+ 
+
+2023
+ Plan
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Name
+ and position
+ 
+
+Dollar
+ value ($)
+ 
+
+Number
+ of units
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Martin
+ Kay, CEO
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+1,000,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Jason
+ Frishman, Founder and former CEO Netcapital Funding Portal
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+200,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Coreen
+ Kraysler, CFO
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+200,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Executive
+ Group
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+0
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Non-Executive
+ Director Group
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+0
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Non-Executive
+ Officer Employee Group
+ 
+
+$
+0.00
+ 
+ 
+
+ 
+200,000
+ 
+
+ 
+
+In connection with the
+Employment Agreement with Martin Kay described above, on January 3, 2023, the Company granted Mr. Kay non-qualified stock options
+under the 2023 Plan to purchase one-million (1,000,000) shares of our Common Stock at an exercise price of $1.43 per share, subject
+to the approval of the 2023 Plan by our stockholders. The options vest and become exercisable in 48 equal monthly installments,
+and expire on January 3, 2023.
+
+ 
+
+15
+
+ 
+
+ 
+
+In addition, on January
+3, 2023, we granted non-qualified stock options to purchase 200,000 Shares of our Common Stock to each of Jason Frishman, Coreen
+Kraysler and Paul Riss (600,000 shares total), under the 2023 Plan at an exercise price of $1.43 per Share, subject to the approval
+of the 2023 Plan by our stockholders. These options vest and become exercisable in 48 equal monthly installments, and expire on
+January 3, 2033.
+
+ 
+
+Equity Compensation Plan Information
+
+ 
+
+2021 Equity Incentive Plan
+
+ 
+
+The following table shows
+information regarding our equity compensation plans as of April 30, 2022.
+
+ 
+
+Plan Category
+
+ 
+
+Number of 
+securities to be 
+issued upon exercise of 
+outstanding options, 
+warrants and rights (a)
+
+ 
+
+Weighted average 
+exercise price 
+of outstanding options, 
+warrants and rights (b)
+
+ 
+
+Number of securities 
+remaining available 
+for future issuance 
+under equity 
+compensation plans 
+(excluding securities 
+reflected in column (c)
+
+Equity compensation plans approved by security holders
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+Equity compensation plans not approved by security holders (1)
+
+ 
+
+ 
+
+271,000
+
+ 
+
+ 
+
+$
+
+10.50
+
+ 
+
+ 
+
+ 
+
+29,000
+
+ 
+
+Total
+
+ 
+
+ 
+
+271,000
+
+ 
+
+ 
+
+$
+
+10.50
+
+ 
+
+ 
+
+ 
+
+29,000
+
+ 
+
+ 
+
+(1) 
+2021 Equity Incentive Plan
+. In November
+2021, our Board adopted the 2021 Equity Incentive Plan, or the Plan. An aggregate of 300,000 shares of our common stock is reserved
+for issuance and available for awards under the Plan, including incentive stock options granted under the Plan. The Plan administrator
+may grant awards to any employee, director, consultant or other person providing services to us or our affiliates. As of June 23,
+2022, we had awarded an aggregate of 271,000 options to purchase shares of common stock to directors and there remain 29,000 shares
+for grant under the Plan.
+
+ 
+
+The Plan is administered
+by our Board. The Plan administrator has the authority to determine, within the limits of the express provisions of the Plan, the
+individuals to whom awards will be granted, the nature, amount and terms of such awards and the objectives and conditions for earning
+such awards. Our Board may at any time amend or terminate the Plan, provided that no such action may be taken that adversely affects
+any rights or obligations with respect to any awards previously made under the Plan without the consent of the recipient. No awards
+may be made under the Plan after the tenth anniversary of its effective date.
+
+ 
+
+Awards under the Plan may
+include incentive stock options, nonqualified stock options, stock appreciation rights (“SARs”), restricted shares
+of common stock, restricted stock units, performance share awards, stock bonuses and other stock-based awards and cash-based incentive
+awards.
+
+ 
+
+Stock Options
+. The
+Plan administrator may grant to a participant options to purchase our common stock that qualify as incentive stock options for
+purposes of Section 422 of the Internal Revenue Code (“incentive stock options”), options that do not qualify as incentive
+stock options (“non-qualified stock options”) or a combination thereof. The terms and conditions of stock option grants,
+including the quantity, price, vesting periods, and other conditions on exercise will be determined by the Plan administrator.
+The exercise price for stock options will be determined by the Plan administrator in its discretion, but non-qualified stock options
+and incentive stock options may not be less than 100% of the fair market value of one share of our company’s common stock
+on the date when the stock option is granted. Additionally, in the case of incentive stock options granted to a holder of more
+than 10% of the total combined voting power of all classes of our stock on the date of grant, the exercise price may not be less
+than 110% of the fair market value of one share of common stock on the date the stock option is granted. Stock options must be
+exercised within a period fixed by the Plan administrator that may not exceed ten years from the date of grant, except that in
+the case of incentive stock options granted to a holder of more than 10% of the total combined voting power of all classes of our
+stock on the date of grant, the exercise period may not exceed five years. At the Plan administrator’s discretion, payment
+for shares of common stock on the exercise of stock options may be made in cash, shares of our common stock held by the participant
+or in any other form of consideration acceptable to the Plan administrator (including one or more forms of “cashless”
+or “net” exercise).
+
+ 
+
+16
+
+ 
+
+ 
+
+Stock Appreciation Rights
+.
+The Plan administrator may grant to a participant an award of SARs, which entitles the participant to receive, upon its exercise,
+a payment equal to (i) the excess of the fair market value of a share of common stock on the exercise date over the SAR exercise
+price, times (ii) the number of shares of common stock with respect to which the SAR is exercised. The exercise price for a SAR
+will be determined by the Plan administrator in its discretion; provided, however, that in no event shall the exercise price be
+less than the fair market value of our common stock on the date of grant.
+
+ 
+
+Restricted Shares and
+Restricted Units
+. The Plan administrator may award to a participant shares of common stock subject to specified restrictions
+(“restricted shares”). Restricted shares are subject to forfeiture if the participant does not meet certain conditions
+such as continued employment over a specified forfeiture period and/or the attainment of specified performance targets over the
+forfeiture period. The Plan administrator also may award to a participant units representing the right to receive shares of common
+stock in the future subject to the achievement of one or more goals relating to the completion of service by the participant and/or
+the achievement of performance or other objectives (“restricted units”). The terms and conditions of restricted share
+and restricted unit awards are determined by the Plan administrator.
+
+ 
+
+Stock Bonuses
+. Stock
+bonuses may be granted as additional compensation for service or performance and may be settled in the form of common stock, cash
+or a combination thereof, and may be subject to restrictions, which may vest subject to continued service and/or the achievement
+of performance conditions.
+
+ 
+
+Performance Awards
+.
+The Plan administrator may grant performance awards to participants under such terms and conditions as the Plan administrator deems
+appropriate. A performance award entitles a participant to receive a payment from us, the amount of which is based upon the attainment
+of predetermined performance targets over a specified award period. Performance awards may be paid in cash, shares of common stock
+or a combination thereof, as determined by the Plan administrator.
+
+ 
+
+Other Stock-Based Awards
+.
+The Plan administrator may grant equity-based or equity-related awards, referred to as “other stock-based awards,”
+other than options, SARs, restricted shares, restricted units, or performance awards. The terms and conditions of each other stock-based
+award will be determined by the Plan administrator. Payment under any other stock-based awards will be made in common stock or
+cash, as determined by the Plan administrator.
+
+ 
+
+2022 Summary Compensation Table
+
+ 
+
+The following table sets forth,
+for the fiscal years indicated, all compensation awarded to, earned by or paid to Cecilia Lenk, our Chief Executive Officer, Coreen Kraysler,
+our Chief Financial Officer, our Founder and former Chief Executive Officer of our wholly owned subsidiary Netcapital Funding Portal,
+Inc., Jason Frishman, and Carole Murko, our former Chief Marketing Officer, or, collectively, the Named Executive Officers, or NEOs.
+
+ 
+
+17
+
+ 
+
+ 
+
+ 
+
+Summary Compensation Table
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-equity
+
+ 
+
+Nonqualified
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive
+
+ 
+
+deferred
+
+ 
+
+ 
+
+ 
+
+ 
+
+and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stock
+
+ 
+
+Option
+
+ 
+
+plan
+
+ 
+
+compensation
+
+ 
+
+All other
+
+ 
+
+ 
+
+principal
+
+ 
+
+ 
+
+ 
+
+Salary
+
+ 
+
+Bonus
+
+ 
+
+awards
+
+ 
+
+awards
+
+ 
+
+compensation
+
+ 
+
+earnings
+
+ 
+
+compensation
+
+ 
+
+Total
+
+position
+
+ 
+
+Year
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)
+(1)
+
+ 
+
+($)
+(2)
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)
+(3)
+
+ 
+
+($)
+
+(a)
+
+ 
+
+(b)
+
+ 
+
+(c)
+
+ 
+
+(d)
+
+ 
+
+(e)
+
+ 
+
+(f)
+
+ 
+
+(g)
+
+ 
+
+(h)
+
+ 
+
+(i)
+
+ 
+
+ 
+
+Cecilia
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+40,608
+
+ 
+
+ 
+
+ 
+
+5,825
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+142,433
+
+ 
+
+Lenk, CEO (until January 2, 2023)
+
+ 
+
+ 
+
+2021
+
+ 
+
+ 
+
+ 
+
+81,431
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+161,107
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+242,538
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coreen
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+40,608
+
+ 
+
+ 
+
+ 
+
+11,649
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+148,257
+
+ 
+
+Kraysler, CFO
+
+ 
+
+ 
+
+2021
+
+ 
+
+ 
+
+ 
+
+81,431
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+161,107
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+242,538
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Carole
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Murko, former CMO (until January 7, 2022)
+(3)
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+69,676
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+109,547
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+7,385
+
+ 
+
+ 
+
+ 
+
+186,608
+
+ 
+
+ 
+
+ 
+
+ 
+
+2021
+
+ 
+
+ 
+
+ 
+
+88,431
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+31,693
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+120,124
+
+ 
+
+Jason Frishman, Founder and former CEO Netcapital
+ Funding Portal (until February 9, 2023)
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+11,649
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+107,649
+
+ 
+
+ 
+
+ 
+
+ 
+
+2021
+
+ 
+
+ 
+
+ 
+
+114,284
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+114,284
+
+ 
+
+ 
+
+ 
+
+(1)
+
+Amounts reported represent the aggregate
+ grant date fair value for stock awards granted in each respective year in accordance with FASB ASC Topic 718, excluding the
+ effect of forfeitures. See Item 7, “Stockholder’s Equity” in the Notes to the Company’s Consolidated
+ Financial Statements for the fiscal year ended April 30, 2022 included in the Company’s Annual Report on Form 10-K for
+ the year ended April 30, 2022 for more information regarding the Company’s accounting for share-based compensation plans.
+ The amounts shown in the Summary Compensation Table above do not represent the actual value realized by each NEO.
+
+ 
+
+(2)
+
+Amounts reported represent
+ the aggregate grant date fair value for option awards granted in each respective year in accordance with FASB ASC Topic 718,
+ excluding the effect of forfeitures. See Item 7, “Stockholder’s Equity” in the Notes to the Company’s
+ Consolidated Financial Statements for the fiscal year ended April 30, 2022 included in the Company’s Annual Report on
+ Form 10-K for the year ended April 30, 2022 for more information regarding the Company’s accounting for share-based
+ compensation plans. The amounts shown in the Summary Compensation Table above do not represent the actual value realized by
+ each NEO.
+
+ 
+
+(3
+
+Ms. Murko received severance
+ of $7,385 and her 8,885 unvested shares vested upon termination, both pursuant to a separation agreement.
+
+ 
+
+Employment Agreements
+
+ 
+
+We currently have employment agreements
+with Martin Kay, Coreen Kraysler and Jason Frishman as described below. Prior to Ms. Lenk’s resignation on January 3, 2023, resignation
+of Jason Frishman on February 9, 2023, and the termination of Carole Murko on January 7, 2022, we had an employment agreement with each
+as described below:
+
+ 
+
+Employment Agreement with Martin Kay
+
+ 
+
+We entered into an employment
+agreement with Martin Kay on January 3, 2023 under which we employ Mr. Kay as Chief Executive Officer. Under the terms of his Employment
+Agreement, Mr. Kay is eligible to:
+
+ 
+
+(a)
+receive
+ an
+ annual
+ base
+ salary
+ of
+ $300,000;
+
+ 
+
+(b)
+receive
+ an
+ option
+ grant
+ to
+ purchase
+ 100,000
+ fully
+ vested
+ Shares
+ of
+ the
+ Company
+ pursuant
+ to
+ the
+ 2023
+ Plan
+ and
+ an
+ option
+ grant
+ to
+ purchase
+ 1,000,000
+ Shares
+ of
+ the
+ Company,
+ which
+ vest
+ monthly
+ over
+ four
+ (4)
+ years
+ pursuant
+ to
+ an
+ option
+ award
+ agreement,
+ described
+ below,
+ and
+ in
+ each
+ case
+ subject
+ to
+ the
+ 2023
+ Plan;
+
+ 
+
+(c)
+receive
+ periodic
+ bonuses
+ or
+ additional
+ salary
+ in
+ the
+ discretion
+ of
+ the
+ Board
+ or
+ compensation
+ committee;
+
+ 
+
+(d)
+receive
+ .005
+ time
+ of
+ gross
+ revenue
+ paid
+ in
+ cash
+ annually
+ so
+ long
+ as
+ the
+ Company
+ reports
+ positive
+ earnings
+ after
+ the
+ bonus
+ is
+ paid;
+
+ 
+
+18
+
+ 
+
+ 
+
+(e)
+participate
+ in
+ the
+ Company’s
+ fringe
+ benefits,
+ health
+ and
+ welfare
+ plans,
+ and
+ pension
+ and/
+ or
+ profit
+ sharing
+ plans
+ provided
+ to
+ executives;
+
+ 
+
+(f)
+receive
+ reimbursement
+ for
+ all
+ reasonable
+ business
+ expenses;
+
+ 
+
+(g)
+receive
+ sick
+ leave,
+ sick
+ pay,
+ and
+ disability
+ benefits
+ in
+ accordance
+ with
+ Company
+ policy;
+
+ 
+
+The Employment Agreement,
+which has a three-year term, may be terminated upon the occurrence of the death of Mr. Kay, at any time by Mr. Kay, by the Company
+due to disability, by the Company for “cause”, and by Mr. Kay for “good reason”. The Employment Agreement
+also contain provisions regarding, among other things, a six (6)-month non-competition provision, confidential information, governing
+law, and covenants governing Mr. Kay’s conduct.
+
+ 
+
+Employment Agreement with Coreen Kraysler
+
+ 
+
+We entered into an employment
+agreement with Jason Frishman on June 23, 2022 pursuant to which we employed Mr. Frishman as Chief Executive Officer of Netcapital Funding
+Portal, Inc. The term of his agreement ends on June 23, 2025. The Agreement provided for an annual base salary during the term of the
+agreement of $96,000, which will be increased to $150,000 upon completion of this offering. Mr. Frishman is eligible for periodic bonuses
+or for additional salary in addition to his base salary, as may be determined by our board of directors or the compensation committee.
+
+ 
+
+The agreement also contained the
+following material provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share plans; eligible
+to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits; entitled to reimbursement for
+all reasonable and necessary business expenses. Mr. Frishman agreed to non-compete and non-solicit terms under his agreement.
+
+ 
+
+Mr. Frishman resigned from his
+position as Chief Executive Officer of Netcapital Funding Portal, Inc. effective February 9, 2023; however, he remains a founder of Netcapital
+Inc. As a result of his resignation, Mr. Frishman is not party to a current employment agreement.
+
+ 
+
+Employment Agreement with Cecilia Lenk
+
+ 
+
+We entered into an employment
+agreement with Jason Frishman on June 23 2022 pursuant to which we employ Mr. Frishman as Chief Executive Officer of Netcapital
+Funding Portal, Inc. The term of his agreement ends on June 23, 2025. The Agreement provides for an annual base salary during the
+term of the agreement of $96,000, which will be increased to $150,000 upon completion of this offering. Mr. Frishman is eligible
+for periodic bonuses or for additional salary in addition to his base salary, as may be determined by our board of directors or
+the compensation committee.
+
+ 
+
+The agreement also contains
+the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share
+plans; eligible to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits; entitled
+to reimbursement for all reasonable and necessary business expenses. Mr. Frishman agreed to non-compete and non-solicit terms under
+his agreement.
+
+ 
+
+[Employment Agreement with Cecilia Lenk
+
+ 
+
+We entered into an employment
+agreement with Cecilia Lenk on June 23, 2022 pursuant to which we employed Ms. Lenk as our President and Chief Executive Officer.
+The Agreement provided for an annual base salary during the term of the agreement of $96,000, which will be increased to $150,000
+upon completion of this offering. Ms. Lenk is eligible for periodic bonuses or for additional salary in addition to her base salary,
+as may be determined by our board of directors or the compensation committee.
+
+ 
+
+The agreement also contained
+the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share
+plans; eligible to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits; entitled
+to reimbursement for all reasonable and necessary business expenses. Ms. Lenk agreed to non-compete and non-solicit terms under
+her agreement.
+
+ 
+
+Ms. Lenk resigned her position
+as Chief Executive Officer effective January 3, 2023; however she remains a director of Netcapital Inc. and the President of Netcapital
+Advisors Inc., a wholly owned subsidiary of Netcapital Inc. As a result of her resignation, Ms. Lenk is not party to a current
+employment agreement.
+
+ 
+
+19
+
+ 
+
+ 
+
+Employment Agreement with Carole Murko
+
+ 
+
+We entered into an employment
+agreement with Carole Murko on March 10, 2020 pursuant to which we employed Ms. Murko as our Director of Business Development.
+The agreement was for an initial term of four years. The agreement provided for an annual base salary during the term of the agreement
+of $1.00 plus a commission of 20% of the cash collected from revenues generated directly by Ms. Murko plus an unvested grant of
+stock-based compensation of 12,500 shares (after giving effect to the November 2020 1-for-2000 reverse stock split) of restricted
+stock. The stock vested over a 48-month period in equal installments of 260 shares per month. Ms. Murko is eligible for periodic
+bonuses or for additional salary in addition to her base salary.
+
+ 
+
+The agreement also contained
+the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share
+plans; eligible to participate in any medical and health plans; entitled to up to eight weeks of paid time off; entitled to sick
+leave, sick pay and disability benefits; entitled to reimbursement for all reasonable and necessary business expenses. If Ms. Murko
+was to be terminated for any reason other than “cause” prior to the end of her term, then the Company will have no
+claim on the unvested portion of her 12,500 shares. If Ms. Murko resigned without “good reason” or retired before the
+end of her term, the unvested shares would have been returned to the Company. Ms. Murko agreed to non-compete and non-solicit terms
+under her agreement.
+
+ 
+
+Separation Agreement with Carole Murko
+
+ 
+
+Pursuant to a separation
+agreement dated March 10, 2020, effective as of January 7, 2022, the Company terminated the employment agreement of Carol Murko,
+its chief marketing officer. As a result of the termination, an unvested equity grant amounting to 8,855 shares of the Company’s
+common stock, par value $0.001, became fully vested. Ms. Murko also received four week’s salary of $7,384.60 as a lump sum
+payment when the separation agreement was signed, in exchange for a mutual general release of claims and covenant not to sue.
+
+ 
+
+Bonuses
+
+ 
+
+In October of 2022, bonuses
+were paid to Jason Frishman, Coreen Kraysler, and Paul Riss in the amounts of $25,000 each. . These bonuses were paid to recognize
+the contributions of these individuals for completing the public offering of the Company, which was completed by the Company in
+July 2022 and were approved by the board of the Company, and were not paid in respect of the 2022 fiscal year.
+
+ 
+
+Outstanding Equity Awards At the End of
+Fiscal Year 2022
+
+ 
+
+The following table provides
+information about outstanding stock options issued by the Company held by each of our NEOs as of April 30, 2022. None of our NEOs
+held any other equity awards from the Company as of April 30, 2022.
+
+ 
+
+Option Awards
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Equity
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Incentive
+ 
+
+Plan
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Awards:
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Number
+ 
+
+Number
+ 
+
+of
+ Number
+ 
+
+of
+ 
+
+ 
+
+ 
+ 
+
+Securities
+ 
+
+Securities
+ 
+
+Securities
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Underlying
+ 
+
+Underlying
+ 
+
+Underlying
+ 
+
+Option
+ 
+
+ 
+
+ 
+ 
+
+Unexercised
+ 
+
+Unexercised
+ 
+
+Unexercised
+ 
+
+Exercise
+ 
+
+Option
+
+ 
+ 
+
+Options
+ 
+
+Options
+ 
+
+(#)
+ Unearned
+ 
+
+Price
+ 
+
+Expiration
+
+Name
+ 
+
+Exercisable
+ 
+
+Unexercisable
+ 
+
+Options
+ (#)
+ 
+
+($)
+ 
+
+Date
+
+(a)
+ 
+
+(b)
+ 
+
+(c)
+ 
+
+(d)
+ 
+
+(e)
+ 
+
+(f)
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+Cecilia Lenk
+ 
+ 
+
+ 
+625
+ 
+ 
+
+ 
+9,375
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+10.50
+ 
+ 
+
+ 
+2/9/2032
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Coreen
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Kraysler
+ 
+ 
+
+ 
+1,250
+ 
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+10.50
+ 
+ 
+
+ 
+2/9/2032
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Jason
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Frishman
+ 
+ 
+
+ 
+1,250
+ 
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+10.50
+ 
+ 
+
+ 
+2/9/2032
+ 
+
+ 
+
+(1) The options generally vest over time, as
+follows: Options vest monthly over a 48-month period following January date of grant, with full vesting on January 31, 2026. All
+prior stock awards to NEOs were fully vested before April 30, 2022. The Options shall vest with respect to 100% of the Shares over
+a four-year period, with approximately 416 shares, for Ms. Kraysler and Mr. Frishman, and 208 shares for Ms. Lenk (subject to adjustment
+as provided in the Plan) vesting every month from the date of issuance until 100% of the Shares granted have vested. In addition,
+the Option shall vest with respect to 100% of the Shares upon a sale of the company, as defined in the option agreements. All of
+the options issued to Ms. Murko are fully vested.
+
+ 
+
+20
+
+ 
+
+ 
+
+Additional Narrative Disclosure
+
+ 
+
+Items described above
+in the Section called “Employment Agreements” under the heading “Separation Agreement with Carole Murko”
+is incorporated herein by reference.
+
+ 
+
+Director Compensation
+
+ 
+
+Name
+
+ 
+
+Fees earned or paid in cash
+
+($)
+
+ 
+
+Stock awards
+
+($)
+(1)
+
+ 
+
+Option awards
+
+($)
+(2)
+
+ 
+
+Non-equity incentive plan
+
+compensation
+
+($)
+
+ 
+
+Nonqualified deferred
+
+compensation earnings
+
+($)
+
+ 
+
+All other compensation
+
+($)
+
+ 
+
+Total
+
+($)
+
+(a)
+
+ 
+
+(b)
+
+ 
+
+(c)
+
+ 
+
+(d)
+
+ 
+
+(e)
+
+ 
+
+(f)
+
+ 
+
+(g)
+
+ 
+
+(h)
+
+Avi Liss
+
+ 
+
+ 
+
+ 
+
+$
+
+100,000
+
+(3)
+
+ 
+
+$
+
+9,692
+
+(4)
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+$
+
+109,692
+
+ 
+
+Thomas Carmody
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+$
+
+9,692
+
+(4)
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+$
+
+9,692
+
+ 
+
+Steven Geary
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+$
+
+9,692
+
+(4)
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+$
+
+9,692
+
+ 
+
+ 
+
+(1)
+
+Avi Liss was issued 10,000 Shares of Common Stock valued at $10.00 per Share on November 17, 2021, all of which are currently outstanding.
+
+(2)
+
+Avis Liss, Thomas Carmody, and Steven Geary, were each issued options (all of which are currently outstanding) to purchase 5,000 Shares of Common Stock of the Company, 
+at an exercise price of $10.50
+, under the 2021 Equity Incentive Plan on February 9, 2022.
+
+(3)
+
+Amounts reported represent the aggregate grant date fair value for stock awards granted in each respective year in accordance with FASB ASC Topic 718, excluding the effect of forfeitures. See Item 7, “Stockholder’s Equity” in the Notes] to the Company’s Consolidated Financial Statements for the fiscal year ended April 30, 2022 included in the Company’s Annual Report on Form 10-K for the year ended April 30, 2022 for more information regarding the Company’s accounting for share-based compensation plans. The amounts shown in the Director Compensation Table above do not represent the actual value realized by each Director.
+
+(4)
+
+Amounts reported represent the aggregate grant date fair value for option awards granted in each respective year in accordance with FASB ASC Topic 718, excluding the effect of forfeitures. See Item 7, “Stockholder’s Equity” in the Notes to the Company’s Consolidated Financial Statements for the fiscal year ended April 30, 2022 included in the Company’s Annual Report on Form 10-K for the year ended April 30, 2022 for more information regarding the Company’s accounting for share-based compensation plans. The amounts shown in the Director Compensation Table above do not represent the actual value realized by each Director.
+
+21
+
+ 
+
+ 
+
+Current Director Compensation Program
+
+ 
+
+Our current director compensation
+program went into effect as of February 9, 2022, and is designed to align our director compensation program with the long-term
+interests of our stockholders by implementing a program comprised of equity compensation. The directors do not receive cash compensation
+as part of the director compensation program. We previously had no director compensation program.
+
+ 
+
+In setting director compensation,
+the Company considers the amount of time that directors expend in fulfilling their duties to the Company as well as the skill level
+and experience required by our board of directors. The Company also considers board compensation practices at similarly situated
+companies, while keeping in mind the compensation philosophy of the Company and the stockholders’ interests. The directors
+also receive reimbursement for expenses, including reasonable travel expenses to attend board and committee meetings, reasonable
+outside seminar expenses, and other special board related expenses.
+
+ 
+
+The Company made one grant
+to Avi Liss of 10,000 Shares of Common Stock valued at $10.00 per Share on November 17, 2021 in consideration of his services as
+a director of the Company.
+
+ 
+
+Additionally, on February
+9, 2022, every board member received an option grant to purchase Shares of Common Stock at an exercise price of $10.50 under the
+2021 Equity Incentive Plan. Of the 25,000 option shares that were issued, 10,000 were granted to Ms. Lenk, the then current CEO,
+and 5,000 Shares were granted to each of the independent directors, as set forth above.
+
+ 
+
+Officer Compensation
+
+ 
+
+Beginning in fiscal 2021, we paid each of our
+Named Executives Officers an annual salary of $96,000 per annum. Each Named Executive Officer has also received varying amounts
+of equity awards for their services. In addition to base pay, Carole Murko earned commissions on certain transactions.
+
+ 
+
+Grants under the 2023 Plan
+
+ 
+
+In connection with the
+Employment Agreement with Martin Kay described above, on January 3, 2023, the Company granted Mr. Kay non-qualified stock options
+under the 2023 Plan to purchase one-million (1,000,000) shares of our common stock at an exercise price of $1.43 per share, subject
+to the approval of the 2023 Plan by our stockholders. The options vest and become exercisable in 48 equal monthly installments.
+
+ 
+
+In addition, on January
+3, 2023, we granted non-qualified stock options to purchase 200,000 Shares of our common stock to each of Jason Frishman, Coreen
+Kraysler and Paul Riss (600,000 shares total), under the 2023 Plan at an exercise price of $1.43 per Share, subject to the approval
+of the 2023 Plan by our stockholders. These options vest and become exercisable in 48 equal monthly installments.
+
+ 
+
+22
+
+ 
+
+ 
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL
+OWNERS AND MANAGEMENT
+
+ 
+
+The following table sets
+forth information with respect to the beneficial ownership of shares of our common stock as of February 7, 2023
+ 
+by:
+
+ 
+
+● 
+
+each person whom we know beneficially owns more than
+ 5% of any class of equity security;
+
+ 
+
+ 
+
+● 
+
+each of our directors individually;
+
+ 
+
+ 
+
+● 
+
+each of our named executive officers individually;
+ and
+
+ 
+
+ 
+
+● 
+
+all of our current directors and executive officers
+ as a group.
+
+ 
+
+We have determined beneficial
+ownership in accordance with the rules of the SEC. These rules generally attribute beneficial ownership of securities to persons who possess
+sole or shared voting or investment power with respect to such securities. In addition, pursuant to such rules, we deemed outstanding
+shares of common stock subject to options or warrants held by that person that are currently exercisable or exercisable within 60 days
+of February 7, 2023. We did not deem such shares outstanding, however, for the purpose of computing the percentage ownership of any other
+person. Except as indicated by the footnotes below, we believe, based on the information furnished to us, that the beneficial owners named
+in the table below have sole voting and investment power with respect to all shares of our common stock that they beneficially own, subject
+to applicable community property laws. The inclusion in the table below of any shares deemed beneficially owned does not constitute an
+admission of beneficial ownership of those shares.
+
+ 
+
+Name
+ and Address
+ 
+of Beneficial
+ Owner 
+(1)
+ 
+
+Amount
+ of Shares and Nature
+ of Beneficial Ownership of Common 
+ Stock
+ 
+
+Percent
+ of Common Stock*
+
+5%
+ Stockholders:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Netcapital
+ Systems LLC 
+(2)
+ 
+
+ 
+1,711,261
+ 
+ 
+
+ 
+28.27
+%
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Officers
+ and Directors:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Arnold Scott
+ 
+
+ 
+86,140
+ 
+ 
+
+ 
+1.42
+%
+
+Martin Kay
+ 
+(3)
+ 
+
+ 
+62,500
+ 
+ 
+
+ 
+1.02
+%
+
+Coreen Kraysler
+ 
+(4)
+ 
+
+ 
+40,833
+ 
+ 
+
+ 
+**%
+ 
+
+Cecilia Lenk
+ 
+(5)
+ 
+
+ 
+28,568
+ 
+ 
+
+ 
+**%
+ 
+
+Avi Liss
+(6)
+ 
+
+ 
+12,458
+ 
+ 
+
+ 
+**%
+ 
+
+Steven Geary
+(7)
+ 
+
+ 
+11,758
+ 
+ 
+
+ 
+**%
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Officers
+ and Directors as a group (6 persons)
+ 
+
+ 
+242,258
+ 
+ 
+
+ 
+4.0
+%
+
+ 
+
+* Based on 6,053,027 shares outstanding as of February 7, 2023
+
+** Less than 1%
+
+ 
+
+ 
+
+(1)
+
+Unless otherwise noted,
+ the business address of each member of our Board is c/o Netcapital Inc. 1 Lincoln Street, Boston Massachusetts 02111.
+
+ 
+
+ 
+
+(2)
+
+The natural person with
+ investment control over the securities held by Netcapital DE LLC is Jason Frishman. Netcapital Systems LLC has agreed to vote
+ its shares of common stock to support the resolutions of the Board of Netcapital Inc. on any matters that are brought to a
+ shareholder vote.
+
+ 
+
+ 
+
+(3)
+
+Includes 62,500 shares
+ of common stock subject to stock options that are presently exercisable or exercisable within 60 days after February 7, 2023.
+
+ 
+
+ 
+
+(4)
+
+Includes 18,333 shares
+ of common stock subject to stock options that are presently exercisable or exercisable within 60 days after February 7, 2023.
+
+ 
+
+ 
+
+(5)
+
+Includes 2,917 shares
+ of common stock subject to stock options that are presently exercisable or exercisable within 60 days after February 7, 2023.
+
+ 
+
+(6)
+
+Includes 1,458 shares
+ of common stock subject to stock options that are presently exercisable or exercisable within 60 days after February 7, 2023.
+
+ 
+
+ 
+
+(7)
+
+Includes 1,458 shares
+ of common stock subject to stock options that are presently exercisable or exercisable within 60 days after February 7, 2023.
+
+ 
+
+Required Vote of Stockholders
+
+ 
+
+The affirmative vote of
+a majority of the votes cast at the Special Meeting is required to approve the amendment to the 2023 Plan.
+
+ 
+
+Board Recommendation
+
+ 
+
+The board of directors
+unanimously recommends a vote “
+FOR
+” Proposal 1.
+
+ 
+
+23
+
+ 
+
+ 
+
+OTHER MATTERS
+
+ 
+
+The board of directors knows
+of no other business, which will be presented to the Special Meeting. If any other business is properly brought before the Special
+Meeting, proxies in the enclosed form will be voted in accordance with the judgment of the persons voting the proxies.
+
+ 
+
+If you do not plan to attend
+the Special Meeting, in order that your shares may be represented and in order to assure the required quorum, please sign, date
+and return your proxy promptly. In the event you are able to attend the Special Meeting virtually, at your request, we will cancel
+your previously submitted proxy.
+
+ 
+
+ADDITIONAL INFORMATION
+
+ 
+
+HOUSEHOLDING
+
+ 
+
+The SEC has adopted rules
+that permit companies and intermediaries (e.g., brokers) to satisfy the delivery requirements for proxy statements and other Special
+Meeting materials with respect to two or more stockholders sharing the same address by delivering a proxy statement or other Special
+Meeting materials addressed to those stockholders. This process, which is commonly referred to as householding, potentially provides
+extra convenience for stockholders and cost savings for companies. Stockholders who participate in householding will continue to
+be able to access and receive separate proxy cards.
+
+ 
+
+If you share an address
+with another stockholder and have received multiple copies of our proxy materials, you may write or call us at the address or phone
+number below to request delivery of a single copy of the notice and, if applicable, other proxy materials in the future. We undertake
+to deliver promptly upon written or oral request a separate copy of the proxy materials, as requested, to a stockholder at a shared
+address to which a single copy of the proxy materials was delivered. If you hold stock as a record stockholder and prefer to receive
+separate copies of our proxy materials either now or in the future, please contact us at 1 Lincoln Street, Boston, MA 02111, Attn:
+Secretary, or by phone at (781) 925-1700. If your stock is held through a brokerage firm or bank and you prefer to receive separate
+copies of our proxy materials either now or in the future, please contact your brokerage firm or bank.
+
+ 
+
+ANNUAL REPORT
+
+ 
+
+Additional copies of our Annual Report on Form
+10-K for the fiscal year ended April 30, 2022 may be obtained without charge by writing to the Company at Lincoln Street, Boston,
+MA 02111, Attn: Secretary, or by phone at (781) 925-1700.
+
+ 
+
+ 
+
+By Order of the Board of Directors
+
+ 
+
+ 
+
+By:
+
+/s/ Martin
+ Kay
+
+ 
+
+Name:
+
+Martin Kay
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+Date:
+
+February_9, 2023
+
+ 
+
+24
+
+ 
+
+ANNEX A
+
+NETCAPITAL INC.
+
+2023 OMNIBUS EQUITY INCENTIVE PLAN
+
+ 
+
+Section
+1.              	
+Purpose of Plan.
+
+ 
+
+The name of the Plan is the Netcapital Inc. 2023
+Omnibus Equity Incentive Plan (the “
+Plan
+”). The purposes of the Plan are to (i) provide an additional incentive
+to selected employees, directors, and independent contractors of the Company or its Affiliates whose contributions are essential
+to the growth and success of the Company, (ii) strengthen the commitment of such individuals to the Company and its Affiliates,
+(iii) motivate those individuals to faithfully and diligently perform their responsibilities and (iv) attract and retain
+competent and dedicated individuals whose efforts will result in the long-term growth and profitability of the Company. To accomplish
+these purposes, the Plan provides that the Company may grant Options, Stock Appreciation Rights, Restricted Stock, Restricted Stock
+Units, Other Stock-Based Awards or any combination of the foregoing.
+
+ 
+
+Section
+2.              	
+Definitions.
+
+ 
+
+For purposes of the Plan, the following terms
+shall be defined as set forth below:
+
+ 
+
+(a)           	“
+Administrator
+” means
+the Board, or, if and to the extent the Board does not administer the Plan, the Committee in accordance with Section 3 hereof.
+
+ 
+
+(b)          	“
+Affiliate
+” means a
+Person that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control
+with, the Person specified as of any date of determination.
+
+ 
+
+(c)           	“
+Applicable Laws
+” means the applicable requirements under U.S. federal and state corporate laws, U.S.
+federal and state securities laws, including the Code, any stock exchange or quotation system on which the Common Stock is
+listed or quoted and the applicable laws of any other country or jurisdiction where Awards are granted under the Plan, as are
+in effect from time to time.
+
+ 
+
+(d)          	“
+Award
+” means any Option,
+Stock Appreciation Right, Restricted Stock, Restricted Stock Unit or Other Stock-Based Award granted under the Plan.
+
+ 
+
+(e)           	“
+Award Agreement
+” means
+any written notice, agreement, contract or other instrument or document evidencing an Award, including through electronic medium,
+which shall contain such terms and conditions with respect to an Award as the Administrator shall determine, consistent with the
+Plan.
+
+ 
+
+(f)           	“
+Beneficial Owner”
+
+(or any variant thereof) has the meaning defined in Rule 13d-3 under the Exchange Act.
+
+ 
+
+(g)          	“
+Board
+” means the Board
+of Directors of the Company.
+
+ 
+
+(h)	          “
+Bylaws
+” mean the bylaws
+of the Company, as may be amended and/or restated from time to time.
+
+ 
+
+(i)           	“
+Cause
+” has the meaning
+assigned to such term in any individual service, employment or severance agreement or Award Agreement with the Participant or,
+if no such agreement exists or if such agreement does not define “Cause,” then “Cause” means (i) the Participant’s
+conviction of, admission of guilt to or plea of nolo contendere or similar plea (which, through lapse of time or otherwise, is
+not subject to appeal) with respect to any crime or offense that constitutes a felony in the jurisdiction involved, (ii) acts of
+dishonesty or moral turpitude which are materially detrimental to the Company and/or its Affiliates, (iii) failure by the Participant
+to obey the reasonable and lawful orders of the Board following written notice of such failure from the Board, (iv) any breach
+by the Participant of any restrictive covenants to which the Participant is subject, (v) following written notice from the Board
+of prior similar actions by Participant, excessive absenteeism (other than by reason of disability), (vi) following written notice
+from the Board of prior similar actions by Participant, excessive alcoholism or addiction to drugs not prescribed by a qualified
+physician, or (vii) gross negligence by the Participant in the performance of, or willful disregard by the Participant of, the
+Participant’s duties and obligations hereunder. Any voluntary termination of employment or service by the Participant in
+anticipation of an involuntary termination of the Participant’s employment or service, as applicable, for Cause shall be
+deemed to be a termination for Cause.
+
+ 
+
+A-
+1
+ 
+
+ 
+
+ 
+
+(j)            	“
+Change in Capitalization
+”
+means any (i) merger, consolidation, reclassification, recapitalization, spin-off, spin-out, repurchase or other reorganization
+or corporate transaction or event, (ii) special or extraordinary dividend or other extraordinary distribution (whether in
+the form of cash, Common Stock or other property), stock split, reverse stock split, share subdivision or consolidation, (iii) combination
+or exchange of shares or (iv) other change in corporate structure, which, in any such case, the Administrator determines,
+in its sole discretion, affects the Shares such that an adjustment pursuant to Section 5 hereof is appropriate.
+
+ 
+
+(k)           	“
+Change in Control
+”
+means the first occurrence of an event set forth in any one of the following paragraphs following the Effective Date:
+
+ 
+
+(1)            	any Person is or becomes the Beneficial
+Owner, directly or indirectly, of securities of the Company (not including in the securities Beneficially Owned by such Person
+which were acquired directly from the Company or any Affiliate thereof) representing more than fifty percent (50%) of the combined
+voting power of the Company’s then outstanding securities, excluding any Person who becomes such a Beneficial Owner in connection
+with a transaction described in clause (i) of paragraph (3) below; or
+
+ 
+
+(2)             	the date on which individuals who constitute
+the Board as of the Effective Date and any new director (other than a director whose initial assumption of office is in connection
+with an actual or threatened election contest, including, but not limited to, a consent solicitation, relating to the election
+of directors of the Company) whose appointment or election by the Board or nomination for election by the Company’s stockholders
+was approved or recommended by a vote of at least two-thirds (2/3) of the directors then still in office who either were directors
+on the Effective Date or whose appointment, election or nomination for election was previously so approved or recommended cease
+for any reason to constitute a majority of the number of directors serving on the Board; or
+
+ 
+
+(3)            	there is consummated a merger or consolidation
+of the Company or any direct or indirect Subsidiary with any other corporation or other entity, other than (i) a merger or
+consolidation (A) which results in the voting securities of the Company outstanding immediately prior to such merger or consolidation
+continuing to represent (either by remaining outstanding or by being converted into voting securities of the surviving entity or
+any parent thereof), in combination with the ownership of any trustee or other fiduciary holding securities under an employee benefit
+plan of the Company or any Subsidiary, fifty percent (50%) or more of the combined voting power of the securities of the Company
+or such surviving entity or any parent thereof outstanding immediately after such merger or consolidation and (B) following
+which the individuals who comprise the Board immediately prior thereto constitute at least a majority of the board of directors
+of the Company, the entity surviving such merger or consolidation or, if the Company or the entity surviving such merger or consolidation
+is then a Subsidiary, the ultimate parent thereof, or (ii) a merger or consolidation effected to implement a recapitalization
+of the Company (or similar transaction) in which no Person is or becomes the Beneficial Owner, directly or indirectly, of securities
+of the Company (not including in the securities Beneficially Owned by such Person any securities acquired directly from the Company
+or its Affiliates) representing more than fifty percent (50%) of the combined voting power of the Company’s then outstanding
+securities; or
+
+ 
+
+(4)            	the stockholders of the Company approve
+a plan of complete liquidation or dissolution of the Company or there is consummated an agreement for the sale or disposition by
+the Company of all or substantially all of the Company’s assets, other than (A) a sale or disposition by the Company
+of all or substantially all of the Company’s assets to an entity, more than fifty percent (50%) of the combined voting power
+of the voting securities of which are owned by stockholders of the Company following the completion of such transaction in substantially
+the same proportions as their ownership of the Company immediately prior to such sale or (B) a sale or disposition of all
+or substantially all of the Company’s assets immediately following which the individuals who comprise the Board immediately
+prior thereto constitute at least a majority of the board of directors of the entity to which such assets are sold or disposed
+or, if such entity is a subsidiary, the ultimate parent thereof.
+
+ 
+
+A-
+2
+ 
+
+ 
+
+ 
+
+Notwithstanding the foregoing, (i) a Change in Control shall
+not be deemed to have occurred by virtue of the consummation of any transaction or series of integrated transactions immediately
+following which the holders of Common Stock immediately prior to such transaction or series of transactions continue to have substantially
+the same proportionate ownership in an entity which owns all or substantially all of the assets of the Company immediately following
+such transaction or series of transactions and (ii) to the extent required to avoid accelerated taxation and/or tax penalties
+under Section 409A of the Code, a Change in Control shall be deemed to have occurred under the Plan with respect to any Award that
+constitutes deferred compensation under Section 409A of the Code only if a change in the ownership or effective control of the
+Company or a change in ownership of a substantial portion of the assets of the Company shall also be deemed to have occurred under
+Section 409A of the Code. For purposes of this definition of Change in Control, the term “Person” shall not include
+(i) the Company or any Subsidiary thereof, (ii) a trustee or other fiduciary holding securities under an employee benefit
+plan of the Company or any Subsidiary thereof, (iii) an underwriter temporarily holding securities pursuant to an offering
+of such securities, or (iv) a corporation owned, directly or indirectly, by the stockholders of the Company in substantially
+the same proportions as their ownership of shares of the Company.
+
+ 
+
+(l)           	“
+Code
+” means the Internal
+Revenue Code of 1986, as amended from time to time, or any successor thereto.
+
+ 
+
+(m)          	“
+Committee
+” means any
+committee or subcommittee the Board (including, but not limited to the Compensation Committee) may appoint to administer the Plan.
+Subject to the discretion of the Board, the Committee shall be composed entirely of individuals who meet the qualifications of
+a “non-employee director” within the meaning of Rule 16b-3 under the Exchange Act and any other qualifications required
+by the applicable stock exchange on which the Common Stock is traded.
+
+ 
+
+(n)           	“
+Common Stock
+” means
+the Class A common stock of the Company, par value $0.001.
+
+ 
+
+(o)	          “
+Company
+” means Netcapital
+Inc., a Utah corporation (or any successor company, except as the term “Company” is used in the definition of “Change
+in Control” above).
+
+ 
+
+(p)          	
+“
+Covered
+Executive
+” means any Executive Officer that has (1) received Incentive Compensation (A) during the Look-Back
+Period (as defined in Section 27) and (B) after beginning service as an Executive Officer; and (2) served as an Executive
+Officer at any time during the performance period for the applicable Incentive Compensation.
+
+ 
+
+(q)          	“
+Disability
+” has the
+meaning assigned to such term in any individual service, employment or severance agreement or Award Agreement with the Participant
+or, if no such agreement exists or if such agreement does not define “Disability,” then “Disability” means
+(x) for Awards that are not subject to Section 409A of the Code, “disability” as such term is defined in the long-
+term disability insurance plan or program of the Company or any Subsidiary then covering the Participant or, in the absence of
+such a plan or program, as determined by the Administrator, provided, that, with respect to Awards that are not subject to Section
+409A, in the case of any Participant who, as of the date of determination, is a party to an effective employment, severance, consulting
+or other services agreement with the Company or any Subsidiary that employs such Participant, “Disability” shall have
+the meaning, if any, specified in such agreement, and (y) for Awards that are subject to Section 409A of the Code, “disability”
+shall have the meaning set forth in Section 409A(a)(2)(c) of the Code.
+
+ 
+
+(r)           	“
+Effective Date
+” has
+the meaning set forth in Section 17 hereof.
+
+ 
+
+A-
+3
+ 
+
+ 
+
+ 
+
+(s)           	“
+Eligible Recipient
+”
+means an employee, director or independent contractor of the Company or any Affiliate of the Company who has been selected as an
+eligible participant by the Administrator; 
+provided
+, 
+however
+, to the extent required to avoid accelerated taxation
+and/or tax penalties under Section 409A of the Code, an Eligible Recipient of an Option or a Stock Appreciation Right means an
+employee, non-employee director or independent contractor of the Company or any Affiliate of the Company with respect to whom the
+Company is an “eligible issuer of service recipient stock” within the meaning of Section 409A of the Code.
+
+ 
+
+(t)           	“
+Exchange Act
+” means
+the Securities Exchange Act of 1934, as amended from time to time.
+
+ 
+
+(u)          	“
+Executive Officer
+”
+means any “executive officer” as defined in Section 10D-1(d) of the Exchange Act whom the Board (or the Committee,
+as applicable) has determined is subject to the reporting requirements of Section 10D of the Exchange Act, and includes any Person
+who is the Company’s president, principal financial officer, principal accounting officer (or if there is no such accounting
+officer, the controller), any vice-president in charge of a principal business unit, division, or function (such as sales, administration,
+or finance), any other officer who performs a policy-making function, or any other Person who performs similar policy-making functions
+for the Company (with any executive officers of the Company’s parent(s) or subsidiaries being deemed Executive Officers of
+the Company if they perform such policy making functions for the Company). All Executive Officers of the Company identified by
+the Board (or the Committee, as applicable) pursuant to 17 CFR 229.401(b) shall be deemed an “Executive Officer”.
+
+ 
+
+(v)	          “
+Exempt Award
+” shall
+mean the following:
+
+ 
+
+(1)            	An Award granted in assumption of, or
+in substitution for, outstanding awards previously granted by a corporation or other entity acquired by the Company or any of its
+Subsidiaries or with which the Company or any of its Subsidiaries combines by merger or otherwise. The terms and conditions of
+any such Awards may vary from the terms and conditions set forth in the Plan to the extent the Administrator at the time of grant
+may deem appropriate, subject to Applicable Laws.
+
+ 
+
+(2)            	An award that an Eligible Recipient purchases
+at Fair Market Value (including awards that an Eligible Recipient elects to receive in lieu of fully vested compensation that is
+otherwise due) whether or not the Shares are delivered immediately or on a deferred basis.
+
+ 
+
+(3)            	An award granted as an inducement grant
+pursuant to NASDAQ Listing Rule 5635(c) or under the rules of an exchange on which the Common Stock is traded, to the extent it
+is not traded on NASDAQ.
+
+ 
+
+(w)         	“
+Exercise Price
+” means,
+(i) with respect to any Option, the per share price at which a holder of such Option may purchase Shares issuable upon exercise
+of such Award, and (ii) with respect to a Stock Appreciation Right, the base price per share of such Stock Appreciation Right.
+
+ 
+
+(x)           	“
+Fair Market Value
+”
+of a share of Common Stock or another security as of a particular date shall mean the fair market value as determined by the Administrator
+in its sole discretion; provided, that, (i) if the Common Stock or other security is admitted to trading on a national securities
+exchange, the fair market value on any date shall be the closing sale price reported on such date, or if no shares were traded
+on such date, on the last preceding date for which there was a sale of a share of Common Stock on such exchange, or (ii) if
+the Common Stock or other security is then traded in an over-the-counter market, the fair market value on any date shall be the
+average of the closing bid and asked prices for such share in such over-the-counter market for the last preceding date on which
+there was a sale of such share in such market.
+
+ 
+
+(y)          	“
+Free Standing Rights
+”
+has the meaning set forth in Section 8.
+
+ 
+
+(z)	           “
+Good Reason
+” has the
+meaning assigned to such term in any individual service, employment or severance agreement or Award Agreement with the Participant
+or, if no such agreement exists or if such agreement does not define “Good Reason,” “Good Reason” and any
+provision of this Plan that refers to “Good Reason” shall not be applicable to such Participant.
+
+ 
+
+A-
+4
+ 
+
+ 
+
+ 
+
+(aa)         	“
+Incentive Compensation
+”
+shall be deemed to be any compensation (including any Award or any other short-term or long-term cash or equity incentive award
+or any other payment) that is granted, earned, or vested based wholly or in part upon the attainment of any financial reporting
+measure (i.e., any measures that are determined and presented in accordance with the accounting principles used in preparing the
+Company’s financial statements, and any measure that is derived wholly or in part from such measures, including stock price
+and total shareholder return). For avoidance of doubt, financial reporting measures include “non-GAAP financial measures”
+for purposes of Exchange Act Regulation G and 17 CFR 229.10, as well other measures, metrics and ratios that are not non-GAAP measures,
+like same store sales. Financial reporting measures may or may not be included in a filing with the Securities and Exchange Commission,
+and may be presented outside the Company’s financial statements, such as in Management’s Discussion and Analysis of
+Financial Conditions and Results of Operations or the performance graph.
+
+ 
+
+(bb)        	“
+ISO
+” means an Option
+intended to be and designated as an “incentive stock option” within the meaning of Section 422 of the Code.
+
+ 
+
+(cc)         	“
+Nonqualified Stock Option
+”
+shall mean an Option that is not designated as an ISO.
+
+ 
+
+(dd)        	“
+Option
+” means an
+option to purchase shares of Common Stock granted pursuant to Section 7 hereof. The term “Option” as used in the Plan
+includes the terms “Nonqualified Stock Option” and “ISO.”
+
+ 
+
+(ee)         	“
+Other Stock-Based Award
+”
+means a right or other interest granted pursuant to Section 10 hereof that may be denominated or payable in, valued in whole or
+in part by reference to, or otherwise based on or related to, Common Stock, including, but not limited to, unrestricted Shares,
+dividend equivalents or performance units, each of which may be subject to the attainment of performance goals or a period of continued
+provision of service or employment or other terms or conditions as permitted under the Plan.
+
+ 
+
+(ff)          	“
+Participant
+” means
+any Eligible Recipient selected by the Administrator, pursuant to the Administrator’s authority provided for in Section 3
+below, to receive grants of Awards, and, upon his or her death, his or her successors, heirs, executors and administrators, as
+the case may be.
+
+ 
+
+(gg)        	“
+Person
+” shall have
+the meaning given in Section 3(a)(9) of the Exchange Act, as modified and used in Sections 13(d) and 14(d) thereof.
+
+ 
+
+(hh)        	“
+Plan
+” means this
+2023 Omnibus Equity Incentive Plan.
+
+ 
+
+(ii)	          
+“
+Related Rights
+” has the meaning set forth in Section 8.
+
+ 
+
+(jj)           	“
+Restricted Period
+”
+has the meaning set forth in Section 9.
+
+ 
+
+(kk)         	“
+Restricted Stock
+”
+means a Share granted pursuant to Section 9 below subject to certain restrictions that lapse at the end of a specified period (or
+periods) of time and/or upon attainment of specified performance objectives.
+
+ 
+
+(ll)           	“
+Restricted Stock Unit
+”
+means the right granted pursuant to Section 9 hereof to receive a Share at the end of a specified restricted period (or periods)
+of time and/or upon attainment of specified performance objectives.
+
+ 
+
+(mm)       	“
+Rule 16b-3
+” has the
+meaning set forth in Section 3.
+
+ 
+
+A-
+5
+ 
+
+ 
+
+ 
+
+(nn)        	“
+Shares
+” means Common
+Stock reserved for issuance under the Plan, as adjusted pursuant to the Plan, and any successor (pursuant to a merger, consolidation
+or other reorganization) security.
+
+ 
+
+(oo)        	“
+Stock Appreciation Right
+”
+means a right granted pursuant to Section 8 hereof to receive an amount equal to the excess, if any, of (i) the aggregate
+Fair Market Value, as of the date such Award or portion thereof is surrendered, of the Shares covered by such Award or such portion
+thereof, over (ii) the aggregate Exercise Price of such Award or such portion thereof.
+
+ 
+
+(pp)	        “
+Subsidiary
+” means,
+with respect to any Person, as of any date of determination, any other Person as to which such first Person owns or otherwise controls,
+directly or indirectly, more than 50% of the voting shares or other similar interests or a sole general partner interest or managing
+member or similar interest of such other Person.
+
+ 
+
+(qq)        	“
+Transfer
+” has the
+meaning set forth in Section 15.
+
+ 
+
+Section
+3.              	
+Administration.
+
+ 
+
+(a)           	The Plan shall be administered by the
+Administrator and shall be administered, to the extent applicable, in accordance with Rule 16b-3 under the Exchange Act (“
+Rule
+16b-3
+”).
+
+ 
+
+(b)           	Pursuant to the terms of the Plan, the
+Administrator, subject, in the case of any Committee, to any restrictions on the authority delegated to it by the Board, shall
+have the power and authority, without limitation:
+
+ 
+
+(1)            	to select those Eligible Recipients who
+shall be Participants;
+
+ 
+
+(2)            	to determine whether and to what extent
+Options, Stock Appreciation Rights, Restricted Stock, Restricted Stock Units, Other Stock-Based Awards or a combination of any
+of the foregoing, are to be granted hereunder to Participants;
+
+ 
+
+(3)            	to determine the number of Shares to
+be covered by each Award granted hereunder;
+
+ 
+
+(4)            	to determine the terms and conditions,
+not inconsistent with the terms of the Plan, of each Award granted hereunder (including, but not limited to, (i) the restrictions
+applicable to Restricted Stock or Restricted Stock Units and the conditions under which restrictions applicable to such Restricted
+Stock or Restricted Stock Units shall lapse, (ii) the performance goals and periods applicable to Awards, (iii) the Exercise
+Price of each Option and each Stock Appreciation Right or the purchase price of any other Award, (iv) the vesting schedule
+and terms applicable to each Award, (v) the number of Shares or amount of cash or other property subject to each Award and
+(vi) subject to the requirements of Section 409A of the Code (to the extent applicable) any amendments to the terms and conditions
+of outstanding Awards, including, but not limited to, extending the exercise period of such Awards and accelerating the payment
+schedules of such Awards and/or, to the extent specifically permitted under the Plan, accelerating the vesting schedules of such
+Awards);
+
+ 
+
+(5)            	to determine the terms and conditions,
+not inconsistent with the terms of the Plan, which shall govern all written instruments evidencing Awards;
+
+ 
+
+(6)            	to determine the Fair Market Value in
+accordance with the terms of the Plan;
+
+ 
+
+(7)            	to determine the duration and purpose
+of leaves of absence which may be granted to a Participant without constituting termination of the Participant’s service
+or employment for purposes of Awards granted under the Plan;
+
+ 
+
+A-
+6
+ 
+
+ 
+
+ 
+
+(8)            	to adopt, alter and repeal such administrative
+rules, regulations, guidelines and practices governing the Plan as it shall from time to time deem advisable;
+
+ 
+
+(9)            	to construe and interpret the terms and
+provisions of, and supply or correct omissions in, the Plan and any Award issued under the Plan (and any Award Agreement relating
+thereto), and to otherwise supervise the administration of the Plan and to exercise all powers and authorities either specifically
+granted under the Plan or necessary and advisable in the administration of the Plan; and
+
+ 
+
+(10)          	to prescribe, amend and rescind rules
+and regulations relating to sub-plans established for the purpose of satisfying applicable non-United States laws or for qualifying
+for favorable tax treatment under applicable non-United States laws, which rules and regulations may be set forth in an appendix
+or appendixes to the Plan.
+
+ 
+
+(c)           	Subject to Section 5, neither the Board
+nor the Committee shall have the authority to reprice or cancel and regrant any Award at a lower exercise, base or purchase price
+or cancel any Award with an exercise, base or purchase price in exchange for cash, property or other Awards without first obtaining
+the approval of the Company’s stockholders.
+
+ 
+
+(d)          	All decisions made by the Administrator
+pursuant to the provisions of the Plan shall be final, conclusive and binding on all Persons, including the Company and the Participants.
+
+ 
+
+(e)           	The expenses of administering the Plan
+(which for avoidance of doubt does not include the costs of any Participant) shall be borne by the Company and its Affiliates.
+
+ 
+
+(f)            	If at any time or to any extent the Board
+shall not administer the Plan, then the functions of the Administrator specified in the Plan shall be exercised by the Committee.
+Except as otherwise provided in the Articles of Incorporation or Bylaws of the Company, any action of the Committee with respect
+to the administration of the Plan shall be taken by a majority vote at a meeting at which a quorum is duly constituted or unanimous
+written consent of the Committee’s members.
+
+ 
+
+Section
+4.	
+              Shares Reserved for Issuance Under the Plan.
+
+ 
+
+(a)           	Subject to Section 5 hereof, the number
+of shares of Common Stock that are reserved and available for issuance pursuant to Awards granted under the Plan shall be equal
+to the sum of (i) 2,000,000 shares, plus (ii) an annual increase on the first day of each calendar year beginning with
+May 1, 2024 and ending with the last May 1 during the initial ten-year term of the Plan, equal to the lesser of (A) five percent (5%)
+of the shares of Common Stock outstanding (on an as-converted basis, which shall include shares issuable upon the exercise or conversion
+of all outstanding securities or rights convertible into or exercisable for shares of Common Stock, including without limitation,
+preferred stock, warrants and employee options to purchase any shares of Common Stock) on the final day of the immediately preceding
+calendar year and (B) such lesser number of shares of Common Stock as determined by the Board; 
+provided
+, 
+that
+, shares
+of Common Stock issued under the Plan with respect to an Exempt Award shall not count against such share limit.
+
+ 
+
+(b)          	Shares issued under the Plan may, in whole
+or in part, be authorized but unissued Shares or Shares that shall have been or may be reacquired by the Company in the open market,
+in private transactions or otherwise. If an Award entitles the Participant to receive or purchase Shares, the number of Shares
+covered by such Award or to which such Award relates shall be counted on the date of grant of such Award against the aggregate
+number of Shares available for granting Awards under the Plan. If any Shares subject to an Award are forfeited, cancelled, exchanged
+or surrendered or if an Award otherwise terminates or expires without a distribution of Shares to the Participant, the Shares with
+respect to such Award shall, to the extent of any such forfeiture, cancellation, exchange, surrender,
+
+ 
+
+A-
+7
+ 
+
+ 
+
+ 
+
+termination or expiration,
+again be available for granting Awards under the Plan. Notwithstanding the foregoing, (i) any Shares reacquired by the Company
+on the open market or otherwise using cash proceeds from the exercise of Options; and (ii) Shares surrendered or withheld
+as payment of either the Exercise Price of an Award (including Shares otherwise underlying a Stock Appreciation Right that are
+retained by the Company to account for the Exercise Price of such Stock Appreciation Right) and/or withholding taxes in respect
+of an Award shall no longer be available for grant under the Plan. In addition, (i) to the extent an Award is denominated
+in shares of Common Stock, but paid or settled in cash, the number of shares of Common Stock with respect to which such payment
+or settlement is made shall again be available for grants of Awards pursuant to the Plan and (ii) shares of Common Stock underlying
+Awards that can only be settled in cash shall not be counted against the aggregate number of shares of Common Stock available for
+Awards under the Plan. Upon the exercise of any Award granted in tandem with any other Awards, such related Awards shall be cancelled
+to the extent of the number of Shares as to which the Award is exercised and, notwithstanding the foregoing, such number of Shares
+shall no longer be available for grant under the Plan.
+
+ 
+
+(c)           	No more than 2,000,000 Shares, and as
+increased on an annual basis, on the first day of each calendar year beginning with May 1, 2024 and ending with the last May 1
+during the initial ten-year term of the Plan, by the lesser of (A) five percent (5%) of the shares of Common Stock outstanding
+(on an as-converted basis, which shall include shares of Common Stock issuable upon the exercise or conversion of all outstanding
+securities or rights convertible into or exercisable for shares of Common Stock, including without limitation, preferred stock,
+warrants and employee options to purchase any shares of Common Stock) on the final day of the immediately preceding calendar year;
+(B) 300,000 shares of Common Stock, and (C) such lesser number of shares of Common Stock as determined by the Board,
+shall be issued pursuant to the exercise of ISOs.
+
+ 
+
+Section
+5.              	
+Equitable Adjustments.
+
+ 
+
+In the event of any Change in Capitalization,
+an equitable substitution or proportionate adjustment shall be made in (i) the aggregate number and kind of securities reserved
+for issuance under the Plan pursuant to Section 4, (ii) the kind, number of securities subject to, and the Exercise Price
+subject to outstanding Options and Stock Appreciation Rights granted under the Plan, (iii) the kind, number and purchase price
+of Shares or other securities or the amount of cash or amount or type of other property subject to outstanding Restricted Stock,
+Restricted Stock Units or Other Stock-Based Awards granted under the Plan; and/or (iv) the terms and conditions of any outstanding
+Awards (including, without limitation, any applicable performance targets or criteria with respect thereto); 
+provided
+, 
+however
+,
+that any fractional shares resulting from the adjustment shall be eliminated. Such other equitable substitutions or adjustments
+shall be made as may be determined by the Administrator, in its sole discretion. Without limiting the generality of the foregoing,
+in connection with a Change in Capitalization, the Administrator may provide, in its sole discretion, but subject in all events
+to the requirements of Section 409A of the Code, for the cancellation of any outstanding Award granted hereunder in exchange for
+payment in cash or other property having an aggregate Fair Market Value equal to the Fair Market Value of the Shares, cash or other
+property covered by such Award, reduced by the aggregate Exercise Price or purchase price thereof, if any; 
+provided
+, 
+however
+,
+that if the Exercise Price or purchase price of any outstanding Award is equal to or greater than the Fair Market Value of the
+shares of Common Stock, cash or other property covered by such Award, the Administrator may cancel such Award without the payment
+of any consideration to the Participant. Further, without limiting the generality of the foregoing, with respect to Awards subject
+to foreign laws, adjustments made hereunder shall be made in compliance with applicable requirements. Except to the extent determined
+by the Administrator, any adjustments to ISOs under this Section 5 shall be made only to the extent not constituting a “modification”
+within the meaning of Section 424(h)(3) of the Code. The Administrator’s determinations pursuant to this Section 5 shall
+be final, binding and conclusive.
+
+ 
+
+Section
+6.               	
+Eligibility.
+
+ 
+
+The Participants in the Plan shall be selected
+from time to time by the Administrator, in its sole discretion, from those individuals that qualify as Eligible Recipients.
+
+ 
+
+Section
+7.              	
+Options.
+
+ 
+
+(a)           	
+General
+. Options granted under
+the Plan shall be designated as Nonqualified Stock Options or ISOs. Each Participant who is granted an Option shall enter into
+an Award Agreement with the Company, containing such terms and conditions as the Administrator shall determine, in its sole discretion,
+including, among other things, the Exercise Price of the Option, the term of the Option and provisions regarding exercisability
+of the Option, and whether the Option is intended to be an ISO or a Nonqualified Stock Option (and in the event the Award Agreement
+has no such designation, the Option shall be a Nonqualified Stock Option). The provisions of each Option need not be the same with
+respect to each Participant. More than one Option may be granted to the same Participant and be outstanding concurrently hereunder.
+Options granted under the Plan shall be subject to the terms and conditions set forth in this Section 7 and shall contain such
+additional terms and conditions, not inconsistent with the terms of the Plan, as the Administrator shall deem desirable and set
+forth in the applicable Award Agreement.
+
+ 
+
+A-
+8
+ 
+
+ 
+
+ 
+
+(b)           	
+Exercise Price
+. The Exercise Price
+of Shares purchasable under an Option shall be determined by the Administrator in its sole discretion at the time of grant, but
+in no event shall the exercise price of an Option be less than one hundred percent (100%) of the Fair Market Value of a share of
+Common Stock on the date of grant.
+
+ 
+
+(c)           	
+Option Term
+. The maximum term of
+each Option shall be fixed by the Administrator, but no Option shall be exercisable more than ten (10) years after the date such
+Option is granted. Each Option’s term is subject to earlier expiration pursuant to the applicable provisions in the Plan
+and the Award Agreement. Notwithstanding the foregoing, subject to Section 3(d) of the Plan, the Administrator shall have the authority
+to accelerate the exercisability of any outstanding Option at such time and under such circumstances as the Administrator, in its
+sole discretion, deems appropriate.
+
+ 
+
+(d)           	
+Exercisability
+. Each Option shall
+be subject to vesting or become exercisable at such time or times and subject to such terms and conditions, including the attainment
+of performance goals, as shall be determined by the Administrator in the applicable Award Agreement. The Administrator may also
+provide that any Option shall be exercisable only in installments, and the Administrator may waive such installment exercise provisions
+at any time, in whole or in part, based on such factors as the Administrator may determine in its sole discretion.
+
+ 
+
+(e)           	
+Method of Exercise
+. Options may
+be exercised in whole or in part by giving written notice of exercise to the Company specifying the number of whole Shares to be
+purchased, accompanied by payment in full of the aggregate Exercise Price of the Shares so purchased in cash or its equivalent,
+as determined by the Administrator. As determined by the Administrator, in its sole discretion, with respect to any Option or category
+of Options, payment in whole or in part may also be made (i) by means of consideration received under any cashless exercise
+procedure approved by the Administrator (including the withholding of Shares otherwise issuable upon exercise), (ii) in the
+form of unrestricted Shares already owned by the Participant which have a Fair Market Value on the date of surrender equal to the
+aggregate exercise price of the Shares as to which such Option shall be exercised, (iii) any other form of consideration approved
+by the Administrator and permitted by Applicable Laws or (iv) any combination of the foregoing.
+
+ 
+
+(f)           	
+ISOs
+. The terms and conditions
+of ISOs granted hereunder shall be subject to the provisions of Section 422 of the Code and the terms, conditions, limitations
+and administrative procedures established by the Administrator from time to time in accordance with the Plan. At the discretion
+of the Administrator, ISOs may be granted only to an employee of the Company, its “parent corporation” (as such term
+is defined in Section 424(e) of the Code) or a Subsidiary of the Company.
+
+ 
+
+(1)            	
+ISO Grants to 10% Stockholders
+.
+Notwithstanding anything to the contrary in the Plan, if an ISO is granted to a Participant who owns shares representing more than
+ten percent (10%) of the voting power of all classes of shares of the Company at the time of grant, its “parent corporation”
+(as such term is defined in Section 424(e) of the Code) or a Subsidiary of the Company, the term of the ISO shall not exceed five
+(5) years from the time of grant of such ISO and the Exercise Price shall be at least one hundred and ten percent (110%) of the
+Fair Market Value of the Shares on the date of grant.
+
+ 
+
+(2)            	
+$100,000 Per Year Limitation For ISOs
+.
+To the extent the aggregate Fair Market Value (determined on the date of grant) of the Shares for which ISOs are exercisable for
+the first time by any Participant during any calendar year (under all plans of the Company) exceeds $100,000, such excess ISOs
+shall be treated as Nonqualified Stock Options.
+
+ 
+
+A-
+9
+ 
+
+ 
+
+ 
+
+(3)	            
+Disqualifying Dispositions
+. Each
+Participant awarded an ISO under the Plan shall notify the Company in writing immediately after the date the Participant makes
+a “disqualifying disposition” of any Share acquired pursuant to the exercise of such ISO. A “disqualifying disposition”
+is any disposition (including any sale) of such Shares before the later of (i) two years after the date of grant of the ISO
+and (ii) one year after the date the Participant acquired the Shares by exercising the ISO. The Company may, if determined
+by the Administrator and in accordance with procedures established by it, retain possession of any Shares acquired pursuant to
+the exercise of an ISO as agent for the applicable Participant until the end of the period described in the preceding sentence,
+subject to complying with any instructions from such Participant as to the sale of such Shares.
+
+ 
+
+(g)           	
+Rights as Stockholder
+. A Participant
+shall have no rights to dividends, dividend equivalents or distributions or any other rights of a stockholder with respect to the
+Shares subject to an Option until the Participant has given written notice of the exercise thereof, and has paid in full for such
+Shares and has satisfied the requirements of Section 15 hereof.
+
+ 
+
+(h)          	
+Termination of Employment or Service
+.
+Treatment of an Option upon termination of employment of a Participant shall be provided for by the Administrator in the Award
+Agreement.
+
+ 
+
+(i)            	
+Other Change in Employment or Service
+Status
+. An Option shall be affected, both with regard to vesting schedule and termination, by leaves of absence, including
+unpaid and un-protected leaves of absence, changes from full-time to part-time employment, partial Disability or other changes
+in the employment status or service status of a Participant, in the discretion of the Administrator.
+
+ 
+
+Section
+8.              	
+Stock Appreciation Rights.
+
+ 
+
+(a)           	
+General
+. Stock Appreciation Rights
+may be granted either alone (“
+Free Standing Rights
+”) or in conjunction with all or part of any Option granted
+under the Plan (“
+Related Rights
+”). Related Rights may be granted either at or after the time of the grant of
+such Option. The Administrator shall determine the Eligible Recipients to whom, and the time or times at which, grants of Stock
+Appreciation Rights shall be made. Each Participant who is granted a Stock Appreciation Right shall enter into an Award Agreement
+with the Company, containing such terms and conditions as the Administrator shall determine, in its sole discretion, including,
+among other things, the number of Shares to be awarded, the Exercise Price per Share, and all other conditions of Stock Appreciation
+Rights. Notwithstanding the foregoing, no Related Right may be granted for more Shares than are subject to the Option to which
+it relates. The provisions of Stock Appreciation Rights need not be the same with respect to each Participant. Stock Appreciation
+Rights granted under the Plan shall be subject to the following terms and conditions set forth in this Section 8 and shall contain
+such additional terms and conditions, not inconsistent with the terms of the Plan, as the Administrator shall deem desirable, as
+set forth in the applicable Award Agreement.
+
+ 
+
+(b)          	
+Awards; Rights as Stockholder
+.
+A Participant shall have no rights to dividends or any other rights of a stockholder with respect to the shares of Common Stock,
+if any, subject to a Stock Appreciation Right until the Participant has given written notice of the exercise thereof and has satisfied
+the requirements of Section 15 hereof.
+
+ 
+
+(c)           	
+Exercise Price
+. The Exercise Price
+of Shares purchasable under a Stock Appreciation Right shall be determined by the Administrator in its sole discretion at the time
+of grant, but in no event shall the exercise price of a Stock Appreciation Right be less than one hundred percent (100%) of the
+Fair Market Value of a share of Common Stock on the date of grant.
+
+ 
+
+(d)           	
+Exercisability
+.
+
+ 
+
+(1)            	Stock Appreciation Rights that are Free
+Standing Rights shall be exercisable at such time or times and subject to such terms and conditions as shall be determined by the
+Administrator in the applicable Award Agreement.
+
+ 
+
+A-
+10
+ 
+
+ 
+
+ 
+
+(2)            	Stock Appreciation Rights that are Related
+Rights shall be exercisable only at such time or times and to the extent that the Options to which they relate shall be exercisable
+in accordance with the provisions of Section 7 hereof and this Section 8 of the Plan.
+
+ 
+
+(e)           	
+Payment Upon Exercise
+.
+
+ 
+
+(1)	            Upon the exercise of a Free Standing
+Right, the Participant shall be entitled to receive up to, but not more than, that number of Shares equal in value to the excess
+of the Fair Market Value as of the date of exercise over the Exercise Price per share specified in the Free Standing Right multiplied
+by the number of Shares in respect of which the Free Standing Right is being exercised.
+
+ 
+
+(2)            	A Related Right may be exercised by a
+Participant by surrendering the applicable portion of the related Option. Upon such exercise and surrender, the Participant shall
+be entitled to receive up to, but not more than, that number of Shares equal in value to the excess of the Fair Market Value as
+of the date of exercise over the Exercise Price specified in the related Option multiplied by the number of Shares in respect of
+which the Related Right is being exercised. Options which have been so surrendered, in whole or in part, shall no longer be exercisable
+to the extent the Related Rights have been so exercised.
+
+ 
+
+(3)            	Notwithstanding the foregoing, the Administrator
+may determine to settle the exercise of a Stock Appreciation Right in cash (or in any combination of Shares and cash).
+
+ 
+
+(f)            	
+Termination of Employment or Service
+.
+Treatment of a Stock Appreciation Right upon termination of employment of a Participant shall be provided for by the Administrator
+in the Award Agreement.
+
+ 
+
+(g)           	
+Term
+.
+
+ 
+
+(1)            	The term of each Free Standing Right
+shall be fixed by the Administrator, but no Free Standing Right shall be exercisable more than ten (10) years after the date such
+right is granted.
+
+ 
+
+(2)            	The term of each Related Right shall
+be the term of the Option to which it relates, but no Related Right shall be exercisable more than ten (10) years after the date
+such right is granted.
+
+ 
+
+(h)           	
+Other Change in Employment or Service
+Status
+. Stock Appreciation Rights shall be affected, both with regard to vesting schedule and termination, by leaves of absence,
+including unpaid and un-protected leaves of absence, changes from full-time to part-time employment, partial Disability or other
+changes in the employment or service status of a Participant, in the discretion of the Administrator.
+
+ 
+
+Section
+9.              	
+Restricted Stock and Restricted Stock Units.
+
+ 
+
+(a)           	
+General
+. Restricted Stock or Restricted
+Stock Units may be issued under the Plan. The Administrator shall determine the Eligible Recipients to whom, and the time or times
+at which, Restricted Stock or Restricted Stock Units shall be made. Each Participant who is granted Restricted Stock or Restricted
+Stock Units shall enter into an Award Agreement with the Company, containing such terms and conditions as the Administrator shall
+determine, in its sole discretion, including, among other things, the number of Shares to be awarded; the price, if any, to be
+paid by the Participant for the acquisition of Restricted Stock or Restricted Stock Units; the period of time restrictions, performance
+goals or other conditions that apply to Transferability, delivery or vesting of such Awards (the “
+Restricted Period
+”);
+and all other conditions applicable to the Restricted Stock and Restricted Stock Units. If the restrictions, performance goals
+or conditions established by the Administrator are not attained, a Participant shall forfeit his or her Restricted Stock or Restricted
+Stock Units, in accordance with the terms of the grant. The provisions of the Restricted Stock or Restricted Stock Units need not
+be the same with respect to each Participant.
+
+ 
+
+A-
+11
+ 
+
+ 
+
+ 
+
+(b)           	
+Awards and Certificates
+. Except
+as otherwise provided below in Section 9(c), (i) each Participant who is granted an Award of Restricted Stock may, in the
+Company’s sole discretion, be issued a share certificate in respect of such Restricted Stock; and (ii) any such certificate
+so issued shall be registered in the name of the Participant, and shall bear an appropriate legend referring to the terms, conditions
+and restrictions applicable to any such Award. The Company may require that the share certificates, if any, evidencing Restricted
+Stock granted hereunder be held in the custody of the Company until the restrictions thereon shall have lapsed, and that, as a
+condition of any Award of Restricted Stock, the Participant shall have delivered a share transfer form, endorsed in blank, relating
+to the Shares covered by such Award. Certificates for shares of unrestricted Common Stock may, in the Company’s sole discretion,
+be delivered to the Participant only after the Restricted Period has expired without forfeiture in such Restricted Stock Award.
+With respect to Restricted Stock Units to be settled in Shares, at the expiration of the Restricted Period, share certificates
+in respect of the shares of Common Stock underlying such Restricted Stock Units may, in the Company’s sole discretion, be
+delivered to the Participant, or his or her legal representative, in a number equal to the number of shares of Common Stock underlying
+the Restricted Stock Units Award. Notwithstanding anything in the Plan to the contrary, any Restricted Stock or Restricted Stock
+Units to be settled in Shares (at the expiration of the Restricted Period, and whether before or after any vesting conditions have
+been satisfied) may, in the Company’s sole discretion, be issued in uncertificated form. Further, notwithstanding anything
+in the Plan to the contrary, with respect to Restricted Stock Units, at the expiration of the Restricted Period, Shares, or cash,
+as applicable, shall promptly be issued (either in certificated or uncertificated form) to the Participant, unless otherwise deferred
+in accordance with procedures established by the Company in accordance with Section 409A of the Code, and such issuance or payment
+shall in any event be made within such period as is required to avoid the imposition of a tax under Section 409A of the Code.
+
+ 
+
+(c)           	
+Restrictions and Conditions
+. The
+Restricted Stock or Restricted Stock Units granted pursuant to this Section 9 shall be subject to the following restrictions and
+conditions and any additional restrictions or conditions as determined by the Administrator at the time of grant or, subject to
+Section 409A of the Code where applicable, thereafter:
+
+ 
+
+(1)            	The Administrator may, in its sole discretion,
+provide for the lapse of restrictions in installments and may accelerate or waive such restrictions in whole or in part based on
+such factors and such circumstances as the Administrator may determine, in its sole discretion, including, but not limited to,
+the attainment of certain performance goals, the Participant’s termination of employment or service with the Company or any
+Affiliate thereof, or the Participant’s death or Disability. Notwithstanding the foregoing, upon a Change in Control, the
+outstanding Awards shall be subject to Section 11 hereof.
+
+ 
+
+(2)            	Except as provided in the applicable
+Award Agreement, the Participant shall generally have the rights of a stockholder of the Company with respect to Restricted Stock
+during the Restricted Period; 
+provided
+, 
+however
+, that dividends declared during the Restricted Period with respect
+to an Award, shall only become payable if (and to the extent) the underlying Restricted Stock vests. Except as provided in the
+applicable Award Agreement, the Participant shall generally not have the rights of a stockholder with respect to Shares subject
+to Restricted Stock Units during the Restricted Period; 
+provided
+, 
+however
+, that, subject to Section 409A of the Code,
+an amount equal to dividends declared during the Restricted Period with respect to the number of Shares covered by Restricted Stock
+Units shall, unless otherwise set forth in an Award Agreement, be paid to the Participant at the time (and to the extent) Shares
+in respect of the related Restricted Stock Units are delivered to the Participant. Certificates for Shares of unrestricted Common
+Stock may, in the Company’s sole discretion, be delivered to the Participant only after the Restricted Period has expired
+without forfeiture in respect of such Restricted Stock or Restricted Stock Units, except as the Administrator, in its sole discretion,
+shall otherwise determine.
+
+ 
+
+(3)             	The rights of Participants granted Restricted
+Stock or Restricted Stock Units upon termination of employment or service as a director or independent contractor to the Company
+or to any Affiliate thereof terminates for any reason during the Restricted Period shall be set forth in the Award Agreement.
+
+ 
+
+A-
+12
+ 
+
+ 
+
+ 
+
+(d)          
+	
+Form of Settlement
+. The Administrator reserves the right in its sole discretion to provide (either at or after the
+grant thereof) that any Restricted Stock Unit represents the right to receive the amount of cash per unit that is determined
+by the Administrator in connection with the Award.
+
+ 
+
+Section
+10.	            
+Other Stock-Based Awards.
+
+ 
+
+Other Stock-Based Awards may be issued under
+the Plan. Subject to the provisions of the Plan, the Administrator shall have sole and complete authority to determine the individuals
+to whom and the time or times at which such Other Stock-Based Awards shall be granted. Each Participant who is granted an Other
+Stock-Based Award shall enter into an Award Agreement with the Company, containing such terms and conditions as the Administrator
+shall determine, in its sole discretion, including, among other things, the number of shares of Common Stock to be granted pursuant
+to such Other Stock-Based Awards, or the manner in which such Other Stock-Based Awards shall be settled (e.g., in shares of Common
+Stock, cash or other property), or the conditions to the vesting and/or payment or settlement of such Other Stock-Based Awards
+(which may include, but not be limited to, achievement of performance criteria) and all other terms and conditions of such Other
+Stock-Based Awards. In the event that the Administrator grants a bonus in the form of Shares, the Shares constituting such bonus
+shall, as determined by the Administrator, be evidenced in uncertificated form or by a book entry record or a certificate issued
+in the name of the Participant to whom such grant was made and delivered to such Participant as soon as practicable after the date
+on which such bonus is payable. Notwithstanding anything set forth in the Plan to the contrary, any dividend or dividend equivalent
+Award issued hereunder shall be subject to the same restrictions, conditions and risks of forfeiture as apply to the underlying
+Award.
+
+ 
+
+Section
+11.            	
+Change in Control.
+
+ 
+
+Unless otherwise determined by the Administrator
+and evidenced in an Award Agreement, in the event that (a) a Change in Control occurs, and (b) the Participant is employed
+by the Company or any of its Affiliates immediately prior to the consummation of such Change in Control then upon the consummation
+of such Change in Control, the Administrator, in its sole and absolute discretion, may:
+
+ 
+
+(a)           	provide that any unvested or unexercisable
+portion of any Award carrying a right to exercise become fully vested and exercisable; and
+
+ 
+
+(b)          	cause the restrictions, deferral limitations,
+payment conditions and forfeiture conditions applicable to an Award granted under the Plan to lapse and such Awards shall be deemed
+fully vested and any performance conditions imposed with respect to such Awards shall be deemed to be fully achieved at target
+performance levels.
+
+ 
+
+If the Administrator determines in its discretion
+pursuant to Section 3(b)(4) hereof to accelerate the vesting of Options and/or Share Appreciation Rights in connection with a Change
+in Control, the Administrator shall also have discretion in connection with such action to provide that all Options and/or Stock
+Appreciation Rights outstanding immediately prior to such Change in Control shall expire on the effective date of such Change in
+Control.
+
+ 
+
+Section
+12.	            
+Amendment and Termination.
+
+ 
+
+The Board may amend, alter or terminate the Plan
+at any time, but no amendment, alteration or termination shall be made that would impair the rights of a Participant under any
+Award theretofore granted without such Participant’s consent. The Board shall obtain approval of the Company’s stockholders
+for any amendment that would require such approval in order to satisfy the requirements of any rules of the stock exchange on which
+the Common Stock is traded or other Applicable Law. Subject to Section 3(c), the Administrator may amend the terms of any Award
+theretofore granted, prospectively or retroactively, but, subject to Section 5 of the Plan and the immediately preceding sentence,
+no such amendment shall materially impair the rights of any Participant without his or her consent.
+
+ 
+
+A-
+13
+ 
+
+ 
+
+ 
+
+Section
+13.	            
+Unfunded Status of Plan.
+
+ 
+
+The Plan is intended to constitute an “unfunded”
+plan for incentive compensation. With respect to any payments not yet made to a Participant by the Company, nothing contained herein
+shall give any such Participant any rights that are greater than those of a general creditor of the Company.
+
+ 
+
+Section
+14.	            
+Withholding Taxes.
+
+ 
+
+Each Participant shall, no later than the date
+as of which the value of an Award first becomes includible in the gross income of such Participant for purposes of applicable taxes,
+pay to the Company, or make arrangements satisfactory to the Administrator regarding payment of an amount up to the maximum statutory
+tax rates in the Participant’s applicable jurisdiction with respect to the Award, as determined by the Company. The obligations
+of the Company under the Plan shall be conditional on the making of such payments or arrangements, and the Company shall, to the
+extent permitted by Applicable Laws, have the right to deduct any such taxes from any payment of any kind otherwise due to such
+Participant. Whenever cash is to be paid pursuant to an Award, the Company shall have the right to deduct therefrom an amount sufficient
+to satisfy any applicable withholding tax requirements related thereto. Whenever Shares or property other than cash are to be delivered
+pursuant to an Award, the Company shall have the right to require the Participant to remit to the Company in cash an amount sufficient
+to satisfy any related taxes to be withheld and applied to the tax obligations; 
+provided
+, 
+that
+, with the approval
+of the Administrator, a Participant may satisfy the foregoing requirement by either (i) electing to have the Company withhold
+from delivery of Shares or other property, as applicable, or (ii) delivering already owned unrestricted shares of Common Stock,
+in each case, having a value not exceeding the applicable taxes to be withheld and applied to the tax obligations. Such already
+owned and unrestricted shares of Common Stock shall be valued at their Fair Market Value on the date on which the amount of tax
+to be withheld is determined and any fractional share amounts resulting therefrom shall be settled in cash. Such an election may
+be made with respect to all or any portion of the Shares to be delivered pursuant to an award. The Company may also use any other
+method of obtaining the necessary payment or proceeds, as permitted by Applicable Laws, to satisfy its withholding obligation with
+respect to any Award.
+
+ 
+
+Section
+15.            	
+Transfer of Awards.
+
+ 
+
+Until such time as the Awards are fully vested
+and/or exercisable in accordance with the Plan or an Award Agreement, no purported sale, assignment, mortgage, hypothecation, transfer,
+charge, pledge, encumbrance, gift, transfer in trust (voting or other) or other disposition of, or creation of a security interest
+in or lien on, any Award or any agreement or commitment to do any of the foregoing (each, a “
+Transfer
+”) by any
+holder thereof in violation of the provisions of the Plan or an Award Agreement will be valid, except with the prior written consent
+of the Administrator, which consent may be granted or withheld in the sole discretion of the Administrator. Any purported Transfer
+of an Award or any economic benefit or interest therein in violation of the Plan or an Award Agreement shall be null and void 
+ab
+initio
+ and shall not create any obligation or liability of the Company, and any Person purportedly acquiring any Award or any
+economic benefit or interest therein transferred in violation of the Plan or an Award Agreement shall not be entitled to be recognized
+as a holder of such Shares or other property underlying such Award. Unless otherwise determined by the Administrator in accordance
+with the provisions of the immediately preceding sentence, an Option or a Stock Appreciation Right may be exercised, during the
+lifetime of the Participant, only by the Participant or, during any period during which the Participant is under a legal Disability,
+by the Participant’s guardian or legal representative.
+
+ 
+
+Section
+16.	            
+Continued Employment or Service.
+
+ 
+
+Neither the adoption of the Plan nor the grant
+of an Award shall confer upon any Eligible Recipient any right to continued employment or service with the Company or any Affiliate
+thereof, as the case may be, nor shall it interfere in any way with the right of the Company or any Affiliate thereof to terminate
+the employment or service of any of its Eligible Recipients at any time.
+
+ 
+
+A-
+14
+ 
+
+ 
+
+ 
+
+Section
+17.	            
+Effective Date.
+
+ 
+
+The Plan was approved by the Board on January
+3, 2023 and shall be adopted and become effective on the date that it is approved by the Company’s stockholders (the “
+Effective
+Date
+”).
+
+ 
+
+Section
+18.            	
+Electronic Signature.
+
+ 
+
+Participant’s electronic signature of an
+Award Agreement shall have the same validity and effect as a signature affixed by hand.
+
+ 
+
+Section
+19.	             
+Term of Plan.
+
+ 
+
+No Award shall be granted pursuant to the Plan
+on or after the tenth anniversary of the Effective Date, but Awards theretofore granted may extend beyond that date.
+
+ 
+
+Section
+20.	
+            Securities Matters and Regulations.
+
+ 
+
+(a)           	Notwithstanding
+anything herein to the contrary, the obligation of the Company to sell or deliver Shares with respect to any Award granted
+under the Plan shall be subject to all Applicable Laws, rules and regulations, including all applicable federal and state
+securities laws, and the obtaining of all such approvals by governme ntal agencies as may be deemed necessary or appropriate
+by the Administrator. The Administrator may require, as a condition of the issuance and delivery of certificates evidencing
+shares of Common Stock pursuant to the terms hereof, that the recipient of such shares make such agreements and
+representations, and that such certificates bear such legends, as the Administrator, in its sole discretion, deems necessary
+or advisable.
+
+ 
+
+(b)           	Each Award is subject to the requirement
+that, if at any time the Administrator determines that the listing, registration or qualification of Shares is required by any
+securities exchange or under any state or federal law, or the consent or approval of any governmental regulatory body is necessary
+or desirable as a condition of, or in connection with, the grant of an Award or the issuance of Shares, no such Award shall be
+granted or payment made or Shares issued, in whole or in part, unless listing, registration, qualification, consent or approval
+has been effected or obtained free of any conditions not acceptable to the Administrator.
+
+ 
+
+(c)           	In the event that the disposition of Shares
+acquired pursuant to the Plan is not covered by a then current registration statement under the Securities Act and is not otherwise
+exempt from such registration, such Shares shall be restricted against transfer to the extent required by the Securities Act or
+regulations thereunder, and the Administrator may require a Participant receiving Common Stock pursuant to the Plan, as a condition
+precedent to receipt of such Common Stock, to represent to the Company in writing that the Common Stock acquired by such Participant
+is acquired for investment only and not with a view to distribution.
+
+ 
+
+Section
+21.	
+            Section 409A of the Code.
+
+ 
+
+The Plan as well as payments and benefits under
+the Plan are intended to be exempt from, or to the extent subject thereto, to comply with Section 409A of the Code, and, accordingly,
+to the maximum extent permitted, the Plan shall be interpreted in accordance therewith. Notwithstanding anything contained herein
+to the contrary, to the extent required in order to avoid accelerated taxation and/or tax penalties under Section 409A of
+the Code, the Participant shall not be considered to have terminated employment or service with the Company for purposes of the
+Plan and no payment shall be due to the Participant under the Plan or any Award until the Participant would be considered to have
+incurred a “separation from service” from the Company and its Affiliates within the meaning of Section 409A of
+the Code. Any payments described in the Plan that are due within the “short term deferral period” as defined in Section 409A
+of the Code shall not be treated as deferred compensation unless Applicable Law requires otherwise. Notwithstanding anything to
+the contrary in the Plan, to the extent that any Awards (or any other amounts payable under any plan, program or arrangement of
+the Company or any of its Affiliates) are payable upon a separation from service and such payment would result in the imposition
+of any individual tax and penalty interest charges imposed under Section 409A of the Code,
+
+ 
+
+A-
+15
+ 
+
+ 
+
+ 
+
+the settlement and payment of such
+awards (or other amounts) shall instead be made on the first business day after the date that is six (6) months following
+such separation from service (or death, if earlier). Each amount to be paid or benefit to be provided under this Plan shall be
+construed as a separate identified payment for purposes of Section 409A of the Code. The Company makes no representation that
+any or all of the payments or benefits described in this Plan will be exempt from or comply with Section 409A of the Code
+and makes no undertaking to preclude Section 409A of the Code from applying to any such payment. The Participant shall be
+solely responsible for the payment of any taxes and penalties incurred under Section 409A.
+
+ 
+
+Section
+22.	            
+Notification of Election Under Section 83(b) of the Code.
+
+ 
+
+If any Participant shall, in connection with
+the acquisition of shares of Common Stock under the Plan, make the election permitted under Section 83(b) of the Code, such
+Participant shall notify the Company of such election within ten (10) days after filing notice of the election with the Internal
+Revenue Service.
+
+ 
+
+Section
+23.	
+            No Fractional Shares.
+
+ 
+
+No fractional shares of Common Stock shall be
+issued or delivered pursuant to the Plan. The Administrator shall determine whether cash, other Awards, or other property shall
+be issued or paid in lieu of such fractional shares or whether such fractional shares or any rights thereto shall be forfeited
+or otherwise eliminated.
+
+ 
+
+Section
+24.            	
+Beneficiary.
+
+ 
+
+A Participant may file with the Administrator
+a written designation of a beneficiary on such form as may be prescribed by the Administrator and may, from time to time, amend
+or revoke such designation. If no designated beneficiary survives the Participant, the executor or administrator of the Participant’s
+estate shall be deemed to be the Participant’s beneficiary.
+
+ 
+
+Section
+25.             	
+Paperless Administration.
+
+ 
+
+In the event that the Company establishes, for
+itself or using the services of a third party, an automated system for the documentation, granting or exercise of Awards, such
+as a system using an internet website or interactive voice response, then the paperless documentation, granting or exercise of
+Awards by a Participant may be permitted through the use of such an automated system.
+
+ 
+
+Section
+26.	            
+Severability.
+
+ 
+
+If any provision of the Plan is held to be invalid
+or unenforceable, the other provisions of the Plan shall not be affected but shall be applied as if the invalid or unenforceable
+provision had not been included in the Plan.
+
+ 
+
+Section
+27.            	
+Clawback.
+
+ 
+
+(a)           	If the Company is required to prepare
+an accounting restatement of its financial statements due to the Company’s material noncompliance (whether one occurrence
+or a series of occurrences of noncompliance) with any financial reporting requirement under the securities laws (including if the
+Company is required to prepare an accounting restatement to correct an error (or a series of errors)) (a “
+Covered Accounting
+Restatement
+”). If such Covered Accounting Restatement includes 
+(i) restatements
+that correct errors that are material to previously issued financial statements (commonly referred to as “Big R” restatements),
+and (ii) restatements that correct errors that are not material to previously issued financial statements, but would result in
+a material misstatement if (a) the errors were left uncorrected in the current report or (b) the error correction was recognized
+in the current period (commonly referred to as “little r” restatements)
+, then the Committee may require any
+Covered Executive to repay (in which event, such Covered Executive shall, within thirty (30) days of the notice by the Company,
+repay to the Company) or forfeit (in which case, such Covered Executive shall immediately forfeit to the Company) to the Company,
+and each Covered Executive hereby agrees to so repay or forfeit, that portion of the Incentive Compensation received by such Covered
+Executive during the period comprised of the Company’s three (3) completed fiscal years (together with any intermittent
+stub fiscal year period(s) of less than nine (9) months resulting from Company’s transition to different fiscal year
+measurement dates) immediately preceding the date the Company is deemed (as described below) to be required to prepare a Covered
+Accounting Restatement (such period, the “
+Look-Back Period
+”),
+
+ 
+
+A-
+16
+ 
+
+ 
+
+ 
+
+that the Committee determines was in excess of
+the amount of Incentive Compensation that such Covered Executive would have received during such Look-Back Period, had such Incentive
+Compensation been calculated based on the restated amounts, and irrespective of any fault, misconduct or responsibility of such
+Covered Executive for the Covered Accounting Restatement. It is specifically understood that, to the extent that the impact of
+the Covered Accounting Restatement on the amount of Incentive Compensation received cannot be calculated directly from the information
+therein (e.g., if such restatement’s impact on the Company’s stock price is not clear), such excess amount of Incentive
+Compensation shall be determined based on a reasonable estimate by the Committee of the effect of the Covered Accounting Restatement
+on the applicable financial measure (including the stock price or total shareholder return) based upon which the Incentive Compensation
+was received. The amount of the Incentive Compensation to be recouped shall be determined by the Committee in its sole and absolute
+discretion and calculated on a pre-tax basis, and the form of such recoupment of Incentive Compensation may be made, in the Committee’s
+sole and absolute discretion, through the forfeiture or cancellation of vested or unvested Awards, cash repayment or both. Incentive
+Compensation shall be deemed received, either wholly or in part, in the fiscal year during which the financial reporting measure
+specified in such Incentive Compensation award is attained (or with respect to, or based upon the achievement of, such financial
+reporting measure, such Incentive Compensation was granted, earned or vested, as applicable), even if the payment, vesting or grant
+of such Incentive Compensation occurs after the end of such fiscal year. For purposes of this Section 27, the Company is deemed
+to be required to prepare a Covered Accounting Restatement on the earlier of: (A) the date upon which the Board or an applicable
+committee thereof, or the officer or officers of the Company authorized to take such action if Board action is not required, concludes,
+or reasonably should have concluded, that the Company is required to prepare a Covered Accounting Restatement; or (B) the date
+a court, regulator, or other legally authorized body directs the Company to prepare a Covered Accounting Restatement.
+
+ 
+
+(b)          	Notwithstanding any other provisions in
+this Plan, any Award or any other compensation received by a Participant which is subject to recovery under any Applicable Laws,
+government regulation or stock exchange listing requirement (or any policy adopted by the Company pursuant to any such Applicable
+Law, government regulation or stock exchange listing requirement), will be subject to such deductions and clawback as may be required
+to be made pursuant to such Applicable Law, government regulation or stock exchange listing requirement (or any policy adopted
+by the Company pursuant to any such law, government regulation or stock exchange listing requirement on or following the Effective
+Date).
+
+ 
+
+Section
+28.	
+            Governing Law.
+
+ 
+
+The Plan shall be governed by, and construed
+in accordance with, the laws of the State of Utah, without giving effect to principles of conflicts of law of Massachusetts or
+any other state.
+
+ 
+
+Section
+29.             	
+Indemnification.
+
+ 
+
+To the extent allowable pursuant to Applicable
+Law, each member of the Board and the Administrator and any officer or other employee to whom authority to administer any component
+of the Plan is designated shall be indemnified and held harmless by the Company from any loss, cost, liability, or expense that
+may be imposed upon or reasonably incurred by such member in connection with or resulting from any claim, action, suit, or proceeding
+to which he or she may be a party or in which he or she may be a party or in which he or she may be involved by reason of any action
+or failure to act pursuant to the Plan and against and from any and all amounts paid by him or her in satisfaction of judgment
+in such action, suit, or proceeding against him or her; provided, however, that he or she gives the Company an opportunity, at
+its own expense, to handle and defend the same before he or she undertakes to handle and defend it on his or her own behalf. The
+foregoing right of indemnification shall not be exclusive of any other rights of indemnification to which such individuals may
+be entitled pursuant to the Company’s Articles of Incorporation or Bylaws, as a matter of law, or otherwise, or any power
+that the Company may have to indemnify them or hold them harmless.
+
+ 
+
+A-
+17
+ 
+
+ 
+
+ 
+
+Section
+30.	            
+Titles and Headings, References to Sections of the Code or Exchange Act.
+
+ 
+
+The titles and headings of the sections in the
+Plan are for convenience of reference only and, in the event of any conflict, the text of the Plan, rather than such titles or
+headings, shall control. References to sections of the Code or the Exchange Act shall include any amendment or successor thereto.
+
+ 
+
+Section
+31.            	
+Successors.
+
+ 
+
+The obligations of the Company under the Plan
+shall be binding upon any successor corporation or organization resulting from the merger, consolidation or other reorganization
+of the Company, or upon any successor corporation or organization succeeding to substantially all of the assets and business of
+the Company.
+
+ 
+
+Section
+32.            	
+Relationship to other Benefits.
+
+ 
+
+No payment pursuant to the Plan shall be taken
+into account in determining any benefits under any pension, retirement, savings, profit sharing, group insurance, welfare, or other
+benefit plan of the Company or any Affiliate except to the extent otherwise expressly provided in writing in such other plan or
+an agreement thereunder.
+
+ 
+
+A-18

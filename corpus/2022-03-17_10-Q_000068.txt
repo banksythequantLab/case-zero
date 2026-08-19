@@ -1,0 +1,6769 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000068/sfs10qncpl031622.htm
+FORM: 10-Q
+FILED: 2022-03-17
+COMPANY: Netcapital Inc.
+
+10-Q
+
+1
+
+sfs10qncpl031622.htm
+
+UNITED STATES 
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+FORM 
+10-Q
+
+ 
+
+[X] 
+QUARTERLY REPORT
+UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly
+period ended
+: 
+January 31, 2022
+
+ 
+
+OR
+
+ 
+
+[ ]
+ 
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Commission file number:
+
+000-55036
+
+ 
+
+NETCAPITAL
+ INC.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+Utah
+
+ 
+
+87-0409951
+
+(State
+ or other jurisdiction of incorporation or organization)
+
+ 
+
+(I.R.S.
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+
+Boston
+ 
+MA
+ 
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(
+781
+)
+ 
+925-1700
+
+ 
+
+(Registrant’s
+ telephone number, including area code)
+
+ 
+
+Indicate by check
+whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days.
+
+Yes 
+[X]
+ No [
+]
+
+ 
+
+Indicate by check
+mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files). 
+Yes
+ [X] No [ ]
+
+ 
+
+Indicate by
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company.
+
+Large accelerated
+ filer  [ ]
+
+Accelerated
+ filer  [ ]
+
+Non-accelerated
+ filer
+  [X]
+
+Smaller reporting
+ company  
+[X]
+
+ 
+
+ 
+
+ 
+
+Emerging growth company  
+[
+ ]
+
+ 
+
+ 
+
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any
+new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+Indicate by check
+mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes[ ] 
+No
+ [X]
+
+ 
+
+As of March 17, 2022 the Company had 
+2,896,844
+
+Shares of its common stock, par value $0.001 per share, issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+Page
+
+PART I—FINANCIAL
+ INFORMATION
+
+ 
+
+ 
+
+Item 1. Financial Statements.
+
+4
+
+ 
+
+ 
+
+Item 2. Management’s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+
+20
+
+ 
+
+ 
+
+Item 3. Quantitative and
+ Qualitative disclosures about Market Risk.
+
+24
+
+ 
+
+ 
+
+Item 4. Controls and Procedures.
+
+24
+
+ 
+
+ 
+
+PART II—OTHER
+ INFORMATION
+
+ 
+
+ 
+
+Item 1. Legal Proceedings.
+
+26
+
+ 
+
+ 
+
+Item1A. Risk Factors.
+
+26
+
+ 
+
+ 
+
+Item 2. Unregistered Sales
+ of Equity Securities and Use of Proceeds.
+
+26
+
+ 
+
+ 
+
+Item 3. Defaults Upon Senior
+ Securities.
+
+26
+
+ 
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+26
+
+ 
+
+ 
+
+Item 5. Other Information.
+
+26
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+27
+
+ 
+
+ 
+
+Signatures.
+
+28
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+Condensed Consolidated
+Balance Sheets
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Unaudited
+ 
+
+Audited
+
+Assets:
+ 
+
+January 31, 2022
+ 
+
+April 30, 2021
+
+  Cash and cash equivalents
+ 
+
+$
+477,134
+ 
+ 
+
+$
+2,473,959
+ 
+
+  Accounts receivable net
+ 
+
+ 
+2,257,174
+ 
+ 
+
+ 
+1,356,932
+ 
+
+  Prepaid expenses
+ 
+
+ 
+9,987
+ 
+ 
+
+ 
+653,861
+ 
+
+Total current assets
+ 
+
+ 
+2,744,295
+ 
+ 
+
+ 
+4,484,752
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+   Deposits
+ 
+
+ 
+6,300
+ 
+ 
+
+ 
+6,300
+ 
+
+   Notes receivable - related parties
+ 
+
+ 
+202,000
+ 
+ 
+
+ 
+—  
+ 
+
+   Purchased technology
+ 
+
+ 
+15,536,704
+ 
+ 
+
+ 
+14,803,954
+ 
+
+   Investment in affiliate
+ 
+
+ 
+240,080
+ 
+ 
+
+ 
+122,914
+ 
+
+   Equity securities at fair value
+ 
+
+ 
+11,261,253
+ 
+ 
+
+ 
+6,298,008
+ 
+
+Total assets
+ 
+
+$
+29,990,632
+ 
+ 
+
+$
+25,715,928
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Liabilities and Stockholders' Equity
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Current liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts payable
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+   Trade
+ 
+
+$
+437,326
+ 
+ 
+
+$
+308,506
+ 
+
+   Related party
+ 
+
+ 
+320,224
+ 
+ 
+
+ 
+3,843,686
+ 
+
+Accrued expenses
+ 
+
+ 
+253,285
+ 
+ 
+
+ 
+306,308
+ 
+
+Stock subscription payable
+ 
+
+ 
+277,650
+ 
+ 
+
+ 
+1,199,996
+ 
+
+Deferred revenue
+ 
+
+ 
+25,613
+ 
+ 
+
+ 
+622
+ 
+
+Interest payable
+ 
+
+ 
+187,239
+ 
+ 
+
+ 
+116,483
+ 
+
+Deferred tax liability, net
+ 
+
+ 
+981,000
+ 
+ 
+
+ 
+433,000
+ 
+
+Related party debt
+ 
+
+ 
+22,860
+ 
+ 
+
+ 
+22,860
+ 
+
+Secured note payable
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,000,000
+ 
+
+Current portion of SBA loans
+ 
+
+ 
+951,417
+ 
+ 
+
+ 
+1,885,800
+ 
+
+Loan payable - bank
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+34,324
+ 
+
+Total current liabilities
+ 
+
+ 
+3,490,938
+ 
+ 
+
+ 
+9,151,585
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Long-term liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Secured note payable
+ 
+
+ 
+1,000,000
+ 
+ 
+
+ 
+—  
+ 
+
+Long-term SBA loans, less current portion
+ 
+
+ 
+1,434,383
+ 
+ 
+
+ 
+2,385,800
+ 
+
+Total Liabilities
+ 
+
+ 
+5,925,321
+ 
+ 
+
+ 
+11,537,385
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Commitments and contingencies
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stockholders' equity:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  Common stock, $
+.001
+ par value; 
+900,000,000
+ shares authorized, 
+2,896,844
+ and 
+2,178,766
+
+ shares issued and outstanding
+ 
+
+ 
+2,896
+ 
+ 
+
+ 
+2,178
+ 
+
+  Capital in excess of par value
+ 
+
+ 
+22,050,777
+ 
+ 
+
+ 
+15,168,987
+ 
+
+  Retained earnings (deficit)
+ 
+
+ 
+2,011,638
+ 
+ 
+
+ 
+(992,622
+)
+
+Total stockholders' equity
+ 
+
+ 
+24,065,311
+ 
+ 
+
+ 
+14,178,543
+ 
+
+Total liabilities and stockholders' equity
+ 
+
+$
+29,990,632
+ 
+ 
+
+$
+25,715,928
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements
+
+ 
+
+4
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+Condensed
+ Consolidated Statements of Operations
+
+ (Unaudited)
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Nine Months Ended
+ 
+
+Nine Months Ended
+ 
+
+Three Months Ended
+ 
+
+Three Months Ended
+
+ 
+ 
+
+January 31, 2022
+ 
+
+January 31, 2021
+ 
+
+January 31, 2022
+ 
+
+January 31, 2021
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Revenues
+ 
+
+$
+3,636,050
+ 
+ 
+
+$
+3,770,813
+ 
+ 
+
+$
+1,811,041
+ 
+ 
+
+$
+1,277,327
+ 
+
+Costs of services
+ 
+
+ 
+85,429
+ 
+ 
+
+ 
+730,343
+ 
+ 
+
+ 
+39,349
+ 
+ 
+
+ 
+16,119
+ 
+
+Gross profit
+ 
+
+ 
+3,550,621
+ 
+ 
+
+ 
+3,040,470
+ 
+ 
+
+ 
+1,771,692
+ 
+ 
+
+ 
+1,261,208
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Costs and expenses:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Consulting expense
+ 
+
+ 
+675,180
+ 
+ 
+
+ 
+391,206
+ 
+ 
+
+ 
+309,545
+ 
+ 
+
+ 
+126,212
+ 
+
+Marketing
+ 
+
+ 
+67,771
+ 
+ 
+
+ 
+21,620
+ 
+ 
+
+ 
+23,945
+ 
+ 
+
+ 
+12,838
+ 
+
+Rent
+ 
+
+ 
+34,480
+ 
+ 
+
+ 
+39,516
+ 
+ 
+
+ 
+11,869
+ 
+ 
+
+ 
+12,718
+ 
+
+Payroll and payroll related expenses
+ 
+
+ 
+3,032,987
+ 
+ 
+
+ 
+2,153,561
+ 
+ 
+
+ 
+1,241,332
+ 
+ 
+
+ 
+857,228
+ 
+
+General and administrative costs
+ 
+
+ 
+1,277,146
+ 
+ 
+
+ 
+235,054
+ 
+ 
+
+ 
+320,724
+ 
+ 
+
+ 
+159,554
+ 
+
+               Total costs and expenses
+ 
+
+ 
+5,087,564
+ 
+ 
+
+ 
+2,840,957
+ 
+ 
+
+ 
+1,907,415
+ 
+ 
+
+ 
+1,168,550
+ 
+
+Operating income (loss)
+ 
+
+ 
+(1,536,943
+) 
+ 
+
+ 
+199,513
+ 
+ 
+
+ 
+(135,723
+)
+ 
+
+ 
+92,658
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Other income (expense):
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Interest expense
+ 
+
+ 
+(90,844
+)
+ 
+
+ 
+(53,690
+)
+ 
+
+ 
+(20,573
+)
+ 
+
+ 
+(30,126
+)
+
+Debt forgiveness
+ 
+
+ 
+1,904,302
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,904,302
+ 
+ 
+
+ 
+—  
+ 
+
+Unrealized gain on equity securities
+ 
+
+ 
+3,275,745
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+
+Total other income (expense)
+ 
+
+ 
+5,089,203
+ 
+ 
+
+ 
+(53,690
+)
+ 
+
+ 
+1,883,729
+ 
+ 
+
+ 
+(30,126
+)
+
+               Net income before taxes
+ 
+
+ 
+3,552,260
+ 
+ 
+
+ 
+145,823
+ 
+ 
+
+ 
+1,748,006
+ 
+ 
+
+ 
+62,532
+ 
+
+  Income tax provision (benefit)
+ 
+
+ 
+548,000
+ 
+ 
+
+ 
+42,288
+ 
+ 
+
+ 
+(73,000
+)
+ 
+
+ 
+19,890
+ 
+
+Net income
+ 
+
+$
+3,004,260
+ 
+ 
+
+$
+103,535
+ 
+ 
+
+$
+1,821,006
+ 
+ 
+
+$
+42,642
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic earnings per share
+ 
+
+$
+1.16
+ 
+ 
+
+$
+0.11
+ 
+ 
+
+$
+0.64
+ 
+ 
+
+$
+0.02
+ 
+
+Diluted earnings per share
+ 
+
+$
+1.14
+ 
+ 
+
+$
+0.11
+ 
+ 
+
+$
+0.63
+ 
+ 
+
+$
+0.02
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average number of common shares outstanding:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic
+ 
+
+ 
+2,589,142
+ 
+ 
+
+ 
+948,058
+ 
+ 
+
+ 
+2,842,924
+ 
+ 
+
+ 
+2,012,723
+ 
+
+Diluted
+ 
+
+ 
+2,629,043
+ 
+ 
+
+ 
+948,058
+ 
+ 
+
+ 
+2,882,825
+ 
+ 
+
+ 
+2,012,729
+ 
+
+ 
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements
+
+ 
+
+5
+ 
+
+ 
+
+ 
+ 
+
+NETCAPITAL INC.
+
+Statements of Changes
+in Stockholders’ Equity (Unaudited)
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+Common Stock
+ 
+
+Capital in Excess of
+ 
+
+Retained Earnings
+ 
+
+Total
+
+ 
+ 
+
+Shares
+ 
+
+Amount
+ 
+
+Par Value
+ 
+
+(Deficit)
+ 
+
+Equity
+
+Balance, April 30, 2019
+ 
+
+ 
+377,685
+ 
+ 
+
+$
+378
+ 
+ 
+
+$
+2,201,497
+ 
+ 
+
+$
+(3,067,133
+)
+ 
+
+$
+(865,258
+)
+
+Q1 stock-based compensation
+ 
+
+ 
+1,406
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+19,687
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+19,688
+ 
+
+Net income, July 31, 2019
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+24,475
+ 
+ 
+
+ 
+24,475
+ 
+
+Balance, July 31, 2019
+ 
+
+ 
+379,091
+ 
+ 
+
+ 
+379
+ 
+ 
+
+ 
+2,221,184
+ 
+ 
+
+ 
+(3,042,658
+)
+ 
+
+ 
+(821,095
+)
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q2 stock-based compensation
+ 
+
+ 
+37,656
+ 
+ 
+
+ 
+38
+ 
+ 
+
+ 
+917,305
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+917,343
+ 
+
+Net income, October 31, 2019
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+542,451
+ 
+ 
+
+ 
+542,451
+ 
+
+Balance, October 31, 2019
+ 
+
+ 
+416,747
+ 
+ 
+
+ 
+417
+ 
+ 
+
+ 
+3,138,489
+ 
+ 
+
+ 
+(2,500,207
+)
+ 
+
+ 
+638,699
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q3 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,500
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,500
+ 
+
+Net income, January 31, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+595,174
+ 
+ 
+
+ 
+595,174
+ 
+
+Balance, January 31, 2020
+ 
+
+ 
+416,903
+ 
+ 
+
+ 
+417
+ 
+ 
+
+ 
+3,139,989
+ 
+ 
+
+ 
+(1,905,033
+)
+ 
+
+ 
+1,235,373
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q4 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,032
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,032
+ 
+
+Net loss, April 30, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+(557,249
+)
+ 
+
+ 
+(557,249
+)
+
+Balance, April 30, 2020
+ 
+
+ 
+417,059
+ 
+ 
+
+ 
+417
+ 
+ 
+
+ 
+3,141,021
+ 
+ 
+
+ 
+(2,462,282
+)
+ 
+
+ 
+679,156
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q1 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,406
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,406
+ 
+
+Net income, July 31, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+30,871
+ 
+ 
+
+ 
+30,871
+ 
+
+Balance, July 31, 2020
+ 
+
+ 
+417,215
+ 
+ 
+
+ 
+417
+ 
+ 
+
+ 
+3,142,427
+ 
+ 
+
+ 
+(2,431,411
+)
+ 
+
+ 
+711,433
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q2 stock-based compensation
+ 
+
+ 
+2,240
+ 
+ 
+
+ 
+2
+ 
+ 
+
+ 
+18,555
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+18,557
+ 
+
+Net income, October 31, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+30,022
+ 
+ 
+
+ 
+30,022
+ 
+
+Balance, October 31, 2020
+ 
+
+ 
+419,455
+ 
+ 
+
+ 
+419
+ 
+ 
+
+ 
+3,160,982
+ 
+ 
+
+ 
+(2,401,389
+)
+ 
+
+ 
+760,012
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Shares issued to acquire funding portal
+ 
+
+ 
+1,666,360
+ 
+ 
+
+ 
+1,666
+ 
+ 
+
+ 
+11,329,582
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+11,331,248
+ 
+
+Return of shares of common stock
+ 
+
+ 
+(5,000
+)
+ 
+
+ 
+(5
+)
+ 
+
+ 
+5
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+
+Q3 stock-based compensation
+ 
+
+ 
+937
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+6,239
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+6,240
+ 
+
+Net income, January 31, 2021
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+42,642
+ 
+ 
+
+ 
+42,642
+ 
+
+Balance, January 31, 2021
+ 
+
+ 
+2,081,752
+ 
+ 
+
+ 
+2,081
+ 
+ 
+
+ 
+14,496,808
+ 
+ 
+
+ 
+(2,358,747
+)
+ 
+
+ 
+12,140,142
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q4 stock-based compensation
+ 
+
+ 
+95,937
+ 
+ 
+
+ 
+96
+ 
+ 
+
+ 
+657,180
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+657,276
+ 
+
+Shares issued for debt settlement
+ 
+
+ 
+1,077
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+14,999
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+15,000
+ 
+
+Net income, April 30, 2021
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+1,366,125
+ 
+ 
+
+ 
+1,366,125
+ 
+
+Balance, April 30, 2021
+ 
+
+ 
+2,178,766
+ 
+ 
+
+ 
+2,178
+ 
+ 
+
+ 
+15,168,987
+ 
+ 
+
+ 
+(992,622
+)
+ 
+
+ 
+14,178,543
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q1 stock-based compensation
+ 
+
+ 
+937
+ 
+ 
+
+ 
+2
+ 
+ 
+
+ 
+14,054
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+14,056
+ 
+
+Sale of common stock
+ 
+
+ 
+176,934
+ 
+ 
+
+ 
+176
+ 
+ 
+
+ 
+1,592,219
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+1,592,395
+ 
+
+Shares issued to settle related party accounts payable
+ 
+
+ 
+361,736
+ 
+ 
+
+ 
+362
+ 
+ 
+
+ 
+3,523,100
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+3,523,462
+ 
+
+Net income, July 31, 2021
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,457,410
+ 
+ 
+
+ 
+1,457,410
+ 
+
+Balance, July 31, 2021
+ 
+
+ 
+2,718,373
+ 
+ 
+
+ 
+2,718
+ 
+ 
+
+ 
+20,298,360
+ 
+ 
+
+ 
+464,788
+ 
+ 
+
+ 
+20,765,866
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q2 stock-based compensation
+ 
+
+ 
+937
+ 
+ 
+
+ 
+1
+ 
+ 
+
+ 
+10,072
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+10,073
+ 
+
+Net loss, October 31, 2021
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+(274,156
+)
+ 
+
+ 
+(274,156
+)
+
+Balance, October 31, 2021
+ 
+
+ 
+2,719,310
+ 
+ 
+
+ 
+2,719
+ 
+ 
+
+ 
+20,308,432
+ 
+ 
+
+ 
+190,632
+ 
+ 
+
+ 
+20,501,783
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q3 stock-based compensation
+ 
+
+ 
+55,312
+ 
+ 
+
+ 
+55
+ 
+ 
+
+ 
+553,967
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+554,022
+ 
+
+Purchase of equity interest
+ 
+
+ 
+50,000
+ 
+ 
+
+ 
+50
+ 
+ 
+
+ 
+499,950
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+500,000
+ 
+
+Purchase of MSG Development Corp.
+ 
+
+ 
+50,000
+ 
+ 
+
+ 
+50
+ 
+ 
+
+ 
+488,450
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+488,500
+ 
+
+Sale of common stock
+ 
+
+ 
+22,222
+ 
+ 
+
+ 
+22
+ 
+ 
+
+ 
+199,978
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+200,000
+ 
+
+Net income, January 31, 2022
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,821,006
+ 
+ 
+
+ 
+1,821,006
+ 
+
+Balance, January 31, 2022
+ 
+
+ 
+2,896,844
+ 
+ 
+
+$
+2,896
+ 
+ 
+
+$
+22,050,777
+ 
+ 
+
+$
+2,011,638
+ 
+ 
+
+$
+24,065,311
+ 
+
+ 
+
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements
+
+6
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+Condensed
+ Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+January 31, 2022
+ 
+
+January 31, 2021
+
+OPERATING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net income
+ 
+
+$
+3,004,260
+ 
+ 
+
+$
+103,535
+ 
+
+Adjustment to reconcile net income to net cash used in operating activities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stock-based compensation
+ 
+
+ 
+1,137,042
+ 
+ 
+
+ 
+386,121
+ 
+
+Non-cash revenue from the receipt of equity
+ 
+
+ 
+(1,187,500
+)
+ 
+
+ 
+(2,319,532
+)
+
+Unrealized gain on equity securities
+ 
+
+ 
+(3,275,745
+)
+ 
+
+ 
+—  
+ 
+
+Debt forgiveness
+ 
+
+ 
+(1,904,302
+)
+ 
+
+ 
+ 
+ 
+
+Provision for bad debts
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+29,000
+ 
+
+Changes in deferred taxes
+ 
+
+ 
+548,000
+ 
+ 
+
+ 
+42,288
+ 
+
+Changes in non-cash working capital balances:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts receivable
+ 
+
+ 
+(900,242
+)
+ 
+
+ 
+(1,001,586
+)
+
+Prepaid expenses
+ 
+
+ 
+21,983
+ 
+ 
+
+ 
+(3,144
+)
+
+Accounts payable and accrued expenses
+ 
+
+ 
+138,797
+ 
+ 
+
+ 
+250,587
+ 
+
+Accounts payable - related party
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+37,314
+ 
+
+Deferred revenue
+ 
+
+ 
+24,991
+ 
+ 
+
+ 
+(67
+)
+
+Accrued interest payable
+ 
+
+ 
+89,258
+ 
+ 
+
+ 
+—  
+ 
+
+Net cash used in operating activities
+ 
+
+ 
+(2,303,458
+)
+ 
+
+ 
+(2,475,484
+)
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+INVESTING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Proceeds from purchase of funding portal
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+364,939
+ 
+
+Loans to affiliates
+ 
+
+ 
+(202,000
+)
+ 
+
+ 
+—  
+ 
+
+Investment in affiliate
+ 
+
+ 
+(117,166
+)
+ 
+
+ 
+—  
+ 
+
+Net cash provided by (used in) investing activities
+ 
+
+ 
+(319,166
+)
+ 
+
+ 
+364,939
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+FINANCING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+    Proceeds from SBA loans
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+2,385,800
+ 
+
+Proceeds from stock subscriptions
+ 
+
+ 
+625,799
+ 
+ 
+
+ 
+—  
+ 
+
+Net cash provided by financing activities
+ 
+
+ 
+625,799
+ 
+ 
+
+ 
+2,385,800
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net increase (decrease) in cash
+ 
+
+ 
+(1,996,825
+)
+ 
+
+ 
+275,255
+ 
+
+Cash and cash equivalents, beginning of the period
+ 
+
+ 
+2,473,959
+ 
+ 
+
+ 
+11,206
+ 
+
+Cash and cash equivalents, end of the period
+ 
+
+$
+477,134
+ 
+ 
+
+$
+286,461
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental disclosure of cash flow information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Cash paid for taxes
+ 
+
+$
+—  
+ 
+ 
+
+$
+—  
+ 
+
+Cash paid for interest
+ 
+
+$
+1,592
+ 
+ 
+
+$
+1,595
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental Non-Cash Financing Information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Common stock issued to purchase subsidiary
+ 
+
+$
+488,500
+ 
+ 
+
+$
+—  
+ 
+
+Common stock issued to purchase 10% interest in Caesar Media Group Inc.
+ 
+
+$
+500,000
+ 
+ 
+
+$
+—  
+ 
+
+Common stock issued to reduce related party payable
+ 
+
+$
+3,523,462
+ 
+ 
+
+$
+—  
+ 
+
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements 	
+
+ 
+
+ 
+
+ 
+
+7
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+ 
+
+Notes To Condensed
+Consolidated Financial Statements (Unaudited)
+
+ 
+
+Note 1– 
+Basis of Presentation
+
+ 
+
+The accompanying
+unaudited condensed financial statements of Netcapital Inc. (the “Company”) have been prepared in accordance with generally
+accepted accounting principles for interim financial information and in accordance with the rules and regulations of the U.S. Securities
+and Exchange Commission (“SEC”) for quarterly reports on Form 10-Q. Accordingly, they do not include all of the information
+and footnotes required by generally accepted accounting principles for complete financial statements. In the opinion of management, all
+adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating results
+for the nine- and three-month periods ended January 31, 2022, are not necessarily indicative of the results that may be expected for
+the fiscal year ended April 30, 2022. For further information, refer to the audited financial statements and footnotes thereto in our
+Annual Report on Form 10-K for the year ended April 30, 2021.
+
+ 
+
+In June 2016, the
+FASB issued ASU No. 2016-13 
+Financial Instruments-Credit Losses
+.  The new guidance provides better representation about
+expected credit losses on financial instruments. This update requires the use of a methodology that reflects expected losses and requires
+consideration of a broader range of reasonable and supportive information to inform credit loss estimates.  This ASU is effective
+for reporting periods beginning after December 15, 2022, with early adoption permitted.  The company is studying the impact of adopting
+the ASU in fiscal year 2023, and what effect it could have. The Company believes the accounting change would not have a material effect
+on the consolidated financial statements.
+
+ 
+
+In
+December 2019, the FASB issued Accounting Standard Update No. 2019-12, 
+Income Taxes
+ 
+(Topic 740):
+ 
+Simplifying
+the Accounting for Income Taxes
+ (ASU 2019-12), which simplifies the accounting for income taxes. This guidance had no impact
+on our consolidated financial statements.
+
+ 
+
+Management does not
+believe that any other recently issued, but not yet effective, accounting standards could have a material effect on the accompanying
+financial statements. As new accounting pronouncements are issued, we will adopt those that are applicable under the circumstances.
+
+ 
+
+Note 2 –
+
+Concentrations
+
+ 
+
+For the nine- and
+three-month periods ended January 31, 2022, the Company had one customer that constituted 
+30
+% and 
+33
+% of revenues and a second customer
+that constituted 
+28
+% and 
+33
+% of revenues, respectively. For the nine- and three-month periods ended January 31, 2021, the Company had
+one related party customer that constituted 
+37
+% and 
+0
+% of its revenues, a second customer that constituted 
+18
+% and 
+0
+% of its revenues,
+a third customer that constituted 
+13
+% and 
+37
+% of its revenues, and a fourth customer that constituted 
+9
+% and 
+28
+% of its revenues, respectively.
+
+ 
+
+Note 3 –
+
+Revenue Recognition
+
+ 
+
+Revenue Recognition under ASC
+606
+
+The Company recognizes
+service revenue from its consulting contracts and its game website using the five-step model as prescribed by ASC 606:
+
+ 
+
+• Identification
+of the contract, or contracts, with a customer;
+
+• Identification
+of the performance obligations in the contract;
+
+• Determination
+of the transaction price;
+
+• Allocation
+of the transaction price to the performance obligations in the contract; and
+
+• Recognition
+of revenue when or as, the Company satisfies a performance obligation.
+
+ 
+
+ 
+
+8
+ 
+
+ 
+
+ 
+
+ 
+
+The Company identifies
+performance obligations in contracts with customers, which primarily are professional services, listing fees on our funding portal, and
+a success fee of 4.9% of the money raised on the funding portal. The transaction price is determined based on the amount the Company
+expects to be entitled to receive in exchange for transferring the promised services to the customer. The transaction price in the contract
+is allocated to each distinct performance obligation in an amount that represents the relative amount of consideration expected to be
+received in exchange for satisfying each performance obligation. Revenue is recognized when performance obligations are satisfied. The
+Company usually bills its customers before it provides any services and begins performing services after the first payment is received.
+Contracts are typically one year or less. For larger contracts, in addition to the initial payment, the Company may allow for progress
+payments throughout the term of the contract. 
+
+Judgments and Estimates
+
+The estimation of
+variable consideration for each performance obligation requires the Company to make subjective judgments. The Company enters into contracts
+with customers that regularly include promises to transfer multiple services, such as digital marketing, web-based videos, offering statements,
+and professional services. For arrangements with multiple services, the Company evaluates whether the individual services qualify as
+distinct performance obligations. In its assessment of whether a service is a distinct performance obligation, the Company determines
+whether the customer can benefit from the service on its own or with other readily available resources, and whether the service is separately
+identifiable from other services in the contract. This evaluation requires the Company to assess the nature of each individual service
+offering and how the services are provided in the context of the contract, including whether the services are significantly integrated,
+highly interrelated, or significantly modify each other, which may require judgment based on the facts and circumstances of the contract.
+
+ 
+
+When agreements involve
+multiple distinct performance obligations, the Company allocates arrangement consideration to all performance obligations at the inception
+of an arrangement based on the relative standalone selling prices (SSP) of each performance obligation. Where the Company has standalone
+sales data for its performance obligations which are indicative of the price at which the Company sells a promised service separately
+to a customer, such data is used to establish SSP. In instances where standalone sales data is not available for a particular performance
+obligation, the Company estimates SSP by the use of observable market and cost-based inputs. The Company continues to review the factors
+used to establish list price and will adjust standalone selling price methodologies as necessary on a prospective basis.
+
+ 
+
+Service Revenue
+
+Service revenue from
+subscriptions to the Company's game website is recognized over time on a ratable basis over the contractual subscription term beginning
+on the date that the platform is made available to the customer. Payments received in advance of subscription services being rendered
+are recorded as a deferred revenue. Professional services revenue is recognized over time as the services are rendered.
+
+ 
+
+When a contract with
+a customer is signed, the Company assesses whether collection of the fees under the arrangement is probable. The Company estimates the
+amount to reserve for uncollectible amounts based on the aging of the contract balance, current and historical customer trends, and communications
+with its customers. These reserves are recorded as operating expenses against the contract asset (Accounts Receivable).
+
+ 
+
+Contract Assets
+
+Contract assets are
+recorded for those parts of the contract consideration not yet invoiced but for which the performance obligations are completed. The
+revenue is recognized when the customer receives services. Contract assets are included in other current assets in the consolidated balance
+sheets and will be recognized during the succeeding twelve-month period.
+
+ 
+
+Deferred Revenue
+
+Deferred revenues
+represent billings or payments received in advance of revenue recognition and are recognized upon transfer of control. Balances consist
+primarily of annual plan subscription services and professional services not yet provided as of the balance sheet date. Deferred revenues
+that will be recognized during the succeeding twelve-month 
+period are recorded
+as current deferred revenues in the consolidated balance sheets, with the remainder recorded as other non-current liabilities in the
+consolidated balance sheets.
+
+9
+ 
+
+ 
+
+ 
+
+Costs to Obtain
+a Customer Contract
+
+Sales commissions
+and related expenses are considered incremental and recoverable costs of acquiring customer contracts. These costs are capitalized as
+other current or non-current assets and amortized on a straight-line basis over the life of the contract, which approximates the benefit
+period. The benefit period was estimated by taking into consideration the length of customer contracts, technology lifecycle, and other
+factors. All sales commissions are recorded as consulting fees within the Company's consolidated statement of operations.
+
+ 
+
+Remaining Performance
+Obligations
+
+The Company's subscription
+terms are typically less than one year. All of the Company’s revenues in the nine- and three-month periods ended January 31, 2022,
+which amounted to $
+3,636,050
+ and $
+1,811,041
+, respectively, and for the nine- and three-month periods ended January 31, 2021, which amounted
+to $
+3,770,813
+ and $
+1,277,327
+, respectively are considered contract revenues. Contract revenue as of January 31, 2022 and April 30, 2021,
+which has not yet been recognized, amounted to $
+25,613
+ and $
+622
+, respectively, and is recorded on the balance sheet as deferred revenue.
+The Company expects to recognize revenue on all of its remaining performance obligations over the next 12 months.  
+
+ 
+
+Disaggregation
+of Revenue
+
+ 
+
+Our revenue is from
+U.S.-based companies with no notable geographical concentrations in any area. A distinction exists in revenue source; our revenues are
+either generated online or from consulting services.
+
+ 
+
+Revenues disaggregated
+by revenue source consist of the following:
+
+ 
+Schedule
+of revenue
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Nine Months Ended Jan. 31, 2022
+ 
+
+Nine Months Ended Jan. 31, 2021
+ 
+
+Three Months Ended Jan. 31, 2022
+ 
+
+Three Months Ended Jan. 31, 2021
+
+Consulting services
+ 
+
+$
+2,395,395
+ 
+ 
+
+$
+3,416,802
+ 
+ 
+
+$
+1,389,200
+ 
+ 
+
+$
+924,286
+ 
+
+Fees from online services
+ 
+
+ 
+1,240,655
+ 
+ 
+
+ 
+354,011
+ 
+ 
+
+ 
+421,841
+ 
+ 
+
+ 
+353,041
+ 
+
+Total revenues
+ 
+
+$
+3,636,050
+ 
+ 
+
+$
+3,770,813
+ 
+ 
+
+$
+1,811,041
+ 
+ 
+
+$
+1,277,327
+ 
+
+ 
+
+Note 4 –
+
+Earnings Per Common Share
+
+ 
+
+Net income
+per common and diluted share share were calculated as follows for the nine- and three-month periods ended January 31, 2022 and 2021:
+
+ 
+Schedule
+of earnings per share
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Nine Months Ended January 31, 2022
+ 
+
+Nine Months Ended January 31, 2021
+ 
+
+Three Months Ended January 31, 2022
+ 
+
+Three Months Ended January 31, 2021
+
+Net income attributable to common stockholders – basic
+ 
+
+$
+3,004,260
+ 
+ 
+
+$
+103,535
+ 
+ 
+
+$
+1,821,006
+ 
+ 
+
+$
+42,642
+ 
+
+Adjustments to net income
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+—  
+ 
+
+Net income attributable to common stockholders – diluted
+ 
+
+$
+3,004,260
+ 
+ 
+
+$
+103,535
+ 
+ 
+
+$
+1,821,006
+ 
+ 
+
+$
+42,642
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average common shares outstanding - basic
+ 
+
+ 
+2,589,142
+ 
+ 
+
+ 
+948,058
+ 
+ 
+
+ 
+2,842,924
+ 
+ 
+
+ 
+2,012,723
+ 
+
+Effect of dilutive securities
+ 
+
+ 
+39,901
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+39,901
+ 
+ 
+
+ 
+—  
+ 
+
+Weighted average common shares outstanding – diluted
+ 
+
+ 
+2,629,043
+ 
+ 
+
+ 
+948,058
+ 
+ 
+
+ 
+2,882,825
+ 
+ 
+
+ 
+2,012,723
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Earnings per common share - basic
+ 
+
+$
+1.16
+ 
+ 
+
+$
+0.11
+ 
+ 
+
+$
+0.64
+ 
+ 
+
+$
+0.02
+ 
+
+Earnings per common share - diluted
+ 
+
+$
+1.14
+ 
+ 
+
+$
+0.11
+ 
+ 
+
+$
+0.63
+ 
+ 
+
+$
+0.02
+ 
+
+ 
+
+10
+ 
+
+ 
+
+ 
+
+39,901 shares that
+are issuable to satisfy a supplemental consideration liability were included for the calculation of earnings per share for the nine-
+and three-month periods ended January 31, 2022 because their effect is dilutive. No dilutive securities existed for the nine- and three-month
+periods ended January 31, 2021.
+
+ 
+
+Note 5 –
+
+Principal Financing Arrangements
+
+ 
+
+The following table
+summarizes components debt as of January 31, 2022 and April 30, 2021:
+
+ 
+Schedule
+of debt
+
+ 
+ 
+
+January 31, 
+2022
+ 
+
+April 30, 2021
+ 
+
+Interest Rate
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Secured lender
+ 
+
+$
+1,000,000
+ 
+ 
+
+$
+1,000,000
+ 
+ 
+
+ 
+8.0
+%
+
+Notes payable – related parties
+ 
+
+ 
+22,860
+ 
+ 
+
+ 
+22,860
+ 
+ 
+
+ 
+0.0
+%
+
+U.S. SBA loan
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1.0
+%
+
+U.S. SBA loan
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+3.75
+%
+
+U.S. SBA loan
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1.0
+%
+
+Loan payable – bank
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+5.5
+%
+
+        Total Debt
+ 
+
+ 
+3,442,984
+ 
+ 
+
+ 
+5,328,784
+ 
+ 
+
+ 
+ 
+ 
+
+Less: current portion of long-term debt
+ 
+
+ 
+1,008,601
+ 
+ 
+
+ 
+2,942,984
+ 
+ 
+
+ 
+ 
+ 
+
+Total long-term debt
+ 
+
+$
+2,434,383
+ 
+ 
+
+$
+2,385,800
+ 
+ 
+
+ 
+ 
+ 
+
+  
+
+ 
+
+As of January 31,
+2022 and April 30, 2021, the Company owed its principal lender (“Lender”) $1,000,000 under an amended loan and security agreement
+(“Loan”) dated July 26, 2014 and amended on October 31, 2017, October 31, 2020, January 31, 2021, April 30, 2021, January
+28, 2022 and February 3, 2022. The Lender was the largest shareholder of the Company owning 32.6% of the shares issued and outstanding
+until the Company purchased Netcapital Funding Portal Inc. on November 5, 2020. With the purchase of Netcapital Funding Portal Inc.,
+the Lender owns less than 10% of the Company and is no longer considered a related party. The interest rate is 8% per annum and the maturity
+date is April 30, 2023.
+
+ 
+
+In connection with
+the financing, the Company has agreed to certain restrictive covenants, including, among others, that the Company may not convey, sell,
+lease, transfer or otherwise dispose of any part of its business or property, except as permitted in the agreement, dissolve, liquidate
+or merge with any other party unless, in the case of a merger, the Company is the surviving entity, incur any indebtedness except as
+defined in the agreement, create or allow a lien on any of its assets or collateral that has been pledged to the Lender, make any loans
+to any person, except for prepaid items or deposits incurred in the ordinary course of business, or make any material capital expenditures.
+To secure the payment of all obligations to the Lender, the Company granted to the Lender a continuing security interest and first lien
+on all of the assets of the Company.
+
+ 
+
+As of January 31,
+2022 and April 30, 2021, the Company’s related-party unsecured notes payable totaled $22,860.
+
+ 
+
+The Company also
+owes $34,324 as of January 31, 2022 and April 30, 2021 to Chase Bank. The Company pays interest expense to Chase Bank, which is calculated
+at a rate of 5.5% per annum.
+
+ 
+
+On May 6, 2020, the
+Company borrowed $1,885,800 (the “May Loan”), on June 17, 2020 the Company borrowed $500,000 (the “June Loan”),
+and on February 2, 2021, the Company borrowed $1,885,800 (the “February Loan”) from a U.S. Small Business Administration
+(“SBA”) loan program.
+
+ 
+
+The May loan bore
+interest at a rate of 1% per annum and the SBA postponed any installment payments until September 6, 2021. In November 2021 the May Loan
+was forgiven in its entirety, including accrued interest of $18,502. As a result, the Company recognized debt forgiveness of $1,904,302
+in the nine- and three-month periods ended January 31, 2022.
+
+ 
+
+11
+ 
+
+ 
+
+The June Loan required
+installment payments of $2,594 monthly, beginning on June 17, 2021, over a term of thirty years. However, the SBA has postponed the first
+installment payment for 12 months. Interest accrues at a rate of 3.75% per annum. The Company agreed to grant a continuing security interest
+in its assets to secure payment and performance of all debts, liabilities, and obligations to the SBA. The June Loan was personally guaranteed
+by the Company’s Chief Financial Officer.
+
+ 
+
+The February loan
+bears interest at a rate of 1% per annum and the due date of the first payment is May 22, 2022. The Company intends to apply for forgiveness
+of the February Loan and believes it will be forgiven in its entirety.
+
+Note 6 – Income Taxes
+
+As of January 31,
+2022 and April 30, 2021, the Company had net operating loss carryforwards for Federal income tax purposes of approximately $
+1,675,000
+
+and $
+890,000
+, respectively, expiring in the years of 2022 through 2041.
+
+ 
+
+For the nine- and
+three-month periods ended January 31, 2022, the Company recorded income tax expense of $548,000 and a tax benefit of $73,000, respectively.
+For the nine- and three- month periods ended January 31, 2021, the Company recorded income tax expense of $42,288 and $19,890, respectively.
+
+ 
+
+As of January 31,
+2022 and April 30, 2021, the Company had net deferred tax assets calculated at an expected federal rate of 21%, and a state rate of 8%,
+when applicable, or approximately $715,000 and $313,000, respectively. As a result of unrealized book gains on equity securities, the
+Company also has a deferred tax liability of $1,696,000 and $746,000 as of January 31, 2022 and April 30, 2021, respectively. Deferred
+income taxes reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial
+reporting purposes and the amounts used for income tax purposes. Significant components of the Company’s deferred tax assets and
+liabilities as of January 31, 2022 and April 30, 2021 were as follows:
+
+ 
+Schedule of income taxes
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+January 31, 2022
+ 
+
+April 30, 2021
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Deferred tax assets, net:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net operating loss carryforwards
+ 
+
+$
+352,000
+ 
+ 
+
+$
+141,000
+ 
+
+Bad debt allowance
+ 
+
+ 
+27,000
+ 
+ 
+
+ 
+17,000
+ 
+
+Stock-based compensation
+ 
+
+ 
+336,000
+ 
+ 
+
+ 
+155,000
+ 
+
+Deferred tax assets
+ 
+
+ 
+715,000
+ 
+ 
+
+ 
+313,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Deferred tax liability
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Unrealized gain
+ 
+
+ 
+1,696,000
+ 
+ 
+
+ 
+746,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net deferred tax liability
+ 
+
+$
+(981,000
+)
+ 
+
+$
+(433,000
+)
+
+ 
+
+Note 7 –
+
+Related Party Transactions
+
+ 
+
+The Company’s
+majority shareholder, Netcapital Systems LLC, owns 1,671,360 shares of common stock, or 57.7% of the Company’s 2,896,844 outstanding
+shares as of January 31, 2022. The Company has a demand note payable to Netcapital Systems LLC of $4,660 and a demand note payable to
+one of its former managers of $3,200. In addition, as of April 30, 2021, the Company accrued a payable of $3,817,516 for supplemental
+consideration owed in conjunction with its purchase of Netcapital Funding Portal Inc., which was reduced to $294,054 as of January 31,
+2022, because of the issuance to 361,736 shares of common stock, valued at $3,523,462. Of the 361,736 shares that were issued, a total
+of 32,458 shares, representing a reduction in the payable amount of $346,821, were issued to managers of Netcapital Systems LLC, and
+3,151 shares, representing a reduction in the payable amount of $30,691, were issued to our Chief Executive Officer.
+
+ 
+
+In total, the Company
+owed its largest shareholder $298,714 and $3,822,116 as of January 31, 2022 and April 30, 2021, respectively. The company paid its majority
+shareholder $257,429 and $100,000 in the nine- and three-month periods ended January 31, 2022, respectively, for use of the software
+that runs the website www.netcapital.com. The 
+Company also had
+a sale of $15,000 for consulting services to its largest shareholder during the nine- and three-month periods ended January 31, 2022.
+
+12
+ 
+
+ 
+
+ 
+
+Compensation
+to officers in the nine- and three-month periods ended January 31, 2022 consisted of common stock valued at $190,763 and $89,436, respectively,
+and cash salary of $217,688 and $73,688, respectively. Compensation to officers in the nine- and three-month periods ended January 31,
+2021 consisted of common stock valued at $301,783 and $86,417 respectively, and cash wages of $210,462 and $72,000, respectively.
+
+ 
+
+Compensation
+to a related party consultant in the nine- and three-month periods ended January 31, 2022 consisted of common stock valued at $25,908
+and $0 respectively, and cash wages of $45,000 and $15,000, respectively. Compensation to a related party consultant in the nine- and
+three-month periods ended January 31, 2021 consisted of common stock valued at $38,757 and $19,378 respectively, and cash wages of $46,154
+and $24,000, respectively. This consultant is also the controlling shareholder of Zelgor Inc. and $1,400,000 and $0 of the Company’s
+revenues in the nine- and three-month periods ended January 31, 2021 were from Zelgor Inc.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compensation
+to employees who are also managers of Netcapital Systems LLC in the nine and three-month periods ended January 31, 2022 consisted of
+common stock valued at $19,378 and $0, respectively, and cash wages of $96,000 and $24,000, respectively. Compensation to managers of
+Netcapital Systems LLC in the nine and three-month periods ended January 31, 2021 consisted of common stock valued at $58,135 and $19,378,
+respectively, and cash wages of $141,308 and $48,000, respectively.
+
+ 
+
+As
+of January 31, 2022 and April 30, 2021, the Company has invested $240,080 and $122,914 in an affiliate, 6A Aviation Alaska Consortium,
+Inc., in conjunction with a land lease in an airport in Alaska. Our Chief Executive Officer is also the Chief Executive Officer of 6A
+Aviation Alaska Consortium, Inc. 
+
+ 
+
+In
+November 2021 we issued a member of our board of directors 10,000 shares of common stock, for board and audit committee services, valued
+at $100,000.
+
+ 
+
+The
+Company owes a director $16,680 as of January 31, 2022 and April 30, 2021, which is recorded as accounts payable, plus $15,000 in a non-interest-bearing
+note payable.
+
+ 
+
+Note 8 –
+
+Stockholders’ Equity
+
+ 
+
+The Company is authorized
+to issue 900,000,000 shares of its common stock, par value $0.001. 2,896,844 and 2,178,766 shares were outstanding as of January 31,
+2022 and April 30, 2021, respectively. In August 2020, the board of directors authorized a reverse split of the common stock on a 1-for-2,000
+basis, whereby the Company issued to each of its stockholders one share of Common Stock for every 2,000 shares of common stock held by
+such stockholder. The reverse split was effective on November 5, 2020. The financial statements for the nine- and three-month periods
+ended January 31, 2021 have been adjusted to give effect to the reverse split.
+
+ 
+
+On January 27, 2022,
+the Company filed a Form S-8 registration statement for securities to be offered in employee benefit plans, to register 300,000 shares
+of common stock from the Company’s 2021 Equity Incentive Plan. Stock options were granted under this plan in February 2022, see
+Note 14.
+
+ 
+
+On July 26, 2021,
+the Company issued 361,736 shares of its common stock as payment of $3,523,462 of supplemental consideration that was owed to its affiliate,
+Netcapital Systems LLC. The 361,736 shares of common stock include an aggregate of 35,609 shares of common stock, that paid off liabilities
+totaling $346,821, that were made to our Chief Executive Officer, a company controlled by a member of the board of managers of Netcapital
+Systems LLC and to an individual manager.
+
+ 
+
+On July 27, 2021,
+the Company completed a private placement for gross proceeds of $1,592,395 in conjunction with the sale of restricted shares of common
+stock at a price of $9.00 per share. A total of 176,934 shares of common stock were issued.
+
+ 
+
+Effective October
+31, 2021 and July 31, 2021, the Company issued an aggregate of 937 shares of restricted stock to two employees. The shares were valued
+at $10,073 and $14,056, respectively.
+
+13
+ 
+
+ 
+
+ 
+
+During the quarter
+ended January 31, 2022, the Company issued a total of 55,312 shares of common stock to personnel, valued at $554,022, for services rendered.
+The Company also issued 22,222 shares in conjunction with a private placement at $9.00 for a $200,000 stock subscription; 50,000 shares
+in conjunction with the purchase of a business, MSG Development Corp.; and 50,000 shares to purchase a 10% interest in a marketing firm,
+Caesar Media Group Inc.
+
+ 
+
+Note 9 –
+
+Fair Value
+
+ 
+
+The Fair Value Measurements
+Topic of the FASB Accounting Standards Codification establishes a fair value hierarchy that prioritizes the inputs to valuation techniques
+used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets
+or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable inputs (Level 3 measurements).
+The three levels of the fair value hierarchy are as follows:
+
+ 
+
+Level
+1:	inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the company has the ability to
+access at the measurement date.
+
+ 
+
+Level
+2:	inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly
+or indirectly.
+
+ 
+
+Level
+3: inputs are unobservable inputs for the asset or liability.
+
+ 
+
+Under the Fair Value
+Measurements Topic of the FASB Accounting Standards Codification, we base fair value on the price that would be received to sell an asset
+or paid to transfer a liability in an orderly transaction between market participants at the measurement date. It is our policy to maximize
+the use of observable inputs and minimize the use of unobservable inputs when developing fair value measurements, in accordance with
+the fair value hierarchy. Fair value measurements for assets and liabilities where there exists limited or no observable market data
+and, therefore, are based primarily upon management’s own estimates, are often calculated based on current pricing policy, the
+economic and competitive environment, the characteristics of the asset or liability and other such factors. Therefore, the results cannot
+be determined with precision and may not be realized in an actual sale or immediate settlement of the asset or liability. Additionally,
+there may be inherent weaknesses in any calculation technique, and changes in the underlying assumptions used.
+
+ 
+
+ 
+
+ 
+
+ 
+Note 10 – 
+Stock-Based
+Compensation Plans
+
+In addition to cash
+payments, the Company enters agreements to issue common stock and records the applicable non-cash expense in accordance with the authoritative
+guidance of the Financial Accounting Standards Board.  For the nine- and three-month periods ended January 31, 2022, the Company
+recorded $1,137,042 and $653,975, respectively, in stock-based compensation expense and for the nine- and three-month periods ended January
+31, 2021, the Company recorded $386,121 and $126,212, respectively, in stock-based compensation expense.
+
+ 
+
+As of January 31,
+2022 and April 30, 2021, there was $9,987 and $631,878, respectively of prepaid stock-based compensation expense for services. As of
+January 31, 2022, two consulting agreements are effective, which expire in February 2022.
+
+ 
+
+As of January 31,
+2022, an aggregate of 157 shares of common stock can be earned by one Company employee from an unvested stock grant. The 157 shares vest
+on April 30, 2022.	
+
+ 
+
+The table below presents
+the components of stock-based compensation expense for the nine- and three-month periods ended January 31, 2022 and 2021.
+
+ 
+
+The components of
+the stock-based compensation expense are presented in the following table:
+
+ 
+
+14
+ 
+
+ 
+
+Schedule of stock based compensation expense
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Stock-based compensation expense
+ 
+
+Nine Months Ended Jan. 31, 2022
+ 
+
+Nine Months Ended Jan. 31, 2021
+ 
+
+Three Months Ended Jan. 31, 2022
+ 
+
+Three Months Ended Jan. 31, 2021
+
+Chief Executive Officer
+ 
+
+$
+40,608
+ 
+ 
+
+$
+121,824
+ 
+ 
+
+$
+—  
+ 
+ 
+
+$
+40,608
+ 
+
+Chief Financial Officer
+ 
+
+ 
+40,608
+ 
+ 
+
+ 
+121,824
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+40,608
+ 
+
+Chief Marketing Officer
+ 
+
+ 
+109,547
+ 
+ 
+
+ 
+3,492
+ 
+ 
+
+ 
+89,436
+ 
+ 
+
+ 
+5,201
+ 
+
+Related party consultant
+ 
+
+ 
+25,908
+ 
+ 
+
+ 
+58,135
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+19,378
+ 
+
+VP of Digital Strategy
+ 
+
+ 
+5,603
+ 
+ 
+
+ 
+22,711
+ 
+ 
+
+ 
+1,586
+ 
+ 
+
+ 
+1,039
+ 
+
+Marketing consultant
+ 
+
+ 
+111,156
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+37,052
+ 
+ 
+
+ 
+—  
+ 
+
+Marketing consultant
+ 
+
+ 
+377,704
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+125,901
+ 
+ 
+
+ 
+—  
+ 
+
+Member of board of directors
+ 
+
+ 
+100,000
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+100,000
+ 
+ 
+
+ 
+—  
+ 
+
+Director of Business Development
+ 
+
+ 
+300,000
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+300,000
+ 
+ 
+
+ 
+—  
+ 
+
+Business consultant
+ 
+
+ 
+25,908
+ 
+ 
+
+ 
+58,135
+ 
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+19,378
+ 
+
+Total stock-based compensation expense
+ 
+
+$
+1,137,042
+ 
+ 
+
+$
+386,121
+ 
+ 
+
+$
+653,975
+ 
+ 
+
+$
+126,212
+ 
+
+ 
+
+The table
+below presents the prepaid compensation expense as of January 31, 2022 and April 30, 2021:
+
+ 
+Schedule
+of prepaid compensation
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Description
+ 
+
+Jan. 31, 2022
+ 
+
+April 30, 2021
+
+Chief Executive Officer
+ 
+
+$
+—  
+ 
+ 
+
+$
+40,608
+ 
+
+Chief Financial Officer
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+40,608
+ 
+
+Related party consultant
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+25,908
+ 
+
+Business consultant
+ 
+
+ 
+—  
+ 
+ 
+
+ 
+25,908
+ 
+
+Marketing consultant
+ 
+
+ 
+7,249
+ 
+ 
+
+ 
+380,441
+ 
+
+Marketing consultant
+ 
+
+ 
+2,738
+ 
+ 
+
+ 
+118,405
+ 
+
+Total
+ 
+
+$
+9,987
+ 
+ 
+
+$
+631,878
+ 
+
+ 
+
+For the nine- and three-month periods ended January
+31, 2022, $488,860 and $162,953 of stock-based compensation was recorded as consulting expense, respectively, and $648,182 and $491,022
+was recorded as payroll and payroll related expenses. For the nine- and three-month periods ended January 31, 2021, all the stock-based
+compensation was recorded as a component of payroll and payroll related expenses.
+
+ 
+
+Note 11 –
+
+Deposits and Commitments
+
+ 
+
+The Company utilizes
+office space in Boston, Massachusetts, under a month-to-month lease agreement that allows to company to end its lease by providing 30-day
+written notice. The lease agreement includes a deposit of $6,300.
+
+ 
+
+Note
+12 – 
+Business Acquisitions
+
+ 
+
+On November 2, 2021, the owners of ValuCorp Inc. (“ValuCorp”),
+a business valuation firm, formed a new company MSG Development Corp. (“MSG”) and transferred most of the assets of ValuCorp
+to MSG. The Company entered into an exchange agreement (“Agreement”) whereby the Company received 100% of the outstanding
+shares of MSG in exchange for 75,000 shares of common stock of the Company. 50,000 shares of the Company’s common stock were issued
+in December 2021 and four annual installments of 6,250 shares are due over the next four years. As a result, the Company has recorded
+$244,250 in stock subscriptions payable as of January 31, 2022.
+
+ 
+
+MSG’s
+assets were less than 20% of the value of the Company’s assets and the Company’s investment in MSG is less than 20% of the
+Company’s market value. Furthermore, the revenue and operating income of MSG’s predecessor, ValuCorp, for the prior two years,
+is less than 20% of the revenue and operating income of the Company. Upon evaluation of the components of the business combination, including
+the relative voting rights in the combined entity, the composition of the governing body and senior management of the combined entity,
+the relative size of each entity and the terms of the exchange of equity interests, the Company recorded the transaction in the third
+quarter of fiscal 2022 as a purchase.
+
+15
+ 
+
+ 
+
+The following
+table summarizes the value of the consideration for MSG and the amounts of the assets acquired in conjunction with the Agreement. MSG
+had no liabilities.
+
+Schedule
+of msg agreement
+
+ 
+ 
+
+ 
+ 
+ 
+
+Total consideration: 75,000 shares of common stock of the Company
+ 
+
+$
+732,750
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Recognized amounts of identifiable assets acquired:
+ 
+
+ 
+ 
+ 
+
+Professional practice intangible
+ 
+
+$
+556,830
+ 
+
+Technology-related intangibles
+ 
+
+ 
+36,650
+ 
+
+Marketing-related intangibles
+ 
+
+ 
+14,660
+ 
+
+Computer-related intangibles
+ 
+
+ 
+49,111
+ 
+
+Customer-related intangibles
+ 
+
+ 
+16,859
+ 
+
+Contract-related intangibles
+ 
+
+ 
+36,650
+ 
+
+Human capital and artistic-related intangibles
+ 
+
+ 
+21,990
+ 
+
+Total identifiable net assets
+ 
+
+$
+732,750
+ 
+
+The fair
+value of the common shares issued as the consideration for MSG was determined by the most recent closing price of the Company’s
+common shares at the time the shares were issued. Seven identifiable intangible assets were valued, as noted in the above table (the
+“Intangible Assets”). The estimated market value of the Intangible Assets on the date of purchase was $1,000,000, and the
+value of the 75,000 shares of common stock of the Company, payable as consideration was $9.77 per share, or $732,750. The value of the
+Intangible Assets has been recorded at an aggregate value of $732,750. The Company has not finished its evaluation of the Intangible
+Assets. The fair value of the acquired Intangible Assets is provisional pending receipt of the final valuation of those assets.
+
+On August 23, 2020,
+the Company entered into an Agreement and Plan of Merger (“Agreement”) whereby Netcapital Systems LLC (“Systems”)
+would become an 80% owner of the Company. Pursuant to the requirements of this agreement, the Company filed a definitive information
+statement on Form 14C on September 21, 2020 to change the Company’s corporate name from ValueSetters, Inc. to Netcapital Inc. and
+to amend the Company’s Articles of Incorporation to effect a stock combination, or reverse stock split, pursuant to which 2,000
+shares of the Company’s common stock would be exchanged for one new share of common stock. In conjunction with the merger agreement,
+the Company issued 1,666,360 shares of common stock to Systems on November 5, 2020.
+
+ 
+
+The Agreement
+was a tax-free merger of Netcapital Funding Portal Inc. (“FP”), a wholly owned subsidiary of Systems, with Netcapital Acquisition
+Vehicle Inc., an indirect wholly owned subsidiary of the Company, wherein FP was the surviving corporation. This transaction was designed
+to enhance the Company’s revenues and ability to provide services to democratize the private capital markets while helping companies
+at all stages to build, grow and fund their businesses with a full range of services from strategic advice to raising capital. As a result
+of the transaction, the Company is expected to be a leading provider of private capital transactions for entrepreneurs seeking to raise
+money under the exemption provided by section 4(a)(6) of the Securities Act of 1933, which allows private companies to raise up to $5
+million every 12 months.
+
+ASC 805-10-25-4
+requires the identification of one of the combining entities in each business combination as the acquirer. Upon evaluation of the components
+of the business combination, including the relative voting rights in the combined entity, the composition of the governing body and senior
+management of the combined entity, the relative size of each entity and the terms of the exchange of equity interests, the Company recorded
+the transaction in the third quarter of fiscal 2021 as a purchase. In conjunction with the purchase, Systems agreed to vote all of its
+shares of common stock to support the resolutions of the existing board of directors of the Company.
+
+The following
+table summarizes the value of the consideration for FP and the amounts of the assets acquired and liabilities assumed in conjunction
+with the Agreement.
+
+Schedule
+of merger agreement 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Consideration: 
+ 1,666,360 shares of common stock of the Company
+ 
+
+$
+11,331,248
+ 
+
+Payment of promissory notes and interest
+ 
+
+ 
+3,817,516
+ 
+
+Total consideration
+ 
+
+$
+15,148,764
+ 
+
+16
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Recognized amounts of identifiable assets acquired and liabilities assumed:
+ 
+
+ 
+
+Cash
+ 
+
+$
+358,634
+ 
+
+Current assets
+ 
+
+ 
+8,894
+ 
+
+Accounts payable
+ 
+
+ 
+(29,023
+)
+
+Platform users
+ 
+
+ 
+7,080,319
+ 
+
+Platform investors
+ 
+
+ 
+6,288,392
+ 
+
+Platform issuers
+ 
+
+ 
+903,125
+ 
+
+Unpatented technology
+ 
+
+ 
+532,118
+ 
+
+Total identifiable net assets
+ 
+
+$
+15,148,764
+ 
+
+The
+fair value of the common shares issued as the consideration for FP was determined by the most recent (the prior day’s) closing
+price of the Company’s common shares at the time the shares were issued. The fair value of the assets and the liabilities of FP
+equaled their book value. Four identifiable intangible assets were valued; platform users, platform investors, platform issuers and unpatented
+technology (collectively the “Intangible Assets”). The estimated market value of the Intangible Assets is approximately $27,800,000.
+This amount is derived from valuing the IP functionality, brand, and license of FP at $1,000,000; valuing current issuers and pipeline
+issuers at approximately $14,000 each; valuing platform users at $382 each; and valuing investors at $1,025 each. These values are derived
+from comparing the FP Intangible Assets to the values recorded by funding portal offerings of FP’s competitors in public filings
+via Regulations CF and Regulation A.
+
+The
+excess of purchase price over the total identifiable tangible net assets of $344,810, leaves an aggregate value of $14,803,954 to be
+assigned to the Intangible Assets. The estimated value of the $27,800,000 of Intangible Assets is allocated on a percentage basis in
+the above table to equal $14,803,954.
+
+None
+of FP’s revenues and earnings are included in the Company’s consolidated income statements through the day of closing of
+November 5, 2020. The consolidated income statements for the year ended April 30, 2021 include $834,981 in revenues from FP. If the entities
+had been combined for the two reporting periods, the supplemental pro forma revenues and earnings are as follows:
+
+Schedule
+of pro forma and earnings 
+
+ 
+ 
+
+Revenues
+ 
+
+Earnings
+
+Supplemental pro forma for 4/1/20 – 11/04/20
+ 
+
+$
+2,866,063
+ 
+ 
+
+$
+282,264
+ 
+
+Supplemental pro forma for 4/1/19 – 11/04/19
+ 
+
+$
+1,018,200
+ 
+ 
+
+$
+680,212
+ 
+
+Included in the supplemental
+pro forma information above is revenue earned by the Company from Netcapital Systems LLC of $18,646 and $152,864 in the periods ended
+November 4, 2020 and 2019, respectively.
+
+Note 13 –
+
+Investments
+
+ 
+
+In January 2022,
+the Company received 1,700,000 units of ScanHash LLC as a payment for services rendered in conjunction with a crowdfunding offering.
+The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units
+satisfied $425,000 of an accounts receivable balance. As of January 31, 2022, the Company owns 1,700,000 units which are valued at $425,000.
+
+ 
+
+In January 2022,
+the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering.
+The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units
+satisfied an accounts receivable balance of $712,500. As of January 31, 2022, the Company owns 2,850,000 units which are valued at $712,500.
+
+ 
+
+In November 2021,
+the Company purchased a 10% interest, or 400 shares of common stock, in Caesar Media Group Inc. (“Caesar”) for an initial
+purchase price of 50,000 shares of the Company’s common stock, valued at $500,000. Caesar is a marketing and technology solutions
+provider. The purchase agreement includes additional contractual requirements for the Company and Caesar, including the issuance of an
+additional 150,000 shares of common stock of the Company over
+a two-year period. As of January 31, 2022, there have been no observable price changes in the value of the Caesar’s common stock
+and the Company has valued its ownership in Caesar at cost, which is $500,000.
+
+17
+ 
+
+ 
+
+ 
+
+In May 2020, the
+Company entered a consulting contract with Watch Party LLC (“WP”), which allowed the Company to receive up to 110,000 membership
+interest units of WP in return for consulting services. The Company earned 97,500 membership interest units in the quarter ended July
+31, 2020. The WP units are valued at $2.14 per unit based on a sales price of $2.14 per unit on an online funding portal, resulting in
+revenues of $235,400 and $0 for the nine- and three-month periods ended January 31, 2021. As of January 31, 2022 and April 30, 2021,
+the Company owns 110,000 WP units, which are valued at $235,400.
+
+ 
+
+In May 2020, the Company entered a consulting contract
+with ChipBrain LLC (“Chip”), which allowed the Company to receive up to 710,200 membership interest units of Chip in return
+for consulting services. The Company earned 500,000 membership interest units in the quarter ended July 31, 2020 and earned the remaining
+units in the quarter ending October 31, 2020. The Chip units were initially valued at $0.93 per unit based on a sales price of $0.93 per
+unit on an online funding portal, resulting in revenues of $660,486 and $0 for the nine and three-month periods ended January 31, 2021.
+Subsequently, Chip sold identical units for $2.40 per unit, and as of January 31, 2022 and April 30, 2021, the units owned by the Company
+are valued at $1,704,480. In fiscal 2022 the Company received additional revenues from Chip, amounting to $39,360 and $20,000 for the
+nine- and three-month periods ended January 31, 2022.
+
+ 
+
+In May 2020, the
+Company entered a consulting contract with Zelgor Inc. (“Zelgor”), which allowed the Company to receive up to 1,400,000 shares
+of common stock of Zelgor in return for consulting services. The Company earned 1,050,000 shares in the quarter ended July 31, 2020 and
+earned the remaining shares in the quarter ending October 31, 2020. The Zelgor shares are valued at $1.00 per share based on a sales
+price of $1.00 per share on an online funding portal, resulting in revenues of $1,400,000 and $0 for the nine- and three-month periods
+ended January 31, 2021. The $1.00 per share valuation continues to be the observable price at which the shares trade and the Zelgor shares
+are valued at $1,400,000 as of January 31, 2022 and April 30, 2021.
+
+ 
+
+On January 2, 2020,
+the Company entered a consulting contract with Deuce Drone LLC (“Drone”), which allowed the Company to receive up to 2,350,000
+membership interest units of Drone in return for consulting services. The Company earned all 2,350,000 membership interest units in fiscal
+2020. The Drone units were initially valued at $0.35 per unit based on a sales price of $0.35 per unit when the units were earned, or
+$822,500. Drone subsequently sold identical Drone units for $1.00 per unit on an online funding portal and as of January 31, 2022 and
+April 30, 2021, the units owned by the Company are valued at $2,350,000.
+
+ 
+
+In August 2019, the
+Company entered a consulting contract with KingsCrowd LLC (“KingsCrowd”), which allowed the Company to receive 300,000 membership
+interest units of KingsCrowd in return for consulting services. The KingsCrowd units were initially valued at $1.80 per unit based on
+a sales price of $1.80 per unit when the units were earned, or $540,000. In December 2020, KingsCrowd converted from a limited liability
+company to a corporation to facilitate raising capital under Regulation A. KingsCrowd filed a Form 1-A Offering Statement under the Securities
+Act of 1933. In connection with the conversion to a corporation, each membership interest unit converted into 12.71915 shares of common
+stock. As of January 31, 2022 and April 30, 2021, the Company owns 3,815,745 shares of KingsCrowd Inc. In July 2021, KingsCrowd subsequently
+sold identical shares of common stock for $1.00 per share, and as of January 31, 2022 and April 30, 2021, the shares owned by the Company
+are valued at $3,815,745 and $540,000, respectively.
+
+ 
+
+During fiscal 2019,
+the Company entered a consulting contract with NetCapital Systems LLC (“NetCapital”), which allowed the Company to receive
+up to 1,000 membership interest units of NetCapital in return for consulting services. The Company earned 40 units in the quarter ended
+July 31, 2020, at a value of $91.15 per unit, or $3,646. The Company earned all 1,000 Netcapital units but sold a portion of the units
+in fiscal 2020 at a sales price of $91.15 per unit. As of January 31, 2022 and April 30, 2021, the Company owns 528 Netcapital units,
+at a value of $48,128.
+
+ 
+
+In
+July 2020 the Company entered a consulting agreement with Vymedic, Inc. for a $40,000 fee over a 5-month period. Half the fee was payable
+in stock and half was payable in cash. As of April 30, 2021, the Company earned $20,000 worth of stock. As of January
+ 
+31,
+2022 and April 30, 2021, the Company owns 4,000 units, at a value of $20,000.
+
+ 
+
+In
+August 2020 the Company entered a consulting agreement with C-Reveal Therapeutics LLC (“CRT”). for a $120,000 fee over a
+12-month period. $50,000 of the fee is payable in CRT units. The Company earned the units in 
+fiscal 2021 and received
+them in the first quarter of fiscal 2022. As of January 31, 2022 the Company owns 5,000 units, at a value of $50,000.
+
+18
+ 
+
+ 
+
+ 
+
+The following table
+summarizes the components of investments as of January 31, 2022 and April 30, 2021:
+
+ 
+Schedule
+of investments
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Jan. 31, 2022
+ 
+
+April 30, 2021
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Netcapital Systems LLC
+ 
+
+$
+48,128
+ 
+ 
+
+$
+48,128
+ 
+
+Watch Party LLC
+ 
+
+ 
+235,400
+ 
+ 
+
+ 
+235,400
+ 
+
+Zelgor Inc.
+ 
+
+ 
+1,400,000
+ 
+ 
+
+ 
+1,400,000
+ 
+
+ChipBrain LLC
+ 
+
+ 
+1,704,480
+ 
+ 
+
+ 
+1,704,480
+ 
+
+Vymedic Inc.
+ 
+
+ 
+20,000
+ 
+ 
+
+ 
+20,000
+ 
+
+C-Reveal Therapeutics LLC
+ 
+
+ 
+50,000
+ 
+ 
+
+ 
+—  
+ 
+
+Deuce Drone LLC
+ 
+
+ 
+2,350,000
+ 
+ 
+
+ 
+2,350,000
+ 
+
+Hiveskill LLC
+ 
+
+ 
+712,500
+ 
+ 
+
+ 
+—  
+ 
+
+ScanHash LLC
+ 
+
+ 
+425,000
+ 
+ 
+
+ 
+—  
+ 
+
+Caesar Media Group Inc.
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+—  
+ 
+
+Kingscrowd Inc
+ 
+
+ 
+3,815,745
+ 
+ 
+
+ 
+540,000
+ 
+
+Total Investments at cost
+ 
+
+$
+11,261,253
+ 
+ 
+
+$
+6,298,008
+ 
+
+ 
+
+The above investments
+in equity securities are within the scope of ASC 321. The Company monitors the investments for any changes in observable prices from
+orderly transactions. All investments are initially measured at cost and evaluated for changes in estimated fair value. During the nine
+months ended January 31, 2022, the Company identified that one security, KingsCrowd Inc., had an observable price change. The result
+of the price change was an increase in the fair value of the equity securities totaling $3,275,745 in the nine months ended January 31,
+2022, which is recorded in the Consolidated Statements of Operations as an unrealized gain on equity securities.
+
+ 
+
+Note 14 –
+
+Subsequent Events
+
+ 
+
+ 
+
+ 
+
+On February 2, 2022,
+the Company granted an aggregate of 272,000 options to purchase shares of common stock of the company at a price of $10.50 per share.
+The options were granted to employees, consultants, and members of the board of directors under the Company’s 2021 Equity Incentive
+Plan. The options vest monthly on a straight-line basis over a 4-year period and expire in 10 years.
+
+ 
+
+On February 9, 2022,
+the Company sold two convertible promissory notes to accredited investors for total proceeds of $300,000. The notes accrue interest at
+a rate of 8% per annum and have a maturity date of February 9, 2023. The notes automatically convert into shares of common stock at a
+price per share that is the lesser of $10.00 or the 80% of the price paid per share for a subsequent round of securities sold, as defined
+in the promissory note. The promissory notes also convert automatically with a change in control.
+
+ 
+
+The Company evaluated
+subsequent events through the date these financial statements were available to be issued. There were no material subsequent events that
+required recognition or additional disclosure in these financial statements.
+
+ 
+
+19
+ 
+
+ 
+
+Item 2. Management’s Discussion
+and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+This quarterly report
+on Form 10-Q and other reports filed by the Company from time to time with the U.S. Securities and Exchange Commission (collectively,
+the “Filings”) contain or may contain forward-looking statements and information that are based upon beliefs of, and information
+currently available to, the Company’s management as well as estimates and assumptions made by Company’s management. Readers
+are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only as of the date
+hereof. When used in the Filings, the words “anticipate,” “believe,” “estimate,” “expect,”
+“future,” “intend,” “plan,” or the negative of these terms and similar expressions as they relate
+to the Company or the Company’s management identify forward-looking statements. Such statements reflect the current view of the
+Company with respect to future events and are subject to risks, uncertainties, assumptions, and other factors. Should one or more of
+these risks or uncertainties materialize, or should the underlying assumptions prove incorrect, actual results may differ significantly
+from those anticipated, believed, estimated, expected, intended, or planned.
+
+ 
+
+Although the Company
+believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future results,
+levels of activity, performance, or achievements. Except as required by applicable law, including the securities laws of the United States,
+the Company does not intend to update any of the forward-looking statements to conform these statements to actual results.
+
+ 
+
+Our financial statements
+are prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). These accounting
+principles require us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions
+upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions
+are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the
+financial statements as well as the reported amounts of revenues and expenses during the periods presented. Our financial statements
+would be affected to the extent there are material differences between these estimates and actual results. In many cases, the accounting
+treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application.
+There are also areas in which management’s judgment in selecting any available alternative would not produce a materially different
+result. The following discussion should be read in conjunction with our financial statements and notes thereto appearing elsewhere in
+this report.
+
+ 
+
+Overview
+
+ 
+
+Netcapital
+Inc. is a fintech company with a scalable technology platform that allows private companies to raise capital online from accredited and
+non-accredited investors. We give all investors the opportunity to access investments in private companies. Our model is disruptive to
+traditional private equity investing and is based on Title III, Reg CF of the JOBS Act. We generate fees from listing private companies
+on our portal. Our consulting group, Netcapital Advisors, provides marketing and strategic advice in exchange for equity positions and
+cash fees. The Netcapital funding portal is registered with the SEC, is a member of the Financial Industry Regulatory Authority, or FINRA,
+a registered national securities association, and provides investors with opportunities to invest in private companies.
+
+We provide
+private company investment access to accredited retail and non-accredited retail investors through our online portal (www.netcapital.com).
+The Netcapital funding portal charges a $5,000 engagement fee and a 4.9% success fee for capital raised at closing. In addition, the
+portal generates fees for other ancillary services, such as rolling closes. Netcapital Advisors generates fees and equity stakes from
+consulting in select portfolio and non-portfolio clients.
+
+20
+ 
+
+ 
+
+Netcapital.com
+is an SEC-registered funding portal that enables private companies to raise capital online, while investors are able to invest from anywhere
+in the world, at any time, with just a few clicks. Securities offerings on the portal are accessible through individual offering pages,
+where companies include product or service details, market size, competitive advantages, and financial documents. Companies can accept
+investment from anyone, including friends, family, customers, employees, etc.
+
+In addition
+to access to the funding portal, Netcapital provides the following services:
+
+●	a fully
+automated onboarding process;
+
+●	automated
+filing of required regulatory documents;
+
+●	compliance
+review;
+
+●	custom-built
+offering page on our portal website;
+
+●	third
+party transfer agent and custodial services;
+
+●	email
+marketing to our proprietary list of investors;
+
+●	rolling
+closes, which provide potential access to liquidity before final close date of offering;
+
+●	assistance
+with annual filings; and
+
+●	direct
+access to our team for ongoing support.
+
+ 
+
+The company's
+consulting group, Netcapital Advisors helps companies at all stages to raise capital. Netcapital Advisors provides strategic advice,
+technology consulting and digital marketing services to assist with fundraising campaigns on the Netcapital platform. The company also
+acts as an incubator and accelerator, taking equity stakes in select disruptive start-ups.
+
+Netcapital
+Advisors’ services include:
+
+●	incubation
+of technology start-ups;
+
+●	investor
+introductions;
+
+●	digital
+marketing;
+
+●	website
+design, software and software development;
+
+●	message
+crafting, including pitch decks, offering pages, and ad creation;
+
+●	strategic
+advice; and
+
+●	technology
+consulting.
+
+21
+ 
+
+ 
+
+ 
+
+Results
+of Operations
+
+ 
+
+For the Nine Months
+Ended January 31, 2022 Compared to the Nine Months Ended January 31, 2021
+
+ 
+
+Our revenues for
+the nine months ended January 31, 2022 decreased by $134,763, or 4%, to $3,636,050, as compared to $3,770,813 reported for the nine months
+ended January 31, 2021.  The decrease in revenues is attributable to a decrease of $1,044,025 in non-cash revenue from the receipt
+of equity, which amounted to $2,102,174 in the nine months ended January 31, 2022, as compared to $3,146,199 in the nine months ended
+January 31, 2021. This decrease was offset by revenues from our funding portal. Funding portal revenues began for us in November 2020.
+Funding portal revenues consisted of a listing fee that we charge when an issuer signs an engagement letter to raise capital on our funding
+portal, and portal fees that are equal to 4.9% of the capital that was raised by the issuers. The components of revenue for the nine-month
+periods ended January 31, 2022 and 2021 are as follows:
+
+ 
+
+ 
+ 
+
+Jan. 31, 2022
+ 
+
+Jan 31, 2021
+
+Consulting services for equity securities
+ 
+
+$
+2,102,174
+ 
+ 
+
+$
+3,146,198
+ 
+
+Consulting revenue
+ 
+
+ 
+293,221
+ 
+ 
+
+ 
+270,604
+ 
+
+Portal fees
+ 
+
+ 
+951,760
+ 
+ 
+
+ 
+250,541
+ 
+
+Listing fees
+ 
+
+ 
+288,000
+ 
+ 
+
+ 
+102,500
+ 
+
+Other revenue
+ 
+
+ 
+895
+ 
+ 
+
+ 
+970
+ 
+
+Total
+ 
+
+$
+3,636,050
+ 
+ 
+
+$
+3,770,813
+ 
+
+ 
+
+Costs of revenues
+decreased by $644,914 to $85,429 for the nine-months ended January 31, 2022 from $730,343 reported in the nine-months ended January 31,
+2021.  The decrease is attributable to a decrease in non-cash revenues from the receipt of equity.
+
+ 
+
+Payroll and payroll
+related expenses increased by $879,426, or 41%, to $3,032,987 for the nine months ended January 31, 2022, as compared to $2,153,561 reported
+for the nine months ended January 31, 2021. The increase is attributable to an increase in staff.
+
+ 
+
+Marketing expense
+increased by $46,151, or 213%, to $67,771 for the nine months ended January 31, 2022, as compared to $21,620 reported for the nine months
+ended January 31, 2021. The increase in expense is due to additional marketing outlets that we utilized in the nine months ended January
+31, 2022.
+
+ 
+
+Rent expense decreased
+by $5,036, or 13%, to $34,480 for the nine months ended January 31, 2022, as compared to $39,516 reported for the nine months ended January
+31, 2021. The decrease in expense is a result of discounts available to us in fiscal 2022 and our ability to have personnel work from
+home.
+
+ 
+
+General and administrative
+expenses increased by $1,042,092, or 443%, to $1,277,146 for the nine months ended January 31, 2022, from $235,054 for the nine months
+ended January 31, 2021.  The increase is primarily attributed to additional expenses we incurred in the current fiscal year for
+our newly acquired funding portal business.
+
+ 
+
+Consulting expense
+increased by $283,974, to $675,180, or 73%, for the nine months ended January 31, 2022 from $391,206 reported in the nine months ended
+January 31, 2021.  The increase in expense is due to issuance of stock-based compensation to two outside consulting firms.
+
+ 
+
+Interest expense
+increased by $37,154 to $90,844 for the nine months ended January 31, 2022, as compared to $53,690 for the nine months ended January
+31, 2021.  The increase in interest expense is attributable to higher debt amounts and a higher interest rate on our secured debt.
+
+ 
+
+Our net income increased by $2,900,725 to $3,004,260,
+or 2,802% for the nine months ended January 31, 2022, as compared to $103,535 for the nine months ended January 31, 2021. The increase
+in net income is primarily attributable to debt forgiveness of $1,904,302 during the period related to our loan with the SBA.
+
+ 
+
+22
+ 
+
+ 
+
+For the Three
+Months Ended January 31, 2022 Compared to the Three Months Ended January 31, 2021
+
+ 
+
+Our revenues for
+the three months ended January 31, 2022 increased by $533,714, or 42%, to $1,811,041, as compared to $1,277,327 reported for the three
+months ended January 31, 2021.  The increase in revenues is attributable to an increase of $368,333, or 44%, in non-cash revenue
+from the receipt of equity and an increase of $94,791, or 38%, in portal fee revenues from our funding portal. Funding portal revenues
+consist of a listing fee that we charge when an issuer signs an engagement letter to raise capital on our funding portal, and portal
+fees that are equal to 4.9% of the capital that was raised by the issuers. The components of revenue for the three-month periods ended
+January 31, 2022 and 2021 are as follows:
+
+ 
+
+ 
+ 
+
+Jan. 31, 2022
+ 
+
+Jan 31, 2021
+
+Consulting services for equity securities
+ 
+
+$
+1,200,000
+ 
+ 
+
+$
+831,667
+ 
+
+Consulting revenue
+ 
+
+ 
+189,200
+ 
+ 
+
+ 
+92,082
+ 
+
+Portal fees
+ 
+
+ 
+345,332
+ 
+ 
+
+ 
+250,541
+ 
+
+Listing fees
+ 
+
+ 
+76,000
+ 
+ 
+
+ 
+102,500
+ 
+
+Other revenue
+ 
+
+ 
+509
+ 
+ 
+
+ 
+537
+ 
+
+Total
+ 
+
+$
+1,811,041
+ 
+ 
+
+$
+1,277,327
+ 
+
+ 
+
+Costs of revenues
+increased by $23,230, or 144%, to $39,349 for the three-months ended January 31, 2022, from $16,119 reported in the three-months ended
+January 31, 2021.  The increase is attributable to the increase in revenues from our funding portal.
+
+ 
+
+Payroll and payroll
+related expenses increased by $384,104, or 45%, to $1,241,332 for the three months ended January 31, 2022, as compared to $857,228 reported
+for the three months ended January 31, 2021. The increase is attributable to stock-based compensation of $400,000 that did not occur
+in the prior year.
+
+ 
+
+Marketing expense
+increased by $11,107, or 87%, to $23,945 for the three months ended January 31, 2022, as compared to $12,838 reported for the three months
+ended January 31, 2021. The increase in expense is due to additional marketing outlets that we utilized in the three months ended January
+31, 2022.
+
+ 
+
+Rent expense decreased
+by $849, or 7%, to $11,869 for the three months ended January 31, 2022, as compared to $12,718 reported for the three months ended January
+31, 2021. The decrease in expense is a result of discounts available to us in the three-month period ended January 31, 2022, and our
+ability to have personnel work from home.
+
+ 
+
+General and administrative
+expenses increased by $161,170, or 101%, to $320,724 for the three months ended January 31, 2022, from $159,554 for the three months
+ended January 31, 2021.  The increase is primarily attributed to additional expenses we incurred in the current fiscal year for
+our newly acquired funding portal business.
+
+ 
+
+Consulting expense
+increased by $183,333 to $309,545, or 145%, for the three months ended January 31, 2022 from $126,212 reported in the three months ended
+January 31, 2021.  The increase in expense is due to issuance of stock-based compensation to two outside consulting firms. Stock-based
+consulting compensation amount to $162,954 in the three-month period ended January 31, 2022, as compared to $0 in the three-month period
+ended January 31, 2021.
+
+ 
+
+Interest expense
+decreased by $9,553 to $20,573 for the three-months ended January 31, 2022, as compared to $30,126 for the three months ended January
+31, 2021.  The decrease in interest expense is attributable to lower debt amounts due to debt forgiveness.  
+
+ 
+
+Our net income increased by $1,778,364 to $1,821,006,
+or 4,170% for the three months ended January 31, 2022, as compared to $42,642 for the three months ended January 31, 2021. The increase
+in net income is primarily attributable to debt forgiveness of $1,904,302 during the period related to our loan with the SBA. 
+
+ 
+
+Liquidity and
+Capital Resources
+
+ 
+
+At January 31, 2022, we had cash and cash equivalents
+of $477,134 and negative working capital of $502,393 as compared to cash and cash equivalents of $2,473,959 and negative working capital
+of $4,666,833 at April 30, 2021.
+
+ 
+
+Our net income increased by $1,778,364 to $1,821,006,
+or 4,170% for the three months ended January 31, 2022 as compared to $42,642 for the three months ended January 31, 2021. The increase
+in net income is primarily attributable to debt forgiveness of $1,904,302 during the period related to our loan with the SBA.
+
+23
+ 
+
+ 
+
+ 
+
+We have been successful
+in raising capital by selling restricted common stock in private placements and by borrowing funds from the U.S. Small Business Administration.
+In addition, we sold $300,000 worth of convertible promissory notes in February 2022. We believe our negative working capital balance
+as of January 31, 2022 will eliminated by the forgiveness of $1,885,800 in borrowings from the SBA.
+
+  
+
+We believe that our
+existing cash investment balances, financial resources and our anticipated cash flows from operations will be sufficient to meet our
+working capital and expenditure requirements for the next 12 months. Although we believe we have adequate sources of liquidity over the
+next 12 months, the success of our operations, the global economic outlook, and the pace of sustainable growth in our markets, in each
+case, in light of the market volatility and uncertainty as a result of the COVID-19 pandemic, among other factors, could impact our business
+and liquidity. Up to this point in time, we believe the pandemic has helped drive people to online investing, as we see regular monthly
+increases in users and dollars invested, and an increase in issuers seeking to use online fund-raising services in lieu of face-to-face
+meetings.
+
+ 
+
+Net cash used in
+operating activities amounted to $2,303,458 and $2,475,484 in the nine months ended January 31, 2022 and 2021, respectively.  The
+principal source of cash from operating activities in the nine months ended January 31, 2022 was net income of $3,004,260 and a non-cash
+item, stock-based compensation of $1,137,042. However, these sources of cash were offset by an unrealized gain on equity securities of
+$3,275,745, an increase in accounts receivable of $900,242, debt forgiveness of $1,904,302 and non-cash revenue from the receipt of equity
+of $1,187,500. The principal source of cash from operating activities in the nine months ended January 31, 2021 was net income of $103,535
+and a non-cash item, stock-based compensation of $386,121. However, these items were offset by changes in non-cash revenue from the receipt
+of equity of $2,319,532 and an increase in accounts receivable of $1,001,586.
+
+ 
+
+Net cash used in
+investing activities amounted to $319,166 in the nine months ended January 31, 2022. The use of cash consisted of loans to affiliates
+of $202,000 and an investment in an affiliate of $117,166. Cash provided by investing activities in the nine months ended January 31,
+2021 amounted to $364,939, from the purchase of Netcapital Funding Portal Inc.
+
+ 
+
+For the nine months ended January 31, 2022, cash provided
+financing activities amounted to $625,799, which consisted of proceeds from stock subscriptions for the sale of common stock. For the
+nine months ended January 31, 2021, cash provided by financing activities amounted to $2,385,800, which consisted of two loans from the
+U.S. Small Business Administration.
+
+ 
+
+In the nine months
+ended January 31, 2022 and 2021, there were no expenditures for capital assets.  We do not anticipate any capital expenditures in
+fiscal 2022.
+
+ 
+
+Item 3. Quantitative
+and Qualitative Disclosures about Market Risk.
+
+ 
+
+We are a smaller
+reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended, and are not required to provide information
+under this item.
+
+ 
+
+Item 4. Controls
+and Procedures.
+
+ 
+
+(a) Disclosure
+Controls and Procedures. 
+ 
+
+ 
+
+The Company’s
+management, with the participation of the Principal Executive Officer (the “PEO”) and Principal Financial Officer (the “PFO”),
+has evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in SEC Rule 13a-15(e)) as of January
+31, 2022. Based on that evaluation, the PEO and the PFO concluded that, as of January 31, 2022, such controls and procedures were effective.
+
+ 
+
+(b) Management’s
+Assessment of Internal Control over Financial Reporting
+
+ 
+
+Management is responsible
+for establishing and maintaining adequate internal control over financial reporting, as such term is defined in the Exchange Act Rules
+13a-15(f).  A system of internal control over financial reporting is a process 
+designed to provide
+reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes
+in accordance with generally accepted accounting principles.
+
+24
+ 
+
+ 
+
+ 
+
+ Under the supervision and
+with the participation of management, including the PEO and the PFO, the Company’s management has evaluated the effectiveness of
+its internal control over financial reporting as of January 31, 2022, based on the criteria established in a report entitled “2013
+Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission” and the
+interpretive guidance issued by the Commission in Release No. 34-55929.  Based on this evaluation, the Company’s management
+has evaluated and concluded that the Company’s internal control over financial reporting was effective as of January 31, 2022.
+
+ 
+
+The Company’s
+annual report on Form 10-K for the year ended April 30, 2021 does not include an attestation report of the Company’s independent
+registered public accounting firm regarding internal control over financial reporting.  The Company’s registered public
+accounting firm was not required to issue an attestation on its internal controls over financial reporting pursuant to the rules of the
+SEC.  The Company will continue to evaluate the effectiveness of internal controls and procedures on an ongoing basis.
+
+ 
+
+(c) Changes in
+Internal Control over Financial Reporting
+
+ 
+
+There have been no
+changes in our internal controls over financial reporting (as such term is defined in Rule 13a-15(f) and 15d-15(f) under the Securities
+Exchange Act) during the quarter ended January 31, 2022 that have materially affected, or are reasonably likely to materially affect,
+our internal control over financial reporting.
+
+ 
+
+ 
+
+ 
+
+25
+ 
+
+ 
+
+ 
+
+PART II –
+OTHER INFORMATION
+
+ 
+
+Item 1. Legal
+Proceedings.
+
+ 
+
+We are currently
+not involved in any litigation that we believe could have a material adverse effect on our financial condition or results of operations.
+There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency, self-regulatory
+organization or body pending or, to the knowledge of the executive officers of our company or any of our subsidiaries, threatened against
+or affecting our company, our common stock, any of our subsidiaries or of our companies or our subsidiaries’ officers or directors
+in their capacities as such, in which an adverse decision could have a material adverse effect.
+
+ 
+
+Item 1A. Risk
+Factors.
+
+ 
+
+We are a smaller
+reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended, and are not required to provide information
+under this item.
+
+ 
+
+ 
+Item
+ 
+2. Unregistered Sales of Equity Securities and Use of Proceeds.	
+
+ 
+
+1. On November 18,
+2021, we issued 46,300 shares of unregistered common stock as stock-based compensation, for services rendered to the Company. We did
+not receive any proceeds for this issuance. The issuance was exempt under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+2. On December 10,
+2021, we issued 50,000 shares of our common stock to purchase all of the outstanding stock of MSG Development Corp. We did not receive
+any proceeds from this issuance. The issuance was exempt under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+3. On December 10,
+2021, we issued 50,000 shares of our common stock to purchase a 10% interest in Caesar Media Group Inc. We did not receive any proceeds
+from this issuance. The issuance was exempt under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+4. On January 31,
+2021, we issued 22,222 shares of common stock to an accredited investor for gross proceeds of $200,000. We used the proceeds for working
+capital and general corporate purposes. The issuance was exempt under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+5. On January 31,
+2021, we issued 9,012 shares of unregistered common stock as stock-based compensation, for services rendered to the Company. We did not
+receive any proceeds for this issuance. The issuance was exempt under Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+ 
+
+6. See our Current
+Report dated February 9, 2022.
+
+ 
+
+Item 3. Defaults
+Upon Senior Securities.
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety
+Disclosures.
+
+ 
+
+Not applicable
+.
+
+ 
+
+Item 5. Other
+Information.
+
+ 
+
+None.
+
+26
+ 
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+ 
+
+31       
+Rule 13a-14(a) Certification
+
+32       
+Rule 13a-14(b) Certification
+
+ 
+
+ 
+
+101.INS
+
+XBRL Instance
+
+ 
+
+101.SCH
+
+XBRL Schema
+
+ 101.CAL
+XBRL
+ Calculation
+
+ 
+
+101.DEF
+
+XBRL Definition
+
+ 
+
+101.LAB
+
+XBRL Label
+
+ 
+
+101.PRE
+
+XBRL Presentation
+
+ 
+
+ 
+
+27
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+ March 17, 2022
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+By:
+ 
+/s/ Cecilia Lenk  
+
+ 
+
+	Cecilia
+ Lenk
+
+ 
+
+	Chairman
+ of the Board and Chief Executive Officer
+
+ 
+
+ (Principal
+ Executive Officer)
+
+ 
+
+By:
+ 
+/s/ Coreen Kraysler  
+
+ 
+
+	Coreen
+ Kraysler
+
+ 
+
+	(Principal
+ Financial and Accounting Officer)
+
+ 
+
+28

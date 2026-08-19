@@ -1,0 +1,444 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000458/f2sncpl8k071522.htm
+FORM: 8-K
+FILED: 2022-07-15
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2022-07-12
+
+2022-07-12
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+July
+ 12, 2022
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+,
+ 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+781
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Not
+ Applicable
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant
+ to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to
+ Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications
+ pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications
+ pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+On July 12, 2022, Netcapital Inc.
+(the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with ThinkEquity LLC, as
+representative of the several underwriters identified therein (the “Underwriters”), relating to the public offering (the “Offering”)
+of 1,205,000 shares of the Company’s common stock, par value $0.001 (the “Shares”), and warrants to purchase up to 1,205,000
+shares of the Company’s common stock (the “Warrants”) at an exercise price of $5.19 per share, exercisable for a period
+of five years, subject to certain adjustments and cashless exercise provisions. The combined price per Share and Warrant to the public
+was $4.15. Under the terms of the Underwriting Agreement, we granted the Underwriters an option, exercisable for 45 days following the
+closing of the Offering, to purchase up to an additional 180,750 shares of common stock and/or warrants to purchase 180,750 shares of
+common stock to cover over-allotments, if any. On July 14, 2022, the Underwriters partially exercised their over-allotment option and
+purchased an additional 111,300 warrants (“Option Warrants”).
+
+ 
+
+On July 15, 2022, the Company
+closed the Offering and issued the Shares, Warrants and Option Warrants for aggregate net proceeds of approximately $4.07 million, after
+deducting underwriting discounts and commissions and estimated offering expenses. The Company intends to use the net proceeds from the
+offering for research and development activities (including development of a mobile app), sales and marketing, general working capital
+purposes, potential acquisitions of other companies, products or technologies, and to repay certain indebtedness. Concurrently with the
+closing of the Offering, the Company also issued warrants to purchase an aggregate of up to 60,250 shares of its common stock to the representative
+of the Underwriters or their designees, at an exercise price of 5.19 per share (the “Representative’s Warrants”). The
+Representative’s Warrants are exercisable beginning on January 8, 2023, and expire on July 12, 2027, pursuant to the terms and conditions
+of the Representative’s Warrants.
+
+ 
+
+On
+July 15, 2022, the Company entered into a warrant agency agreement (the “Warrant Agent Agreement”), with Equity Stock Transfer
+LLC (“Equity Stock”), appointing Equity Stock as Warrant Agent for the Warrants. 
+
+ 
+
+The
+Shares and Warrants were offered, issued and sold to the public pursuant to a registration statement on
+ Form S-1 (File No. 333-262688)
+
+filed with the Securities and Exchange Commission (“SEC”)
+, which was declared
+effective by the SEC on July 12, 2022, and the 
+prospectus forming a part thereof
+.
+
+ 
+
+The Underwriting
+Agreement contains customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification
+obligations of the Company and the Underwriters, including for liabilities under the Securities Act of 1933, as amended (the “Security
+Act”), other obligations of the parties and termination provisions. The representations, warranties and covenants contained in the
+Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit of the parties
+to such agreement and were subject to limitations agreed upon by the contracting parties.
+
+ 
+
+The foregoing
+summary of the Underwriting Agreement is qualified in its entirety by reference to the Underwriting Agreement attached as Exhibit 1.1
+hereto and is incorporated herein by reference. The foregoing descriptions of the Representative’s Warrants and Warrant Agent Agreement
+and form of Warrant issuable thereunder are qualified in their entirety by reference to the form of Representative’s Warrant, Warrant
+Agent Agreement and form of Warrant attached hereto as Exhibits 4.1, 4.2 and 4.3 hereto and incorporated herein by reference.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 3.02 Recent Sales
+of Unregistered Securities
+
+ 
+
+On July
+14, 2022, the Company issued 93,432 shares of its common stock upon automatic conversion of $300,000 of convertible promissory notes issued
+in February 2022, plus conversion of accrued interest on such notes. The notes were converted at a conversion price equal to 80% of Offering
+Price Per Share. No proceeds were received upon issuance. The Company also issued warrants to purchase 93,432 shares of our common stock
+to these noteholders upon conversion, which warrants have an exercise price of $5.19 per share and are exercisable for 5 years. The foregoing
+summary of the warrants is qualified in its entirety by reference to the form of warrant attached hereto as Exhibit 4.4 and incorporated
+by reference herein. These issuances were exempt under Section 3(a)(9) and/or Section 4(a)(2) of the Securities Act of 1933.
+
+ 
+
+On July
+14, 2022, we issued 39,901 shares of our common stock to Netcapital Systems LLC as supplemental consideration pursuant to the agreement
+for the acquisition of Netcapital Funding Portal Inc. by the Company. We did not receive any proceeds from the issuance. This issuance
+was exempt under Section 4(a)(2) of the Securities Act.
+
+ 
+
+ 
+
+Item 8.01 Other Events. 
+
+ 
+
+On July 12, 2022, the Company
+issued a press release announcing that it had priced the Offering. A copy of this press release is furnished as Exhibits 99.1 to this
+Current Report on Form 8-K and incorporated by reference herein.
+
+ 
+
+ 
+
+On July 15, 2022, the Company
+issued a press release announcing that it had closed the Offering. A copy of this press release is furnished as Exhibits 99.2 to this
+Current Report on Form 8-K and incorporated by reference herein.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 9.01 Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Underwriting Agreement by and between the Company and ThinkEquity LLC, as representative of the several underwriters named therein dated July 12, 2022
+
+2.1 
+
+ 
+
+Agreement and Plan of Merger by and Among Necapital Funding Portal Inc., Valuesetters Inc. and Netcapital Acquisition Vehicle Inc., incorporated by reference to our Form 8-K dated August 23, 2020. 
+
+4.1
+
+ 
+
+Form of Representative’s Warrant (included in Exhibit 1.1).
+
+4.2
+
+ 
+
+Warrant
+ Agent Agreeement , dated July 15, 2022 between Netcapital Inc. and Equity Stock Transfer LLC
+
+4.3
+
+ 
+
+Form of Warrant- Public Offering (inluded in Exhibit 4.2)
+
+4.4
+
+ 
+
+Form of Warrant
+
+4.5 
+
+ 
+
+Form of Unsecured Convertible Notes, attached as Exhibit 4.3 to the registrant’s Registration Statement on Form S-1 (File No. 333-262688 and incorporated herein by reference.  
+
+99.1
+
+ 
+
+Press release dated July 12, 2022
+
+99.1
+
+ 
+
+Press release dated July 15, 2022
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+ 
+
+ 
+
+ 
+
+Date: July 15, 2022
+
+By:
+
+/s/ Cecilia Lenk
+
+ 
+
+ 
+
+Cecilia Lenk
+
+ 
+
+ 
+
+Chief Executive Officer

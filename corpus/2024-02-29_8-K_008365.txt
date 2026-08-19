@@ -1,0 +1,414 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224008365/form8-k.htm
+FORM: 8-K
+FILED: 2024-02-29
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2024-02-29
+
+2024-02-29
+
+0001414767
+
+NCPL:CommonStock0.001ParValuePerShareMember
+
+2024-02-29
+
+2024-02-29
+
+0001414767
+
+NCPL:RedeemableWarrantsExercisableForOneShareOfCommonStockAtExercisePriceOf0.19Member
+
+2024-02-29
+
+2024-02-29
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+February 29, 2024
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State
+ or other jurisdiction of incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(Zip
+ Code)
+
+  
+
+Registrant’s telephone
+number, including area code: 
+(
+781
+) 
+925-1700
+
+ 
+
+ 
+
+ 
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written
+ communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting
+ material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+Redeemable
+ warrants exercisable for one share of Common Stock at an exercise price of $0.19
+
+ 
+
+NCPLW
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+ 3.01
+
+Notice
+ of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+ 
+
+As
+previously disclosed on a Current Report on Form 8-K filed by Netcapital Inc. (the “Company”) on September 1, 2023,
+the Company received a notification from 
+The Nasdaq Stock Market, LLC
+ (“Nasdaq”)
+notifying the Company that it was 
+not in compliance with the minimum bid price requirement set
+forth in Nasdaq Listing Rule 5550(a)(2) for continued listing on The Nasdaq Capital Market. Specifically, Nasdaq Listing Rule 5550(a)(2)
+requires listed securities to maintain a minimum bid price of $1.00 per share, and Nasdaq Listing Rule 5810(c)(3)(A) provides that a
+failure to meet the minimum bid price requirement exists if the deficiency continues for a period of 30 consecutive business days. 
+The
+Company initially had 180 calendar days, or until by February 28, 2024, to regain compliance with the minimum bid price requirement.
+The Company was unable to regain compliance with the minimum bid price requirement by February 28, 2024.
+
+ 
+
+On
+February 29, 2024, the Company received a letter (the “Extension Notice”) from Nasdaq notifying the Company that its request
+for an extension to regain compliance with the 
+minimum bid price requirement
+ has been granted,
+and the Company has an additional 180 calendar days, or until August 26, 2024, to regain compliance with the minimum bid price requirement.
+Nasdaq’s determination was based on the Company meeting the continued listing requirement for market value of publicly held shares
+and all other applicable requirements for initial listing on the Nasdaq Capital Market with the exception of the bid price requirement,
+and the Company’s written notice of its intention to cure the deficiency during the second compliance period by effecting a reverse
+stock split, if necessary. The Extension Notice 
+has no immediate effect on the listing or trading
+of the Company’s common stock on The Nasdaq Capital Market and, at this time, the Company’s common stock will continue to
+trade on The Nasdaq Capital Market under the symbol “NCPL.”
+
+ 
+
+If
+at any time before August 26, 2024, the bid price of the Company’s common stock closes at or above $1.00 per share for a minimum
+of 10 consecutive business days, Nasdaq will notify the Company that it is in compliance with the 
+minimum
+bid price requirement
+. However, if compliance with the 
+minimum bid price requirement
+
+cannot be demonstrated by August 26, 2024, Nasdaq will notify the Company that its common stock will be delisted from The Nasdaq Capital
+Market, at which time, the Company may appeal Nasdaq’s determination to a Hearings Panel.
+
+ 
+
+The
+Company intends to monitor the closing bid price of its common stock and may, if appropriate, consider implementing available options,
+including, but not limited to, implementing a reverse stock split of its outstanding securities during the second compliance period,
+to regain compliance with the minimum bid price requirement under the Nasdaq Listing Rules.
+
+ 
+
+ 
+-
+2
+-
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+Name:
+
+Coreen
+Kraysler
+
+ 
+
+Title:
+
+Chief
+ Financial Officer
+
+ 
+
+ 
+
+ 
+
+Dated
+ February 29, 2024
+
+ 
+
+ 
+
+ 
+
+ 
+-
+3
+-

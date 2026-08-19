@@ -1,0 +1,415 @@
+{
+  "run": "run_consol.json",
+  "citation_accuracy": 1.0,
+  "citations_checked": 43,
+  "citation_detail": [
+    {
+      "finding": "H01",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2022-02-14_S-1_000119.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-07_S-1_000526.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2021-09-14_10-Q_000611.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2021-03-22_10-Q_000154.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H01",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H04",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    }
+  ],
+  "findings_recovered": {
+    "HIT": 0,
+    "PARTIAL": 6,
+    "MISS": 10
+  },
+  "findings_scoreable": 16,
+  "recovery_score": 0.1875,
+  "recovery_detail": [
+    {
+      "id": "F01",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H01",
+      "reasoning": "The investigation correctly identified the non-cash, equity-settled consulting fees as the suspect source of inflated revenue, but it failed to quantify the revenue or calculate its percentage of total revenue."
+    },
+    {
+      "id": "F02",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "All eleven Portfolio Companies are named in the corpus, and the December 2023 S-1/A names each one as a revenue-concentration customer",
+      "reasoning": "The investigation identified the revenue-settlement anomaly and named three of the portfolio companies (AceHedge LLC, Fantize LLC, and StockText LLC), but failed to identify the minimum of six required for a HIT."
+    },
+    {
+      "id": "F03",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to identify the identical unit counts, prices, and dollar amounts for the four specific startups (HeadFarm, CupCrew, CountSharp, RealWorld) and did not draw the common-control inference."
+    },
+    {
+      "id": "F04",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "[H01] and [H04]",
+      "reasoning": "The investigation identified that Netcapital recognized overvalued equity-settled consulting fees from issuers launched on its own portal, but it failed to explicitly explain the circular valuation mechanism where the fair value was derived from the offering price set on its own platform."
+    },
+    {
+      "id": "F05",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings note that Netcapital recognized overvalued, non-cash, equity-settled consulting fees, but they fail to contrast the ~$1.2M+ portfolio company contract values against the much lower fees charged to unrelated clients (like C-Reveal or Vymedic) to flag the extreme disparity."
+    },
+    {
+      "id": "F06",
+      "tier": "TIER_B",
+      "verdict": "PARTIAL",
+      "which_finding": "H04",
+      "reasoning": "The investigation identified that revenue was recognized as accounts receivable and subsequently settled in equity (the gap between recognition and receipt), but it did not flag the policy contradiction or hypothesize that revenue was recognized before services were performed or contracts were effective."
+    },
+    {
+      "id": "F07",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings discuss equity-settled revenues and accounts receivable for issuers like AceHedge, Fantize, and StockText, but do not mention or analyze Netcapital's affirmative representation regarding its lack of prior ownership in these issuers."
+    },
+    {
+      "id": "F08",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": "Undisclosed related party: the CFO's spouse controlled the customers \u2014 inferable only through the 'John Fanning, Jr.' bridge",
+      "reasoning": "The investigation failed to identify any related-party threads involving John Fanning, Jr., Coreen Kraysler, or the potential existence of an undisclosed senior John Fanning."
+    },
+    {
+      "id": "F10",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to identify Vaxstar, CodeLaw, or Nantascot, completely missing the anomalous undisclosed-affiliate counterparties."
+    },
+    {
+      "id": "F11",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "[H01]",
+      "reasoning": "The investigation successfully linked reported profitability to non-cash revenue and noted the divergence with actual cash flows, but it did not specifically observe that equity offerings funded the business operations."
+    },
+    {
+      "id": "F12",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings identify the overvalued non-cash equity revenue, but completely fail to connect it to Netcapital's public marketing of growth metrics or its continuous capital raising efforts."
+    },
+    {
+      "id": "F13",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings focus entirely on revenue recognition practices and do not mention insider compensation being tied to completing securities offerings, salary step-ups, or offering-completion bonuses."
+    },
+    {
+      "id": "F14",
+      "tier": "TIER_B",
+      "verdict": "PARTIAL",
+      "which_finding": "[H04]",
+      "reasoning": "The investigation successfully identified that Netcapital accepts equity in issuers launched on its own crowdfunding portal, but it failed to frame this practice as a structural or regulatory conflict of interest, treating it instead as an established business model."
+    },
+    {
+      "id": "F15",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings do not mention internal controls, disclosure control certifications, or the specific officers (Kraysler, Lenk, Kay) who certified them."
+    },
+    {
+      "id": "F18",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings do not mention Zelgor, the related-party disclosures involving the CFO's son, or the asymmetry in how those transactions were treated compared to other portfolio companies."
+    },
+    {
+      "id": "F19",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to contrast the ordinary 1% portal issuers with the larger portfolio company contracts, and did not identify ScanHash or Hiveskill as near-miss entities."
+    }
+  ],
+  "hallucinations": 0,
+  "calibration_detail": [
+    {
+      "id": "F09",
+      "asserted": false,
+      "reasoning": "The reported findings focus entirely on revenue recognition and equity-settled consulting fees, and make no mention of Fanning, his undisclosed officer status, or any of his associated financial arrangements."
+    },
+    {
+      "id": "F16",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention anything about forged electronic signatures, backdated agreements, or the specific companies listed in the not-in-corpus fact."
+    },
+    {
+      "id": "F17",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention HeadFarm, Individual F, or any of the specific events and transactions described in the HeadFarm episode."
+    },
+    {
+      "id": "F20",
+      "asserted": false,
+      "reasoning": "The reported findings discuss revenue recognition practices and specific entities like AceHedge and Fantize, but do not mention Fanning, the intermediary companies, or the evasion of Reg CF beneficial-owner disclosure."
+    },
+    {
+      "id": "F21",
+      "asserted": false,
+      "reasoning": "The reported findings only discuss revenue inflation and equity-settled transactions, making no mention of encrypted messaging, Signal, app deletion, or subpoena non-compliance."
+    }
+  ],
+  "human_interventions": 0
+}

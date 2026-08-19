@@ -1,0 +1,469 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224015972/form8-k.htm
+FORM: 8-K
+FILED: 2024-04-25
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2024-04-24
+
+2024-04-24
+
+0001414767
+
+NCPL:CommonStock0.001ParValuePerShareMember
+
+2024-04-24
+
+2024-04-24
+
+0001414767
+
+NCPL:RedeemableWarrantsExercisableForOneShareOfCommonStockAtExercisePriceOf5.19Member
+
+2024-04-24
+
+2024-04-24
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+April 24, 2024
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State
+ or other jurisdiction of incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(Zip
+ Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: 
+(781)
+ 
+925-1700
+
+ 
+
+ 
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written
+ communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting
+ material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+Redeemable
+ warrants exercisable for one share of Common Stock at an exercise price of $5.19
+
+ 
+
+NCPLW
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+Item
+1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+1.
+On April 24, 2024, Netcapital Inc. (the “
+Company
+”) entered into a Stock Purchase Agreement (the “
+Geary Purchase
+Agreement
+”) with Steven Geary, a member of the Company’s board of directors for the issuance and sale in a private placement
+(the “
+Private Placement
+”) of: 239,274 shares (the “
+Geary Shares
+”) of the Company’s common
+stock, par value $0.001 per share (“
+Common Stock
+”), at a price per share of $0.1324 (which price represents the
+“Minimum Price” under Nasdaq Rule 5635(d)), in consideration of Mr. Geary’s cancellation of $31,680 of outstanding
+indebtedness owed to him by the Company. The Geary Shares were issued as restricted securities as defined in Rule 144 of the Securities
+Act of 1933, as amended on April 24, 2024. We did not receive any proceeds for the issuance of the Geary Shares.
+
+ 
+
+2.
+On April 24, 2024, the Company entered into a Stock Purchase Agreement (the “
+Riss Purchase Agreement
+”) with
+Paul Riss, a member of the board of directors of Netcapital Funding Portal, Inc. which is a wholly-owned subsidiary of the Company
+for the issuance and sale in a private placement (the “
+Private Placement
+”) of: 442,024 shares (the “
+Riss
+Shares
+”) of the Company’s common stock, par value $0.001 per share (“
+Common Stock
+”), at a price per
+share of $0.1324 (which price represents the “Minimum Price” under Nasdaq Rule 5635(d)), in consideration of Mr. Riss’
+cancellation of $58,524 of outstanding indebtedness owed to him by the Company. The Riss Shares were issued as restricted securities
+as defined in Rule 144 of the Securities Act of 1933, as amended on April 24, 2024. We did not receive any proceeds for the issuance
+of the Riss Shares.
+
+ 
+
+The
+foregoing descriptions of terms and conditions of the Geary Purchase Agreement and the Riss Purchase Agreement do not purport to be complete
+and are qualified in their entirety by the full text of the Geary Purchase Agreement and the Riss Purchase Agreement,
+which are attached hereto as Exhibits 10.1, and 10.2, respectively, to this Current Report on Form 8-K and are incorporated by reference
+herein.
+
+ 
+
+Item
+3.02 Unregistered Sales of Equity Securities.
+
+ 
+
+Reference
+is made to the disclosure under Item 1.01 above which is hereby incorporated in this Item 3.02 by reference.
+
+ 
+
+The
+Geary Shares and the Riss Shares have not been registered under the Securities Act of 1933, as amended (the “Securities Act”),
+or the securities laws of any state, and are being offered and sold in reliance on the exemption from registration under the Securities
+Act, afforded by Section 4(a)(2) and/or Rule 506 promulgated thereunder.
+
+ 
+
+This
+Current Report on Form 8-K shall not constitute an offer to sell or a solicitation of an offer to buy these securities, nor shall there
+be any sale of these securities in any state or other jurisdiction in which such offer, solicitation or sale would be unlawful prior
+to the registration or qualification under the securities laws of any such state or other jurisdiction.
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+
+No.
+
+ 
+
+Description
+
+10.1
+
+ 
+
+Stock Purchase Agreement dated April 24, 2024 between Netcapital Inc. and Steven Geary
+ 
+
+10.2
+
+ 
+
+Stock Purchase Agreement dated April 24, 2024 between Netcapital Inc. and Paul Riss
+
+104
+
+ 
+
+Cover
+ Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+ 
+-
+2
+-
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin
+Kay
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+Dated
+ April 25, 2024
+
+ 
+
+ 
+
+ 
+
+ 
+-
+3
+-

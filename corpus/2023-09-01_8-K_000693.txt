@@ -1,0 +1,320 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000693/ncpl_8k.htm
+FORM: 8-K
+FILED: 2023-09-01
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2023-09-01
+
+2023-09-01
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+September
+ 1, 2023
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+ 
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 3.01
+
+Notice of Delisting or Failure to Satisfy a Continued Listing Rule or Standard; Transfer of Listing.
+
+ 
+
+On September
+1, 2023, Netcapital Inc. (the “Company”) was notified (the “Notification Letter”) by The Nasdaq Stock Market,
+LLC (“Nasdaq”) that it is not in compliance with the minimum bid price requirements set forth in Nasdaq Listing Rule 5550(a)(2)
+for continued listing on The Nasdaq Capital Market. Nasdaq Listing Rule 5550(a)(2) requires listed securities to maintain a minimum bid
+price of $1.00 per share, and Nasdaq Listing Rule 5810(c)(3)(A) provides that a failure to meet the minimum bid price requirement exists
+if the deficiency continues for a period of 30 consecutive business days. Based on the closing bid price of the Company’s common
+stock between July 20, 2023 and August 31, 2023, the Company no longer meets the minimum bid price requirement. The Notification Letter
+has no immediate effect on the listing or trading of the Company’s common stock on The Nasdaq Capital Market and, at this time,
+the common stock will continue to trade on The Nasdaq Capital Market under the symbol “NCPL.”
+
+ 
+
+The
+Notification Letter provides that the Company has 180 calendar days, or until February 28, 2024, to regain compliance with Nasdaq Listing
+Rule 5550(a)(2). To regain compliance, the bid price of the Company’s common stock must have a closing bid price of at least $1.00
+per share for a minimum of 10 consecutive business days. If the Company does not regain compliance by February 28, 2024, an additional
+180 days may be granted to regain compliance, so long as the Company meets The Nasdaq Capital Market continued listing requirement for
+market value of publicly-held shares and all other initial listing standards for The Nasdaq Capital Market, other than the minimum closing
+bid price requirement and notifies Nasdaq in writing of its intention to cure the deficiency during the second compliance period, by effecting
+a reverse stock split, if necessary. If the Company does not qualify for the second compliance period or fails to regain compliance during
+the second 180-day period, then Nasdaq will notify the Company of its determination to delist the Company’s common stock, at which
+point the Company will have an opportunity to appeal the delisting determination to a Hearings Panel.
+
+ 
+
+The
+Company intends to monitor the closing bid price of its common stock and may, if appropriate, consider implementing available options,
+including, but not limited to, implementing a reverse stock split of its outstanding securities, to regain compliance with the minimum
+bid price requirement under the Nasdaq Listing Rules.
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: September 1, 2023
+
+By:
+
+/s/
+ 
+Coreen Kraysler
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer

@@ -1,0 +1,343 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000364/ncpl_8k.htm
+FORM: 8-K
+FILED: 2023-05-02
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2023-04-27
+
+2023-04-27
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+April
+ 27, 2023
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01 Entry into a Material Definitive
+Agreement.
+ 
+
+On April 28, 2023, Netcapital Inc. (the
+“Company”) entered into an Amendment to Revolving Loan and Security Agreement (the “Amendment”) with Vaxstar LLC
+which amended the terms of the Company’s prior Revolving Loan and Security Agreement as follows: (i) interest on the advances under
+the Loan Agreement increased from 8% to 12% and (ii) the Maturity Date of the Loan was extended until October 31, 2023.
+
+The description of the terms and conditions of the
+Amendment set forth herein does not purport to be complete and is qualified in its entirety by the full text of the Amendment, which is
+attached hereto as Exhibit 10.1.
+
+ 
+
+Item 3.02 Unregistered Sales of Equity
+Securities.
+
+On April 27, 2023 the Company issued 350,000 shares
+of its common stock for business advisory services. The Company did not receive any proceeds for the issuance of these shares. The issuance
+was exempt from registration pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended.
+
+On April 27, 2023,
+the Company issued 18,750 shares of its common stock in conjunction with the purchase of a 10% interest in Caesar Media Group Inc. The
+Company did not receive any proceeds for the issuance of these shares. The issuance was exempt from registration pursuant to Section 4(a)(2)
+of the Securities Act of 1933, as amended.
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+10.1
+
+ 
+
+Amendment to Revolving
+ Loan and Security Agreement dated April 28, 2023 between Netcapital Inc. and Vaxstar LLC
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: May 2, 2023
+
+By:
+
+/s/
+ 
+Martin Kay
+
+ 
+
+Martin Kay
+
+ 
+
+ 
+
+Chief Executive Officer

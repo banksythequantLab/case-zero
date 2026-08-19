@@ -1,0 +1,295 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000172186821000024/f2sncpl8k010721.htm
+FORM: 8-K
+FILED: 2021-01-08
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2021-01-07
+
+2021-01-07
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE
+COMMISSION
+
+Washington, D.C.  20549
+
+     
+
+FORM 
+8-K
+
+     
+
+CURRENT REPORT
+
+     
+
+PURSUANT TO SECTION
+13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE
+ACT OF 1934
+
+     
+
+Date of Report (Date of
+earliest event reported): 
+January 7, 2021
+
+   
+
+Netcapital Inc.
+
+(Exact name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification No.)
+
+ 
+
+ 
+
+781
+-
+925-1700
+
+(Registrant's telephone
+number, including area code)
+
+     
+
+Not Applicable
+
+(Former name or former
+address, if changed since last report)
+
+ 
+
+Check the appropriate
+box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the
+following provisions:
+
+ 
+
+ 
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant to Rule 14a-12(b) under the Exchange Act (17 CFR 240.14a-12(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company
+ 
+
+ 
+
+If an emerging growth company, indicate by
+check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+
+ 
+
+ 
+
+ 
+
+ITEM 5.02 Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
+
+ 
+
+On
+January 4th, 2021, Netcapital Inc. (the “Company”) elevated Carole Murko, CFA, age 59, to the position of Chief Marketing
+Officer. Ms. Murko is a Chartered Financial Analyst who spent nearly 20 years in the financial services industry with her primary
+focus on marketing complex equity and fixed income strategies to the institutional marketplace for PCM International, State Street
+Global Advisors and Independence Investments. She has an AB in Economics from Smith College and an MA in 
+International Economics
+from NYU
+. 
+
+ 
+
+Ms.
+Murko’s principal occupation and employment during the past five years was as Membership Director for The Westmoor Club,
+a private field club on Nantucket. The Westmoor Club is neither a parent, subsidiary or affiliate of the registrant.
+
+ 
+
+On
+March 10, 2020, the Company entered into an employment agreement with Ms. Murko. The agreement calls for the vesting of 12,500
+shares of the Company’s common stock on a monthly basis over a four-year period so long as Ms. Murko continues to provide
+services to the Company.
+
+ 
+
+This summary is qualified in its
+entirety by reference to the full text of Ms. Murko’s employment agreement, which is attached hereto as Exhibit 10.1 and
+incorporated by reference herein.
+
+ 
+
+Ms.
+Murko has no family relationship with any director or officer of the Company.
+
+ 
+
+The
+company's former Chief Marketing Officer, Kathryn Kraysler, will remain as an advisor and consultant to the company. Kathryn Kraysler
+is the sister of the Company’s Chief Financial Officer, Coreen Kraysler.
+
+ 
+
+The
+vesting of a stock grant referred to in an agreement between the Company and Kathryn Kraysler will remain in effect so long as
+Ms. Kraysler continues to perform services for the Company. The agreement calls for the issuance of up to 2,500 shares of the Company’s
+common stock that vests on a quarterly basis over a four-year period. As of the close of our last quarterly period ended October
+31, 2020, Ms. Kraysler earned 1,563 shares of the grant of common stock, and 937 shares were unearned. The unearned shares can
+be earned over the next six quarters at a rate of 156 shares per quarter.
+
+ 
+
+SECTION 9 – FINANCIAL STATEMENTS
+AND EXHIBITS
+
+ 
+
+ 
+
+ 
+
+Item 9.01
+
+Financial Statements and Exhibits.
+
+ 
+
+(c) Exhibits.
+
+ 
+
+Number Documents
+
+ 
+
+10.1 
+Employment Agreement dated March 10, 2020
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: 
+January 7, 2021
+
+ 
+
+/s/ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer
+
+ 
+
+ 
+
+Principal Accounting Officer

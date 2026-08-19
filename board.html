@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CASE ZERO — Mission Control</title>
+<style>
+  :root{
+    /* validated dark surface + status palette (icon+label always paired) */
+    --surface-0:#111110; --surface-1:#1a1a19; --surface-2:#232321;
+    --line:#33322f;
+    --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8a897f;
+    --accent:#3987e5;
+    --good:#0ca30c; --warning:#fab219; --serious:#ec835a; --critical:#d03b3b;
+  }
+  *{box-sizing:border-box}
+  html,body{height:100%}
+  body{margin:0;background:var(--surface-0);color:var(--text-primary);
+       font:14px/1.5 ui-sans-serif,-apple-system,"Segoe UI",Roboto,sans-serif}
+  .mono{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+
+  header{display:flex;align-items:baseline;gap:18px;flex-wrap:wrap;
+         padding:16px 22px;border-bottom:1px solid var(--line);background:var(--surface-1)}
+  h1{margin:0;font-size:17px;letter-spacing:.2em;font-weight:600}
+  .case{color:var(--text-muted);font-size:12px;letter-spacing:.1em}
+  .mission{color:var(--text-secondary);font-size:12.5px;flex:1;min-width:280px}
+  .status{display:flex;align-items:center;gap:7px;font-size:12px;letter-spacing:.08em;
+          color:var(--text-secondary)}
+  .dot{width:8px;height:8px;border-radius:50%;background:var(--text-muted)}
+  .dot.live{background:var(--good);animation:pulse 1.4s ease-in-out infinite}
+  .dot.done{background:var(--accent);animation:none}
+  @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  button{font:600 12px ui-sans-serif;letter-spacing:.1em;color:#08130a;
+         background:var(--good);border:0;border-radius:6px;padding:9px 18px;cursor:pointer}
+  button:disabled{background:var(--surface-2);color:var(--text-muted);cursor:default}
+
+  /* ---- KPI stat tiles: hero numbers, not charts ---- */
+  .kpis{display:grid;grid-template-columns:repeat(6,1fr);gap:2px;background:var(--line);
+        border-bottom:1px solid var(--line)}
+  .kpi{background:var(--surface-1);padding:14px 18px}
+  .kpi .n{font-size:26px;font-weight:600;font-variant-numeric:tabular-nums;line-height:1.15}
+  .kpi .k{font-size:10.5px;letter-spacing:.16em;color:var(--text-muted);margin-top:3px}
+
+  main{display:grid;grid-template-columns:1fr 1fr;gap:2px;background:var(--line);
+       height:calc(100vh - 158px)}
+  section{background:var(--surface-0);overflow:hidden;display:flex;flex-direction:column}
+  .hd{padding:11px 18px;font-size:10.5px;letter-spacing:.16em;color:var(--text-muted);
+      background:var(--surface-1);border-bottom:1px solid var(--line)}
+  .body{overflow-y:auto;padding:12px 18px;flex:1}
+
+  /* ---- event stream ---- */
+  .ev{display:grid;grid-template-columns:64px 104px 1fr;gap:12px;padding:5px 0;
+      font-size:12.5px;border-bottom:1px solid #201f1d}
+  .ev .ts{color:var(--text-muted);font-variant-numeric:tabular-nums}
+  .ev .who{font-weight:600;letter-spacing:.03em}
+  .ev .msg{color:var(--text-secondary);word-break:break-word}
+  .ev .msg b{color:var(--text-primary);font-weight:600}
+  .who.evidence{color:var(--accent)} .who.hypothesis{color:var(--warning)}
+  .who.skeptic{color:var(--critical)} .who.lead{color:var(--serious)}
+  .who.orchestrator{color:var(--text-muted)}
+  .who.forensic{color:var(--accent)} .who.ledger{color:var(--accent)}
+  .ev.new{animation:in .5s ease}
+  @keyframes in{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:none}}
+
+  /* ---- hypothesis cards + confidence meters ---- */
+  .hyp{background:var(--surface-1);border:1px solid var(--line);border-radius:8px;
+       padding:13px 15px;margin-bottom:10px}
+  .hyp .claim{font-size:13.5px;line-height:1.45;margin-bottom:10px}
+  .row{display:flex;align-items:center;gap:11px}
+  /* meter: 4px rounded ends, anchored at 0, 2px surface gap from the track */
+  .track{flex:1;height:9px;border-radius:4px;background:var(--surface-2);overflow:hidden}
+  .fill{height:100%;border-radius:4px;transition:width .9s cubic-bezier(.4,0,.2,1),background .4s}
+  .pct{font-variant-numeric:tabular-nums;font-weight:600;font-size:13px;min-width:44px;
+       text-align:right;color:var(--text-primary)}
+  .tag{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;letter-spacing:.11em;
+       font-weight:600;padding:3px 8px;border-radius:5px;white-space:nowrap;
+       background:var(--surface-2);color:var(--text-secondary);border:1px solid var(--line)}
+  .tag .g{font-size:11px;line-height:1}
+  .was{color:var(--text-muted);font-size:11.5px;margin-top:8px;font-variant-numeric:tabular-nums}
+  .attack{margin-top:9px;padding:9px 11px;border-left:2px solid var(--critical);
+          background:#1e1615;border-radius:0 5px 5px 0;font-size:12px;
+          color:var(--text-secondary);line-height:1.5}
+  .attack .lbl{color:var(--critical);font-weight:600;letter-spacing:.1em;font-size:10px;
+               display:block;margin-bottom:3px}
+  .empty{color:var(--text-muted);font-size:13px;padding:22px 0;text-align:center}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>CASE ZERO</h1>
+  <span class="case mono" id="caseno">INVESTIGATION #0001</span>
+  <span class="mission">Netcapital Inc. (NCPL) · 71 SEC filings · <em>Determine whether this company
+    misrepresented its financial condition, and identify who is responsible.</em></span>
+  <span class="status"><span class="dot" id="dot"></span><span id="statustxt">STANDBY</span></span>
+  <button id="go">BEGIN INVESTIGATION</button>
+</header>
+
+<div class="kpis">
+  <div class="kpi"><div class="n mono" id="k-docs">71</div><div class="k">DOCUMENTS</div></div>
+  <div class="kpi"><div class="n mono" id="k-ev">0</div><div class="k">EVIDENCE</div></div>
+  <div class="kpi"><div class="n mono" id="k-ent">0</div><div class="k">ENTITIES</div></div>
+  <div class="kpi"><div class="n mono" id="k-hyp">0</div><div class="k">HYPOTHESES</div></div>
+  <div class="kpi"><div class="n mono" id="k-leads">0</div><div class="k">OPEN LEADS</div></div>
+  <div class="kpi"><div class="n mono" id="k-hum">0</div><div class="k">HUMAN INPUTS</div></div>
+</div>
+
+<main>
+  <section>
+    <div class="hd">LIVE EVENT STREAM — THIS IS THE AUDIT LOG</div>
+    <div class="body" id="feed"><div class="empty">Awaiting mission start.</div></div>
+  </section>
+  <section>
+    <div class="hd">HYPOTHESES — CONFIDENCE UNDER ADVERSARIAL REVIEW
+      <span id="tally" class="mono" style="float:right;letter-spacing:.06em"></span></div>
+    <div class="body" id="hyps"><div class="empty">No hypotheses yet.</div></div>
+  </section>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const ents = new Set();
+const hyps = new Map();          // id -> {claim, confidence, prior, state, attack}
+let started = false;
+
+const clock = ts => new Date(ts*1000).toLocaleTimeString('en-GB',{hour12:false});
+
+/* Status is never carried by color alone — every state ships a glyph AND a label. */
+const STATES = {
+  active:    {g:'●', t:'ACTIVE',    c:'var(--good)'},
+  contested: {g:'◐', t:'CONTESTED', c:'var(--warning)'},
+  refuted:   {g:'✕', t:'REFUTED',   c:'var(--critical)'},
+  blocked:   {g:'⊘', t:'NOT SUPPORTED BY RECORD', c:'var(--serious)'},
+};
+const stateOf = h => h.blocked ? 'blocked' : h.refuted ? 'refuted'
+                   : (h.confidence >= 0.7 ? 'active' : 'contested');
+
+function addEvent(e){
+  const feed = $('feed');
+  if (feed.querySelector('.empty')) feed.innerHTML = '';
+  const p = e.payload || {};
+  let msg = '';
+  switch(e.kind){
+    case 'mission':  msg = `MISSION — ${p.mission||''}`; break;
+    case 'dispatch': msg = `→ ${String(p.agent||'').toUpperCase()} · ${p.question||''}`; break;
+    case 'evidence':
+      msg = `<b>${p.summary||''}</b>${p.tier ? ` <span class="mono" style="color:var(--text-muted)">[${p.tier}]</span>`:''}`;
+      break;
+    case 'hypothesis':
+      msg = `NEW HYPOTHESIS — <b>${p.claim||''}</b> · confidence ${(p.confidence*100||0).toFixed(0)}%`;
+      break;
+    case 'confidence_change':
+      msg = p.unsupported_leap
+        ? `<b>BLOCKED</b> — ${p.id} asserts what the record cannot establish`
+        : `${p.id} confidence ${(p.before*100).toFixed(0)}% → <b>${(p.after*100).toFixed(0)}%</b>`
+          + (p.survives === false ? ' — <b>REFUTED</b>' : '');
+      break;
+    case 'hypothesis_merged':
+      msg = `<b>CONSOLIDATED</b> — ${p.absorbed} folded into ${p.kept} `
+          + `<span class="mono" style="color:var(--text-muted)">(${p.reason||''})</span>`;
+      break;
+    case 'coverage_contradiction':
+      msg = `<b style="color:var(--serious)">ABSENCE CLAIM CONTRADICTED</b> — ${p.id} says `
+          + `${(p.referents||[]).join(', ')} is absent; it is in the corpus`
+          + (p.found_in ? ` (e.g. ${p.found_in[0]})` : '');
+      break;
+    case 'citation_quarantine':
+      msg = `<b style="color:var(--serious)">CITATION QUARANTINED</b> — ${p.evidence}: `
+          + `${p.rejected} quote${p.rejected>1?'s':''} not found in the corpus`
+          + (p.downgraded ? ' · claim downgraded DIRECT → INFERRED' : '');
+      break;
+    case 'schema_retry':
+      msg = `schema retry ${p.attempt} — ${p.error||''}`; break;
+    case 'backoff':
+      msg = `transient API error, retry ${p.attempt} in ${p.sleep}s`; break;
+    case 'coverage_note':
+      msg = `coverage — ${p.shown}/${p.total} documents this call · ${p.note||''}`; break;
+    case 'lead':   msg = `LEAD · priority ${(p.priority??0).toFixed(2)} — ${p.question||''}`; break;
+    case 'error':  msg = `ERROR — ${p.error||''} (investigation continues)`; break;
+    case 'dispatch_failed':
+      msg = `<b style="color:var(--critical)">DISPATCH FAILED</b> — ${p.error||'no detail'}`;
+      break;
+    case 'gave_up':
+      msg = `<b style="color:var(--critical)">GAVE UP</b> — ${p.reason||''}`; break;
+    case 'phase_cap':
+      msg = `phase cap — ${p.agent} deferred: ${p.note||''}`; break;
+    case 'starvation_override':
+      msg = `<b>ORCHESTRATOR OVERRIDE</b> — forcing ${p.stage}: ${p.note||''}`; break;
+    case 'leads_truncated':
+      msg = `lead queue capped — kept ${p.kept} of ${p.emitted}`; break;
+    case 'seeded':
+      msg = `${e.actor} seed — ${p.count} deterministic objects (${(p.methods||[]).join(', ')})`;
+      break;
+    case 'screen': {
+      const m = n => '$' + Math.round(n).toLocaleString('en-US');
+      msg = `<b>LEDGER RECONCILED</b> — ${p.counterparties} counterparties; `
+          + `${m(p.equity_total)} settled in customer equity across ${p.equity_parties} of them`
+          + (p.derived_total ? ` (+${m(p.derived_total)} derived from disclosed concentration)` : '')
+          + (p.attributed_share_pct != null
+              ? ` · <b>${m(p.attributed_total)} = ${p.attributed_share_pct}% of ${m(p.reported_revenue)} reported revenue</b>`
+                + (p.overstatement_pct ? ` · remainder overstated ${Math.round(p.overstatement_pct)}%` : '')
+              : '')
+          + ` · ${p.seeded} seeded, no model involved`;
+      break;
+    }
+    case 'stop':   msg = `<b>INVESTIGATION COMPLETE</b> — ${p.reason||''}`; break;
+    default:       msg = e.kind;
+  }
+  const div = document.createElement('div');
+  div.className = 'ev new';
+  div.dataset.kind = e.kind;   // count by KIND, not actor: the deterministic
+                               // screens emit evidence under their own names
+  div.innerHTML = `<span class="ts mono">${clock(e.ts)}</span>`
+                + `<span class="who ${e.actor}">${e.actor}</span>`
+                + `<span class="msg">${msg}</span>`;
+  feed.appendChild(div);
+  feed.scrollTop = feed.scrollHeight;
+
+  (p.entities||[]).forEach(x => ents.add(x));
+  if (e.kind === 'stop'){
+    $('dot').className = 'dot done'; $('statustxt').textContent = 'COMPLETE';
+    $('go').textContent = 'COMPLETE — 0 HUMAN INPUTS';
+  }
+}
+
+function applyToHypotheses(e){
+  const p = e.payload || {};
+  if (e.kind === 'hypothesis'){
+    const cur = hyps.get(p.id) || {};
+    hyps.set(p.id, {...cur, id:p.id, claim:p.claim, confidence:p.confidence});
+  }
+  if (e.kind === 'confidence_change'){
+    const h = hyps.get(p.id) || {id:p.id, claim:p.id};
+    h.prior = p.before; h.confidence = p.after;
+    h.refuted = p.survives === false;
+    h.blocked = !!p.unsupported_leap;
+    h.attack = p.attack || '';
+    hyps.set(p.id, h);
+  }
+}
+
+function renderHyps(){
+  const box = $('hyps');
+  if (!hyps.size){ box.innerHTML = '<div class="empty">No hypotheses yet.</div>'; return; }
+  /* blocked ranks ABOVE refuted: refusing to conclude is a result, not a discard */
+  const order = [...hyps.values()].sort((a,b)=>{
+    const rank = h => h.refuted ? 2 : h.blocked ? 1 : 0;
+    return rank(a)-rank(b) || (b.confidence||0)-(a.confidence||0);
+  });
+  const tal = {active:0, contested:0, blocked:0, refuted:0};
+  hyps.forEach(h => tal[stateOf(h)]++);
+  $('tally').innerHTML = Object.entries(tal).filter(([,n])=>n)
+    .map(([k,n])=>`<span style="color:${STATES[k].c}">${STATES[k].g}</span> `
+                 +`<span style="color:var(--text-secondary)">${n} ${STATES[k].t}</span>`)
+    .join('<span style="color:var(--text-muted)"> · </span>');
+  box.innerHTML = order.map(h=>{
+    const st = STATES[stateOf(h)];
+    const pct = Math.round((h.confidence||0)*100);
+    const dim = (h.refuted || h.blocked) ? 'opacity:.62;' : '';
+    return `<div class="hyp" style="${dim}">
+      <div class="claim">${h.claim||''}</div>
+      <div class="row">
+        <span class="tag"><span class="g" style="color:${st.c}">${st.g}</span>${st.t}</span>
+        <div class="track"><div class="fill" style="width:${pct}%;background:${st.c}"></div></div>
+        <span class="pct">${pct}%</span>
+      </div>
+      ${h.prior!=null && Math.round(h.prior*100)!==pct
+        ? `<div class="was mono">was ${Math.round(h.prior*100)}% → now ${pct}%</div>`:''}
+      ${h.attack ? `<div class="attack"><span class="lbl">SKEPTIC</span>${h.attack}</div>`:''}
+    </div>`;
+  }).join('');
+}
+
+function counts(){
+  $('k-ev').textContent  = document.querySelectorAll('.ev[data-kind="evidence"]').length;
+  $('k-ent').textContent = ents.size;
+  $('k-hyp').textContent = hyps.size;
+}
+
+const es = new EventSource('/api/events');
+es.onmessage = m => {
+  const e = JSON.parse(m.data);
+  addEvent(e); applyToHypotheses(e); renderHyps(); counts();
+};
+
+setInterval(async () => {
+  try{
+    const s = await (await fetch('/api/state')).json();
+    if (s.counts && s.counts.open_leads != null) $('k-leads').textContent = s.counts.open_leads;
+  }catch(_){}
+}, 1200);
+
+$('go').onclick = async () => {
+  if (started) return;
+  started = true;
+  $('go').disabled = true; $('go').textContent = 'RUNNING — NO FURTHER INPUT';
+  $('dot').className = 'dot live'; $('statustxt').textContent = 'AUTONOMOUS';
+  await fetch('/api/start', {method:'POST'});
+};
+</script>
+</body>
+</html>

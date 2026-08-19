@@ -1,0 +1,11823 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224010353/form10-q.htm
+FORM: 10-Q
+FILED: 2024-03-18
+COMPANY: Netcapital Inc.
+
+false
+
+Q3
+
+--04-30
+
+0001414767
+
+0001414767
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:CommonStockParValue0.001PerShareMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:RedeemableWarrantsMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+2024-03-18
+
+0001414767
+
+2024-01-31
+
+0001414767
+
+2023-04-30
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2024-01-31
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2023-04-30
+
+0001414767
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-04-30
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-04-30
+
+0001414767
+
+2022-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-07-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-07-31
+
+0001414767
+
+2022-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-10-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-10-31
+
+0001414767
+
+2022-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-01-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-01-31
+
+0001414767
+
+2023-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-07-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-07-31
+
+0001414767
+
+2023-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-10-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-10-31
+
+0001414767
+
+2023-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-05-01
+
+2022-07-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-05-01
+
+2022-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-05-01
+
+2022-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-05-01
+
+2022-07-31
+
+0001414767
+
+2022-05-01
+
+2022-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-08-01
+
+2022-10-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-08-01
+
+2022-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-08-01
+
+2022-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-08-01
+
+2022-10-31
+
+0001414767
+
+2022-08-01
+
+2022-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-02-01
+
+2023-04-30
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-02-01
+
+2023-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-02-01
+
+2023-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-02-01
+
+2023-04-30
+
+0001414767
+
+2023-02-01
+
+2023-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-05-01
+
+2023-07-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-05-01
+
+2023-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-05-01
+
+2023-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-05-01
+
+2023-07-31
+
+0001414767
+
+2023-05-01
+
+2023-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-08-01
+
+2023-10-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-08-01
+
+2023-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-08-01
+
+2023-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-08-01
+
+2023-10-31
+
+0001414767
+
+2023-08-01
+
+2023-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2024-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2024-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:OneCustomerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:OneCustomerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:TwoCustomerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:TwoCustomerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:ThirdCustomerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:ThirdCustomerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:OneCustomerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:OneCustomerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:TwoCustomerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:TwoCustomerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:ThirdCustomerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:ThirdCustomerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:FourCustomerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:CustomerConcentrationRiskMember
+
+us-gaap:SalesRevenueNetMember
+
+NCPL:FourCustomerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ConsultingServicesMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ConsultingServicesMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ConsultingServicesMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ConsultingServicesMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:FeesFromOnlineServicesMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:FeesFromOnlineServicesMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:FeesFromOnlineServicesMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:FeesFromOnlineServicesMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:SecuredDebtMember
+
+2024-01-31
+
+0001414767
+
+us-gaap:SecuredDebtMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NotesPayableRelatedPartiesMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NotesPayableRelatedPartiesMember
+
+2023-04-30
+
+0001414767
+
+NCPL:USSBALoanMember
+
+2024-01-31
+
+0001414767
+
+NCPL:USSBALoanMember
+
+2023-04-30
+
+0001414767
+
+NCPL:USSBALoanOneMember
+
+2024-01-31
+
+0001414767
+
+NCPL:USSBALoanOneMember
+
+2023-04-30
+
+0001414767
+
+NCPL:LoansPayableBankMember
+
+2024-01-31
+
+0001414767
+
+NCPL:LoansPayableBankMember
+
+2023-04-30
+
+0001414767
+
+NCPL:JuneLoanMember
+
+2020-06-17
+
+0001414767
+
+NCPL:FebruaryLoanMember
+
+2021-02-02
+
+0001414767
+
+NCPL:JuneLoanMember
+
+2021-06-17
+
+2021-06-17
+
+0001414767
+
+NCPL:JuneLoanMember
+
+2021-06-17
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2022-06-30
+
+2022-06-30
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2024-01-01
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2022-05-01
+
+2023-04-30
+
+0001414767
+
+srt:OfficerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+srt:OfficerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+srt:OfficerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+srt:OfficerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:SixaAviationAlaskaConsortiumIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:SixaAviationAlaskaConsortiumIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:StevenGearyMember
+
+2024-01-31
+
+0001414767
+
+NCPL:StevenGearyMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NetcapitalFundingPortalIncMember
+
+2024-01-31
+
+0001414767
+
+2023-01-01
+
+2023-01-31
+
+0001414767
+
+NCPL:MartinKayMember
+
+2023-01-01
+
+2023-01-31
+
+0001414767
+
+NCPL:CoreenKrayslerMember
+
+2023-01-01
+
+2023-01-31
+
+0001414767
+
+NCPL:JasonFrishmanMember
+
+2023-01-31
+
+2023-01-31
+
+0001414767
+
+NCPL:PaulRissMember
+
+2023-01-01
+
+2023-01-31
+
+0001414767
+
+srt:BoardOfDirectorsChairmanMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+NCPL:CeciliaLenkMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+NCPL:AviLissMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+NCPL:StevenGearyMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+NCPL:ArnoldScottMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+srt:BoardOfDirectorsChairmanMember
+
+2023-04-25
+
+0001414767
+
+NCPL:UsSmallBusinessAdministrationMember
+
+2022-12-17
+
+2022-12-17
+
+0001414767
+
+NCPL:UsSmallBusinessAdministrationMember
+
+2022-12-17
+
+0001414767
+
+us-gaap:RelatedPartyMember
+
+2022-07-31
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:WarrantMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:IPOMember
+
+2022-07-15
+
+0001414767
+
+us-gaap:IPOMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+2022-07-15
+
+0001414767
+
+us-gaap:CommonStockMember
+
+us-gaap:OverAllotmentOptionMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:WarrantMember
+
+us-gaap:OverAllotmentOptionMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:WarrantMember
+
+us-gaap:OverAllotmentOptionMember
+
+NCPL:UnderwriterMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:WarrantMember
+
+us-gaap:OverAllotmentOptionMember
+
+NCPL:UnderwriterMember
+
+NCPL:TwentyIndividualRepresentativesMember
+
+2022-07-15
+
+2022-07-15
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+2022-12-16
+
+2022-12-16
+
+0001414767
+
+us-gaap:IPOMember
+
+2022-12-16
+
+0001414767
+
+us-gaap:CommonStockMember
+
+us-gaap:OverAllotmentOptionMember
+
+2022-12-16
+
+2022-12-16
+
+0001414767
+
+us-gaap:OverAllotmentOptionMember
+
+2022-12-16
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:WarrantMember
+
+2022-12-16
+
+2022-12-16
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:WarrantMember
+
+2022-12-16
+
+0001414767
+
+us-gaap:OverAllotmentOptionMember
+
+us-gaap:CommonStockMember
+
+2023-01-05
+
+2023-01-05
+
+0001414767
+
+us-gaap:OverAllotmentOptionMember
+
+2023-01-05
+
+2023-01-05
+
+0001414767
+
+us-gaap:WarrantMember
+
+us-gaap:OverAllotmentOptionMember
+
+NCPL:UnderwriterMember
+
+2023-01-05
+
+2023-01-05
+
+0001414767
+
+us-gaap:WarrantMember
+
+us-gaap:OverAllotmentOptionMember
+
+NCPL:UnderwriterMember
+
+2023-01-05
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+2022-05-01
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2022-05-01
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+us-gaap:InvestorMember
+
+2022-05-01
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+us-gaap:InvestorMember
+
+NCPL:AcquisitionAgreementMember
+
+2022-05-01
+
+2023-04-30
+
+0001414767
+
+NCPL:TwentyTwentyThreeOmnibusEquityIncentivePlanMember
+
+2023-01-05
+
+2023-01-05
+
+0001414767
+
+NCPL:TwentyTwentyThreeOmnibusEquityIncentivePlanMember
+
+2023-01-05
+
+0001414767
+
+NCPL:TwentyTwentyThreeOmnibusEquityIncentivePlanMember
+
+NCPL:EmployeesConsultantsAndDirectorsMember
+
+2023-04-25
+
+2023-04-25
+
+0001414767
+
+NCPL:ConsultingAgreementMember
+
+2023-05-01
+
+2023-05-31
+
+0001414767
+
+NCPL:SecuritiesPurchaseAgreementMember
+
+2023-05-23
+
+2023-05-23
+
+0001414767
+
+NCPL:SecuritiesPurchaseAgreementMember
+
+2023-05-23
+
+0001414767
+
+NCPL:SecuritiesPurchaseAgreementMember
+
+2022-05-23
+
+2022-05-23
+
+0001414767
+
+us-gaap:WarrantMember
+
+NCPL:PlacementAgencyAgreementMember
+
+2023-05-23
+
+2023-05-23
+
+0001414767
+
+us-gaap:WarrantMember
+
+NCPL:PlacementAgencyAgreementMember
+
+2023-05-23
+
+0001414767
+
+2023-07-31
+
+2023-07-31
+
+0001414767
+
+us-gaap:IPOMember
+
+2023-07-24
+
+2023-07-24
+
+0001414767
+
+us-gaap:IPOMember
+
+2023-07-24
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:WarrantMember
+
+2023-07-24
+
+2023-07-24
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:WarrantMember
+
+2023-07-24
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-07-31
+
+2023-07-31
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-10-26
+
+2023-10-26
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-07-31
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-10-26
+
+0001414767
+
+NCPL:MSGDevelopmentCorpMember
+
+2023-10-26
+
+2023-10-26
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-10-26
+
+2023-10-26
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-10-25
+
+0001414767
+
+NCPL:ShareToBeIssuedMember
+
+2023-10-26
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+2023-12-27
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+NCPL:PrefundedWarrantMember
+
+2023-12-27
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+NCPL:SeriesA1WarrantsMember
+
+2023-12-27
+
+0001414767
+
+us-gaap:IPOMember
+
+us-gaap:CommonStockMember
+
+NCPL:SeriesA2WarrantsMember
+
+2023-12-27
+
+0001414767
+
+us-gaap:IPOMember
+
+NCPL:PrefundedWarrantMember
+
+NCPL:SeriesA1WarrantsMember
+
+2023-12-27
+
+0001414767
+
+us-gaap:IPOMember
+
+NCPL:PrefundedWarrantMember
+
+NCPL:SeriesA2WarrantsMember
+
+2023-12-27
+
+0001414767
+
+NCPL:SeriesA1WarrantsMember
+
+2023-12-27
+
+0001414767
+
+NCPL:SeriesA2WarrantsMember
+
+2023-12-27
+
+0001414767
+
+2023-12-27
+
+2023-12-27
+
+0001414767
+
+NCPL:PlacementAgentWarrantsMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:PlacementAgentWarrantsMember
+
+2024-01-31
+
+0001414767
+
+NCPL:PrefundedWarrantMember
+
+2024-01-19
+
+0001414767
+
+NCPL:PrefundedWarrantMember
+
+2024-01-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ChiefExecutiveOfficerAdvisorsMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ChiefExecutiveOfficerAdvisorsMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:ChiefExecutiveOfficerAdvisorsMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:ChiefExecutiveOfficerAdvisorsMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:FounderMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:FounderMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:FounderMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:FounderMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:EmployeeAndConsultantOptionsMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:EmployeeAndConsultantOptionsMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:EmployeeAndConsultantOptionsMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:EmployeeAndConsultantOptionsMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2022-11-01
+
+2023-01-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2022-05-01
+
+2023-01-31
+
+0001414767
+
+NCPL:AcquiredUsersMember
+
+2024-01-31
+
+0001414767
+
+NCPL:AcquiredUsersMember
+
+2023-04-30
+
+0001414767
+
+NCPL:AcquiredBrandMember
+
+2024-01-31
+
+0001414767
+
+NCPL:AcquiredBrandMember
+
+2023-04-30
+
+0001414767
+
+NCPL:AcquiredIntellectualPropertyAndWebsiteMember
+
+2024-01-31
+
+0001414767
+
+NCPL:AcquiredIntellectualPropertyAndWebsiteMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ProfessionalPracticeMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ProfessionalPracticeMember
+
+2023-04-30
+
+0001414767
+
+NCPL:LiteraryWorksAndContractsMember
+
+2024-01-31
+
+0001414767
+
+NCPL:LiteraryWorksAndContractsMember
+
+2023-04-30
+
+0001414767
+
+NCPL:AvadainIncMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:AverroesSoftwareLLCMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:NeuraMetrixINCMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:RecruitingAnalyticsINCMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:HarvestTodayLLCMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:VideoXRMIncMember
+
+2022-01-01
+
+2022-12-31
+
+0001414767
+
+NCPL:RealWorldLLCMember
+
+2023-05-01
+
+2023-05-31
+
+0001414767
+
+NCPL:RealWorldLLCMember
+
+2023-05-31
+
+0001414767
+
+NCPL:RealWorldLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:HeadFarmLLCMember
+
+2023-04-01
+
+2023-04-30
+
+0001414767
+
+NCPL:HeadFarmLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:HeadFarmLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CupCrewLLCMember
+
+2023-04-01
+
+2023-04-30
+
+0001414767
+
+NCPL:CupCrewLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CupCrewLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CountSharpLLCMember
+
+2023-04-01
+
+2023-04-30
+
+0001414767
+
+NCPL:CountSharpLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CountSharpLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2023-01-01
+
+2023-01-31
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2023-01-31
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2022-08-01
+
+2022-08-31
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2022-08-31
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2023-05-01
+
+2023-05-31
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2023-05-31
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CustCorpMember
+
+2022-04-01
+
+2022-04-30
+
+0001414767
+
+NCPL:CustCorpMember
+
+2022-04-30
+
+0001414767
+
+NCPL:CustCorpMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CustCorpMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CustCorpMember
+
+2024-01-30
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2022-01-01
+
+2022-01-31
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2022-01-31
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2022-01-01
+
+2022-01-31
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2022-01-31
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2022-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2021-05-01
+
+2022-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+NCPL:PurchaseAgreementMember
+
+2021-05-01
+
+2022-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CeasarMediaGroupIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2020-05-01
+
+2020-05-31
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2020-07-01
+
+2020-07-31
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2020-05-31
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2020-05-01
+
+2020-05-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2020-05-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2023-10-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2020-05-01
+
+2020-05-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2020-05-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2020-01-01
+
+2020-01-02
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2020-01-02
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2023-10-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2019-08-01
+
+2019-08-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2019-08-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2020-12-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2020-12-01
+
+2020-12-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2022-06-01
+
+2022-06-30
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2022-07-21
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2024-03-01
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2023-11-01
+
+2024-01-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2023-05-01
+
+2024-01-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:KingsCrowdLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2018-05-01
+
+2019-04-30
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2019-05-01
+
+2020-04-30
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2020-04-30
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:VymedicIncMember
+
+NCPL:ConsultingAgreementMember
+
+2020-07-01
+
+2020-07-31
+
+0001414767
+
+NCPL:VymedicIncMember
+
+NCPL:ConsultingAgreementMember
+
+2024-01-31
+
+0001414767
+
+NCPL:VymedicIncMember
+
+NCPL:ConsultingAgreementMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+NCPL:ConsultingAgreementMember
+
+2020-08-01
+
+2020-08-31
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+2020-08-01
+
+2020-08-31
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+NCPL:ConsultingAgreementMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+NCPL:ConsultingAgreementMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:MustWatchLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:MustWatchLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ZelgorIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:VymedicIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:VymedicIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CRevealTherapeuticsLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:HiveskillLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ScanHashLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CaesarMediaGroupIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CustCorpMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CustCorpMember
+
+2023-04-30
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:ReperLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:DarkLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NetWireLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CountSharpLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CountSharpLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:CupCrewLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:CupCrewLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:HeadFarmLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:HeadFarmLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:RealWorldLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:RealWorldLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:AvadainIncMember
+
+2024-01-31
+
+0001414767
+
+NCPL:AvadainIncMember
+
+2023-04-30
+
+0001414767
+
+NCPL:AverroesSoftwareLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:AverroesSoftwareLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:NeuraMetrixINCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:NeuraMetrixINCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:RecruitingAnalyticsINCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:RecruitingAnalyticsINCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:HarvestTodayLLCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:HarvestTodayLLCMember
+
+2023-04-30
+
+0001414767
+
+NCPL:VideoXRMnINCMember
+
+2024-01-31
+
+0001414767
+
+NCPL:VideoXRMnINCMember
+
+2023-04-30
+
+0001414767
+
+us-gaap:SubsequentEventMember
+
+2024-02-20
+
+0001414767
+
+us-gaap:SubsequentEventMember
+
+2024-02-20
+
+2024-02-20
+
+0001414767
+
+us-gaap:SubsequentEventMember
+
+2024-03-08
+
+0001414767
+
+us-gaap:SubsequentEventMember
+
+2024-03-08
+
+2024-03-08
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+xbrli:pure
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+Washington,
+D.C. 20549
+
+ 
+
+FORM
+
+10-Q
+
+ 
+
+☒
+ 
+QUARTERLY
+REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For
+the quarterly period ended
+: 
+January 31, 
+2024
+
+ 
+
+OR
+
+ 
+
+☐
+ 
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Commission
+file number: 
+001-41443
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in its charter)
+
+ 
+
+Utah
+
+ 
+
+87-0409951
+
+(State or other jurisdiction
+ 
+
+ of incorporation or organization)
+
+ 
+
+(I.R.S. Employer 
+
+ Identification No.)
+
+ 
+
+1
+Lincoln Street
+
+Boston
+
+MA
+ 
+02111
+
+(Address
+of principal executive offices)
+
+ 
+
+(781)
+
+925-1700
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ Symbol(s)
+
+ 
+
+Name
+ of exchange on which registered
+
+Common
+ Stock, par value $0.001 per share
+
+ 
+
+NCPL
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+Redeemable
+ warrants exercisable for one share of Common Stock at an exercise price of $5.19
+
+ 
+
+NCPLW
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+ 
+
+Indicate
+by check whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days.
+
+Yes
+ ☒ No ☐
+
+ 
+
+Indicate
+by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data
+File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding
+12 months (or for such shorter period that the registrant was required to submit and post such files). 
+Yes
+ ☒ No ☐
+
+ 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company.
+
+ 
+
+Large
+ accelerated filer ☐
+
+Accelerated
+ filer ☐
+
+Non-accelerated
+ filer
+ ☒
+
+Smaller
+ reporting company 
+☒
+
+ 
+
+ 
+
+ 
+
+Emerging
+ growth company 
+☐
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ 
+No
+ ☒
+
+ 
+
+As
+of March 18, 2024 the registrant had 
+20,011,132
+ shares of its common stock, par value $0.001 per share, issued and outstanding.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE
+OF CONTENTS
+
+ 
+
+ 
+
+Page
+ 
+
+PART
+ I—FINANCIAL INFORMATION
+
+ 
+
+ 
+
+ 
+
+Item 1. Financial Statements.
+
+5
+
+Condensed Consolidated Balance Sheets as of January 31, 2024 (unaudited) and April 30, 2023
+
+5
+
+Condensed Consolidated Statements of Operations for the three and nine months ended January 31, 2024 and 2023 (unaudited)
+
+6
+
+Condensed Consolidated Statements of Changes in Stockholders’ Equity for the nine months ended January 31, 2024 and the year ended April 30, 2023 (unaudited)
+
+7
+
+Condensed Consolidated Statements of Cash Flows for the nine months ended January 31, 2024 and 2023 (unaudited)
+
+8
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+9
+
+ 
+
+ 
+
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+23
+
+ 
+
+ 
+
+Item 3. Quantitative and Qualitative disclosures about Market Risk.
+
+29
+
+ 
+
+ 
+
+Item 4. Controls and Procedures.
+
+29
+
+ 
+
+ 
+
+PART
+ II—OTHER INFORMATION
+
+ 
+
+ 
+
+ 
+
+Item 1. Legal Proceedings.
+
+30
+
+ 
+
+ 
+
+Item1A. Risk Factors.
+
+30
+
+ 
+
+ 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+31
+
+ 
+
+ 
+
+Item 3. Defaults Upon Senior Securities.
+
+31
+
+ 
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+32
+
+ 
+
+ 
+
+Item 5. Other Information.
+
+32
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+32
+
+ 
+
+ 
+
+Signatures.
+
+33
+
+ 
+
+ 
+-
+2
+-
+ 
+
+ 
+
+ 
+
+CAUTIONARY
+NOTE REGARDING FORWARD-LOOKING STATEMENTS AND INDUSTRY DATA
+
+ 
+
+This
+Quarterly Report on Form 10-Q contains forward-looking statements which are made pursuant to the safe harbor provisions of Section 27A
+of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934,
+as amended (the “Exchange Act”). These statements may be identified by such forward-looking terminology as “may,”
+“should,” “expects,” “intends,” “plans,” “anticipates,” “believes,”
+“estimates,” “predicts,” “potential,” “continue” or the negative of these terms or other
+comparable terminology. Our forward-looking statements are based on a series of expectations, assumptions, estimates and projections
+about our company, are not guarantees of future results or performance and involve substantial risks and uncertainty. We may not actually
+achieve the plans, intentions or expectations disclosed in these forward-looking statements. Actual results or events could differ materially
+from the plans, intentions and expectations disclosed in these forward-looking statements. Our business and our forward-looking statements
+involve substantial known and unknown risks and uncertainties, including the risks and uncertainties inherent in our statements regarding:
+
+ 
+
+●
+
+capital
+ requirements and the availability of capital to fund our growth and to service our existing debt;
+
+ 
+
+ 
+
+●
+
+difficulties
+ executing our growth strategy, including attracting new issuers and investors;
+
+ 
+
+ 
+
+●
+
+our
+ anticipated use of the net proceeds from our recent public offering;
+
+ 
+
+ 
+
+●
+
+economic
+ uncertainties and business interruptions resulting from the coronavirus COVID-19 global pandemic and its aftermath;
+
+ 
+
+ 
+
+●
+
+as
+ restrictions related to the coronavirus COVID-19 global pandemic are removed and face-to-face economic activities normalize, it may
+ be difficult for us to maintain the recent sales gains that we have experienced; 
+
+ 
+
+ 
+
+●
+
+ 
+
+all
+ the risks of acquiring one or more complementary businesses, including identifying a suitable target, completing comprehensive due
+ diligence uncovering all information relating to the target, the financial stability of the target, the impact on our financial condition
+ of the debt we may incur in acquiring the target, the ability to integrate the target’s operations with our existing operations,
+ our ability to retain management and key employees of the target, among other factors attendant to acquisitions of small, non-public
+ operating companies;
+
+ 
+
+ 
+
+●
+
+difficulties
+ in increasing revenue per issuer;
+
+ 
+
+ 
+
+●
+
+challenges
+ related to hiring and training fintech employees at competitive wage rates;
+
+ 
+
+ 
+
+●
+
+difficulties
+ in increasing the average number of investments made per investor;
+
+ 
+
+ 
+
+●
+
+shortages
+ or interruptions in the supply of quality issuers;
+
+ 
+
+ 
+
+●
+
+our
+ dependence on a small number of large issuers to generate revenue;
+
+ 
+
+ 
+
+●
+
+negative
+ publicity relating to any one of our issuers;
+
+ 
+
+ 
+
+●
+
+competition
+ from other online capital portals with significantly greater resources than we have;
+
+ 
+
+ 
+
+●
+
+changes
+ in investor tastes and purchasing trends;
+
+ 
+
+ 
+
+●
+
+our
+ inability to manage our growth;
+
+ 
+
+ 
+
+●
+
+our
+ inability to maintain an adequate level of cash flow, or access to capital, to meet growth expectations;
+
+ 
+
+ 
+
+●
+
+changes
+ in senior management, loss of one or more key personnel or an inability to attract, hire, integrate and retain skilled personnel;
+
+ 
+
+ 
+-
+3
+-
+ 
+
+ 
+
+ 
+
+●
+
+labor
+ shortages, unionization activities, labor disputes or increased labor costs, including increased labor costs resulting from the demand
+ for qualified employees;
+
+ 
+
+ 
+
+●
+
+our
+ vulnerability to increased costs of running an online portal with any cloud partner;
+
+ 
+
+ 
+
+●
+
+our
+ vulnerability to increasing labor costs;
+
+ 
+
+ 
+
+●
+
+the
+ impact of governmental laws and regulation;
+
+ 
+
+ 
+
+●
+
+failure
+ to obtain or maintain required licenses;
+
+ 
+
+ 
+
+●
+
+changes
+ in economic or regulatory conditions and other unforeseen conditions that prevent or delay the development of a secondary trading
+ market for shares of equity that are sold on our online portal; and
+
+ 
+
+ 
+
+●
+
+inadequately
+ protecting our intellectual property or breaches of security of confidential user information.
+
+ 
+
+You
+are cautioned that all forward-looking statements involve risks and uncertainties. We undertake no obligation to amend this Form 10-Q
+or our annual report on Form 10-K or revise publicly these forward-looking statements (other than pursuant to reporting obligations imposed
+on registrants pursuant to applicable federal securities laws) to reflect subsequent events or circumstances.
+
+ 
+
+All
+of our forward-looking statements are as of the date of this Quarterly Report on Form 10-Q only. In each case, actual results may differ
+materially from such forward-looking information. We can give no assurance that such expectations or forward-looking statements will
+prove to be correct. An occurrence of, or any material adverse change in, one or more of the risk factors or risks and uncertainties
+referred to in this Quarterly Report on Form 10-Q or included in our other public disclosures or our other periodic reports or other
+documents or filings filed with or furnished to the U.S. Securities and Exchange Commission (the “SEC”) could materially
+and adversely affect our business, prospects, financial condition and results of operations. Except as required by law, we do not undertake
+or plan to update or revise any such forward-looking statements to reflect actual results, changes in plans, assumptions, estimates or
+projections or other circumstances affecting such forward-looking statements occurring after the date of this Quarterly Report on Form
+10-Q, even if such results, changes or circumstances make it clear that any forward-looking information will not be realized. Any public
+statements or disclosures by us following this Quarterly Report on Form 10-Q that modify or impact any of the forward-looking statements
+contained in this Quarterly Report on Form 10-Q will be deemed to modify or supersede such statements in this Quarterly Report on Form
+10-Q.
+
+ 
+
+This
+Quarterly Report on Form 10-Q may include market data and certain industry data and forecasts, which we may obtain from internal company
+surveys, market research, consultant surveys, publicly available information, reports of governmental agencies and industry publications,
+articles and surveys. Industry surveys, publications, consultant surveys and forecasts generally state that the information contained
+therein has been obtained from sources believed to be reliable, but the accuracy and completeness of such information is not guaranteed.
+While we believe that such studies and publications are reliable, we have not independently verified market and industry data from third-party
+sources.
+
+ 
+
+ 
+-
+4
+-
+ 
+
+ 
+
+ 
+
+PART
+I – FINANCIAL INFORMATION
+
+ 
+
+ITEM
+1. FINANCIAL STATEMENTS
+
+ 
+
+NETCAPITAL
+INC.
+
+CONDENSED
+CONSOLIDATED BALANCE SHEETS
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+January 31, 2024
+ (Unaudited)
+ 
+ 
+
+April 30, 2023
+ (Audited)
+ 
+
+Assets:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Cash and cash equivalents
+ 
+
+$
+2,172,099
+ 
+ 
+
+$
+569,441
+ 
+
+Accounts receivable net
+ 
+
+ 
+3,701,501
+ 
+ 
+
+ 
+1,388,500
+ 
+
+Note receivable
+ 
+
+ 
+20,000
+ 
+ 
+
+ 
+-
+ 
+
+Prepaid expenses
+ 
+
+ 
+158,465
+ 
+ 
+
+ 
+583,030
+ 
+
+Total current assets
+ 
+
+ 
+6,052,065
+ 
+ 
+
+ 
+2,540,971
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Deposits
+ 
+
+ 
+6,300
+ 
+ 
+
+ 
+6,300
+ 
+
+Notes receivable - related parties
+ 
+
+ 
+202,000
+ 
+ 
+
+ 
+202,000
+ 
+
+Purchased technology, net
+ 
+
+ 
+15,790,304
+ 
+ 
+
+ 
+15,875,297
+ 
+
+Investment in affiliate
+ 
+
+ 
+240,080
+ 
+ 
+
+ 
+240,080
+ 
+
+Equity securities
+ 
+
+ 
+21,844,698
+ 
+ 
+
+ 
+22,955,445
+ 
+
+Total assets
+ 
+
+$
+44,135,447
+ 
+ 
+
+$
+41,820,093
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Liabilities and Stockholders’ Equity
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Current liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts payable
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Trade
+ 
+
+$
+828,836
+ 
+ 
+
+$
+578,331
+ 
+
+Related party
+ 
+
+ 
+75,204
+ 
+ 
+
+ 
+75,204
+ 
+
+Accrued expenses
+ 
+
+ 
+394,911
+ 
+ 
+
+ 
+285,065
+ 
+
+Stock subscription payable
+ 
+
+ 
+10,000
+ 
+ 
+
+ 
+10,000
+ 
+
+Deferred revenue
+ 
+
+ 
+487
+ 
+ 
+
+ 
+661
+ 
+
+Interest payable
+ 
+
+ 
+88,084
+ 
+ 
+
+ 
+98,256
+ 
+
+Current taxes payable
+ 
+
+ 
+-
+ 
+ 
+
+ 
+174,000
+ 
+
+Deferred tax liability, net
+ 
+
+ 
+-
+ 
+ 
+
+ 
+1,657,000
+ 
+
+Related party debt
+ 
+
+ 
+15,000
+ 
+ 
+
+ 
+15,000
+ 
+
+Secured note payable
+ 
+
+ 
+-
+ 
+ 
+
+ 
+350,000
+ 
+
+Current portion of SBA loans
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1,885,800
+ 
+
+Loan payable - bank
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+34,324
+ 
+
+Total current liabilities
+ 
+
+ 
+3,332,646
+ 
+ 
+
+ 
+5,163,641
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Long-term liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Long-term SBA loans, less current portion
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+500,000
+ 
+
+Total liabilities
+ 
+
+ 
+3,832,646
+ 
+ 
+
+ 
+5,663,641
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Commitments and contingencies
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stockholders’ equity:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Common stock, $
+.001
+ par value; 
+900,000,000
+ shares authorized, 
+17,231,132
+ and 
+6,440,527
+ shares issued and outstanding
+ 
+
+ 
+17,231
+ 
+ 
+
+ 
+6,441
+ 
+
+Shares to be issued
+ 
+
+ 
+122,124
+ 
+ 
+
+ 
+183,187
+ 
+
+Capital in excess of par value
+ 
+
+ 
+37,077,147
+ 
+ 
+
+ 
+30,500,944
+ 
+
+Retained earnings
+ 
+
+ 
+3,086,299
+ 
+ 
+
+ 
+5,465,880
+ 
+
+Total stockholders’ equity
+ 
+
+ 
+40,302,801
+ 
+ 
+
+ 
+36,156,452
+ 
+
+Total liabilities and stockholders’ equity
+ 
+
+$
+44,135,447
+ 
+ 
+
+$
+41,820,093
+ 
+
+ 
+
+See
+Accompanying Notes to the Condensed Consolidated Financial Statements
+
+ 
+
+ 
+-
+5
+-
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+INC.
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF OPERATIONS
+
+(UNAUDITED)
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Three Months 
+Ended
+ 
+ 
+
+Three Months 
+Ended
+ 
+ 
+
+Nine Months 
+Ended
+ 
+ 
+
+Nine Months 
+Ended
+ 
+
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+January 31, 2023
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+January 31, 2023
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Revenues
+ 
+
+$
+1,042,793
+ 
+ 
+
+$
+2,260,414
+ 
+ 
+
+$
+4,604,260
+ 
+ 
+
+$
+5,379,960
+ 
+
+Costs of services
+ 
+
+ 
+58,875
+ 
+ 
+
+ 
+4,305
+ 
+ 
+
+ 
+97,062
+ 
+ 
+
+ 
+61,603
+ 
+
+Gross profit
+ 
+
+ 
+983,918
+ 
+ 
+
+ 
+2,256,109
+ 
+ 
+
+ 
+4,507,198
+ 
+ 
+
+ 
+5,318,357
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Costs and expenses:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Consulting expense
+ 
+
+ 
+175,357
+ 
+ 
+
+ 
+130,500
+ 
+ 
+
+ 
+544,033
+ 
+ 
+
+ 
+455,892
+ 
+
+Marketing
+ 
+
+ 
+32,198
+ 
+ 
+
+ 
+23,549
+ 
+ 
+
+ 
+320,817
+ 
+ 
+
+ 
+64,211
+ 
+
+Rent
+ 
+
+ 
+19,544
+ 
+ 
+
+ 
+17,187
+ 
+ 
+
+ 
+57,533
+ 
+ 
+
+ 
+51,586
+ 
+
+Payroll and payroll related expenses
+ 
+
+ 
+869,517
+ 
+ 
+
+ 
+946,043
+ 
+ 
+
+ 
+2,957,394
+ 
+ 
+
+ 
+2,592,891
+ 
+
+General and administrative costs
+ 
+
+ 
+1,092,459
+ 
+ 
+
+ 
+568,253
+ 
+ 
+
+ 
+2,529,378
+ 
+ 
+
+ 
+1,241,365
+ 
+
+Total costs and expenses
+ 
+
+ 
+2,189,075
+ 
+ 
+
+ 
+1,685,532
+ 
+ 
+
+ 
+6,409,155
+ 
+ 
+
+ 
+4,405,945
+ 
+
+Operating income (loss)
+ 
+
+ 
+(
+1,205,157
+)
+ 
+
+ 
+570,577
+ 
+ 
+
+ 
+(
+1,901,957
+)
+ 
+
+ 
+912,412
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Other income (expense):
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Interest expense
+ 
+
+ 
+(
+11,918
+)
+ 
+
+ 
+(
+17,632
+)
+ 
+
+ 
+(
+35,784
+)
+ 
+
+ 
+(
+76,922
+)
+
+Gain on debt conversion
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+224,260
+ 
+
+Amortization of intangible assets
+ 
+
+ 
+(
+28,331
+)
+ 
+
+ 
+(
+25,914
+)
+ 
+
+ 
+(
+84,993
+)
+ 
+
+ 
+(
+68,076
+)
+
+Unrealized gain (loss) on equity securities
+ 
+
+ 
+(
+2,696,135
+)
+ 
+
+ 
+1,866,468
+ 
+ 
+
+ 
+(
+2,696,135
+)
+ 
+
+ 
+1,857,500
+ 
+
+Realized loss on sale of investment
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+406,060
+)
+
+Total other income (expense)
+ 
+
+ 
+(
+2,736,384
+)
+ 
+
+ 
+1,822,922
+ 
+ 
+
+ 
+(
+2,816,912
+)
+ 
+
+ 
+1,530,702
+ 
+
+Net income (loss) before taxes
+ 
+
+ 
+(
+3,941,541
+)
+ 
+
+ 
+2,393,499
+ 
+ 
+
+ 
+(
+4,718,869
+)
+ 
+
+ 
+2,443,114
+ 
+
+Income tax expense (benefit)
+ 
+
+ 
+(
+1,713,999
+)
+ 
+
+ 
+697,000
+ 
+ 
+
+ 
+(
+2,339,288
+)
+ 
+
+ 
+499,000
+ 
+
+Net income (loss)
+ 
+
+$
+(
+2,227,542
+)
+ 
+
+$
+1,696,499
+ 
+ 
+
+$
+(
+2,379,581
+)
+ 
+
+$
+1,944,114
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic earnings (loss) per share
+ 
+
+$
+(
+0.19
+)
+ 
+
+$
+0.33
+ 
+ 
+
+$
+(
+0.25
+)
+ 
+
+$
+0.46
+ 
+
+Diluted earnings (loss) per share
+ 
+
+$
+(
+0.19
+)
+ 
+
+$
+0.33
+ 
+ 
+
+$
+(
+0.25
+)
+ 
+
+$
+0.46
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average number of common shares outstanding:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic
+ 
+
+ 
+11,466,523
+ 
+ 
+
+ 
+5,166,299
+ 
+ 
+
+ 
+9,457,740
+ 
+ 
+
+ 
+4,208,216
+ 
+
+Diluted
+ 
+
+ 
+11,466,523
+ 
+ 
+
+ 
+5,166,549
+ 
+ 
+
+ 
+9,457,740
+ 
+ 
+
+ 
+4,208,466
+ 
+
+ 
+
+See
+Accompanying Notes to the Condensed Consolidated Financial Statements
+
+ 
+
+ 
+-
+6
+-
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+INC.
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS’ EQUITY
+
+(UNAUDITED)
+
+ 
+
+For
+the Nine Months Ended January 31, 2024 and the Year Ended April 30, 2023
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Common Stock
+ 
+ 
+
+Shares to
+ 
+ 
+
+Capital in 
+Excess of
+ 
+ 
+
+Retained 
+ 
+ 
+
+Total
+ 
+
+ 
+ 
+
+Shares
+ 
+ 
+
+Amount
+ 
+ 
+
+Be Issued
+ 
+ 
+
+Par Value
+ 
+ 
+
+Earnings
+ 
+ 
+
+Equity
+ 
+
+Balance, April 30, 2022
+ 
+
+ 
+2,934,344
+ 
+ 
+
+$
+2,934
+ 
+ 
+
+$
+244,250
+ 
+ 
+
+$
+22,479,769
+ 
+ 
+
+$
+2,510,908
+ 
+ 
+
+$
+25,237,861
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Shares issued for debt conversion
+ 
+
+ 
+133,333
+ 
+ 
+
+ 
+134
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+379,852
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+379,986
+ 
+
+Sale of common stock
+ 
+
+ 
+1,205,000
+ 
+ 
+
+ 
+1,205
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+3,947,912
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+3,949,117
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+32,953
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+32,953
+ 
+
+Net income for July 31, 2022 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+64,477
+ 
+ 
+
+ 
+64,477
+ 
+
+Balance, July 31, 2022
+ 
+
+ 
+4,272,677
+ 
+ 
+
+ 
+4,273
+ 
+ 
+
+ 
+244,250
+ 
+ 
+
+ 
+26,840,486
+ 
+ 
+
+ 
+2,575,385
+ 
+ 
+
+ 
+29,664,394
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Sale of common stock
+ 
+
+ 
+2,600
+ 
+ 
+
+ 
+3
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+23,397
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+23,400
+ 
+
+Purchase of equity interest
+ 
+
+ 
+37,500
+ 
+ 
+
+ 
+37
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+366,338
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+366,375
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+32,953
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+32,953
+ 
+
+Net income for Oct. 31, 2022 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+183,138
+ 
+ 
+
+ 
+183,138
+ 
+
+Balance October 31, 2022
+ 
+
+ 
+4,312,777
+ 
+ 
+
+ 
+4,313
+ 
+ 
+
+ 
+244,250
+ 
+ 
+
+ 
+27,263,174
+ 
+ 
+
+ 
+2,758,523
+ 
+ 
+
+ 
+30,270,260
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Sale of common stock
+ 
+
+ 
+1,434,000
+ 
+ 
+
+ 
+1,434
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+1,620,025
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+1,621,459
+ 
+
+Purchase of equity interest
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+19
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+171,105
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+171,124
+ 
+
+Purchase of intellectual property
+ 
+
+ 
+300,000
+ 
+ 
+
+ 
+300
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+434,700
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+435,000
+ 
+
+Reduction in shares to be issued
+ 
+
+ 
+6,250
+ 
+ 
+
+ 
+6
+ 
+ 
+
+ 
+(
+61,063
+)
+ 
+
+ 
+61,057
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+63,057
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+63,057
+ 
+
+Net income for Jan. 31, 2023 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+1,696,499
+ 
+ 
+
+ 
+1,696,499
+ 
+
+Balance January 31, 2023
+ 
+
+ 
+6,071,777
+ 
+ 
+
+ 
+6,072
+ 
+ 
+
+ 
+183,187
+ 
+ 
+
+ 
+29,613,118
+ 
+ 
+
+ 
+4,455,022
+ 
+ 
+
+ 
+34,257,399
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Purchase of equity interest
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+19
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+195,233
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+195,252
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+132,943
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+132,943
+ 
+
+Stock-based compensation
+ 
+
+ 
+350,000
+ 
+ 
+
+ 
+350
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+559,650
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+560,000
+ 
+
+Net income Q4
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+1,010,858
+ 
+ 
+
+ 
+1,010,858
+ 
+
+Balance April 30, 2023
+ 
+
+ 
+6,440,527
+ 
+ 
+
+ 
+6,441
+ 
+ 
+
+ 
+183,187
+ 
+ 
+
+ 
+30,500,944
+ 
+ 
+
+ 
+5,465,880
+ 
+ 
+
+ 
+36,156,452
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+
+Stock-based compensation
+ 
+
+ 
+100,000
+ 
+ 
+
+ 
+100
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+143,900
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+144,000
+ 
+
+Sale of common stock
+ 
+
+ 
+2,825,000
+ 
+ 
+
+ 
+2,825
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+2,272,375
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+2,275,200
+ 
+
+Purchase of equity interest
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+18
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+183,170
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+183,188
+ 
+
+Stock-based settlement
+ 
+
+ 
+49,855
+ 
+ 
+
+ 
+50
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+58,779
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+58,829
+ 
+
+Net loss July 31, 2023 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+491,655
+)
+ 
+
+ 
+(
+491,655
+)
+
+Balance July 31, 2023
+ 
+
+ 
+9,434,132
+ 
+ 
+
+ 
+9,434
+ 
+ 
+
+ 
+183,187
+ 
+ 
+
+ 
+33,298,539
+ 
+ 
+
+ 
+4,974,225
+ 
+ 
+
+ 
+38,465,385
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+
+Reduction in shares to be issued
+ 
+
+ 
+6,250
+ 
+ 
+
+ 
+6
+ 
+ 
+
+ 
+(
+61,063
+)
+ 
+
+ 
+61,057
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+
+Purchase of equity interest
+ 
+
+ 
+18,750
+ 
+ 
+
+ 
+19
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+183,170
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+183,189
+ 
+
+Net income October 31, 2023 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+339,616
+ 
+ 
+
+ 
+339,616
+ 
+
+Balance October 31, 2023
+ 
+
+ 
+9,459,132
+ 
+ 
+
+ 
+9,459
+ 
+ 
+
+ 
+122,124
+ 
+ 
+
+ 
+33,682,137
+ 
+ 
+
+ 
+5,313,841
+ 
+ 
+
+ 
+39,127,561
+ 
+
+Balance 
+ 
+
+ 
+9,459,132
+ 
+ 
+
+ 
+9,459
+ 
+ 
+
+ 
+122,124
+ 
+ 
+
+ 
+33,682,137
+ 
+ 
+
+ 
+5,313,841
+ 
+ 
+
+ 
+39,127,561
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Vesting of stock options
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+139,371
+ 
+
+Sale of common stock
+ 
+
+ 
+4,800,000
+ 
+ 
+
+ 
+4,800
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+3,255,639
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+3,260,439
+ 
+
+Warrant exercise
+ 
+
+ 
+2,972,000
+ 
+ 
+
+ 
+2,972
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+2,972
+ 
+
+Net loss January 31, 2024 quarter
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+2,227,542
+)
+ 
+
+ 
+(
+2,227,542
+)
+
+Net income (loss) 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+2,227,542
+)
+ 
+
+ 
+(
+2,227,542
+)
+
+Balance January 31, 2024
+ 
+
+ 
+17,231,132
+ 
+ 
+
+$
+17,231
+ 
+ 
+
+$
+122,124
+ 
+ 
+
+$
+37,077,147
+ 
+ 
+
+$
+3,086,299
+ 
+ 
+
+$
+40,302,801
+ 
+
+Balance 
+ 
+
+ 
+17,231,132
+ 
+ 
+
+$
+17,231
+ 
+ 
+
+$
+122,124
+ 
+ 
+
+$
+37,077,147
+ 
+ 
+
+$
+3,086,299
+ 
+ 
+
+$
+40,302,801
+ 
+
+ 
+
+See
+Accompanying Notes to the Condensed Consolidated Financial Statements
+
+ 
+
+ 
+-
+7
+-
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+INC.
+
+CONDENSED
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(UNAUDITED)
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Nine Months Ended
+ 
+ 
+
+Nine Months Ended
+ 
+
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+January 31, 2023
+ 
+
+OPERATING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net income (loss)
+ 
+
+$
+(
+2,379,581
+)
+ 
+
+$
+1,944,114
+ 
+
+Adjustment to reconcile net income (loss) to net cash used in operating activities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stock-based compensation
+ 
+
+ 
+1,044,395
+ 
+ 
+
+ 
+128,963
+ 
+
+Receipt of equity in lieu of cash
+ 
+
+ 
+(
+1,219,012
+)
+ 
+
+ 
+(
+4,600,000
+)
+
+Unrealized (gain) loss on equity securities
+ 
+
+ 
+2,696,135
+ 
+ 
+
+ 
+(
+1,857,500
+)
+
+Gain on debt conversion
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+224,260
+)
+
+Provision for bad debts
+ 
+
+ 
+6,000
+ 
+ 
+
+ 
+2,600
+ 
+
+Realized loss on investment
+ 
+
+ 
+-
+ 
+ 
+
+ 
+406,060
+ 
+
+Changes in deferred taxes
+ 
+
+ 
+(
+1,657,000
+)
+ 
+
+ 
+499,000
+ 
+
+Amortization of intangible assets
+ 
+
+ 
+84,993
+ 
+ 
+
+ 
+68,076
+ 
+
+Changes in non-cash working capital balances:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts receivable
+ 
+
+ 
+(
+2,319,001
+)
+ 
+
+ 
+267,369
+ 
+
+Prepaid expenses
+ 
+
+ 
+1,113
+ 
+ 
+
+ 
+(
+31,150
+)
+
+Accounts payable and accrued expenses
+ 
+
+ 
+360,351
+ 
+ 
+
+ 
+115,259
+ 
+
+Accounts payable - related party
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+8,819
+)
+
+Income taxes payable
+ 
+
+ 
+(
+174,000
+)
+ 
+
+ 
+-
+ 
+
+Deferred revenue
+ 
+
+ 
+(
+174
+)
+ 
+
+ 
+(
+1,814
+)
+
+Accrued interest payable
+ 
+
+ 
+(
+10,172
+)
+ 
+
+ 
+(
+122,612
+)
+
+Net cash used in operating activities
+ 
+
+ 
+(
+3,565,953
+)
+ 
+
+ 
+(
+3,414,714
+)
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+INVESTING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Note receivable
+ 
+
+ 
+(
+20,000
+)
+ 
+
+ 
+-
+ 
+
+Proceeds from sale of investment
+ 
+
+ 
+-
+ 
+ 
+
+ 
+200,000
+ 
+
+Net cash provided by (used in) investing activities
+ 
+
+ 
+(
+20,000
+)
+ 
+
+ 
+200,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+FINANCING ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Payment to secured lender
+ 
+
+ 
+(
+350,000
+)
+ 
+
+ 
+(
+1,050,000
+)
+
+Payment of related party note
+ 
+
+ 
+-
+ 
+ 
+
+ 
+(
+7,860
+)
+
+Proceeds from sale of common stock
+ 
+
+ 
+5,538,611
+ 
+ 
+
+ 
+5,570,576
+ 
+
+Net cash provided by financing activities
+ 
+
+ 
+5,188,611
+ 
+ 
+
+ 
+4,512,716
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net increase in cash
+ 
+
+ 
+1,602,658
+ 
+ 
+
+ 
+1,298,002
+ 
+
+Cash and cash equivalents, beginning of the period
+ 
+
+ 
+569,441
+ 
+ 
+
+ 
+473,925
+ 
+
+Cash and cash equivalents, end of the period
+ 
+
+$
+2,172,099
+ 
+ 
+
+$
+1,771,927
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental disclosure of cash flow information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Cash paid for taxes
+ 
+
+$
+-
+ 
+ 
+
+$
+-
+ 
+
+Cash paid for interest
+ 
+
+$
+34,710
+ 
+ 
+
+$
+2,077
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental Non-Cash Financing Information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Common stock issued to pay promissory notes
+ 
+
+$
+-
+ 
+ 
+
+$
+266,272
+ 
+
+Common stock issued to purchase 10% interest in Caesar Media Group Inc.
+ 
+
+$
+366,377
+ 
+ 
+
+$
+537,499
+ 
+
+Common stock issued to pay related party payable
+ 
+
+$
+-
+ 
+ 
+
+$
+113,714
+ 
+
+Common stock issued to purchase subsidiary
+ 
+
+$
+-
+ 
+ 
+
+$
+61,063
+ 
+
+Common stock issued to purchase intellectual property
+ 
+
+$
+-
+ 
+ 
+
+$
+435,000
+ 
+
+ 
+
+See
+Accompanying Notes to the Condensed Consolidated Financial Statements
+
+ 
+
+ 
+-
+8
+-
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+INC.
+
+NOTES
+TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+ 
+
+Note
+1– 
+Summary of Significant Accounting Policies
+
+ 
+
+Basis
+of Presentation
+
+ 
+
+The
+accompanying unaudited condensed financial statements of Netcapital Inc. (the “Company”) have been prepared in accordance
+with generally accepted accounting principles (“GAAP”) for interim financial information and in accordance with the rules
+and regulations of the U.S. Securities and Exchange Commission (“SEC”) for quarterly reports on Form 10-Q. Accordingly, they
+do not include all of the information and notes required by generally accepted accounting principles for complete financial statements.
+In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation
+have been included. Operating results for the three- and nine-month periods ended January 31, 2024, are not necessarily indicative of
+the results that may be expected for the fiscal year ended April 30, 2024. For further information, refer to the audited financial statements
+and accompanying notes included in our Annual Report on Form 10-K for the year ended April 30, 2023.
+
+ 
+
+Use
+of Estimates
+
+ 
+
+Preparation
+of condensed consolidated financial statements in conformity with GAAP requires the use of estimates and judgments that affect the reported
+amounts in the condensed consolidated financial statements and accompanying notes. GAAP requires us to make estimates and judgments in
+several areas, including, but not limited to, those related to revenue recognition, accounts receivable, valuation of equity securities,
+income taxes, and valuation of long-lived assets including intellectual property and purchased technology. These estimates are based
+on management’s knowledge of current events, interpretation of regulations, and expectations about actions we may undertake in
+the future. Actual results could differ materially from those estimates.
+
+ 
+
+Significant
+Accounting Policies
+
+ 
+
+There
+have been no material changes to our significant accounting policies from our Annual Report on Form 10-K for the fiscal year ended April
+30, 2023.
+
+ 
+
+The
+Company accounts for allowance for credit losses under the current expected credit loss (“CECL”) impairment model for its
+financial assets, including accounts receivable, and presents the net amount of the financial instrument expected to be collected. The
+CECL impairment model requires an estimate of expected credit losses, measured over the contractual life of an instrument, which considers
+forecasts of future economic conditions in addition to information about past events and current conditions. Based on this model, the
+Company estimates the amount of uncollectible accounts receivable at the end of each reporting period based on the aging of the receivable
+balance, current and historical customer trends, communications with its customers, and macro-economic conditions. Amounts are written
+off after considerable collection efforts have been made and the amounts are determined to be uncollectible.
+
+ 
+
+Management
+does not believe that any recently issued, but not yet effective, accounting standards could have a material effect on the accompanying
+financial statements. As new accounting pronouncements are issued, we will adopt those that are applicable under the circumstances.
+
+ 
+
+ 
+-
+9
+-
+ 
+
+ 
+
+ 
+
+Note
+2 – 
+Concentrations
+
+ 
+
+For
+the three and nine months ended January 31, 2024, the Company had one customer that constituted 
+78
+% and 
+27
+% of revenues, and a second
+customer that constituted 
+0
+% and 
+24
+% of revenues, and a third customer that constituted 
+0
+% and 
+24
+% of revenues, respectively. For the
+three and nine months ended January 31, 2023, the Company had one customer that constituted 
+0
+% and 
+39
+% of revenues, a second customer
+that constituted 
+35
+% and 
+15
+% of revenues, a third customer that constituted 
+35
+% and 
+15
+% of revenues, and a fourth customer that constituted
+
+17
+% and 
+7
+% of revenues, respectively.
+
+ 
+
+Note
+3 – 
+Revenue Recognition
+
+ 
+
+Revenue
+Recognition under ASC 606
+
+ 
+
+The
+Company recognizes service revenue from its consulting contracts, funding portal and game website using the five-step model as prescribed
+by ASC 606:
+
+ 
+
+●
+
+Identification
+ of the contract, or contracts, with a customer.
+
+ 
+
+ 
+
+●
+
+Identification
+ of the performance obligations in the contract.
+
+ 
+
+ 
+
+●
+
+Determination
+ of the transaction price.
+
+ 
+
+ 
+
+●
+
+Allocation
+ of the transaction price to the performance obligations in the contract; and
+
+ 
+
+ 
+
+●
+
+Recognition
+ of revenue when or as the Company satisfies a performance obligation.
+
+ 
+
+The
+Company identifies performance obligations in contracts with customers, which primarily are professional services, listing fees on our
+funding portal, and a portal fee of 
+4.9
+% of the money raised on the funding portal. The transaction price is determined based on the
+amount the Company expects to be entitled to receive in exchange for transferring the promised services to the customer. The transaction
+price in the contract is allocated to each distinct performance obligation in an amount that represents the relative amount of consideration
+expected to be received in exchange for satisfying each performance obligation. Revenue is recognized when performance obligations are
+satisfied. The Company usually bills its customers before it provides any services and begins performing services after the first payment
+is received. Contracts are typically one year or less. For larger contracts, in addition to the initial payment, the Company may allow
+for progress payments throughout the term of the contract.
+
+ 
+
+ 
+-
+10
+-
+ 
+
+ 
+
+ 
+
+Judgments
+and Estimates
+
+ 
+
+The
+estimation of variable consideration for each performance obligation requires the Company to make subjective judgments. The Company enters
+into contracts with customers that regularly include promises to transfer multiple services, such as digital marketing, web-based videos,
+offering statements, and professional services. For arrangements with multiple services, the Company evaluates whether the individual
+services qualify as distinct performance obligations. In its assessment of whether a service is a distinct performance obligation, the
+Company determines whether the customer can benefit from the service on its own or with other readily available resources, and whether
+the service is separately identifiable from other services in the contract. This evaluation requires the Company to assess the nature
+of each individual service offering and how the services are provided in the context of the contract, including whether the services
+are significantly integrated, highly interrelated, or significantly modify each other, which may require judgment based on the facts
+and circumstances of the contract.
+
+ 
+
+When
+agreements involve multiple distinct performance obligations, the Company allocates arrangement consideration to all performance obligations
+at the inception of an arrangement based on the relative standalone selling prices (SSP) of each performance obligation. Where the Company
+has standalone sales data for its performance obligations which are indicative of the price at which the Company sells a promised service
+separately to a customer, such data is used to establish SSP. In instances where standalone sales data is not available for a particular
+performance obligation, the Company estimates SSP by the use of observable market and cost-based inputs. The Company continues to review
+the factors used to establish list price and will adjust standalone selling price methodologies as necessary on a prospective basis.
+
+ 
+
+Service
+Revenue
+
+ 
+
+Service
+revenue from subscriptions to the Company’s game website is recognized over time on a ratable basis over the contractual subscription
+term beginning on the date that the platform is made available to the customer. Payments received in advance of subscription services
+being rendered are recorded as a deferred revenue. Professional services revenue is recognized over time as the services are rendered.
+
+ 
+
+When
+a contract with a customer is signed, the Company assesses whether collection of the fees under the arrangement is probable. The Company
+estimates the amount to reserve for uncollectible amounts based on the aging of the contract balance, current and historical customer
+trends, and communications with its customers. These reserves are recorded as operating expenses against the contract assets.
+
+ 
+
+Contract
+Assets
+
+ 
+
+Contract
+assets are recorded for those parts of the contract consideration not yet invoiced but for which the performance obligations are completed.
+The revenue is recognized when the customer receives services. Contract assets are included in other current assets in the consolidated
+balance sheets and will be recognized during the succeeding twelve-month period.
+
+ 
+
+Deferred
+Revenue
+
+ 
+
+Deferred
+revenues represent billings or payments received in advance of revenue recognition and are recognized upon transfer of control. Balances
+consist primarily of annual plan subscription services and professional services not yet provided as of the balance sheet date. Deferred
+revenues that will be recognized during the succeeding twelve-month period are recorded as current deferred revenues in the consolidated
+balance sheets, with the remainder recorded as other non-current liabilities in the consolidated balance sheets.
+
+ 
+
+ 
+-
+11
+-
+ 
+
+ 
+
+ 
+
+Costs
+to Obtain a Customer Contract
+
+ 
+
+Sales
+commissions and related expenses are considered incremental and recoverable costs of acquiring customer contracts. These costs are capitalized
+as other current or non-current assets and amortized on a straight-line basis over the life of the contract, which approximates the benefit
+period. The benefit period was estimated by taking into consideration the length of customer contracts, technology lifecycle, and other
+factors. All sales commissions are recorded as consulting fees within the Company’s consolidated statement of operations.
+
+ 
+
+Remaining
+Performance Obligations
+
+ 
+
+The
+Company’s subscription terms are typically less than one year. All of the Company’s revenues in the three and nine months
+ended January 31, 2024, which amounted to $
+1,042,793
+ and $
+4,604,260
+, respectively, are considered contract revenues. Contract revenue
+as of January 31, 2024 and April 30, 2023, which has not yet been recognized, amounted to $
+487
+ and $
+661
+, respectively, and is recorded
+on the balance sheet as deferred revenue. The Company expects to recognize revenue on all of its remaining performance obligations over
+the next 12 months.
+
+ 
+
+Disaggregation
+of Revenue
+
+ 
+
+Revenue
+is from U.S.-based companies with no notable geographical concentrations in any area. A distinction exists in revenue source; revenues
+are either generated online or from consulting services.
+
+ 
+
+Revenues
+disaggregated by revenue source consist of the following:
+
+ 
+
+Schedule of Disaggregation of Revenue
+
+ 
+ 
+
+Three Months 
+Ended 
+Jan. 31, 2024
+ 
+ 
+
+Three Months 
+Ended 
+Jan. 31, 2023
+ 
+ 
+
+Nine Months 
+Ended 
+Jan. 31, 2024
+ 
+ 
+
+Nine Months 
+Ended 
+Jan. 31, 2023
+ 
+
+Consulting services
+ 
+
+$
+862,846
+ 
+ 
+
+$
+2,028,260
+ 
+ 
+
+$
+3,585,213
+ 
+ 
+
+$
+4,784,650
+ 
+
+Fees from online services
+ 
+
+ 
+179,947
+ 
+ 
+
+ 
+232,154
+ 
+ 
+
+ 
+1,019,047
+ 
+ 
+
+ 
+595,310
+ 
+
+Total revenues
+ 
+
+$
+1,042,793
+ 
+ 
+
+$
+2,260,414
+ 
+ 
+
+$
+4,604,260
+ 
+ 
+
+$
+5,379,960
+ 
+
+ 
+
+ 
+-
+12
+-
+ 
+
+ 
+
+ 
+
+Note
+4 – 
+Earnings Per Common Share
+
+ 
+
+Net
+income per common and diluted share were calculated as follows for the three- and nine-month periods ended January 31, 2024 and 2023:
+
+ 
+
+Schedule of Earnings Per Share
+
+ 
+ 
+
+Three Months 
+Ended 
+January 31, 2024
+ 
+ 
+
+Three Months 
+Ended 
+January 31, 2023
+ 
+ 
+
+Nine Months 
+Ended 
+January 31, 2024
+ 
+ 
+
+Nine Months 
+Ended 
+January 31, 2023
+ 
+
+Net income (loss) attributable to common stockholders – basic
+ 
+
+$
+(
+2,227,542
+)
+ 
+
+$
+1,696,499
+ 
+ 
+
+$
+(
+2,379,581
+)
+ 
+
+$
+1,944,114
+ 
+
+Adjustments to net income
+ 
+
+ 
+—
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+—
+ 
+
+Net income (loss) attributable to common stockholders – diluted
+ 
+
+$
+(
+2,227,542
+)
+ 
+
+$
+1,696,499
+ 
+ 
+
+$
+(
+2,379,581
+)
+ 
+
+$
+1,944,144
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average common shares outstanding - basic
+ 
+
+ 
+11,466,523
+ 
+ 
+
+ 
+5,166,299
+ 
+ 
+
+ 
+9,457,740
+ 
+ 
+
+ 
+4,208,216
+ 
+
+Effect of dilutive securities
+ 
+
+ 
+—
+ 
+ 
+
+ 
+250
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+250
+ 
+
+Weighted average common shares outstanding – diluted
+ 
+
+ 
+11,466,523
+ 
+ 
+
+ 
+5,166,549
+ 
+ 
+
+ 
+9,457,740
+ 
+ 
+
+ 
+4,208,466
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Earnings (loss) per common share - basic
+ 
+
+$
+(
+0.19
+)
+ 
+
+$
+0.33
+ 
+ 
+
+$
+(
+0.25
+)
+ 
+
+$
+0.46
+ 
+
+Earnings (loss) per common share - diluted
+ 
+
+$
+(
+0.19
+)
+ 
+
+$
+0.33
+ 
+ 
+
+$
+(
+0.25
+)
+ 
+
+$
+0.46
+ 
+
+ 
+
+250
+
+shares of common stock that are issuable pursuant to a stock subscription agreement are included in the calculation of diluted earnings
+per share for the three and nine months ended January 31, 2023. The 
+250
+ shares are not included in the calculation of diluted earnings
+per share for the three and nine months ended January 31, 2024 because their effect is anti-dilutive.
+
+ 
+
+Outstanding
+vested warrants to purchase 
+11,110,932
+ and 
+1,541,682
+ shares of common stock are not included in the calculation of earnings per share
+for the three and nine months ended January 31, 2024 and 2023, respectively, because their effect is anti-dilutive.
+
+ 
+
+Outstanding
+vested options to purchase 
+635,146
+ and 
+169,333
+ shares of common stock are not included in the calculation of earnings per share for the
+three and nine months ended January 31, 2024 and 2023, respectively, because their effect is anti-dilutive.
+
+ 
+
+ 
+-
+13
+-
+ 
+
+ 
+
+ 
+
+Note
+5 – 
+Principal Financing Arrangements
+
+ 
+
+The
+following table summarizes components debt as of January 31, 2024 and April 30, 2023:
+
+ 
+
+Schedule of Debt
+
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+April 30, 2023
+ 
+ 
+
+Interest Rate
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Secured lender
+ 
+
+$
+—
+ 
+ 
+
+$
+350,000
+ 
+ 
+
+ 
+12.0
+%
+
+Notes payable – related parties
+ 
+
+ 
+15,000
+ 
+ 
+
+ 
+15,000
+ 
+ 
+
+ 
+0.0
+%
+
+U.S. SBA loan
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+500,000
+ 
+ 
+
+ 
+3.75
+%
+
+U.S. SBA loan
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1,885,800
+ 
+ 
+
+ 
+1.0
+%
+
+Loan payable – bank
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+10.9
+%
+
+Total Debt
+ 
+
+ 
+2,435,124
+ 
+ 
+
+ 
+2,785,124
+ 
+ 
+
+ 
+ 
+ 
+
+Less: current portion of long-term debt
+ 
+
+ 
+1,935,124
+ 
+ 
+
+ 
+2,285,124
+ 
+ 
+
+ 
+ 
+ 
+
+Total long-term debt
+ 
+
+$
+500,000
+ 
+ 
+
+$
+500,000
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+As
+of January 31, 2024 and April 30, 2023, the Company owed its principal lender $
+0
+ and $
+350,000
+, respectively, under an amended loan and
+security agreement dated July 26, 2014, amended several times thereafter and paid in full in May 2023.
+
+ 
+
+As
+of January 31, 2024 and April 30, 2023, the Company’s related-party unsecured notes payable totaled $
+15,000
+.
+
+ 
+
+The
+Company owes $
+34,324
+ as of January 31, 2024 and April 30, 2023 to Chase Bank. For the loan from Chase Bank, the Company pays interest
+only on a monthly basis, which represents a rate of 
+10.9
+% per annum as of January 31, 2024.
+
+ 
+
+On
+June 17, 2020 the Company borrowed $
+500,000
+ (the “June Loan”), and on February 2, 2021, the Company borrowed $
+1,885,800
+ (the
+“February Loan”) from a U.S. Small Business Administration (“SBA”) loan program.
+
+ 
+
+The
+June Loan required installment payments of $
+2,437
+ monthly, beginning on June 17, 2021, 
+over a term of thirty years
+. However, the SBA
+postponed the first installment payment for 18 months, and the first payment became due on 
+December 17, 2022
+. The monthly payments of
+$
+2,437
+ are first applied to accrued interest payable. The monthly payments will not be applied to any of the outstanding principal balance
+until 2026. Consequently, the entire loan balance of $
+500,000
+ is classified as a long term liability. Interest accrues at a rate of 
+3.75
+%
+per annum. The Company agreed to grant a continuing security interest in its assets to secure payment and performance of all debts, liabilities,
+and obligations to the SBA. The June Loan was personally guaranteed by the Company’s Chief Financial Officer.
+
+ 
+
+The
+February Loan bears interest at a rate of 
+1
+% per annum and the due date of the first payment has been postponed by the SBA because the
+Company has applied for forgiveness of the February Loan.
+
+ 
+
+ 
+-
+14
+-
+ 
+
+ 
+
+ 
+
+Note
+6 – 
+Income Taxes
+
+ 
+
+For
+the three and nine months ended January 31, 2024, the Company recorded an income tax benefit of $
+1,713,999
+ and $
+2,339,288
+, respectively.
+For the three and nine months ended January 31, 2023, the Company recorded income tax expense of $
+697,000
+ and $
+499,000
+, respectively.
+Included in the income tax benefit for the nine months ended January 31, 2024 is an employee retention credit (“ERC”) of
+$
+508,292
+, as provided under the Coronavirus Aid, Relief and Economic Security Act. The ERC is a tax incentive available to the Company
+for retaining employees during the economic challenges posed by the COVID-19 pandemic.
+
+ 
+
+Note
+7 – 
+Related Party Transactions
+
+ 
+
+The
+Company’s largest shareholder, Netcapital Systems LLC (“Systems”), of which Jason Frishman, Founder, owns a 
+29
+% interest,
+owns 
+1,711,261
+ shares of common stock, or 
+9.9
+% of the Company’s 
+17,231,132
+ outstanding shares as of January 31, 2024. The company
+paid Systems $
+95,000
+ and $
+100,000
+ in the three- and nine-month periods ended January 31, 2024, and $
+100,000
+ and $
+300,000
+ in the three-
+and nine month periods ended January 31, 2023, respectively, for use of the software that runs the website 
+www.netcapital.com
+.
+
+ 
+
+Cecilia
+Lenk, the Chief Executive Officer of Netcapital Advisors Inc., (“Advisors”), our wholly owned subsidiary, is a member of
+the board of directors of KingsCrowd Inc. The Company sold 
+606,060
+ shares of KingsCrowd in June 2022 for proceeds of $
+200,000
+ and recorded
+a realized loss on the sale of the investment of $
+406,060
+ during the nine months ended January 31, 2023. As of January 31, 2024 and April
+30, 2023, the Company owned 
+3,209,685
+ shares of KingsCrowd Inc., valued at $
+513,550
+ and $
+3,209,685
+, respectively.
+
+ 
+
+Cecilia
+Lenk, the Chief Executive Officer of Advisors is a member of the board of directors of Deuce Drone LLC. As of January 31, 2024 and April
+30, 2023, the Company owns 
+2,350,000
+ membership interest units of Deuce Drone LLC., valued at $
+2,350,000
+. The Company has notes receivable
+aggregating to $
+152,000
+ from Deuce Drone LLC as of January 31, 2024 and April 30, 2023.
+
+ 
+
+Compensation
+to officers in the three- and nine-month periods ended January 31, 2024 consisted of stock-based compensation valued at $
+94,631
+ and $
+281,689
+,
+respectively, and cash salary of $
+218,471
+ and $
+751,488
+, respectively.
+
+ 
+
+Compensation to officers in the three- and nine-month periods ended January 31, 2023 consisted of stock-based compensation valued at
+$
+32,382
+ and $
+44,464
+, respectively, and cash salary of $
+141,769
+ and $
+391,384
+, respectively.
+
+ 
+
+ 
+-
+15
+-
+ 
+
+ 
+
+ 
+
+Compensation
+to a related party consultant, John Fanning Jr., son of our CFO, in the three- and nine-month periods ended January 31, 2024 consisted
+of cash wages of $
+14,624
+ and $
+44,641
+, respectively, and for the three- and nine-month periods ended January 31, 2023 consisted of cash
+wages of $
+15,000
+ and $
+45,000
+, respectively This consultant is also the controlling shareholder of Zelgor Inc. and $
+0
+ and $
+33,000
+ of the
+Company’s revenues in the three- and nine-month periods ended January 31, 2024, respectively, and $
+16,500
+ and $
+44,000
+ of the Company’s
+revenues in the three- and nine-month periods ended January 31, 2023, respectively, were from Zelgor Inc. As of January 31, 2024 and
+April 30, 2023, the Company owned 
+1,400,000
+ shares which are valued at $
+1,400,000
+.
+
+ 
+
+As
+of January 31, 2024 and April 30, 2023, the Company has invested $
+240,080
+ in an affiliate, 6A Aviation Alaska Consortium, Inc., in conjunction
+with a land lease in an airport in Alaska. Cecilia Lenk, the Chief Executive Officer of Advisors is also the Chief Executive Officer
+of 6A Aviation Alaska Consortium, Inc.
+
+ 
+
+We
+owe Steven Geary, a director, $
+31,680
+ as of January 31, 2024 and April 30, 2023. This obligation is not interest bearing. $
+16,680
+ is
+recorded as a related party trade accounts payable and $
+15,000
+ as a related party note payable. We have no signed agreements for the
+indebtedness to Mr. Geary and accordingly such obligations are not deemed in default. We owe Paul Riss, a director of our Netcapital
+Funding Portal Inc., $
+58,524
+, which is recorded as a related party trade accounts payable, and along with the $
+16,680
+ amount due to Mr.
+Geary, accounts for the total related party trade accounts payable amount of $
+75,204
+. The related party trade accounts payable obligations
+are not interest bearing and are not deemed in default.
+
+ 
+
+During
+the nine months ended January 31, 2023, we paid $
+12,019
+ to a related party to retire a note payable of $
+3,200
+ and expenses payable of
+$
+8,819
+.
+
+ 
+
+In
+January 2023 we granted stock options to purchase an aggregate of 
+1,600,000
+ shares of our common stock to four related parties as follows:
+our Chief Executive Officer, Martin Kay, 
+1,000,000
+ shares; our Chief Financial Officer, Coreen Kraysler 
+200,000
+ shares; our Founder,
+Jason Frishman, 
+200,000
+ shares; and a director of Netcapital Funding Portal, Inc., Paul Riss, 
+200,000
+ shares. The options have an exercise
+price of $
+1.43
+, vest monthly on a straight-line basis over a 
+4
+-year period and expire in 
+10
+ years.
+
+ 
+
+On
+April 25, 2023, the Company also granted an aggregate of 
+80,000
+ options, or 
+20,000
+ options each to the following board members: Cecilia
+Lenk, Avi Liss, Steven Geary and Arnold Scott, to purchase shares of our common stock at an exercise price of $
+1.40
+ per share. The options
+vest monthly on a straight-line basis over a 
+4
+-year period and expire in 
+10
+ years.
+
+ 
+
+Coreen
+Kraysler, our Chief Financial Officer, has personally guaranteed a $
+500,000
+ promissory note from the U.S. Small Business Administration.
+The note bears interest at an annual rate of 
+3.75
+%, has a 
+30-year term
+, and monthly payments of $
+2,437
+ began on December 17, 2022.
+
+ 
+
+Note
+8 – 
+Stockholders’ Equity
+
+ 
+
+The
+Company is authorized to issue 
+900,000,000
+ shares of its common stock, par value $
+0.001
+. 
+17,231,132
+ and 
+6,440,527
+ shares were outstanding
+as of January 31, 2024 and April 30, 2023, respectively.
+
+ 
+
+During
+the quarter ended July 31, 2022, the Company issued 
+39,901
+ shares of common stock with a value of $
+113,714
+ to settle a related party
+payable of $
+294,054
+. The Company also issued 
+93,432
+ shares of common stock valued at $
+266,272
+ to retire $
+300,000
+ of convertible promissory
+notes plus accrued interest of $
+10,192
+. The convertible note holders also received warrants to purchase shares of common stock at a per
+share exercise price of $
+5.19
+, that are exercisable immediately, and expire 
+five years
+ from the date of issuance. These equity issuances
+resulted in a gain from the conversion of debt totaling $
+224,260
+, which is recorded as other income in the income statement.
+
+ 
+
+On
+July 15, 2022, the Company completed an underwritten public offering of 
+1,205,000
+ shares of the Company’s common stock and warrants
+to purchase 
+1,205,000
+ shares of the Company’s common stock at a combined public offering price of $
+4.15
+ per share and warrant.
+The gross proceeds from the offering were $
+5,000,750
+ prior to deducting underwriting discounts, commissions, and other offering expenses,
+which resulted in net proceeds of $
+3,949,117
+. The warrants have a per share exercise price of $
+5.19
+, are exercisable immediately, and
+expire 
+five years
+ from the date of issuance.
+
+ 
+
+ 
+-
+16
+-
+ 
+
+ 
+
+ 
+
+In
+addition, the Company granted the underwriter a 45-day option to purchase up to an additional 
+180,750
+ shares of common stock and/or up
+to 
+180,750
+ additional warrants to cover over-allotments, if any. In connection with the closing of the offering, the underwriter partially
+exercised its over-allotment option and purchased an additional 
+111,300
+ warrants, and the Company issued an aggregate of 
+60,250
+ warrants
+to 20 individual representatives of the underwriter.
+
+ 
+
+On
+December 16, 2022 the Company completed an underwritten public offering of 
+1,247,000
+ shares of the Company’s common stock, at a
+price to the public of $
+1.40
+ per share. Pursuant to the terms of an underwriting agreement, the Company also granted the underwriters
+a 45-day option to purchase up to an additional 
+187,000
+ shares of common stock solely to cover over-allotments, at the same price per
+share of $
+1.40
+, less the underwriting discounts and commissions. In conjunction with this offering, the Company issued the underwriter
+and its designees warrants to purchase 
+62,350
+ shares of our common stock at an exercise price of $
+1.75
+. The underwriters exercised their
+over-allotment option and on January 5, 2023, the Company issued an additional 
+187,000
+ shares of its common stock. The Company received
+net proceeds of $
+1,621,459
+ for the issuance of a total of 
+1,434,000
+ shares of common stock for both the initial and over-allotment offering.
+In conjunction with the exercise of the over-allotment, the Company issued the underwriter and its designees warrants to purchase 
+9,350
+
+shares of our common stock with an exercise price of $
+1.75
+.
+
+ 
+
+During
+the year ended April 30, 2023, in addition to the public offerings, the Company issued 
+75,000
+ shares of common stock, valued at $
+732,751
+,
+in conjunction with the purchase of a 
+10
+% equity stake in Caesar Media Group, Inc., 
+300,000
+ shares of common stock, valued at $
+435,000
+
+to purchase the website and intellectual property of a real-time video conferencing website, 
+2,600
+ shares of common stock in conjunction
+with a stock subscription agreement with accredited investors, valued at $
+23,400
+, and 
+6,250
+ shares of common stock in conjunction with
+an acquisition agreement that requires shares to be issued by the Company.
+
+ 
+
+On
+January 5, 2023, the Company announced the formation of the Netcapital Inc. 2023 Omnibus Equity Incentive Plan (the “Plan”),
+which was subsequently approved by a vote of the shareholders. In January 2023, the Company granted stock options to four individuals
+to purchase an aggregate of 
+1,600,000
+ of the Company’s common stock at a price of $
+1.43
+ per share and on April 25, 2023 also granted
+
+350,000
+ stock options under the Plan to employees, consultants, and directors at an exercise price of $
+1.40
+ per share. All stock options
+in the Plan vest monthly on a straight-line basis over a 
+4
+-year period and expire in 
+10
+ years.
+
+ 
+
+In
+May 2023, the Company issued 
+100,000
+ shares of its common stock, valued at $
+144,000
+, in conjunction with a consulting agreement with
+a business.
+
+ 
+
+On
+May 23, 2023, the Company entered into a securities purchase agreement with certain institutional investors, pursuant to which the Company
+agreed to issue and sell to such investors, in a registered direct offering (the “Offering”), 
+1,100,000
+ shares of the Company’s
+common stock, par value $
+0.001
+ per share, at a price of $
+1.55
+ per Share, for aggregate gross proceeds of $
+1,705,000
+, before deducting
+the placement agent’s fees and other offering expenses payable by the Company. The Offering closed on May 25, 2023.
+
+ 
+
+Also,
+in connection with the Offering, on May 23, 2023, the Company entered into a placement agency agreement with ThinkEquity LLC, pursuant
+to which, the Company issued warrants to purchase up to 
+55,000
+ shares of common stock at an exercise price of $
+1.94
+, which were issued
+on May 25, 2023.
+
+ 
+
+In
+July 2023, the Company issued 
+49,855
+ shares of its common stock in consideration of a release from an unrelated third party in conjunction
+with the settlement of an outstanding debt between such third party and Netcapital Systems LLC.
+
+ 
+
+ 
+-
+17
+-
+ 
+
+ 
+
+ 
+
+On
+July 24, 2023 the Company completed an underwritten public offering of 
+1,725,000
+ shares of the Company’s common stock, at a price
+to the public of $
+0.70
+ per share for aggregate gross proceeds of $
+1,207,500
+, before deducting underwriting discounts and offering expenses
+payable by the Company. In conjunction with this offering, the Company issued the underwriter, and its designees, warrants to purchase
+
+86,250
+ shares of the Company’s common stock at an exercise price of $
+0.875
+.
+
+ 
+
+On
+July 31, 2023 and on October 26, 2023, the Company issued 
+18,750
+ shares of its common stock in conjunction with the purchase of a 
+10
+%
+interest in Caesar Media Group Inc. October 26, 2023, the Company issued 
+6,250
+ shares of its common stock in conjunction with its purchase
+of MSG Development Corp. (“MSG”), a wholly owned subsidiary. As a result of the issuance to MSG, the equity account for shares
+to be issued decreased by $
+61,063
+ from $
+183,187
+ to $
+122,124
+. The Company did not receive any proceeds for the issuance of these shares.
+
+ 
+
+On
+December 27, 2023, the Company completed a public offering of (i) 
+4,800,000
+ shares of common stock, par value $
+0.001
+ per share, of the
+Company (the “Common Share”); (ii) 
+11,200,000
+ prefunded warrants (the “Prefunded Warrants”) to purchase 
+11,200,000
+
+shares of Common Stock of the Company (the “Prefunded Warrant Shares”); (iii) 
+16,000,000
+ Series A-1 warrants (the “Series
+A-1 Common Warrants”) to purchase 
+16,000,000
+ shares of Common Stock of the Company (the “Series A-1 Common Warrant Shares”)
+and (iv) 
+16,000,000
+ Series A-2 warrants (the “Series A-2 Common Warrants,” together with the Series A-1 Warrants, the “Common
+Warrants”) to purchase 
+16,000,000
+ shares of Common Stock of the Company (the “Series A-2 Common Warrant Shares,” together
+with the Series A-1 Common Warrants Shares, the “Common Warrant Shares”). The offering price of each Common Share and accompanying
+Series A-1 Common Warrant and Series A-2 Common Warrant was $
+0.25
+, and the offering price of each Prefunded Warrant and accompanying
+Series A-1 Common Warrant and Series A-2 Common Warrant was $
+0.249
+. The Common Shares, Prefunded Warrants, Prefunded Warrant Shares,
+Series A-1 Common Warrants, Series A-1 Common Warrant Shares, Series A-2 Common Warrants, Series A-2 Common Warrant Shares are collectively
+referred to as the “Securities.”
+
+ 
+
+Each
+Common Warrant has an exercise price of $
+0.25
+ per share. The Common Warrants became exercisable on February 23, 2024. The Series A-1
+Common Warrants expire on 
+February 23, 2029
+. The Series A-2 Common Warrants expire on 
+August 23, 2025
+. 
+A holder may not exercise any
+portion of the Common Warrants to the extent the Purchaser would own more than 4.99% of the outstanding Common Stock immediately after
+exercise. A holder may increase or decrease this percentage with respect to either the Series A-1 Common Warrants or the Series A-2 Common
+Warrants to a percentage not in excess of 9.99%, except that any such increase shall require at least 61 days’ prior notice to the Company
+.
+
+ 
+
+The
+Prefunded Warrants were immediately exercisable and may be exercised at a nominal exercise price of $
+0.001
+ per share of Common Stock
+at any time until all of the Prefunded Warrants are exercised in full. 
+A holder may not exercise any portion of the Prefunded Warrants
+to the extent the Purchaser would own more than 4.99% of the outstanding Common Stock immediately after exercise. The holder may increase
+or decrease this percentage with respect to Prefunded Warrants to a percentage not in excess of 9.99%, except that any such increase
+shall require at least 61 days’ prior notice to the Company
+.
+
+ 
+
+As
+compensation to H.C. Wainwright & Co., LLC as the exclusive placement agent in connection with the offering of the Securities (the
+“Placement Agent”), the Company paid the Placement Agent a cash fee of 
+7.5
+% of the aggregate gross proceeds raised in the
+offering, plus a management fee equal to 
+1.0
+% of the gross proceeds raised in the offering and reimbursement of certain expenses and
+legal fees. The Company also issued warrants to designees of the Placement Agent (the “Placement Agent Warrants”) to purchase
+up to 
+1,200,000
+ shares of Common Stock. The Placement Agent Warrants have substantially the same terms as the Common Warrants, except
+that the Placement Agent Warrants have an exercise price equal to $
+0.3125
+ per share and expire on 
+December 27, 2028
+.
+
+ 
+
+On
+January 19, 2024, the Company issued 
+1,390,000
+ shares of common stock upon the exercise of Prefunded Warrants and receipt of the exercise
+price of $
+1,390
+. On January 31, 2024, the Company issued 
+1,582,000
+ shares of common stock upon the exercise of 
+1,582,000
+ Prefunded Warrants
+and receipt of the exercise price of $
+1,582
+.
+
+ 
+
+Note
+9 – 
+Fair Value
+
+ 
+
+The
+Fair Value Measurements Topic of the FASB Accounting Standards Codification establishes a fair value hierarchy that prioritizes the inputs
+to valuation techniques used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets
+for identical assets or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable
+inputs (Level 3 measurements). The three levels of the fair value hierarchy are as follows:
+
+ 
+
+ 
+
+●
+
+Level 1: inputs are quoted
+ prices (unadjusted) in active markets for identical assets or liabilities that the company has the ability to access at the measurement
+ date.
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Level 2: inputs are inputs
+ other than quoted prices included within Level 1 that are observable for the asset or liability, either directly or indirectly.
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Level 3: inputs are unobservable
+ inputs for the asset or liability.
+
+ 
+
+Under
+the Fair Value Measurements Topic of the FASB Accounting Standards Codification, we base fair value on the price that would be received
+to sell an asset or paid to transfer a liability in an orderly transaction between market participants at the measurement date. It is
+our policy to maximize the use of observable inputs and minimize the use of unobservable inputs when developing fair value measurements,
+in accordance with the fair value hierarchy. Fair value measurements for assets and liabilities where there exists limited or no observable
+market data and, therefore, are based primarily upon management’s own estimates, are often calculated based on current pricing
+policy, the economic and competitive environment, the characteristics of the asset or liability and other such factors. Therefore, the
+results cannot be determined with precision and may not be realized in an actual sale or immediate settlement of the asset or liability.
+Additionally, there may be inherent weaknesses in any calculation technique, and changes in the underlying assumptions used.
+
+ 
+
+Note
+10 – 
+Stock-Based Compensation Plans
+
+ 
+
+In
+addition to cash payments, the Company enters agreements to issue common stock and records the applicable non-cash expense in accordance
+with the authoritative guidance of the Financial Accounting Standards Board.
+
+ 
+
+For
+the three and nine months ended January 31, 2024, stock-based compensation expense amounted to $
+280,522
+ and $
+1,044,395
+,
+respectively. For the three and nine months ended January 31, 2023, stock-based compensation expense amounted to $
+63,057
+ and
+$
+128,963
+, respectively.
+
+ 
+
+The
+table below presents the components of compensation expense for the issuance of shares of common stock and stock options to employees
+and consultants for the three- and nine-month periods ended January 31, 2024 and 2023.
+
+ 
+
+Schedule of Stock-based Compensation Expense
+
+Stock-based compensation expense
+ 
+
+Three Months 
+Ended 
+Jan. 31, 2024
+ 
+ 
+
+Three Months 
+Ended 
+Jan. 31, 2023
+ 
+ 
+
+Nine Months 
+Ended 
+Jan. 31, 2024
+ 
+ 
+
+Nine Months 
+Ended 
+Jan. 31, 2023
+ 
+
+Chief Executive Officer
+ 
+
+$
+62,493
+ 
+ 
+
+$
+20,023
+ 
+ 
+
+$
+187,479
+ 
+ 
+
+$
+22,440
+ 
+
+Chief Financial Officer
+ 
+
+ 
+14,914
+ 
+ 
+
+ 
+6,179
+ 
+ 
+
+ 
+44,742
+ 
+ 
+
+ 
+11,012
+ 
+
+Chief Executive Officer, Advisors
+ 
+
+ 
+2,310
+ 
+ 
+
+ 
+1,221
+ 
+ 
+
+ 
+4,726
+ 
+ 
+
+ 
+3,663
+ 
+
+Founder
+ 
+
+ 
+14,914
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+44,742
+ 
+ 
+
+ 
+—
+ 
+
+Marketing consultant
+ 
+
+ 
+—
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+144,000
+ 
+ 
+
+ 
+—
+ 
+
+Marketing consultant
+ 
+
+ 
+—
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+58,829
+ 
+ 
+
+ 
+—
+ 
+
+Employee and consultant options
+ 
+
+ 
+44,740
+ 
+ 
+
+ 
+35,634
+ 
+ 
+
+ 
+136,424
+ 
+ 
+
+ 
+91,848
+ 
+
+Business consultant
+ 
+
+ 
+141,151
+ 
+ 
+
+ 
+—
+ 
+ 
+
+ 
+423,453
+ 
+ 
+
+ 
+—
+ 
+
+Total stock-based compensation expense
+ 
+
+$
+280,522
+ 
+ 
+
+$
+63,057
+ 
+ 
+
+$
+1,044,395
+ 
+ 
+
+$
+128,963
+ 
+
+ 
+
+ 
+-
+18
+-
+ 
+
+ 
+
+ 
+
+Note
+11 – 
+Deposits and Commitments
+
+ 
+
+We
+utilize an office at 1 Lincoln Street in Boston, Massachusetts. We currently pay a membership fee of approximately $
+6,400
+ a month, under
+a virtual office agreement that expires in March 2025 and includes a deposit of $
+6,300
+.
+
+ 
+
+Note
+12 – 
+Intangible Assets
+
+ 
+
+Intangible
+assets with defined useful lives are generally measured at cost less straight-line amortization. The useful life is determined using
+the period of the underlying contract or the period of time over which the intangible asset can be expected to be used. Impairments are
+recognized if the recoverable amount of the asset is lower than the carrying amount. The recoverable amount is the higher of either the
+fair value less costs to sell or the value in use. The value in use is determined on the basis of future cash inflows and outflows, and
+the weighted average cost of capital. Intangible assets with indefinite useful lives, such as trade names and trademarks, that have been
+acquired as part of acquisitions are measured at cost and tested for impairment annually, or if there is an indication that their value
+has declined.
+
+ 
+
+The
+following table sets forth the major categories of the intangible assets as of January 31, 2024 and April 30, 2023
+
+ 
+
+Schedule
+of Intangible Assets
+
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+April 30, 2023
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Acquired users
+ 
+
+$
+14,288,695
+ 
+ 
+
+$
+14,288,695
+ 
+
+Acquired brand
+ 
+
+ 
+583,429
+ 
+ 
+
+ 
+583,429
+ 
+
+Acquired IP and Website
+ 
+
+ 
+435,000
+ 
+ 
+
+ 
+435,000
+ 
+
+Professional practice
+ 
+
+ 
+556,830
+ 
+ 
+
+ 
+556,830
+ 
+
+Literary works and contracts
+ 
+
+ 
+107,750
+ 
+ 
+
+ 
+107,750
+ 
+
+Total intangible assets
+ 
+
+ 
+15,971,704
+ 
+ 
+
+ 
+15,971,704
+ 
+
+Less: accumulated amortization
+ 
+
+ 
+181,400
+ 
+ 
+
+ 
+96,407
+ 
+
+Net intangible assets
+ 
+
+$
+15,790,304
+ 
+ 
+
+$
+15,875,297
+ 
+
+ 
+
+As
+of January 31, 2024, the weighted average remaining useful life for technology, trade names, professional practice, literary works and
+domains is 
+13.41
+ years. Accumulated amortization amounted to $
+181,400
+ and $
+96,407
+ as of January 31, 2024 and April 30, 2023, resulting
+in net intangible assets of $
+15,790,304
+ and $
+15,875,297
+, respectively.
+
+ 
+
+Note
+13 – 
+Investments
+
+ 
+
+In
+the three-month period ended January 31, 2024, the Company received equity securities from 6 issuers that closed on the sale of securities
+on the Netcapital Funding Portal. In addition to cash fees, various issuers pay the Company a fee of 
+1
+% of the equity securities sold
+on the funding portal. As of January 31, 2024, the Company received 
+8,989
+ shares of common stock of Avadain, Inc., valued at $
+44,945
+;
+
+12
+ membership units of Averroes Software LLC, valued at $
+120
+; 
+13
+ shares of common stock of NeuraMetrix, Inc., valued at $
+117
+; 
+1,366
+ shares
+of common stock of Recruiting Analytics Inc., valued at $
+1,626
+; 
+422
+ membership units of Harvest Today, LLC, valued at $
+1,266
+; and 
+939
+
+shares of common stock of VideoXRM, Inc., valued at $
+939
+.
+
+ 
+
+In
+May 2023, the Company received 
+2,853,659
+ units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.41
+ per unit based on a sales price of $
+0.41
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,170,000
+. As of January 31, 2024, the Company owned 
+2,853,659
+ units which are
+valued at $
+1,170,000
+.
+
+ 
+
+In
+April 2023, the Company received 
+2,853,659
+ units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.41
+ per unit based on a sales price of $
+0.41
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,170,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+2,853,659
+
+units which are valued at $
+1,170,000
+.
+
+ 
+
+In
+April 2023, the Company received 
+2,853,659
+ units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.41
+ per unit based on a sales price of $
+0.41
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,170,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+2,853,659
+
+units which are valued at $
+1,170,000
+.
+
+ 
+
+ 
+-
+19
+-
+ 
+
+ 
+
+ 
+
+In
+April 2023, the Company received 
+2,853,659
+ units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.41
+ per unit based on a sales price of $
+0.41
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,170,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+2,853,659
+
+units which are valued at $
+1,170,000
+.
+
+ 
+
+In
+January 2023, the Company received 
+2,100,000
+ units of Dark LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+1.00
+ per unit based on a sales price of $
+1.00
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+2,100,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+2,100,000
+
+units which are valued at $
+2,100,000
+.
+
+ 
+
+In
+August 2022, the Company received 
+1,911,765
+ units of NetWire LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.68
+ per unit based on a sales price of $
+0.68
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,300,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+1,911,765
+
+units which are valued at $
+1,300,000
+.
+
+ 
+
+In
+May 2022, the Company received 
+1,764,706
+ units of Reper LLC as a payment for services rendered in conjunction with a crowdfunding offering.
+The units are valued at $
+0.68
+ per unit based on a sales price of $
+0.68
+ per unit on an online funding portal. The receipt of the units
+satisfied an accounts receivable balance of $
+1,200,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+1,764,706
+ units
+which are valued at $
+1,200,000
+.
+
+ 
+
+In
+April 2022, the Company received 
+3,000,000
+ units of Cust Corp. as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.40
+ per unit based on a sales price of $
+0.40
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+1,200,000
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+3,000,000
+
+units which are valued at $
+1,200,000
+.
+
+ 
+
+In
+January 2022, the Company received 
+1,700,000
+ units of ScanHash LLC as a payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.25
+ per unit based on a sales price of $
+0.25
+ per unit on an online funding portal. The receipt of
+the units satisfied $
+425,000
+ of an accounts receivable balance. As of January 31, 2024 and April 30, 2023, the Company owned 
+1,700,000
+
+units which are valued at $
+425,000
+.
+
+ 
+
+In
+January 2022, the Company received 
+2,850,000
+ units of Hiveskill LLC as payment for services rendered in conjunction with a crowdfunding
+offering. The units are valued at $
+0.25
+ per unit based on a sales price of $
+0.25
+ per unit on an online funding portal. The receipt of
+the units satisfied an accounts receivable balance of $
+712,500
+. As of January 31, 2024 and April 30, 2023, the Company owned 
+2,850,000
+
+units which are valued at $
+712,500
+.
+
+ 
+
+ 
+-
+20
+-
+ 
+
+ 
+
+ 
+
+In
+fiscal 2022, the Company purchased a 
+10
+% interest, or 
+400
+ shares of common stock, in Caesar Media Group Inc. (“Caesar”) for
+an initial purchase price of 
+50,000
+ shares of the Company’s common stock, valued at $
+500,000
+. Caesar is a marketing and technology
+solutions provider. The purchase agreement included additional contractual requirements for the Company and Caesar, including the issuance
+of an additional 
+150,000
+ shares of common stock of the Company over a two-year period, which have all been issued as of October 31, 2023.
+As of January 31, 2024 and April 30, 2023, there have been no observable price changes in the value of the Caesar’s common stock
+and the Company has valued its ownership in Caesar at cost, which amounted to $
+1,999,127
+ as of January 31, 2024, and $
+1,632,752
+ as of
+April 30, 2023.
+
+ 
+
+In
+May 2020, the Company entered a consulting contract with Watch Party LLC (“WP”), which allowed the Company to receive 
+110,000
+
+membership interest units of WP in return for consulting services. The Company earned 
+97,500
+ membership interest units in the quarter
+ended July 31, 2020. The WP units are valued at $
+2.14
+ per unit based on a sales price of $
+2.14
+ per unit on an online funding portal.
+As of January 31, 2024 and April 30, 2023, the Company owned 
+110,000
+ WP units, which are valued at $
+440,000
+.
+
+ 
+
+In
+May 2020, the Company entered a consulting contract with ChipBrain LLC (“Chip”), which allowed the Company to receive 
+710,200
+
+membership interest units of Chip in return for consulting services. The Chip units were initially valued at $
+0.93
+ per unit based on
+a sales price of $
+0.93
+ per unit on an online funding portal. Subsequently, Chip sold identical units for $
+2.40
+ per unit, and as of January
+31, 2024 and April 30, 2023, the 
+710,200
+ units owned by the Company are valued at $
+3,366,348
+.
+
+ 
+
+In
+May 2020, the Company entered a consulting contract with a related party, Zelgor Inc. (“Zelgor”), which allowed the Company
+to receive 
+1,400,000
+ shares of common stock of Zelgor in return for consulting services. The Zelgor shares are valued at $
+1.00
+ per share
+based on a sales price of $
+1.00
+ per share on an online funding portal. As of January 31, 2024 and April 30, 2023, the Company owned 
+1,400,000
+
+shares which are valued at $
+1,400,000
+.
+
+ 
+
+On
+January 2, 2020, the Company entered a consulting contract with Deuce Drone LLC (“Drone”), which allowed the Company to receive
+
+2,350,000
+ membership interest units of Drone in return for consulting services. The Drone units were originally valued at $
+0.35
+ per unit
+based on a sales price of $
+0.35
+ per unit when the units were earned, or $
+822,500
+. Drone subsequently sold identical Drone units for $
+1.00
+
+per unit on an online funding portal and as of January 31, 2024 and April 30, 2023, the units owned by the Company are valued at $
+2,350,000
+.
+
+ 
+
+In
+August 2019, the Company entered into a consulting contract with KingsCrowd LLC (“KingsCrowd”), which allowed the Company
+to receive 
+300,000
+ membership interest units of KingsCrowd in return for consulting services. The KingsCrowd units were valued at $
+1.80
+
+per unit based on a sales price of $
+1.80
+ per unit when the units were earned, or $
+540,000
+. In December 2020, KingsCrowd converted from
+a limited liability company to a corporation to facilitate raising capital under Regulation A. KingsCrowd filed a Form 1-A Offering Statement
+under the Securities Act of 1933 and is selling shares at $
+1.00
+ per share. 
+In connection with the conversion to a corporation, each membership
+interest unit converted into 12.71915 shares of common stock
+. The Company sold 
+606,060
+ shares of KingsCrowd in June 2022 for proceeds
+of $
+200,000
+ and recorded a realized loss on the sale of the investment of $
+406,060
+. KingsCrowd filed a post qualification offering circular
+amendment on July 21, 2022 and continued to sell shares of common stock to the public for $
+1.00
+ per share. On March 1, 2024, KingsCrowd
+filed a Form 1-SA that disclosed it had sold shares of common stock at a price of $
+0.16
+ per share. The Company noted that this observable
+price change occurred before January 31, 2024, and consequently recorded an unrealized loss on equity securities of $
+2,696,135
+ for the
+three- and nine-month periods ended January 31, 2024. As of January 31, 2024 and April 30, 2023, the Company owned 
+3,209,685
+ shares of
+KingsCrowd valued at $
+513,550
+ and $
+3,209,685
+, respectively.
+
+ 
+
+During
+fiscal 2019, the Company entered a consulting contract with NetCapital Systems LLC (“NetCapital”), which allowed the Company
+to receive up to 
+1,000
+ membership interest units of NetCapital in return for consulting services. The Company earned all 
+1,000
+ Netcapital
+units but sold a portion of the units in fiscal 2020 at a sales price of $
+91.15
+ per unit. As of January 31, 2024 and April 30, 2023,
+the Company owned 
+528
+ Netcapital units, at a value of $
+48,128
+.
+
+ 
+
+ 
+-
+21
+-
+ 
+
+ 
+
+ 
+
+In
+July 2020 the Company entered a consulting agreement with Vymedic, Inc. for a $
+40,000
+ fee over a 5-month period. Half the fee was payable
+in stock and half was payable in cash. As of January
+ 
+31,
+2024 and April 30, 2023, the Company owned 
+4,000
+ units, at a value of $
+11,032
+.
+
+ 
+
+In
+August 2020 the Company entered a consulting agreement with C-Reveal Therapeutics LLC (“CRT”). for a $
+120,000
+ fee over a
+12-month period. $
+50,000
+ of the fee was payable in CRT units. As of January 31, 2024 and April 30, 2023, the Company owned 
+5,000
+ units,
+at a value of $
+50,000
+.
+
+ 
+
+The
+following table summarizes the components of investments as of January 31, 2024 and April 30, 2023:
+
+ 
+
+Schedule
+of Investments
+
+ 
+ 
+
+January 31, 2024
+ 
+ 
+
+April 30, 2023
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+Netcapital Systems LLC
+ 
+
+$
+48,128
+ 
+ 
+
+$
+48,128
+ 
+
+MustWatch LLC
+ 
+
+ 
+440,000
+ 
+ 
+
+ 
+440,000
+ 
+
+Zelgor Inc.
+ 
+
+ 
+1,400,000
+ 
+ 
+
+ 
+1,400,000
+ 
+
+ChipBrain LLC
+ 
+
+ 
+3,366,348
+ 
+ 
+
+ 
+3,366,348
+ 
+
+Vymedic Inc.
+ 
+
+ 
+11,032
+ 
+ 
+
+ 
+11,032
+ 
+
+C-Reveal Therapeutics LLC
+ 
+
+ 
+50,000
+ 
+ 
+
+ 
+50,000
+ 
+
+Deuce Drone LLC
+ 
+
+ 
+2,350,000
+ 
+ 
+
+ 
+2,350,000
+ 
+
+Hiveskill LLC
+ 
+
+ 
+712,500
+ 
+ 
+
+ 
+712,500
+ 
+
+ScanHash LLC
+ 
+
+ 
+425,000
+ 
+ 
+
+ 
+425,000
+ 
+
+Caesar Media Group Inc.
+ 
+
+ 
+1,999,127
+ 
+ 
+
+ 
+1,632,752
+ 
+
+Cust Corp.
+ 
+
+ 
+1,200,000
+ 
+ 
+
+ 
+1,200,000
+ 
+
+Kingscrowd Inc.
+ 
+
+ 
+513,550
+ 
+ 
+
+ 
+3,209,685
+ 
+
+Reper LLC
+ 
+
+ 
+1,200,000
+ 
+ 
+
+ 
+1,200,000
+ 
+
+Dark LLC
+ 
+
+ 
+2,100,000
+ 
+ 
+
+ 
+2,100,000
+ 
+
+Netwire LLC
+ 
+
+ 
+1,300,000
+ 
+ 
+
+ 
+1,300,000
+ 
+
+CountSharp LLC
+ 
+
+ 
+1,170,000
+ 
+ 
+
+ 
+1,170,000
+ 
+
+CupCrew LLC
+ 
+
+ 
+1,170,000
+ 
+ 
+
+ 
+1,170,000
+ 
+
+HeadFarm LLC
+ 
+
+ 
+1,170,000
+ 
+ 
+
+ 
+1,170,000
+ 
+
+RealWorld LLC
+ 
+
+ 
+1,170,000
+ 
+ 
+
+ 
+—
+ 
+
+Avadain, Inc.
+ 
+
+ 
+44,945
+ 
+ 
+
+ 
+—
+ 
+
+Averroes Software LLC
+ 
+
+ 
+120
+ 
+ 
+
+ 
+—
+ 
+
+NeuraMetrix, Inc.
+ 
+
+ 
+117
+ 
+ 
+
+ 
+—
+ 
+
+Recruiting Analytics Inc.
+ 
+
+ 
+1,626
+ 
+ 
+
+ 
+—
+ 
+
+Harvest Today, LLC
+ 
+
+ 
+1,266
+ 
+ 
+
+ 
+—
+ 
+
+VideoXRMn Inc.
+ 
+
+ 
+939
+ 
+ 
+
+ 
+—
+ 
+
+Total
+ 
+
+$
+21,844,698
+ 
+ 
+
+$
+22,955,445
+ 
+
+Investment
+ Owned, at cost
+ 
+
+$
+21,844,698
+ 
+ 
+
+$
+22,955,445
+ 
+
+ 
+
+The
+above investments in equity securities are within the scope of ASC 321. The Company monitors the investments for any changes in observable
+prices from orderly transactions. All investments are initially measured at cost and evaluated for changes in estimated fair value.
+
+ 
+
+Note
+14 – 
+Going Concern Matters and Realization of Assets
+
+ 
+
+The
+accompanying financial statements have been prepared on a going concern basis, which contemplates the realization of assets and the satisfaction
+of liabilities in the ordinary course of business. However, as of January 31, 2024, the Company had working capital of $
+2,719,419
+ and
+for the nine months ended January 31, 2024, the Company had an operating loss of $
+1,901,957
+ and net cash used in operating activities
+amounted to $
+3,565,953
+.
+
+ 
+
+There
+can be no assurances that we will be able to achieve a level of revenues adequate to generate sufficient cash flow from operations or
+additional financing through private placements, public offerings and/or bank financing necessary to support our working capital requirements.
+The Company has recently reduced its operating expenses and has turned its focus to its funding portal business, which generates cash
+revenues and has seen a growth in revenues on a year-to-year basis. The Company plans to continue operating with lower fixed overhead
+amounts and seeks to raise money from private placements, public offerings and/or bank financing. The Company’s management has
+determined, based on its recent history and the negative cash flow from operations, that it is unlikely that its plan will sufficiently
+alleviate or mitigate, to a sufficient level, the relevant conditions or events noted above. To the extent that funds generated from
+any private placements, public offerings and/or bank financing, if available, are insufficient, the Company will have to raise additional
+working capital. No assurance can be given that additional financing will be available, or if available, will be on acceptable terms.
+These conditions raise substantial doubt about the Company’s ability to continue as a going concern. Accordingly, the Company’s
+management has concluded that there is substantial doubt about the Company’s ability to continue as a going concern within one
+year after the issuance date of these financial statements. There can be no assurance that the Company will be able to achieve its business
+plan objectives or be able to achieve or maintain cash-flow-positive operating results. If the Company is unable to generate adequate
+funds from operations or raise sufficient additional funds, the Company may not be able to repay its existing debt, continue to operate
+its business network, respond to competitive pressures or fund its operations. As a result, the Company may be required to significantly
+reduce, reorganize, discontinue or shut down its operations. The financial statements do not include any adjustments that might result
+from this uncertainty.
+
+ 
+
+Note
+15 – 
+Subsequent Events
+
+ 
+
+The
+Company evaluated subsequent events through the date these financial statements were available to be issued.
+
+ 
+
+On
+February 20, 2024 the Company received a warrant exercise notice of Prefunded Warrants to purchase 
+1,390,000
+ Warrant Shares and issued
+
+1,390,000
+ shares of its common stock upon the receipt of the exercise price of $
+1,390
+. On March 8, 2024 the Company received a warrant
+exercise notice of Prefunded Warrants to purchase 
+1,390,000
+ Warrant Shares and issued 
+1,390,000
+ shares of its common stock upon the receipt
+of the exercise price of $
+1,390
+. There were no other material subsequent events that required recognition or additional disclosure in
+these financial statements.
+
+ 
+
+ 
+-
+22
+-
+ 
+
+ 
+
+ 
+
+PART
+I
+
+ 
+
+ITEM
+2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS.
+
+ 
+
+This
+quarterly report on Form 10-Q and other reports filed by Netcapital Inc. (the “Company”) from time to time with the U.S.
+Securities and Exchange Commission (collectively, the “Filings”) contain or may contain forward-looking statements and information
+that are based upon beliefs of, and information currently available to, the Company’s management as well as estimates and assumptions
+made by Company’s management. Readers are cautioned not to place undue reliance on these forward-looking statements, which are
+only predictions and speak only as of the date hereof. When used in the Filings, the words “anticipate,” “believe,”
+“estimate,” “expect,” “future,” “intend,” “plan,” or the negative of these
+terms and similar expressions as they relate to the Company or the Company’s management identify forward-looking statements. Such
+statements reflect the current view of the Company with respect to future events and are subject to risks, uncertainties, assumptions,
+and other factors. Should one or more of these risks or uncertainties materialize, or should the underlying assumptions prove incorrect,
+actual results may differ significantly from those anticipated, believed, estimated, expected, intended, or planned. Unless the context
+otherwise requires, references in this prospectus to the “Company,” “we,” “us,” and “our”
+refer to Netcapital Inc. and its subsidiaries.
+
+ 
+
+Although
+the Company believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future
+results, levels of activity, performance, or achievements. Except as required by applicable law, including the securities laws of the
+United States, the Company does not intend to update any of the forward-looking statements to conform these statements to actual results.
+
+ 
+
+Our
+financial statements are prepared in accordance with accounting principles generally accepted in the United States (“GAAP”).
+These accounting principles require us to make certain estimates, judgments, and assumptions. We believe that the estimates, judgments,
+and assumptions upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments
+and assumptions are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of
+the date of the financial statements as well as the reported amounts of revenues and expenses during the periods presented. Our financial
+statements would be affected to the extent there are material differences between these estimates and actual results. In many cases,
+the accounting treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment
+in its application. There are also areas in which management’s judgment in selecting any available alternative would not produce
+a materially different result. The following discussion should be read in conjunction with our financial statements and notes thereto
+appearing elsewhere in this report.
+
+ 
+
+Overview
+
+ 
+
+Netcapital
+Inc. is a fintech company with a scalable technology platform that allows private companies to raise capital online from accredited and
+non-accredited investors. We give investors the opportunity to access investments in private companies. We believe our model is disruptive
+to traditional private equity investing and is based on Title III, Reg CF of the JOBS Act. In addition, we have recently expanded our
+model to include Regulation A (“Reg A”) offerings. We generate fees from listing private companies on our funding portal
+located at www.netcapital.com. We generate fees from listing private companies on netcapital.com. We also generate fees from advising
+companies with respect to their Reg A offerings posted on www.netcapital.com. Our consulting group, Netcapital Advisors, Inc. (Netcapital
+Advisors), which is a wholly-owned subsidiary, provides marketing and strategic advice in exchange for equity positions and/or cash fees.
+The Netcapital funding portal is registered with the SEC, is a member of the Financial Industry Regulatory Authority, or FINRA, a registered
+national securities association, and provides investors with opportunities to invest in private companies. Neither Netcapital Advisors,
+nor any Netcapital entity or subsidiary, is a broker- dealer, nor do any of such entities operate as a broker-dealer with respect to
+any Reg A offering listed on the www.netcapital.com website.
+
+ 
+
+ 
+-
+23
+-
+ 
+
+ 
+
+ 
+
+We
+provide private company investment access to accredited and non-accredited investors through our online portal (www.netcapital.com),
+which is operated by our wholly owned subsidiary Netcapital Funding Portal, Inc. The Netcapital funding portal charges a $5,000 engagement
+fee and a 4.9% success fee for capital raised at closing. In addition, the portal generates fees for other ancillary services, such as
+rolling closes. Netcapital Advisors generates fees and equity stakes from consulting in select portfolio and non-portfolio clients. With
+respect to its services for Reg A offerings, Netcapital Advisors charges a monthly flat fee for each month the offering is listed on
+the netcapital.com website as well as a nominal administrative flat fee for each investor that is processed to cover out-of-pocket costs.
+
+ 
+
+We
+generated revenues of $4,604,260, with costs of service of $97,062, in the nine months ended January 31, 2024 for a gross profit of $4,507,198
+(consisting of $3,489,013 in equity securities for payment of services and $1,115,247 in cash-based revenues, offset by $97,062 for costs
+of services) in the nine months ended January 31, 2024 as compared to revenues of $5,379,960 with costs of service of $61,603 in the
+nine months ended January 31, 2023 for a gross profit of $5,318,357 (consisting of $4,375,000 in equity securities for the payment of
+services and $1,004,960 in cash-based revenues, offset by $61,603 for costs of services) in the nine months ended January 31, 2023. Our
+cash-based gross profits as a percentage of gross profits were approximately 7% and 2%, respectively in the nine month periods ended
+January 31, 2024 and 2023, entities (for which we performed services) in which we own equity during such periods. The total number of
+offerings on the Netcapital funding portal in the nine months ended January 31, 2024 and 2023 that closed was 36 and 30, respectively,
+of which 11 and 7 offerings hosted on the Netcapital funding platform in the nine months ended January 31, 2024 and 2023, respectively,
+terminated their listings without raising the required minimum dollar amount of capital. The total number of offerings on the Netcapital
+funding portal in fiscal 2023 and 2022 that closed was 63 and 81, respectively, of which 13 and 17 offerings hosted on the Netcapital
+funding platform in fiscal 2023 and 2022, respectively, terminated their listings without raising the required minimum dollar amount
+of capital. As of the date of this report, we own minority equity positions in 25 portfolio companies that have utilized the funding
+portal to facilitate their offerings, which equity was received as payment for services.
+
+ 
+
+Netcapital.com
+is an SEC-registered funding portal that enables private companies to raise capital online, while investors are able to invest from almost
+anywhere in the world, at any time, with just a few clicks. Securities offerings on the portal are accessible through individual offering
+pages, where companies include product or service details, market size, competitive advantages, and financial documents. Companies can
+accept investments from virtually anyone, including friends, family, customers, and employees. Customer accounts on our platform are
+not permitted to hold or use digital securities to make an investment.
+
+ 
+
+In
+addition to access to the funding portal, Netcapital provides the following services:
+
+ 
+
+●
+
+a fully automated onboarding
+ process;
+
+●
+
+automated filing of required
+ regulatory documents;
+
+●
+
+compliance review;
+
+●
+
+a custom-built offering
+ page on our portal website;
+
+●
+
+third party transfer agent
+ and custodial services;
+
+●
+
+email marketing to our
+ proprietary list of investors;
+
+●
+
+rolling closes, which provide
+ potential access to liquidity before final close date of offering;
+
+●
+
+assistance with annual
+ filings; and
+
+●
+
+direct access to our team
+ for ongoing support.
+
+ 
+
+Our
+consulting group, Netcapital Advisors helps companies at all stages to raise capital. Netcapital Advisors provides strategic advice,
+technology consulting and digital marketing services to assist with fundraising campaigns on the Netcapital platform. The company also
+acts as an incubator and accelerator for select disruptive start-ups.
+
+ 
+
+Netcapital
+Advisors’ services include:
+
+ 
+
+●
+
+incubation of technology
+ start-ups;
+
+●
+
+investor introductions;
+
+●
+
+online marketing;
+
+●
+
+website design, software
+ and software development;
+
+●
+
+message crafting, including
+ pitch decks, offering pages, and ad creation;
+
+●
+
+strategic advice; and
+
+●
+
+technology consulting.
+
+ 
+
+ 
+-
+24
+-
+ 
+
+ 
+
+ 
+
+Recent
+Developments
+
+ 
+
+Extension
+Notice from Nasdaq to Regain Compliance with the Minimum Bid Price Rule
+
+ 
+
+As
+previously disclosed on a Current Report on Form 8-K filed by us on September 1, 2023, we received a notification from 
+The
+Nasdaq Stock Market, LLC
+ (“Nasdaq”) notifying us that we were 
+not in compliance
+with the minimum bid price requirement set forth in Nasdaq Listing Rule 5550(a)(2) for continued listing on The Nasdaq Capital Market.
+Specifically, Nasdaq Listing Rule 5550(a)(2) requires listed securities to maintain a minimum bid price of $1.00 per share, and Nasdaq
+Listing Rule 5810(c)(3)(A) provides that a failure to meet the minimum bid price requirement exists if the deficiency continues for a
+period of 30 consecutive business days. We
+ initially had 180 calendar days, or until February 28, 2024, to regain compliance with
+the minimum bid price requirement. We were unable to regain compliance with the minimum bid price requirement by February 28, 2024.
+
+ 
+
+On
+February 29, 2024, we received a letter (the “Extension Notice”) from Nasdaq notifying us that our request for an extension
+to regain compliance with the 
+minimum bid price requirement
+ has been granted, and we have
+an additional 180 calendar days, or until August 26, 2024, to regain compliance with the minimum bid price requirement. Nasdaq’s
+determination was based on us meeting the continued listing requirement for market value of publicly held shares and all other applicable
+requirements for initial listing on the Nasdaq Capital Market with the exception of the bid price requirement, and our written notice
+of its intention to cure the deficiency during the second compliance period by effecting a reverse stock split, if necessary. The Extension
+Notice 
+has no immediate effect on the listing or trading of our common stock on The Nasdaq Capital
+Market and, at this time, our common stock will continue to trade on The Nasdaq Capital Market under the symbol “NCPL.”
+
+ 
+
+If
+at any time before August 26, 2024, the bid price of our common stock closes at or above $1.00 per share for a minimum of 10 consecutive
+business days, Nasdaq will notify us that we are in compliance with the 
+minimum bid price requirement
+.
+However, if compliance with the 
+minimum bid price requirement
+ cannot be demonstrated by
+August 26, 2024, Nasdaq will notify us that our common stock will be delisted from The Nasdaq Capital Market, at which time, we may appeal
+Nasdaq’s determination to a Hearings Panel.
+
+ 
+
+We
+intend to monitor the closing bid price of its common stock and may, if appropriate, consider implementing available options, including,
+but not limited to, implementing a reverse stock split of our outstanding securities during the second compliance period, to regain compliance
+with the minimum bid price requirement under the Nasdaq Listing Rules.
+
+ 
+
+December
+2023 Public Offering
+
+ 
+
+On
+December 27, 2023, we completed a public offering of (i) 4,800,000 shares of our common stock; (ii) 11,200,000 prefunded warrants to
+purchase 11,200,000 shares of our common stock; (iii) 16,000,000 Series A-1 warrants to purchase 16,000,000 shares of our common and
+(iv) 16,000,000 Series A-2 warrants to purchase 16,000,000 shares of our common stock of the Company for gross proceeds of $4 million,
+before deducting underwriting discounts and offering expenses payable by us. The offering price of each common share and accompanying
+Series A-1 warrant and Series A-2 warrant was $0.25, and the offering price of each prefunded warrant and accompanying Series A-1 warrant
+and Series A-2 warrant was $0.249. Each Common Warrant has an exercise price of $0.25 per share. The Series A-1 Common Warrants will
+expire on February 23, 2029. The Series A-2 Common Warrants will expire August 23, 2025 following the date of Shareholder Approval. We
+received net proceeds of approximately $3.37 million from this offering, after deducting the estimated offering expenses payable by us,
+including the placement agent fees. We also issued warrants to designees of the H.C. Wainwright, who served as placement agent for this
+offering to purchase up to 1,200,000 shares of our common stock, which warrants have substantially the same terms as the Series A-1 warrants
+and Series A-2 warrants, except that warrants issued to the designees of the placement agent have an exercise price equal to $0.3125
+per share and expire on December 27, 2028.
+
+ 
+
+ 
+-
+25
+-
+ 
+
+ 
+
+ 
+
+Results
+of Operations
+
+ 
+
+Comparison
+of the Three Months Ended January 31, 2024 and 2023
+
+ 
+
+Our
+revenues for the three months ended January 31, 2024, decreased by $1,217,621, or approximately 54%, to $1,042,793 as compared to $2,260,414
+during the three months ended January 31, 2023. The decrease in revenues was primarily attributed to a decrease in revenues for consulting
+services that we provide in exchange for equity securities during the quarter ended January 31, 2024, as compared to the quarter ended
+January 31, 2023. In the three months ended January 31, 2024, revenues from equity-based contracts decreased by $1,087,654, or 56%, to
+$862,346, as compared to revenues of $1,950,000 in the three months ended January 31, 2023. A decrease of $52,245, or 23%, was also noted
+in funding portal revenues in the three months ended January 31, 2024, when compared to the prior year fiscal quarter. In the three months
+ended January 31, 2024, we recorded $179,588 in funding portal revenues, consisting of portal fees of $84,548 and listing fees of $95,040,
+as compared to funding portal revenues of $231,833 in the three months ended January 31, 2023, consisting of portal fees of $99,333 and
+listing fees of $132,500. The decrease in funding portal revenues in the three months ended January 31, 2024 is primarily attributable
+to fewer issuers listing to raise capital on the funding portal platform.
+
+ 
+
+The
+components of revenue were as follows:
+
+ 
+
+ 
+ 
+
+Jan. 31, 2024
+ 
+ 
+
+Jan. 31, 2023
+ 
+
+Consulting services for equity securities
+ 
+
+$
+862,346
+ 
+ 
+
+$
+1,950,000
+ 
+
+Consulting revenue
+ 
+
+ 
+500
+ 
+ 
+
+ 
+78,260
+ 
+
+Portal fees
+ 
+
+ 
+84,548
+ 
+ 
+
+ 
+99,333
+ 
+
+Listing fees
+ 
+
+ 
+95,040
+ 
+ 
+
+ 
+132,500
+ 
+
+Other revenue
+ 
+
+ 
+359
+ 
+ 
+
+ 
+321
+ 
+
+Total
+ 
+
+$
+1,042,793
+ 
+ 
+
+$
+2,260,414
+ 
+
+ 
+
+Costs
+of revenues increased by $54,570 to $58,875, or approximately 1,268% for the three months ended January 31, 2024 from $4,305 during the
+three months ended January 31, 2023. The increase was attributed to additional costs for funding portal services.
+
+ 
+
+Payroll
+and payroll related expenses decreased by $76,526, or 8%, to $869,517 for the three months ended January 31, 2024, as compared to $946,043
+during the three months ended January 31, 2023. The decrease was attributed to the elimination of certain positions during the quarter
+ended January 31, 2024.
+
+ 
+
+Marketing
+expense increased by $8,649, or approximately 37%, to $32,198 for the three months ended January 31, 2024, as compared to $23,549 during
+the three months ended January 31, 2023. The increase in expense was primarily attributed to an increase in marketing outlets that we
+utilized in the three months ended January 31, 2024.
+
+ 
+
+Rent
+expense increased by $2,357, or approximately 14%, to $19,544 for the three months ended January 31, 2024, as compared to $17,187 during
+the three months ended January 31, 2023. The increase was primarily attributed to a new office-space agreement that became effective
+in the current fiscal year.
+
+ 
+
+General
+and administrative expenses increased by $524,206, or 92%, to $1,092,459 for the three months ended January 31, 2024, from $568,253 during
+the three months ended January 31, 2023. The increase was primarily attributed to stock-based compensation utilized to pay for professional
+fees and increased legal costs.
+
+ 
+
+Consulting
+expense increased by $44,857, or approximately 34%, to $175,357 for the three months ended January 31, 2024 from $130,500 during the
+three months ended January 31, 2023. The increase was primarily attributed to an increase in overseas programmers.
+
+ 
+
+We
+recognized an unrealized loss in the value of our equity securities of $2,696,135 for the three months ended January 31, 2024, as compared
+to an unrealized gain of $1,866,468 in the value of our equity securities for the three months ended January 31, 2023. The loss in fiscal
+2024 was attributable to a decrease in value to $0.16 per share from $1.00 per share for 3,209,685 shares that we own of KingCrowd, Inc.
+The gain in fiscal 2023 resulted from an increase in value of $204,000 for our 110,000 units of MustWatch LLC, from $2.14 per unit to
+$4.00 per unit, and an increase in value of $1,661,868 for our 710,200 units of ChipBrain LLC, from $0.93 per unit to $4.74 per unit
+
+ 
+
+Interest
+expense decreased by $5,714 to $11,918, or approximately 32%, for the three months ended January 31, 2024, as compared to $17,632 during
+the three months ended January 31, 2023. The decrease in interest expense was primarily attributed to lower debt amounts that resulted
+from paying off a secured term loan.
+
+ 
+
+Comparison
+of the Nine Months Ended January 31, 2024 and 2023
+
+ 
+
+Our
+revenues for the nine months ended January 31, 2024, decreased by $775,700, or approximately 14%, to $4,604,260, as compared to $5,379,960
+during the nine months ended January 31, 2023. The decrease in revenues is attributable to a decrease in revenue of $885,987, or 20%,
+in consulting services that are provided in exchange for equity securities, and a decrease in cash-based consulting revenue of $313,450,
+or 77%. These decreases were offset by an increase in funding portal revenues in the nine-month period ended January 31, 2024, as compared
+to the nine-month period ended January 31, 2023, consisting of an increase in portal fees of $375,683, or 152%, and an increase in listing
+fees of $48,040, or 14%. The increase in funding portal revenues in the nine months ended January 31, 2024 is primarily attributable
+to increased offering activity on the platform that generated increased investments by investors who purchased securities on the portal.
+
+ 
+
+ 
+-
+26
+-
+ 
+
+ 
+
+ 
+
+The
+components of revenue were as follows:
+
+ 
+
+ 
+ 
+
+Jan. 31, 2024
+ 
+ 
+
+Jan. 31, 2023
+ 
+
+Consulting services for equity securities
+ 
+
+$
+3,489,013
+ 
+ 
+
+$
+4,375,000
+ 
+
+Consulting revenue
+ 
+
+ 
+96,200
+ 
+ 
+
+ 
+409,650
+ 
+
+Portal fees
+ 
+
+ 
+623,610
+ 
+ 
+
+ 
+247,927
+ 
+
+Listing fees
+ 
+
+ 
+394,540
+ 
+ 
+
+ 
+346,500
+ 
+
+Other revenue
+ 
+
+ 
+897
+ 
+ 
+
+ 
+883
+ 
+
+Total
+ 
+
+$
+4,604,260
+ 
+ 
+
+$
+5,379,960
+ 
+
+ 
+
+Costs
+of revenues increased by $35,459 to $97,062, or approximately 58%, for the nine months ended January 31, 2024 from $61,603 during the
+nine months ended January 31, 2023. The increase was primarily attributed to an increase in costs for the funding portal.
+
+ 
+
+Payroll
+and payroll related expenses increased by $364,503, or approximately 14%, to $2,957,394 for the nine months ended January 31, 2024, as
+compared to $2,592,891 during the nine months ended January 31, 2023. The increase was attributed to higher wages in the first half of
+the fiscal year and additional stock-based compensation.
+
+ 
+
+Marketing
+expense increased by $256,606, or approximately 400%, to $320,817 for the nine months ended January 31, 2024, as compared to $64,211
+during the nine months ended January 31, 2023. The increase was to bring awareness to the funding portal operations and the Company to
+attract new issuers and investors.
+
+ 
+
+Rent
+expense increased by $5,947, or approximately 12%, to $57,533 for the nine months ended January 31, 2024, as compared to $51,586 during
+the nine months ended January 31, 2023. The increase was primarily attributed to a new office-space agreement that became effective in
+the current fiscal year.
+
+ 
+
+General
+and administrative expenses increased by $1,288,013, or approximately 104%, to $2,529,378 for the nine months ended January 31, 2024,
+from $1,241,365 during the nine months ended January 31, 2023. The increase was primarily attributed to professional fees, including
+stock-based compensation.
+
+ 
+
+Consulting
+expense increased by $88,141, or 19%, to $544,033 for the nine months ended January 31, 2024 from $455,892 during the nine months ended
+January 31, 2023. The increase was primarily attributed to increased payments to software engineers.
+
+ 
+
+We
+recognized an unrealized loss in the value of our equity securities of $2,696,135 for the nine months ended January 31, 2024, as compared
+to an unrealized gain of $1,857,500 in the value of our equity securities for the nine months ended January 31, 2023. The loss in fiscal
+2024 was attributable to a decrease in value to $0.16 per share from $1.00 per share for 3,209,685 shares of common stock that we own
+of KingCrowd, Inc. The gain in fiscal 2023 resulted from an increase in value of $204,000 for our 110,000 units of MustWatch LLC, from
+$2.14 per unit to $4.00 per unit, and an increase in value of $1,661,868 in our 710,200 units of ChipBrain LLC, from $0.93 per unit to
+$4.74 per unit, less an unrealized loss of $8,968 in the value of the 4,000 shares of Vymedic Inc. from $5.00 per share to $2.76 per
+share.
+
+ 
+
+Interest
+expense decreased by $41,138 to $35,784, or approximately 54%, for the nine months ended January 31, 2024, as compared to $76,922 during
+the nine months ended January 31, 2023. The decrease in interest expense was primarily attributed to lower debt amounts that resulted
+from paying off a secured term loan.
+
+ 
+
+Liquidity
+and Capital Resources
+
+ 
+
+As
+of January 31, 2024, we had cash and cash equivalents of $2,172,099 and working capital of $2,719,419 as compared to cash and cash equivalents
+of $569,441 and negative working capital of $2,622,670 at April 30, 2023.
+
+ 
+
+We
+have been successful in raising capital by completing public offerings of our common stock.
+
+ 
+
+On
+July 15, 2022, we completed an underwritten public offering of 1,205,000 shares of our common stock and warrants to purchase 1,205,000
+shares of our common stock at a combined public offering price of $4.15 per share and warrant. The gross proceeds from the offering were
+$5,000,750 prior to deducting underwriting discounts, commissions, and other offering expenses. The warrants have a per share exercise
+price of $5.19, are exercisable immediately, and expire five years from the date of issuance. With the use of proceeds, we paid $1 million
+of debt to our secured lender, to reduce the outstanding principal balance to $400,000.
+
+ 
+
+ 
+-
+27
+-
+ 
+
+ 
+
+ 
+
+On
+December 16, 2022 we completed an underwritten public offering of 1,247,000 shares of our common stock, at a price to the public of $1.40
+per share. In conjunction with this offering, we issued the underwriter and its designees warrants to purchase 62,350 shares of our common
+stock at an exercise price of $1.75. The underwriters exercised their over-allotment option and on January 5, 2023, we issued an additional
+187,000 shares of its common stock at a price of $1.40 per share. We received net proceeds of $1,621,459 for the issuance of a total
+of 1,434,000 shares of common stock in both the initial and over-allotment offering. In conjunction with the exercise of the over-allotment,
+the Company issued the underwriter and its designees warrants to purchase 9,350 shares of our common stock with an exercise price of
+$1.75.
+
+ 
+
+On
+May 23, 2023, we entered into a securities purchase agreement with certain institutional investors, pursuant to which sold to such investors,
+in a registered direct offering (the “Offering”), 1,100,000 shares of our common stock, at a price of $1.55 per share, for
+aggregate gross proceeds of $1,705,000, before deducting the placement agent’s fees and other offering expenses payable by us.
+This offering closed on May 25, 2023.
+
+ 
+
+With
+the use of proceeds, we paid our secured lender $350,000 in principal plus accrued interest of $17,167.23 to retire all outstanding obligations
+to the secured lender.
+
+ 
+
+On
+July 24, 2023 we completed an underwritten public offering of 1,725,000 shares of our common stock, at a price to the public of $0.70
+per share for aggregate gross proceeds of $1,207,500, before deducting underwriting discounts and offering expenses payable by us. In
+conjunction with this offering, we issued the underwriter, and its designees, warrants to purchase 86,250 shares of our common stock
+at an exercise price of $0.875.
+
+ 
+
+On
+December 27, 2023, we completed a public offering of (i) 4,800,000 shares of our common stock; (ii) 11,200,000 prefunded warrants to
+purchase 11,200,000 shares of our common stock; (iii) 16,000,000 Series A-1 warrants to purchase 16,000,000 shares of our common and
+(iv) 16,000,000 Series A-2 warrants to purchase 16,000,000 shares of our common stock of the Company for gross proceeds of $4 million,
+before deducting underwriting discounts and offering expenses payable by us. The offering price of each common share and accompanying
+Series A-1 warrant and Series A-2 warrant was $0.25, and the offering price of each prefunded warrant and accompanying Series A-1 warrant
+and Series A-2 warrant was $0.249. Each Common Warrant has an exercise price of $0.25 per share. The Series A-1 Common Warrants will
+expire on February 23, 2029. The Series A-2 Common Warrants will expire August 23, 2025 following the date of Shareholder Approval. We
+received net proceeds of approximately $3.37 million from this offering, after deducting the estimated offering expenses payable by us,
+including the placement agent fees. We also issued warrants to designees of the H.C. Wainwright, who served as placement agent for this
+offering to purchase up to 1,200,000 shares of our common stock, which warrants have substantially the same terms as the Series A-1 warrants
+and Series A-2 warrants, except that warrants issued to the designees of the placement agent have an exercise price equal to $0.3125
+per share and expire on December 27, 2028.
+
+ 
+
+We
+believe that our existing cash investment balances, our anticipated cash flows from operations and liquidity sources including
+
+o
+ffering of equity and/or
+debt securities and/or the sale of equity positions in certain portfolio companies for which we provide marketing and strategic advice
+may not be sufficient to meet our working capital and expenditure requirements for the next 12 months. Consequently, beginning in November
+2023, we laid off some employees, and took other steps 
+to reduce operating expenses. We plan to continue operating with lower
+fixed overhead amounts and seek to raise money from private placements, public offerings and/or bank financing. Our management has determined,
+based on its recent history and the negative cash flow from operations, that it is unlikely that its plan will sufficiently alleviate
+or mitigate, to a sufficient level, the relevant conditions or events noted above. To the extent that funds generated from any private
+placements, public offerings and/or bank financing, if available, are insufficient, we will have to raise additional working capital.
+No assurance can be given that additional financing will be available, or if available, will be on acceptable terms. Accordingly, the
+Company’s management has concluded that these conditions raise substantial doubt about our ability to continue as a going concern.
+There can be no assurance that we will be able to achieve our business plan objectives or be able to achieve or maintain cash-flow-positive
+operating results. If we are unable to generate adequate funds from operations or raise sufficient additional funds, we may not be able
+to repay our existing debt, continue to operate our business network, respond to competitive pressures or fund our operations. As a result,
+we may be required to significantly reduce, reorganize, discontinue or shut down our operations
+.
+
+ 
+
+Year
+over Year Changes
+
+ 
+
+Net
+cash used in operating activities amounted to $3,565,953 and $3,414,714 for the nine months ended January 31, 2024 and 2023, respectively.
+The principal sources of cash from operating activities in the nine months ended January 31, 2024 were an unrealized loss on equity securities
+of $2,696,135 and stock-based compensation of $1,044,395. However, the sources of cash were offset by a net loss of $2,379,581, a receipt
+of equity in lieu of cash of $1,219,012, changes in deferred taxes of $1,657,000 and an increase in accounts receivable of $2,319,001.
+The principal sources of cash from operating activities for the nine months ended January 31, 2023 was net income of $1,944,114, a realized
+loss on investments of $406,060, a change in deferred taxes of $499,000, and stock-based compensation of $128,963. However, these sources
+of cash were offset by the receipt of equity securities in lieu of cash of $4,600,000, a gain on a debt conversion of $224,260, and an
+unrealized gain on equity securities of $1,857,500.
+
+ 
+
+ 
+-
+28
+-
+ 
+
+ 
+
+ 
+
+Net
+cash used in investing activities in the nine months ended January 31, 2024 of $20,000 is a note receivable. Net cash provided by investing
+activities in the nine months ended January 31, 2023 consisted of proceeds of $200,000 from the sale of 606,060 shares of an investment
+in KingsCrowd Inc.
+
+ 
+
+For
+the nine months ended January 31, 2024, net cash provided by financing activities amounted to $5,188,611, which consisted of proceeds
+from the sale of common stock of $5,538,611, which was offset by repayment of $350,000 in principal to our secured lender. For the nine
+months ended January 31, 2023, net cash provided from financing activities amounted to $4,512,716, which included proceeds from the sale
+of common stock of $5,570,576, which was offset by a payment of $7,860 for a related party note, and payment of $1,050,000 to a secured
+lender.
+
+ 
+
+In
+the nine months ended January 31, 2024 and 2023, there were no expenditures for capital assets. We do not anticipate any capital expenditures
+in fiscal 2024.
+
+ 
+
+ITEM
+3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+ 
+
+The
+Company is not required to provide the information required by this Item as it is a “smaller reporting company,” as defined
+in Rule 12b-2 of the Exchange Act.
+
+ 
+
+ITEM
+4. CONTROLS AND PROCEDURES.
+
+ 
+
+(a)
+Disclosure Controls and Procedures.
+
+ 
+
+The
+Company’s management, with the participation of the Principal Executive Officer (the “PEO”) and Principal Financial
+Officer (the “PFO”), has evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined
+in SEC Rule 13a-15(e)) as of January 31, 2024. Based on that evaluation, the PEO and the PFO concluded that, as of January 31, 2024,
+such controls and procedures were effective.
+
+ 
+
+(b)
+Management’s Assessment of Internal Control over Financial Reporting
+
+ 
+
+Management
+is responsible for establishing and maintaining adequate internal control over financial reporting, as such term is defined in the Exchange
+Act Rules 13a-15(f). A system of internal control over financial reporting is a process designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles.
+
+ 
+
+Under
+the supervision and with the participation of management, including the PEO and the PFO, the Company’s management has evaluated
+the effectiveness of its internal control over financial reporting as of January 31, 2024, based on the criteria established in a report
+entitled “2013 Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission”
+and the interpretive guidance issued by the Commission in Release No. 34-55929. Based on this evaluation, the Company’s management
+has evaluated and concluded that the Company’s internal control over financial reporting was effective as of January 31, 2024.
+
+ 
+
+The
+Company’s annual report on Form 10-K for the year ended April 30, 2023 does not include an attestation report of the Company’s
+independent registered public accounting firm regarding internal control over financial reporting. The Company’s registered public
+accounting firm was not required to issue an attestation on its internal controls over financial reporting pursuant to the rules of the
+SEC. The Company will continue to evaluate the effectiveness of internal controls and procedures on an ongoing basis.
+
+ 
+
+(c)
+Changes in Internal Control over Financial Reporting
+
+ 
+
+There
+have been no changes in our internal controls over financial reporting (as such term is defined in Rule 13a-15(f) and 15d-15(f) under
+the Securities Exchange Act) during the quarter ended January 31, 2024 that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.
+
+ 
+
+ 
+-
+29
+-
+ 
+
+ 
+
+ 
+
+PART
+II – OTHER INFORMATION
+
+ 
+
+ITEM
+1. LEGAL PROCEEDINGS.
+
+ 
+
+We
+are currently not involved in any litigation that we believe could have a material adverse effect on our financial condition or results
+of operations. There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency,
+self-regulatory organization or body pending or, to the knowledge of the executive officers of our company or any of our subsidiaries,
+threatened against or affecting our company, our common stock, any of our subsidiaries or of our companies or our subsidiaries’
+officers or directors in their capacities as such, in which an adverse decision could have a material adverse effect.
+
+ 
+
+ITEM
+1A. RISK FACTORS.
+
+ 
+
+Risk
+factors that affect our business and financial results are discussed in Part I, Item 1A “Risk Factors,” in our Annual Report
+on Form 10-K for the year ended April 30, 2023 as filed with the SEC on July 27, 2023 (“Annual Report”). There have been
+no material changes in our risk factors from those previously disclosed in our Annual Report
+, except
+as discussed below
+. You should carefully consider the risks described in our Annual Report, which could materially affect our
+business, financial condition, or future results. The risks described in our Annual Report are not the only risks we face. Additional
+risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our
+business, financial condition, and/or operating results. If any of the risks actually occur, our business, financial condition, and/or
+results of operations could be negatively affected.
+
+ 
+
+Our
+financial situation creates doubt whether we will continue as a going concern.
+
+ 
+
+As
+of January 31, 2024, we had working capital of $2,719,419 and for the nine months ended January 31, 2024, we had an operating loss of
+$1,901,957 and net cash used in operating activities amounted to $3,565,953. There can be no assurances that we will be able to achieve
+a level of revenues adequate to generate sufficient cash flow from operations or additional financing through private placements, public
+offerings and/or bank financing necessary to support our working capital requirements. Our management has recently reduced its operating
+expenses and we have turned our focus to our funding portal business, which generates cash revenues and has seen a growth in revenues
+on a year-to-year basis. We plan to continue operating with lower fixed overhead amounts and seek to raise money from private placements,
+public offerings and/or bank financing. Our management has determined, based on its recent history and the negative cash flow from operations,
+that it is unlikely that its plan will sufficiently alleviate or mitigate, to a sufficient level, the relevant conditions or events noted
+above. To the extent that funds generated from any private placements, public offerings and/or bank financing, if available, are insufficient,
+we will have to raise additional working capital. No assurance can be given that additional financing will be available, or if available,
+will be on acceptable terms. Accordingly, our management has concluded that these conditions raise substantial doubt about our ability
+to continue as a going concern. There can be no assurance that we will be able to achieve its business plan objectives or be able to
+achieve or maintain cash-flow-positive operating results. If we are unable to generate adequate funds from operations or raise sufficient
+additional funds, we may not be able to repay our existing debt, continue to operate our business network, respond to competitive pressures
+or fund our operations. As a result, we may be required to significantly reduce, reorganize, discontinue, or shut down our operations.
+
+ 
+
+Our
+ability to have our securities traded on the Nasdaq Capital Market is subject to us meeting applicable listing criteria.
+
+ 
+
+We
+are currently listed on the Nasdaq Stock Market, LLC (“Nasdaq”), a national securities exchange. The Nasdaq requires companies
+desiring to list their common stock to meet certain listing criteria including total number of shareholders: minimum stock price, total
+value of public float, and in some cases total shareholders’ equity and market capitalization. Our failure to meet such applicable
+listing criteria could prevent us from listing our common stock on the Nasdaq. In the event we are unable to have our shares traded on
+Nasdaq, our common stock could potentially trade on the OTCQX or the OTCQB, each of which is generally considered less liquid and more
+volatile than the Nasdaq. Our failure to have our shares traded on the Nasdaq could make it more difficult for you to trade our shares,
+could prevent our common stock trading on a frequent and liquid basis and could result in the value of our common stock being less than
+it would be if we were able to list our shares on the Nasdaq.
+
+ 
+
+ 
+-
+30
+-
+ 
+
+ 
+
+ 
+
+On
+September 1, 2023, we received written notice from Nasdaq that we were not in compliance with Nasdaq Listing Rule 5550(a)(2), as the
+minimum bid price of our common stock had been below $1.00 per share for 30 consecutive business days. We initially had 180 calendar
+days, or until February 28, 2024, to regain compliance with the minimum bid price requirement. We were unable to regain compliance with
+the minimum bid price requirement by February 28, 2024. On February 29, 2024, we received a letter from Nasdaq notifying us that our
+request for an extension to regain compliance with the minimum bid price requirement has been granted, and we have an additional 180
+calendar days, or until August 26, 2024, to regain compliance with the minimum bid price requirement. To regain compliance, the closing
+bid price of our common stock must meet or exceed $1.00 per share for at least 10 consecutive business days during this 180-calendar
+day period. In the event we do not regain compliance by August 26, 2024, then Nasdaq will notify us of its determination to delist our
+common stock, at which point we would have an option to appeal the delisting determination to a Nasdaq hearings panel. We intend to actively
+monitor the closing bid price of our common stock and may, if appropriate, consider implementing available options to regain compliance
+with the minimum bid price under the Nasdaq Listing Rules.
+
+ 
+
+If
+we are unable to regain compliance with the Nasdaq minimum bid price requirement and Nasdaq delists our common stock and we are unable
+to obtain listing on another national securities exchange, a reduction in some or all of the following may occur, each of which could
+have a material adverse effect on our shareholders:
+
+ 
+
+ 
+
+●
+
+the liquidity of our common
+ stock;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the market price of our
+ common stock;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+our ability to obtain financing
+ for the continuation of our operations;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the number of institutional
+ and general investors that will consider investing in our common stock;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the number of investors
+ in general that will consider investing in our common stock;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the number of market makers
+ in our common stock;
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the availability of information
+ concerning the trading prices and volume of our common stock; and
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+the number of broker-dealers
+ willing to execute trades in shares of our common stock.
+
+ 
+
+A
+significant portion of our total assets are held in equity securities of early-stage companies, which securities are illiquid and subject
+to volatility, which factors could have a material adverse effect on our financial condition and results of operations.
+
+ 
+
+Payment
+related to the consulting and advisory services provided by Netcapital Advisors is often made through equity stakes from such customers.
+As of January 31, 2024 and April 30, 2023, approximately $21.8 million and $22.9 million, respectively, of our holdings are issued by
+companies whose securities do not trade on public markets. The securities issued are typically in private companies with no established
+trading market for their securities, that often have limited operating histories, limited operating cash, and negative cash flows. Additionally,
+these securities are primarily restricted, and are subject to legal holding periods pursuant to Rule 144 or other applicable exemptions.
+The stock price of such issuers is often volatile, unpredictable, and with limited liquidity, and the value of such securities on the
+date of receipt compared to the date when we are able to legally sell the securities may decrease significantly. The value ascribed to
+our assets in our financial statements as of a particular date may be materially greater than or less than the value that would be realized
+if our assets were to be liquidated as of such date. Accordingly, the value of such holding may change over time due to factors that
+we do not control, such as issuance of securities by such companies at lower prices or other market factors. For the period ended January
+31, 2024, we recognized an unrealized loss of approximately $2.7 million on the value of our equity securities due to the decline in
+value of a single issuer, which represented an impairment of more than 80% of the previous value of our holdings in such issuer, which
+resulted in a reduction of our retained earnings. Changes to the value of our holdings could have a material adverse effect on our financial
+condition and results of operations.
+
+ 
+
+ITEM
+2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+
+ 
+
+None.
+
+ 
+
+ITEM
+3. DEFAULTS UPON SENIOR SECURITIES.
+
+ 
+
+None.
+
+ 
+
+ 
+-
+31
+-
+ 
+
+ 
+
+ 
+
+ITEM
+4. MINE SAFETY DISCLOSURES.
+
+ 
+
+Not
+applicable
+.
+
+ 
+
+ITEM
+5. OTHER INFORMATION.
+
+ 
+
+None
+
+ 
+
+ITEM
+6. EXHIBITS.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+31.1*
+
+ 
+
+Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+ 
+
+ 
+
+ 
+
+31.2*
+
+ 
+
+Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+ 
+
+ 
+
+ 
+
+32.1*
+
+ 
+
+Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+ 
+
+ 
+
+ 
+
+32.2*
+
+ 
+
+Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+ 
+
+ 
+
+ 
+
+101.INS*
+
+ 
+
+Inline
+ XBRL Instance Document
+
+ 
+
+ 
+
+ 
+
+101.SCH*
+
+ 
+
+Inline
+ XBRL Taxonomy Extension Schema Document
+
+ 
+
+ 
+
+ 
+
+101.CAL*
+
+ 
+
+Inline
+ XBRL Taxonomy Extension Calculation Linkbase Document
+
+ 
+
+ 
+
+ 
+
+101.DEF*
+
+ 
+
+Inline
+ XBRL Taxonomy Extension Definition Linkbase Document
+
+ 
+
+ 
+
+ 
+
+101.LAB*
+
+ 
+
+Inline
+ XBRL Taxonomy Extension Label Linkbase Document
+
+ 
+
+ 
+
+ 
+
+101.PRE*
+
+ 
+
+Inline
+ XBRL Taxonomy Extension Presentation Linkbase Document
+
+ 
+
+ 
+
+ 
+
+104*
+
+ 
+
+Cover
+ Page Interactive Data File - the cover page from the Registrant’s Quarterly Report on Form 10-Q for the quarter ended January
+ 31, 2024 is formatted in Inline XBRL
+
+ 
+
+*Filed
+herewith
+
+ 
+
+ 
+-
+32
+-
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+Date:
+ March 18, 2024
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+ 
+
+Martin
+ Kay
+
+ 
+
+ 
+
+Chairman
+ of the Board and Chief Executive Officer
+
+(Principal
+ Executive Officer)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen
+ Kraysler
+
+Chief
+ Financial Officer
+
+ 
+
+ 
+
+(
+Principal
+ Financial and Accounting Officer
+)
+
+ 
+
+ 
+-
+33
+-

@@ -1,0 +1,38 @@
+# --- secrets -------------------------------------------------------------
+.env
+*.key
+*.pem
+service-account*.json
+
+# --- the withheld answer key ---------------------------------------------
+# The whole benchmark claim is that the SEC complaint is never in the fleet's
+# context. The Dockerfile already asserts it is absent from the serving image
+# and preflight checks it, but a public repo is a second surface — so it is
+# excluded here too.
+#
+# These are derived from a PUBLIC SEC document (comp26607.pdf on sec.gov), so
+# this is not secrecy, it is keeping the answer key and the system visibly
+# separate. If you would rather publish them for reproducibility — so a judge
+# can re-run score_run.py themselves — delete this block and re-commit. That is
+# a defensible choice; it is just not the reversible one, so it is not default.
+complaint.pdf
+complaint.txt
+ground_truth.json
+
+# --- evidence: COMMITTED ON PURPOSE --------------------------------------
+# cold_prompt_result.json, bench_*.json, run_*.json and scorecard_*.json are
+# NOT ignored. They are the measured evidence behind every number in
+# SUBMISSION.md and LIVE_RUN.md, and preflight hard-FAILS without the
+# contamination transcript. A repo that cites results it does not contain is
+# asking to be taken on trust, which is the opposite of the point here.
+# Checked: none of them contain credentials.
+
+# --- run artefacts -------------------------------------------------------
+*.log
+*.tar.gz
+scorecard.json
+
+# --- python --------------------------------------------------------------
+__pycache__/
+*.pyc
+.pytest_cache/

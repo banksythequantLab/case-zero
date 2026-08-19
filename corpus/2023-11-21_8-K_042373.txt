@@ -1,0 +1,532 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315223042373/form8-k.htm
+FORM: 8-K
+FILED: 2023-11-21
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2023-11-21
+
+2023-11-21
+
+0001414767
+
+NCPL:CommonStock0.001ParValuePerShareMember
+
+2023-11-21
+
+2023-11-21
+
+0001414767
+
+NCPL:RedeemableWarrantsExercisableForOneShareOfCommonStockAtExercisePriceOf0.19Member
+
+2023-11-21
+
+2023-11-21
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+November 21, 2023
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address of principal executive
+ offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+(782)
+
+925-1700
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications
+ pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant
+ to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications
+ pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications
+ pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common Stock, $0.001
+ par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+ Stock Market
+ LLC
+
+Redeemable warrants exercisable
+ for one share of Common Stock at an exercise price of $0.19
+
+ 
+
+NCPLW
+
+ 
+
+The 
+Nasdaq
+ Stock Market
+ LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+5.07 Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On
+November 21, 2023, Netcapital Inc. (the “Company”) held its annual meeting of stockholders, (the “Annual Meeting”).
+At the Annual Meeting, the Company’s stockholders (i) elected each of Martin Kay, Cecilia Lenk, Avi Liss, Steven Geary and Arnold
+Scott as members of the Company’s board of directors (the “Board”) to serve until the Company’s next annual meeting
+of stockholders or until their successors are elected and qualified or until their earlier death, resignation or removal, and (ii) ratified
+the appointment of Fruci & Associates II, PLLC as the Company’s accounting firm for the fiscal year ending April 30, 2024.
+
+ 
+
+Stockholders
+of record at the close of business on September 22, 2023 (the “Record Date”) were entitled to notice of and one vote for
+each share of common stock held by such stockholder. On the Record Date, there were 9,434,132 shares of common stock issued and outstanding,
+of which 5,622,362 shares of common stock were represented at the Annual Meeting, or approximately 59.6% of the total outstanding shares
+of common stock on the Record Date, which was sufficient to constitute a quorum pursuant to the Company’s Bylaws, and to transact
+business.
+
+ 
+
+Set
+forth below are the final voting results for each of the proposals:
+
+ 
+
+Proposal
+No. 1 – Election of directors
+
+ 
+
+Martin
+Kay, Cecilia Lenk, Avi Liss, Steven Geary and Arnold Scott were elected to serve until the Company’s next annual meeting of stockholders
+or until their successors are elected and qualified, or until their earlier death, resignation or removal. The voting results were as
+follows:
+
+ 
+
+Director
+
+ 
+
+Votes
+ For
+
+ 
+
+Votes
+ Withheld
+
+ 
+
+Broker
+ Non-Votes
+
+Martin Kay
+
+ 
+
+3,287,963
+
+ 
+
+232,353
+
+ 
+
+2,102,046
+
+Cecilia Lenk
+
+ 
+
+3,285,715
+
+ 
+
+234,601
+
+ 
+
+2,102,046
+
+Avi Liss
+
+ 
+
+3,284,555
+
+ 
+
+235,761
+
+ 
+
+2,102,046
+
+Steven Geary
+
+ 
+
+3,279,582
+
+ 
+
+240,734
+
+ 
+
+2,102,046
+
+Arnold Scott
+
+ 
+
+3,332,151
+
+ 
+
+188,165
+
+ 
+
+2,102,046
+
+ 
+
+Proposal
+No. 2 – Ratification of the appointment of the independent registered public accounting firm
+
+ 
+
+The
+appointment of Fruci & Associates II, PLLC as the Company’s accounting firm for the fiscal year ending April 30, 2024 was ratified.
+The voting results were as follows:
+
+ 
+
+Votes
+ For
+
+ 
+
+Votes
+ Against
+
+ 
+
+Abstentions
+
+Broker
+ Non-Votes
+
+4,753,810
+
+ 
+
+864,613
+
+ 
+
+3,939
+
+0
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+104
+
+ 
+
+Cover Page Interactive
+ Data File (embedded within the Inline XBRL document)
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+Name:
+
+Coreen Kraysler
+
+ 
+
+Title:
+
+Chief Financial Officer
+
+ 
+
+ 
+
+ 
+
+Dated: November 21, 2023
+
+ 
+
+ 
+
+ 
+
+-
+3
+-

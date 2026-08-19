@@ -1,0 +1,443 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224007661/form8-k.htm
+FORM: 8-K
+FILED: 2024-02-23
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2024-02-23
+
+2024-02-23
+
+0001414767
+
+NCPL:CommonStock0.001ParValuePerShareMember
+
+2024-02-23
+
+2024-02-23
+
+0001414767
+
+NCPL:RedeemableWarrantsExercisableForOneShareOfCommonStockAtExercisePriceOf0.19Member
+
+2024-02-23
+
+2024-02-23
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+February 23, 2024
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State or other jurisdiction of
+
+incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(Zip
+ Code)
+
+ 
+
+(782)
+
+925-1700
+
+(Registrant’s
+telephone number, including area code)
+
+ 
+
+Not
+Applicable
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written
+ communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting
+ material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+Redeemable
+ warrants exercisable for one share of Common Stock at an exercise price of $0.19
+
+ 
+
+NCPLW
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+5.07 Submission of Matters to a Vote of Security Holders.
+
+ 
+
+On
+February 23, 2024, Netcapital Inc. (the “Company”) held a special meeting of shareholders, (the “Special Meeting”).
+At the Special Meeting, the Company’s shareholders (i) approved the issuance of common stock purchase warrants and placement agent
+warrants issued in connection with the Company’s December 2023 public offering, including shares of common stock issuable upon
+exercise of such common stock purchase warrants and placement agent warrants, in accordance with Nasdaq Listing Rule 5635(d) (the “Warrant
+Shareholder Approval Proposal”); and (ii) approved the authorization for the adjournment of the Special Meeting if necessary or
+appropriate, including to solicit additional proxies in the event that there are not sufficient votes at the time of the Special Meeting
+or adjournment or postponement thereof to approve any of the foregoing proposals (the “Adjournment Proposal”).
+
+ 
+
+Shareholders
+of record at the close of business on December 26, 2023 (the “Record Date”) were entitled to notice of and one vote for each
+share of common stock held by such shareholder. On the Record Date, there were 9,459,132 shares of common stock issued and outstanding,
+of which 4,768,882 shares of common stock were represented at the Special Meeting, or approximately 50.42% of the total outstanding shares
+of common stock on the Record Date, which was sufficient to constitute a quorum pursuant to the Company’s Bylaws, and to transact
+business.
+
+ 
+
+Set
+forth below are the final voting results for each of the proposals:
+
+ 
+
+Proposal
+No. 1 – Warrant Shareholder Approval Proposal
+
+ 
+
+The
+issuance of common stock purchase warrants and placement agent warrants issued in connection with the Company’s December 2023 public
+offering, including shares of common stock issuable upon exercise of such common stock purchase warrants and placement agent warrants,
+in accordance with Nasdaq Listing Rule 5635(d) was approved. The voting results were as follows.
+
+ 
+
+Votes
+ For
+
+ 
+
+Votes
+ Against
+
+ 
+
+Abstentions
+
+3,417,664
+
+ 
+
+1,017,969
+
+ 
+
+333,249
+
+ 
+
+Proposal
+No. 2 – Adjournment Proposal
+
+ 
+
+The
+authorization for the adjournment of the Special Meeting if necessary or appropriate, including to solicit additional proxies in the
+event that there are not sufficient votes at the time of the Special Meeting or adjournment or postponement thereof to approve any of
+the foregoing proposals was approved. The voting results were as follows
+
+ 
+
+Votes
+ For
+
+ 
+
+Votes
+ Against
+
+ 
+
+Abstentions
+
+3,939,968
+
+ 
+
+760,037
+
+ 
+
+68,877
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin
+Kay
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+ 
+
+ 
+
+ 
+
+Dated:
+ February 23, 2024
+
+ 
+
+ 
+
+ 
+
+-
+3
+-

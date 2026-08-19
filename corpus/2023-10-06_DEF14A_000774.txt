@@ -1,0 +1,5321 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000774/ncpl_def14a.htm
+FORM: DEF 14A
+FILED: 2023-10-06
+COMPANY: Netcapital Inc.
+
+DEF 14A
+
+1
+
+ncpl_def14a.htm
+
+ 
+
+ 
+
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+Washington, D.C. 20549
+
+ 
+
+SCHEDULE 14A
+
+ 
+
+Proxy Statement Pursuant to Section 14(a) of the
+Securities 
+
+Exchange Act of 1934
+
+(Amendment No. )
+
+ 
+
+Filed by the Registrant 
+☒
+
+ 
+
+Filed by a Party other than the Registrant 
+☐
+
+ 
+
+ 
+
+Check the appropriate box:
+
+ 
+
+☐
+
+Preliminary Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+
+ 
+
+ 
+
+☒
+
+Definitive Proxy Statement
+
+ 
+
+ 
+
+☐
+
+Definitive Additional Materials
+
+ 
+
+ 
+
+☐
+
+Soliciting Material Pursuant to Section 240.14a-12
+
+ 
+
+NETCAPITAL INC.
+
+(Name of Registrant As Specified In Its Charter)
+
+ 
+
+Payment of Filing Fee (Check all boxes that apply):
+
+ 
+
+☒
+
+No fee required.
+
+ 
+
+ 
+
+☐
+
+Fee paid previously with preliminary materials.
+
+ 
+
+ 
+
+☐
+
+Fee computed on table in exhibit required by Item 25(b) of Schedule 14A (17 CFR 240.14a-101) per Item 1 of this Schedule and Exchange Act Rules 14c-5(g) and 0-11.
+
+1
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+1 Lincoln Street,
+
+Suite 2400
+
+Boston, MA 02111
+
+ 
+
+NOTICE
+OF ANNUAL MEETING OF STOCKHOLDERS
+
+ 
+
+TO
+BE HELD NOVEMBER 21, 2023
+
+ 
+
+TO
+OUR STOCKHOLDERS:
+
+ 
+
+You
+are cordially invited to attend the Annual Meeting of Stockholders (the “Annual Meeting”) of Netcapital Inc., a Utah corporation
+(together with its subsidiaries, the “Company”, “Netcapital”, “we”, “us” or “our”),
+which will be held on November 21, 2023, at 11:00am ET. The Annual Meeting will be a virtual meeting to be held as a listen-only conference
+call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If you encounter any technical difficulties
+with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or email 
+proxy@equitystock.com.
+
+The meeting will be held for the following purposes:
+
+ 
+
+1.
+
+To elect members
+ of the Company’s board directors (the “Board”) to serve for a one-year term to expire at the 2024 annual meeting
+ of shareholders;
+
+ 
+
+ 
+
+2.
+
+To ratify the appointment
+ of Fruci & Associates II, PLLC (“Fruci”) as our independent registered public accounting firm for the fiscal year
+ ending April 30, 2024; and
+
+ 
+
+ 
+
+3.
+
+any other business that
+ may properly come before the 2023 Annual Meeting and any adjournment or postponement thereof.
+
+ 
+
+A
+copy of the Annual Report of the Company’s operations during the fiscal year ended April 30, 2023 is available on request or at
+www.sec.gov.
+
+ 
+
+The Board of Directors has fixed
+the close of business on September 22, 2023 as the record date for the determination of stockholders entitled to receive notice of and
+to vote at the Annual Meeting of Stockholders and any adjournment or postponement thereof.
+
+ 
+
+ 
+
+By Order of the Board of Directors
+
+ 
+
+ 
+
+ 
+
+/s/ Martin Kay
+
+ 
+
+Name: Martin Kay
+
+ 
+
+Title: Chief Executive Officer
+
+October 6, 2023
+
+ 
+
+Boston, Massachusetts
+
+ 
+
+ 
+
+ 
+
+ 
+
+YOUR
+VOTE IS IMPORTANT
+
+ 
+
+WHETHER
+OR NOT YOU PLAN TO ATTEND THE ANNUAL MEETING IN PERSON, TO ASSURE THAT YOUR SHARES WILL BE REPRESENTED, PLEASE COMPLETE, DATE, SIGN AND
+RETURN THE ENCLOSED PROXY WITHOUT DELAY IN THE ENCLOSED ENVELOPE, WHICH REQUIRES NO ADDITIONAL POSTAGE IF MAILED IN THE UNITED STATES.
+IF YOU ATTEND THE ANNUAL MEETING, YOU MAY VOTE IN PERSON IF YOU WISH TO DO SO EVEN IF YOU HAVE PREVIOUSLY SENT IN YOUR PROXY.
+
+ 
+
+ 
+
+2
+
+ 
+
+PROXY
+STATEMENT
+
+ 
+
+ANNUAL
+MEETING OF STOCKHOLDERS
+
+TO
+BE HELD ON NOVEMBER 21, 2023
+
+ 
+
+GENERAL
+INFORMATION ABOUT THE PROXY STATEMENT AND ANNUAL MEETING
+
+ 
+
+General
+
+ 
+
+Netcapital
+Inc. (the “Company,” “Netcapital,” “we,” “us,” or “our”), a Utah corporation
+is providing this proxy statement in connection with the solicitation by the Company’s board of directors of proxies to be voted
+at the 
+annual
+meeting (“Annual Meeting”) of stockholders to be held virtually at 11:00am ET on November 21, 2023 as a listen-only conference
+call by calling 877-407-3088 (Toll Free). There will not be a physical meeting location. If you encounter any technical difficulties
+with the virtual meeting platform on the meeting day, please call 877-804-2062 (toll free) or email proxy@equitystock.com.
+
+ 
+
+On
+or about October 11, 2023, we will begin mailing a Notice of Internet Availability of Proxy Materials (the “Notice”) to our
+stockholders (other than those who previously requested electronic or paper delivery of proxy materials), directing stockholders to a
+website where they can access our proxy materials, including this proxy statement and the 2023 Annual Report, and view instructions on
+how to vote. If you would prefer to receive a paper copy of our proxy materials, please follow the instructions included in the Notice.
+If you have previously elected to receive our proxy materials electronically, you will continue to receive access to those materials
+via e-mail unless you elect otherwise.
+
+ 
+
+If
+you are a stockholder of record, you may attend the Annual Meeting in the following ways:
+
+ 
+
+ 
+
+● 
+
+Access an audio-only
+ conference call by calling 877-407-3088 (Toll Free) or +1 877-407-3088 (International);
+
+ 
+
+ 
+
+ 
+
+ 
+
+●
+
+Instructions on how to
+ attend and participate in the virtual Annual Meeting, including how to demonstrate proof of stock ownership, are also available as
+ follows:
+
+ 
+
+Stockholders
+of Record
+
+ 
+
+ 
+
+●
+
+Stockholders
+ of record as of the Record Date can attend the Annual Meeting by accessing the live audio conference call at +1-877-407-3088 and
+ presenting the unique 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+Owners
+
+ 
+
+● 
+
+If
+ you were a beneficial owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage firm, bank or
+ other similar agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have received a legal
+ proxy from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer, at 
+proxy@equitystock.com
+ 
+and should be labeled “Legal
+ Proxy” in the subject line. Please include proof from your broker, bank or other agent of your legal proxy (e.g., a forwarded
+ email from your broker, bank or other agent with your legal proxy attached, or an image of your valid proxy attached to your email).
+ Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m. Eastern Time, on November 19, 2023. You
+ will then receive a confirmation of your registration, with a control number, by email from Equity Stock Transfer. At the time of
+ the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit control number. 
+
+ 
+
+ 
+
+● 
+
+Stockholders
+ may submit live questions on the conference line while attending the virtual Annual Meeting.
+
+ 
+
+3
+
+ 
+
+ 
+
+If
+you are a stockholder of record, you may vote your shares in the following ways:
+
+ 
+
+Whether
+you plan to attend the Annual Meeting or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive through
+this solicitation, and that are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed via
+Internet. You may specify whether your shares should be voted for or “withheld” for each nominee for director, and whether
+your shares should be voted for, against or abstain with respect to each of the other proposals. Except as set forth below, if you properly
+submit a proxy without giving specific voting instructions, your shares will be voted in accordance with the Board of Director’s
+recommendations as noted below. The Board has appointed Martin Kay, to serve as the proxy for the Annual Meeting. Voting by proxy will
+not affect your right to attend the Annual Meeting. If your shares are registered directly in your name through our stock transfer agent,
+Equity Stock Transfer, or you have stock certificates, you may vote:
+
+ 
+
+ 
+
+1.
+
+By Internet.
+ The website address for Internet voting is www.netcapital.vote. Please click “Vote Your Proxy” and enter your control
+ number.
+
+ 
+
+ 
+
+2.
+
+By Email. Mark,
+ date, sign and email the Proxy Card to proxy@equitystock.com, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+3.
+
+By mail. Mark,
+ date, sign and mail promptly the Proxy Card, to Equity Stock Transfer at 237 W 37
+th
+ St. Suite 602 New York, NY 10018,
+ ATTN: Shareholder Services.
+
+ 
+
+ 
+
+4.
+
+By Fax. Mark,
+ date, sign and fax the Proxy Card to +1-646-201-9006, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+5.
+
+At the Annual
+  Meeting. If you are a shareholder of record, you can participate and vote your shares in the Annual Meeting by visiting www.netcapital.vote
+ and then clicking “Vote Your Proxy”. You may then enter the control number included on your Proxy Card and view the proposals
+ and cast your vote.
+
+ 
+
+If
+you hold your shares in “street name,” your bank, broker or other nominee should provide to you a request for voting instructions
+along with the Company’s proxy solicitation materials. By completing the voting instruction card, you may direct your nominee how
+to vote your shares. Alternatively, if you want to vote your shares during the Annual Meeting, you must contact your nominee directly
+in order to obtain a proxy issued to you by your nominee holder. Note that a broker letter that identifies you as a stockholder is not
+the same as a nominee-issued proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m. Eastern Time
+on November 19, 2023, you will not be able to vote your nominee held shares during the Annual Meeting.
+
+ 
+
+QUESTIONS
+AND ANSWERS ABOUT THE ANNUAL MEETING
+
+ 
+
+These
+Questions and Answers are only summaries of the matters they discuss. They do not contain all of the information that may be important
+to you. You should read carefully the entire document, including any annexes to this proxy statement.
+
+ 
+
+Q:
+
+Why
+ are we holding the 2023 Annual meeting?
+
+ 
+
+ 
+
+A:
+
+As
+ a matter of good corporate practice, and in compliance with applicable corporate law and the Nasdaq Stock Market Rules, we hold a
+ meeting of shareholders annually. This year’s meeting will be held on November 21, 2023. There will be at least two items of
+ business that must be voted on by our shareholders at the 2023 Annual Meeting, and our Board is seeking your proxy to vote on these
+ items. This proxy statement contains important information about us and the matters that will be voted on at the 2023 Annual Meeting.
+ Please read these materials carefully so that you have the information you need to make informed decisions.
+
+ 
+
+4
+
+ 
+
+ 
+
+Q:
+
+Why
+ did I receive a notice in the mail regarding the Internet availability of proxy materials instead of a full set of proxy materials?
+
+ 
+
+ 
+
+A:
+
+In
+ accordance with the rules adopted by the U.S. Securities and Exchange Commission (“SEC”), we may furnish proxy materials,
+ including this proxy statement and our 2023 Annual Report, to our stockholders by providing access to such documents on the Internet
+ instead of mailing printed copies. Most stockholders will not receive printed copies of the proxy materials unless they request them.
+ Instead, the Notice, which we will begin mailing to our stockholders on or about October 11, 2023, will instruct you as to how you
+ may access and review all of the proxy materials over the Internet. The Notice also instructs you as to how you may submit your proxy
+ on the Internet. If you would like to receive a paper or email copy of our proxy materials, you should follow the instructions for
+ requesting such materials in the Notice.
+
+ 
+
+Q:
+
+Who
+ is entitled to vote?
+
+ 
+
+ 
+
+A:
+
+Only
+ stockholders of record as of the close of business on September 22, 2023 (the “Record Date”) will be entitled to notice
+ of, and to vote at, the Annual Meeting. A list of stockholders eligible to vote at the Annual Meeting is available for inspection
+ at any time up to the Annual Meeting. If you would like to inspect the list, please call our Corporate Secretary at (781) 925-1700
+ to arrange a visit to our offices.
+
+ 
+
+ 
+
+Q:
+
+How
+ many shares of common stock can vote?
+
+ 
+
+ 
+
+A:
+
+There
+ were 9,434,132 shares of common stock issued and outstanding as of the close of business on the Record Date. Each stockholder entitled
+ to vote at the Annual Meeting may cast one vote for each share of common stock owned by him, her or it which has voting power upon
+ each matter considered at the Annual Meeting.
+
+ 
+
+Q:
+
+What
+ may I vote on?
+
+ 
+
+ 
+
+A:
+
+You
+ may vote on the following matters:
+
+ 
+
+1.
+
+To elect members
+ of the Company’s board directors (the “Board”) to serve for a one-year term to expire at the 2024 annual meeting
+ of shareholders;
+
+ 
+
+ 
+
+2.
+
+To ratify the appointment
+ of Fruci & Associates II, PLLC (“Fruci”) as our independent registered public accounting firm for the fiscal year
+ ending April 30, 2024; and
+
+ 
+
+ 
+
+3.
+
+any other business that
+ may properly come before the 2023 Annual Meeting and any adjournment or postponement thereof.
+
+ 
+
+Q:
+
+Will
+ any other business be presented for action by stockholders at the Annual Meeting?
+
+ 
+
+ 
+
+A:
+
+The
+ Board knows of no other matters that will be presented for consideration at the Annual Meeting. If any other matters are properly
+ brought before the Annual Meeting, it is the intention of the persons named in the accompanying proxy to vote on those matters in
+ accordance with their best judgment.
+
+ 
+
+Q:
+
+How
+ does the Board recommend that I vote on each of the proposals?
+
+ 
+
+ 
+
+A:
+
+Our
+ Board recommends a vote “
+FOR
+” the director nominees (Proposal 1) and “
+FOR
+” the ratification
+ of the appointment of Fruci as our independent registered public accounting firm for the fiscal year ending April 30, 2024 (Proposal
+ 2).
+
+ 
+
+Q:
+
+How
+ do I vote my shares?
+
+ 
+
+ 
+
+A:
+
+Whether
+ you plan to attend the Annual Meeting or not, we urge you to vote by proxy. All shares represented by valid proxies that we receive
+ through this solicitation, and that are not revoked, will be voted in accordance with your instructions on the proxy card or as instructed
+ via Internet. You may specify whether your shares should be voted for or “withheld” for the proposal to ratify the appointment
+ of Fruci as our independent registered public accounting firm for the fiscal year ending April 30, 2024. Except as set forth below,
+ if you properly submit a proxy without giving specific voting instructions, your shares will be voted in accordance with the Board
+ of Director’s recommendations as noted below. The Board has appointed Martin Kay, to serve as the proxy for the Annual Meeting.
+ Voting by proxy will not affect your right to attend the Annual Meeting. If your shares are registered directly in your name through
+ our stock transfer agent, Equity Stock Transfer, or you have stock certificates, you may vote:
+
+ 
+
+5
+
+ 
+
+ 
+
+ 
+
+1. 
+
+By Internet.
+ The website address for Internet voting is www.netcapital.vote. Please click “Vote Your Proxy” and enter your control
+ number.
+
+ 
+
+ 
+
+2.
+
+By Email. Mark,
+ date, sign and email the Proxy Card to proxy@equitystock.com, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+3.   
+
+By mail. Mark,
+ date, sign and mail promptly the Proxy Card, to Equity Stock Transfer at 237 W 37
+th
+ St. Suite 602 New York, NY 10018 ATTN:
+ Shareholder Services.
+
+  
+
+ 
+
+4.   
+
+By Fax. Mark,
+ date, sign and fax the Proxy Card to 646-201-9006, ATTN: Shareholder Services.
+
+ 
+
+ 
+
+5. 
+
+At the Annual
+ Meeting. If you are a shareholder of record, you can participate and vote your shares in the Annual Meeting by visiting www.netcapital.vote
+ and then clicking “Vote Your Proxy”. You may then enter the control number included on your Proxy Card and view the proposals
+ and cast your vote.
+
+ 
+
+If
+you hold your shares in “street name,” your bank, broker or other nominee should provide to you a request for voting instructions
+along with the Company’s proxy solicitation materials. By completing the voting instruction card, you may direct your nominee how
+to vote your shares. Alternatively, if you want to vote your shares during the Annual Meeting, you must contact your nominee directly
+in order to obtain a proxy issued to you by your nominee holder. Note that a broker letter that identifies you as a stockholder is not
+the same as a nominee-issued proxy. If you fail to present a nominee-issued proxy to proxy@equitystock.com by 5:00 p.m. Eastern Time
+on November 19, 2023, you will not be able to vote your nominee held shares during the Annual Meeting.
+
+ 
+
+Q:
+
+What
+ is a proxy?
+
+ 
+
+ 
+
+A:
+
+A
+ proxy is a person you appoint to vote on your behalf. By using any of the methods discussed above, you will be appointing as your
+ proxy Martin Kay, our Chief Executive Officer. He may act on your behalf, and will have the authority to appoint a substitute to
+ act as proxy. Whether or not you expect to virtually attend the Annual Meeting, we request that you please use the means available
+ to you to vote by proxy so as to ensure that your shares of common stock may be voted.
+
+ 
+
+Q:
+
+How
+ Will my Shares be Voted if I Give No Specific Instruction?
+
+ 
+
+ 
+
+A:
+
+We
+ must vote your shares as you have instructed. If there is a matter on which a stockholder
+ of record has given no specific instruction but has authorized us generally to vote the shares,
+ they will be voted “
+FOR
+” the director nominees and “
+FOR
+”
+ the ratification of the appointment of Fruci as our independent registered public accounting
+ firm for the fiscal year ending April 30, 2024.
+
+ 
+
+This
+ authorization would exist, for example, if a stockholder of record merely signs, dates and returns the proxy card but does not indicate
+ how its shares are to be voted on one or more proposals. If other matters properly come before the Annual Meeting and you do not
+ provide specific voting instructions, your shares will be voted at the discretion of the proxies.
+
+ 
+
+Q:
+
+What
+ if I want to change my vote or revoke my proxy?
+
+ 
+
+ 
+
+A:
+
+If
+ your shares are registered directly in your name, you may revoke your proxy and change your vote at any time before the Annual Meeting.
+ To do so, you must do one of the following:
+
+ 
+
+ 
+
+1. 
+
+Vote
+ over the Internet as instructed above. Only your latest Internet vote is counted. You may not revoke or change your vote over the
+ Internet after 7:00 p.m. Eastern Time on November 20, 2023.
+
+ 
+
+ 
+
+2.  
+
+Sign a new
+ proxy and submit it by mail to Equity Stock Transfer at 237 W 37
+th
+ St. Suite 602 New York, NY 10018 ATTN: Shareholder
+ Services, who must receive the proxy card no later than 7:00pm on November 20, 2023. Only your latest dated proxy will be counted.
+
+ 
+
+ 
+
+3.  
+
+Virtually attend
+ the Annual Meeting and vote electronically at the meeting. Virtually attending the Annual Meeting alone will not revoke your Internet
+ vote or proxy submitted by mail, as the case may be.
+
+ 
+
+ 
+
+4.  
+
+Give our Corporate
+ Secretary written notice before or at the Annual Meeting that you want to revoke your proxy.
+
+  
+
+6
+
+ 
+
+ 
+
+If
+your shares are held in “street name,” you may submit new voting instructions with a later date by contacting your bank,
+brokerage firm, or other nominee. You may also vote electronically at the Annual Meeting, which will have the effect
+of revoking any previously submitted voting instructions, if you obtain a broker’s legal proxy as described in the answer to the
+question “How do I vote my shares?” above.
+
+ 
+
+Q:
+
+How
+ many votes are needed to approve each proposal?
+
+ 
+
+ 
+
+A:
+
+ 
+
+Proposal
+
+ 
+
+Votes
+ Required
+
+ 
+
+Voting
+
+ Options
+
+ 
+
+Proposal No. 1: Election of
+ Directors
+
+ 
+
+Plurality of the votes
+ cast (the five directors receiving the most “FOR” votes)
+
+ 
+
+“FOR”
+
+“AGAINST”
+
+“ABSTAIN”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Proposal No. 2: Ratification
+ of Appointment of Independent Registered Public Accounting Firm
+
+ 
+
+The affirmative vote of
+ the holders of a majority in voting power of the votes cast affirmatively or negatively (excluding abstentions) at the 2023 Annual
+ Meeting by the holders entitled to vote thereon.
+
+ 
+
+“FOR”
+
+“AGAINST”
+
+“ABSTAIN”
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Q:
+
+What
+ is a quorum?
+
+ 
+
+ 
+
+A:
+
+The
+ holders of more than 50% of the 9,434,132 shares of common stock outstanding as of the Record Date, either present or represented by
+ proxy, constitute a quorum. A quorum is necessary in order to conduct the Annual Meeting. If you choose to have your shares
+ represented by proxy at the Annual Meeting, you will be considered part of the quorum. Broker non-votes and abstentions will be
+ counted as present for the purpose of establishing a quorum. If a quorum is not present by attendance at the Annual Meeting or
+ represented by proxy, the stockholders present by attendance at the meeting or by proxy may adjourn the Annual Meeting until a
+ quorum is present.
+
+ 
+
+Q:
+
+What
+ is a Broker Non-Vote?
+
+ 
+
+ 
+
+A:
+
+If
+ your shares are held in street name, you must instruct the organization who holds your shares how to vote your shares. If you sign
+ your proxy card but do not provide instructions on how your broker should vote on “routine” proposals, your broker will
+ vote your shares as recommended by the Board. If you do not provide voting instructions, your shares will not be voted on any “non-routine”
+ proposals. This vote is called a “broker non-vote.”
+
+ 
+
+Q:
+
+Do
+ the directors and officers of the Company have an interest in the outcome of the matters to be voted on?
+
+ 
+
+ 
+
+A:
+
+Directors
+ and executive officers, who, as of the Record Date, had beneficial ownership (or had the right to acquire beneficial ownership within
+ sixty days following the Record Date) of approximately 23.62% of our outstanding common stock and are expected to vote in favor of
+ the nominees and the ratification of Fruci.
+
+ 
+
+Q:
+
+Who
+ will count the votes?
+
+ 
+
+ 
+
+A:
+
+A
+ representative of Equity Stock Transfer, will serve as our inspector of elections and will count the votes cast by proxy and the
+ votes cast in person at the Annual Meeting.
+
+  
+
+Q:
+
+How
+ do I attend the Annual Meeting?
+
+ 
+
+ 
+
+A:
+
+Stockholders
+ of Record:
+ Stockholders of record as of the Record Date can attend the Annual Meeting
+ by accessing the live audio conference call at +1-877-407-3088 and presenting the unique
+ 12-digit control number on the proxy card.
+
+ 
+
+Beneficial
+ Owners:
+ If you were a beneficial owner of record as of the Record Date (i.e., you held your shares in an account at a brokerage
+ firm, bank or other similar agent), you will need to obtain a legal proxy from your broker, bank or other agent. Once you have received
+ a legal proxy from your broker, bank or other agent, it should be emailed to our transfer agent, Equity Stock Transfer, at 
+proxy@equitystock.com
+ 
+and should be labeled “Legal
+ Proxy” in the subject line. Please include proof from your broker, bank or other agent of your legal proxy (e.g., a forwarded
+ email from your broker, bank or other agent with your legal proxy attached, or an image of your valid proxy attached to your email).
+ Requests for registration must be received by Equity Stock Transfer no later than 5:00 p.m. Eastern Time, on November 19, 2023. You
+ will then receive a confirmation of your registration, with a control number, by email from Equity Stock Transfer. At the time of
+ the meeting, access the live audio conference call at +1-877-407-3088 and present your unique 12-digit control number. 
+
+ 
+
+7
+
+ 
+
+ 
+
+Q:
+
+Why
+ a virtual meeting?
+
+ 
+
+ 
+
+A:
+
+We
+ are pleased to offer our stockholders a completely virtual Annual Meeting, which provides worldwide access, improved communication
+ and cost savings for our stockholders and the Company.
+
+ 
+
+Q:
+
+What
+ if during the check-in time or during the meeting I have technical difficulties or trouble accessing the virtual audio conference
+ line?
+
+ 
+
+ 
+
+A:
+
+We
+ will have technicians ready to assist you with any technical difficulties you may have in accessing the virtual Annual Meeting. If
+ you encounter any difficulties, please call: 877-804-2062 (Toll Free) or email 
+proxy@equitystock.com
+.
+ 
+
+ 
+
+Q:
+
+Are
+ there any expenses associated with collecting the stockholder votes?
+
+ 
+
+ 
+
+A:
+
+All
+ of the expenses involved in preparing, assembling and mailing these proxy materials and all costs of soliciting proxies will be paid
+ by us. In addition to the solicitation by mail, proxies may be solicited by our officers and other employees by telephone or in person.
+ Such persons will receive no compensation for their services other than their regular salaries. Arrangements will also be made with
+ brokerage houses and other custodians, nominees and fiduciaries to forward solicitation materials to the beneficial owners of the
+ shares held of record by such persons, and we may reimburse such persons for reasonable out of pocket expenses incurred by them in
+ forwarding solicitation materials. If you have any questions or require any assistance with completing your proxy, please contact
+ Equity Stock Transfer by telephone at 877-804-2062 (Toll Free) or email 
+proxy@equitystock.com
+.
+ 
+
+ 
+
+Q:
+
+Do
+ I have Dissenters’ Rights of Appraisal?
+
+ 
+
+ 
+
+A:
+
+Our
+ stockholders do not have appraisal rights under Utah law or under our governing documents with respect to the matters to be voted
+ upon at the Annual Meeting.
+
+ 
+
+Q:
+
+Where
+ can I find the voting results?
+
+ 
+
+ 
+
+A:
+
+Voting
+ results will be reported in a Current Report on Form 8-K, which we will file with the SEC within four business days following the
+ Annual Meeting.
+
+  
+
+Q:
+
+How
+ do I obtain an Annual Report on Form 10-K
+
+ 
+
+ 
+
+A:
+
+If
+ you would like a copy of our Annual Report on Form 10-K for the fiscal year ended April 30,
+ 2023 that we filed with the SEC, we will send you one without charge. Please write to:
+
+ 
+
+NETCAPITAL INC.
+
+1 Lincoln Street,
+
+Suite 2400
+
+Boston, MA 02111
+
+Attn: Corporate Secretary
+
+ 
+
+All
+ of our SEC filings are also available free of charge under the heading “SEC Filings” in the “Investors” section
+ of our website at 
+www.netcapitalinc.com
+.
+ 
+
+ 
+
+8
+
+ 
+
+ 
+
+PROPOSAL
+1
+
+ELECTION
+OF DIRECTORS
+
+ 
+
+Our
+Board currently consists of five directors, and their terms will expire at the 2023 Annual Meeting. Directors are elected at the annual
+meeting of shareholders each year and hold office until their resignation or removal or their successors are duly elected and qualified.
+
+ 
+
+Martin
+Kay, Cecilia Lenk, Steven Geary, Avi Liss and Arnold Scott have each been nominated to serve as directors and have agreed to stand for
+election. If the nominees are elected at the 2023 Annual Meeting, then each nominee will serve for a one-year term expiring at the
+2024 annual meeting of shareholders and until his or her successor is duly elected and qualified.
+
+ 
+
+A
+plurality of the votes cast at the 2023 Annual Meeting is required to elect a nominee as a director. With respect to Proposal 1, you
+may vote “FOR,” “AGAINST” or “ABSTAIN” with respect to each director nominee. Any nominee receiving
+more votes “FOR” than “AGAINST” will be elected. If you “ABSTAIN,” your shares will be counted as
+present and entitled to vote for purposes of establishing a quorum but will not be counted for purposes of determining the number of
+votes cast.
+
+ 
+
+If
+no contrary indication is made, proxies will be voted “
+FOR
+ Martin Kay, Cecilia Lenk, Steven Geary, Avi Liss and Arnold Scott
+or, in the event that any such individual is unable to serve as a director at the time of the election (which is not currently expected),
+for any nominee who is designated by our Board to fill the vacancy.
+
+ 
+
+Recommendation
+of our Board
+
+ 
+
+Our
+Board unanimously recommends that the shareholders vote “
+FOR
+” the election of all of our director nominees at the
+2023 Annual Meeting.
+
+ 
+
+Nominees
+for Election to the Board for a Term Expiring at the 2024 Annual Meeting of Shareholders
+
+ 
+
+Nominee
+
+Age
+
+Position(s)
+
+Martin
+ Kay
+
+59
+
+President,
+ Chief Executive Officer and Director
+
+Cecilia
+ Lenk
+
+68
+
+Director,
+ CEO of Netcapital Advisors Inc.
+
+Avi
+ Liss
+
+43
+
+Secretary
+ and Director
+
+Steven
+ Geary
+
+56
+
+Director
+
+Arnold
+ Scott
+
+80
+
+Director
+
+ 
+
+Martin
+Kay
+
+Martin
+Kay has served as a Director of the Company since May 2022 and as our Chief Executive Officer since January 2023. He was formerly a Managing
+Director at Accenture Strategy, a position he held from October 2015 until December 2022 and holds a BA in physics from Oxford University
+and an MBA from Stanford University Graduate School of Business. Mr. Kay is an experienced C-suite advisor and digital media entrepreneur,
+working at the intersection of business and technology. His experience includes oversight of our funding portal when he served on the
+board of managers of Netcapital Systems LLC from 2017 – 2021.
+
+9
+
+ 
+
+Cecilia
+Lenk
+
+ 
+
+Cecilia
+Lenk has served as a director since July 2017. She served as our Chief Executive Officer from July 2017 to January 2023 and currently
+serves as the Chief Executive Officer of our wholly owned subsidiary, Netcapital Advisors Inc. Prior to that, she worked as a self-employed
+business consultant and a town councilor in Watertown, MA for five years. Ms. Lenk has specialized in technology and health care. Formerly
+Vice President of Technology and Digital Design at Decision Resources Inc., a global company serving the biopharmaceutical market, she
+oversaw the implementation of new technologies, products, and business processes. Prior to joining Decision Resources, Cecilia founded
+a technology firm that built a patented platform for online research. She has managed large-scale technology projects for leading corporations,
+universities, government agencies, and major non-profit organizations. Ms. Lenk has a Ph.D. in Biology from Harvard University and a
+B.A. from Johns Hopkins University in Geography and Environmental Engineering. She has served on a number of non-profit boards, including
+Chair of the Johns Hopkins Engineering Alumni. She is currently on the Alumni Advisory Board for the Hopkins School of Engineering.
+
+Ms.
+Lenk brings to our Board key leadership experience in high-growth technology companies and possesses a strong mix of strategic, finance,
+and operating skills.
+
+ 
+
+Avi
+Liss
+
+ 
+
+Avi
+Liss has served as a Director and Secretary of the Company since August 2010. From August 2009 to present, he has served as the President
+of Liss Law, LLC, a law firm specializing in real estate conveyances. Prior to founding Liss Law, he worked as a judicial law clerk for
+the Honorable Stephen S. Mitchell, a bankruptcy court judge for the Eastern District of Virginia. Mr. Liss is well qualified to serve
+as a director of the company due to his knowledge and working experience with legal governance matters.
+
+ 
+
+Steven
+Geary, Director
+
+ 
+
+Steven
+Geary has served as a Director of the Company since June 2006. Since 2009, he has served in several management positions at Statera and
+is currently the Vice President of Strategy and Business Development. From 2008 to 2009, he was the Chief Executive Officer of ImproveSmart,
+Inc. From April 2006 to June 2008, he served as our President and Chief Operating Officer, and as our Chief Executive Officer from June
+2008 to December 2009. Mr. Geary has significant business development and brand marketing expertise in consumer products and services.
+
+ 
+
+Arnold
+Scott
+
+ 
+
+Arnold
+Scott has served as a Director of the Company since December 2022.  In addition, Mr. Scott currently serves as a founding member
+of the Boston Chapter of the Private Directors Association, a position he has held since 2020.  Previously, he served as a director
+of ChipBrain, a position he held from 2021 - 2022, a director and Vice Chairman of First Commons Bank from 2008-2017, as a director of
+Perillon Software from 2015-2019 and as a manager on the board of managers of Netcapital Systems LLC from 2017 - 2020, an affiliate and
+shareholder of Netcapital Inc.  In addition, he previously has served as a member of the board of trustees of Alderson Broaddus
+University from 2013 to 2020. He has also served on several advisory boards including Vestmark, Successimo, ai Resources, and The Capital
+Network.
+
+ 
+
+Family
+Relationships
+
+ 
+
+There
+are no family relationships among our directors or officers.
+
+ 
+
+10
+
+ 
+
+Involvement
+in Certain Legal Proceedings
+
+ 
+
+We
+are not aware of any of our directors or officers being involved in any legal proceedings in the past ten years relating to any matters
+in bankruptcy, insolvency, criminal proceedings (other than traffic and other minor offenses), or being subject to any of the items set
+forth under Item 401(f) of Regulation S-K.
+
+ 
+
+CORPORATE
+GOVERNANCE
+
+General
+
+ 
+
+We
+believe that good corporate governance is important to ensure that our Company is managed for the long-term benefit of our shareholders.
+This section describes key corporate governance practices that we have adopted. We have adopted a Code of Ethics which applies to all
+of our officers, directors and employees and charters for our audit committee, our compensation committee and our nominating and corporate
+governance committee. We have posted copies of our Code of Ethics, as well as each of our committee charters, on the Corporate Governance
+page of the Investors section of our website, 
+www.netcapitalinc.com
+, which you can access free of charge. Information contained
+on the website is not incorporated by reference in, or considered part of, this proxy statement.
+
+ 
+
+We
+will also provide copies of these documents as well as our other corporate governance documents, free of charge, to any shareholder upon
+written request to Netcapital Inc., State Street Financial Center, One Lincoln Street, Boston, MA 02111, Attn: Corporate Secretary.
+
+ 
+
+Director
+Independence
+
+ 
+
+Our
+common stock is currently quoted on the Nasdaq Capital Market. Nasdaq Rule 5065(b) requires that “[a] majority of the board of
+directors must be comprised of Independent Directors as defined in Rule 5605(a)(2).” Pursuant to these requirements, Avi Liss,
+Arnold Scott, and Steven Geary are independent members of our Board.
+
+ 
+
+Board
+Meetings
+
+ 
+
+During
+the fiscal year ended April 30, 2023, our Board and committees held no meetings. During the fiscal year ended April 30, 2023, the Board
+took actions by written consent on fifteen occasions.
+
+ 
+
+Board
+Committees
+
+ 
+
+The
+Company’s Board has three standing Nasdaq compliance committees: Audit, Compensation, and Nominating and Corporate Governance.
+Our audit committee consists of Avi Liss, Arnold Scott, and Steven Geary. Each of the committees operates pursuant to its charter. The
+committee charters are reviewed annually by the Nominating and Corporate Governance Committee. If appropriate, and in consultation with
+the chairs of the other committees, the Nominating and Corporate Governance Committee may propose revisions to the charters. The responsibilities
+of each committee are described in more detail below.
+
+ 
+
+Our
+Board committees took actions by written consent on three occasions during the fiscal year ended April 30, 2023. No fees are paid to
+directors for attendance at meetings or for agreeing to a unanimous consent or the Board.
+
+ 
+
+Nominating
+and Corporate Governance Committee
+
+Our
+Nominating and Governance Committee consists of Avi Liss, Arnold Scott, and Steven Geary.
+
+The
+Nominating and Corporate Governance Committee (i) oversees our corporate governance functions on behalf of the Board; (ii) makes recommendations
+to the Board regarding corporate governance issues; (iii) identifies and evaluates candidates to serve as our directors consistent with
+the criteria approved by the Board and reviews and evaluates the performance of the Board; (iv) serves as a focal point for communication
+between director candidates, non-committee directors and management; (v) selects or recommends to the Board for selection candidates
+to the Board, or, to the extent required below, to serve as nominees for director for the annual meeting of shareholders; and (vi) makes
+other recommendations to the Board regarding affairs relating to our directors. This committee took actions by written consent on three
+occasions during the fiscal year ended April 30, 2023. No fees are paid to directors for attendance at meetings or for agreeing to a
+unanimous consent.
+
+ 
+
+11
+
+ 
+
+Audit
+Committee
+
+ 
+
+Our
+Audit Committee members consist of Arnold Scott, Avi Liss and Steven Geary. Each of the members of our Audit Committee is an independent
+director under the Nasdaq listing rules, satisfies the additional independence criteria for Audit Committee members and satisfies the
+requirements for financial literacy under the Nasdaq listing rules and Rule 10A-3 of the Exchange Act, as applicable.
+
+ 
+
+Our
+board has also determined that Mr. Geary qualifies as an Audit Committee financial expert within the meaning of the applicable rules
+and regulations of the SEC and satisfies the financial sophistication requirements of the Nasdaq listing rules.
+
+ 
+
+Our
+Audit Committee oversees our corporate accounting and financial reporting process and assists our Board in monitoring our financial systems
+and our legal and regulatory compliance. Our Audit Committee also:
+
+ 
+
+·
+oversees
+ the work of our independent auditors;
+
+ 
+
+·
+approves
+ the hiring, discharging and compensation of our independent auditors;
+
+ 
+
+·
+approves
+ engagements of the independent auditors to render any audit or permissible non-audit services;
+
+ 
+
+·
+reviews
+ the qualifications, independence and performance of the independent auditors;
+
+ 
+
+·
+reviews
+ our financial statements and our critical accounting policies and estimates;
+
+ 
+
+·
+reviews
+ the adequacy and effectiveness of our internal controls;
+
+ 
+
+·
+reviews
+ our policies with respect to risk assessment and risk management;
+
+ 
+
+·
+reviews
+ and monitors our policies and procedures relating to related person transactions; and
+
+ 
+
+·
+reviews
+ and discusses with management and the independent auditors the results of our annual audit,
+ our quarterly financial statements and our publicly filed reports.
+
+ 
+
+Our
+Audit Committee operates under a written charter approved by our Board and that satisfies the applicable rules and regulations of the
+SEC and the listing requirements of Nasdaq. The charter is available on the Corporate Governance section of our website, which is located
+at www.netcapitalinc.com.
+
+ 
+
+Compensation
+Committee
+
+ 
+
+Our
+Compensation Committee consists of Avi Liss, Arnold Scott, and Steven Geary. The Compensation Committee oversees our compensation policies,
+plans and programs, and to review and determine the compensation to be paid to our executive officers and directors. Our Compensation
+Committee also:
+
+ 
+
+reviews
+and recommends the compensation arrangements for management, including the compensation for our president and chief executive officer;
+
+ 
+
+·
+establishes
+ and reviews general compensation policies with the objective to attract and retain superior
+ talent, to reward individual performance and to achieve our financial goals;
+
+ 
+
+·
+administers
+ our stock incentive plans; and
+
+ 
+
+·
+prepares
+ the report of the compensation committee that the rules of the SEC require to be included
+ in our annual meeting proxy statement.
+
+ 
+
+During
+the year ended April 30, 2023, our Compensation Committee took action by written consent on two occasions. The charter is available on
+the Corporate Governance section of our website, which is located at www.netcapitalinc.com.
+
+12
+
+ 
+
+Nominating
+and Corporate Governance Committee
+
+ 
+
+Our
+Nominating and Corporate Governance Committee consists of Avi Liss, Arnold Scott, and Steven Geary. The Nominating and Corporate Governance
+Committee is responsible, among other things:
+
+ 
+
+·
+oversees
+ our corporate governance functions on behalf of the Board;
+
+ 
+
+·
+makes
+ recommendations to the Board regarding corporate governance issues;
+
+ 
+
+·
+identifies
+ and evaluates candidates to serve as our directors consistent with the criteria approved
+ by the Board and reviews and evaluates the performance of the Board;
+
+ 
+
+·
+serves
+ as a focal point for communication between director candidates, non-committee directors and
+ management;
+
+ 
+
+·
+selects
+ or recommends to the Board for selection candidates to the Board, or, to the extent required
+ below, to serve as nominees for director for the annual meeting of shareholders; and
+
+ 
+
+·
+makes
+ other recommendations to the Board regarding affairs relating to our directors.
+
+ 
+
+This
+Nominating and Corporate Governance Committee took actions by written consent on three occasions during the fiscal year ended April 30,
+2023. The charter is available on the Corporate Governance section of our website, which is located at www.netcapitalinc.com.
+
+ 
+
+Board Diversity Matrix (As of October 5, 2023)
+
+Total Number of Directors: 5
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part I: Gender Identity
+
+ 
+
+Female
+
+ 
+
+Male
+
+ 
+
+Non-Binary
+
+ 
+
+Did Not Disclose Gender
+
+Directors
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Part II: Demographic Background
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+African American or Black
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Alaskan Native or Native American
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Asian
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Hispanic or Latinx
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Native Hawaiian or Pacific Islander
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+White
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Two or More Races or Ethnicities
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LGBTQ+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Did Not Disclose Demographic Background
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Shareholder
+Communications with our Board
+
+ 
+
+Shareholders
+and other interested persons seeking to communicate with our Board must submit their written communications to our Corporate Secretary
+at Netcapital Inc., State Street Financial Center, One Lincoln Street, Boston, MA 02111. Such communications must include the number
+of Company securities owned, beneficially or otherwise, by the person issuing the communication. Depending on the subject matter of the
+communication, our Corporate Secretary will do one of the following:
+
+ 
+
+ 
+
+●
+
+forward the
+ communication to the Board or any individual member of our Board to whom any communication is specifically addressed;
+
+  
+
+ 
+
+●
+
+attempt to
+ handle the inquiry directly, for example where it is a request for information about our Company or it is a stock related matter;
+ or
+
+ 
+
+ 
+
+●
+
+not forward
+ the communication if it is primarily commercial in nature, if it relates to an improper or irrelevant topic, or if it is unduly hostile,
+ threatening, illegal or otherwise inappropriate.
+
+ 
+
+Our
+Board (and any individual director to whom the communication was specifically addressed) will determine what further steps are appropriate
+depending on the facts and circumstances outlined in the communication.
+
+ 
+
+13
+
+ 
+
+Non-Employee
+Director Compensation
+
+ 
+
+We
+have not paid any cash compensation to our non-employee directors in their capacity as such.
+
+ 
+
+On
+February 9, 2022, we issued to each of our then three independent board members, options to purchase 5,000 shares of common stock under
+the 2021 Equity Incentive Plan which will be exercisable at a per share exercise price of $10.50, that was out-of-the-money at time of
+issuance and expires ten years after the date of grant.    
+
+ 
+
+On
+April 25, 2023, we granted to each of our three current independent board members, options to purchase 20,000 shares of common stock
+under the 2023 Omnibus Equity Incentive Plan which will be exercisable at a per share exercise price of $1.40, that was out-of-the-money
+at time of issuance and expires ten years after the date of grant.    
+
+ 
+
+We
+issued Avi Liss 10,000 shares of our common stock valued at $10.00 per share on November 17, 2021 in consideration of his services as
+a director of the Company.
+
+ 
+
+Non-Employee
+Director Compensation Policy
+
+ 
+
+Our
+current director compensation program went into effect as of February 9, 2022, and is designed to align our director compensation program
+with the long-term interests of our stockholders by implementing a program comprised of equity compensation. The directors do not receive
+cash compensation as part of the director compensation program. We previously had no director compensation program.
+
+ 
+
+In
+setting director compensation, the Company considers the amount of time that directors expend in fulfilling their duties to the Company
+as well as the skill level and experience required by our board of directors. The Company also considers board compensation practices
+at similarly situated companies, while keeping in mind the compensation philosophy of the Company and the stockholders’ interests.
+The directors also receive reimbursement for expenses, including reasonable travel expenses to attend board and committee meetings, reasonable
+outside seminar expenses, and other special board related expenses.
+
+ 
+
+The
+Company made one grant to Avi Liss of 10,000 shares of Common Stock valued at $10.00 per share on November 17, 2021 in consideration
+of his services as a director of the Company.
+
+ 
+
+Additionally,
+on February 9, 2022, every board member received an option grant to purchase shares of Common Stock at an exercise price of $10.50 under
+the 2021 Equity Incentive Plan. Of the 25,000 option shares that were issued, 10,000 were granted to Ms. Lenk, the then current CEO,
+and 5,000 shares were granted to each of the independent directors, as set forth above.
+
+ 
+
+AUDIT
+COMMITTEE REPORT
+
+ 
+
+The
+primary purpose of the audit committee is to oversee our financial reporting processes on behalf of our Board. The audit committee’s
+functions are more fully described in its charter, which is available on our website at 
+www.netcapitalinc.com
+.
+
+ 
+
+In
+the performance of its oversight function, the audit committee has reviewed and discussed our audited financial statements for the fiscal
+year ended April 30, 2023 with management and with our independent registered public accounting firm. In addition, the audit committee
+has discussed the matters required to be discussed by the statement on Auditing Standards No. 1301, as amended (AICPA, 
+Professional
+Standards
+, Vol. 1. AU section 380), as adopted 
+by
+the Public Company Accounting Oversight Board (“PCAOB”) in Rule 3200T, with Fruci & Associates II, PLLC, our independent
+registered public accounting firm for the fiscal year ended April 30, 2023. The audit committee has also received and reviewed the written
+disclosures and the letter from Fruci required by the applicable requirements of the 
+Public
+Company Accounting Oversight Board
+ and has discussed with Fruci & Associates II, PLLC their independence from us.
+
+14
+
+ 
+
+ 
+
+Based
+on the review and discussions referenced above, the audit committee recommended to our Board that our audited financial statements be
+included in our Annual Report on Form 10-K for the fiscal year ended April 30, 2023.
+
+ 
+
+Audit
+Committee
+:
+
+ 
+
+Steven
+Geary
+
+Avi
+Liss
+
+Arnold
+Scott
+
+ 
+
+The
+foregoing report of the audit committee does not constitute soliciting material and will not be deemed filed, incorporated by reference
+into or a part of any other filing by the Company (including any future filings) under the Exchange Act, except to the extent the Company
+specifically incorporates such report by reference therein.
+
+ 
+
+EXECUTIVE
+OFFICERS
+
+ 
+
+The
+following are biographical summaries of our executive officers and their ages, except for Mr. Kay, whose biography is included under
+the heading “Proposal 1: Election of Directors” set forth above:
+
+ 
+
+Name
+
+ 
+
+Age
+
+ 
+
+Position(s)
+
+Martin Kay
+
+ 
+
+59
+
+ 
+
+President, Chief Executive
+ Officer and Director
+
+Coreen Kraysler
+
+ 
+
+59
+
+ 
+
+Chief Financial Officer
+
+Jason Frishman
+
+ 
+
+30
+
+ 
+
+Founder of Netcapital Funding
+ Portal Inc.
+
+ 
+
+Coreen
+Kraysler
+
+ 
+
+Coreen
+Kraysler has served as the Chief Financial Officer of the Company since September 2017. Ms. Kraysler is a CFA Charterholder with over
+30 years of investment experience. Formerly a Senior Vice President and Principal at Independence Investments, she managed several 5-star
+rated mutual funds as well as institutional accounts and served on the Investment Committee. She also worked at Eaton Vance as a Vice
+President, Equity Analyst on the Large and Midcap Value teams. A specialist in financial services, household and consumer products, she
+guest lectures at local colleges and universities. She received a B.A. in Economics and French, cum laude, from Wellesley College and
+a Master of Science in Management from MIT Sloan.
+
+ 
+
+Jason
+Frishman
+
+ 
+
+Jason
+Frishman is the Founder and former Chief Executive Officer of our funding portal subsidiary, Netcapital Funding Portal Inc. Mr. Frishman
+founded Netcapital Funding Portal Inc. to help reduce the systemic inefficiencies early-stage companies face in securing capital. He
+currently holds advisory positions at leading organizations in the financial technology ecosystem and has spoken as an external expert
+at Morgan Stanley, University of Michigan, YPO, and others. Mr. Frishman has a background in the life sciences and previously conducted
+research in medical oncology at the Dana Farber Cancer Institute and cognitive neuroscience at the University of Miami, where he graduated
+summa cum laude with a B.S. in Neuroscience.
+
+ 
+
+EXECUTIVE
+COMPENSATION
+
+ 
+
+Summary
+Compensation Table
+
+ 
+
+The
+following table sets forth, for the fiscal years indicated, all compensation awarded to, earned by or paid to Martin Kay, our CEO (since
+January 3, 2023), Cecilia Lenk, our former chief executive officer (until January 3, 2023), Coreen Kraysler, our CFO, Carole Murko, our
+former Chief Marketing Officer and Jason Frishman, Founder and former Chief 
+Executive
+Officer of our wholly owned subsidiary Netcapital Funding Portal, Inc., or, collectively, the Named Executive Officers, or NEOs. We have
+no other executive officers.
+
+15
+
+ 
+
+ 
+
+Summary
+Executive Compensation Table
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Non-equity
+
+ 
+
+Change in
+ pension value and nonqualified
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+incentive
+
+ 
+
+deferred
+
+ 
+
+ 
+
+ 
+
+ 
+
+and
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stock
+
+ 
+
+Option
+
+ 
+
+plan
+
+ 
+
+compensation
+
+ 
+
+All other
+
+ 
+
+ 
+
+principal
+
+ 
+
+ 
+
+ 
+
+Salary
+
+ 
+
+Bonus
+
+ 
+
+awards
+
+ 
+
+awards
+
+ 
+
+compensation
+
+ 
+
+earnings
+
+ 
+
+compensation
+
+ 
+
+Total
+
+position
+
+ 
+
+Fiscal
+ Year
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)(1)
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+($)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Martin
+ Kay, CEO (
+Since January 3, 2023
+)
+
+ 
+
+ 
+
+2023
+
+ 
+
+ 
+
+ 
+
+94,615
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+81,309
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+175,924
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cecilia
+ Lenk CEO (
+until January 3, 2023 and CEO of Netcapital Advisors since January 3, 2023
+)
+
+ 
+
+ 
+
+2023
+
+ 
+
+ 
+
+ 
+
+142,500
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+4,833
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+147,333
+
+ 
+
+ 
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+40,608
+
+ 
+
+ 
+
+ 
+
+5,825
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+142,433
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Coreen
+
+ 
+
+ 
+
+2023
+
+ 
+
+ 
+
+ 
+
+164,135
+
+ 
+
+ 
+
+ 
+
+25,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+25,927
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+215,062
+
+ 
+
+Kraysler,
+ CFO
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+40,608
+
+ 
+
+ 
+
+ 
+
+11,649
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+148,257
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Carole
+ Murko, former CMO (
+until January 7, 2022
+)(2)
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+73,688
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+109,547
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+183,235
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Jason
+ Frishman,
+
+ Founder, (and former CEO of Netcapital Funding Portal, until February 9, 2023)
+
+ 
+
+ 
+
+2023
+
+ 
+
+ 
+
+ 
+
+166,173
+
+ 
+
+ 
+
+ 
+
+25,000
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+25,927
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+217,100
+
+ 
+
+ 
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+ 
+
+96,000
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+11,649
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+107,649
+
+ 
+
+ 
+ 
+
+ 
+
+(1)
+
+Represents the
+ dollar amount of vested equity awards during the fiscal year.
+
+ 
+
+ 
+
+(2)
+
+Ms. Murko received
+ severance of $7,384.50 and her 8,885 unvested shares vested upon termination, both pursuant to a separation agreement.
+
+16
+
+ 
+
+ 
+
+ 
+
+Outstanding
+Equity Awards At End Of 2023
+
+ 
+
+The
+following table provides information about outstanding stock options issued by the Company held by each of our NEOs as of April 30, 2023.
+None of our NEOs held any other equity awards from the Company as of April 30, 2023.
+
+ 
+
+ 
+
+ 
+
+Option
+ Awards
+
+ 
+
+Stock
+ Awards
+
+Name
+
+ 
+
+Number
+ of
+
+ Securities
+
+ Underlying
+
+ Unexercised
+
+ Options (#)
+
+ Exercisable
+
+ 
+
+Number
+ of
+
+ Securities
+
+ Underlying
+
+ Unexercised
+
+ Options (#)
+
+ Unexercisable
+
+ 
+
+Option
+
+ Exercise
+
+ Price
+
+ ($)
+
+ 
+
+Option
+
+ Expiration
+
+ Date
+
+ 
+
+Number
+ of Shares of Stock That Has Not Yet Vested
+
+ 
+
+Market
+ Value of Stock that has not Yet Vested
+
+Martin
+ Kay
+
+ 
+
+ 
+
+83,332
+
+ 
+
+ 
+
+ 
+
+916,668
+
+ 
+
+ 
+
+ 
+
+1.43
+
+ 
+
+ 
+
+1/3/2033
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Cecilia
+ Lenk
+
+ 
+
+ 
+
+417
+
+ 
+
+ 
+
+ 
+
+19,583
+
+ 
+
+ 
+
+ 
+
+1.40
+
+ 
+
+ 
+
+4/25/2033
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+3,120
+
+ 
+
+ 
+
+ 
+
+6,880
+
+ 
+
+ 
+
+ 
+
+10.50
+
+ 
+
+ 
+
+2/9/2032
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Coreen
+ Kraysler
+
+ 
+
+ 
+
+16,668
+
+ 
+
+ 
+
+ 
+
+183,332
+
+ 
+
+ 
+
+ 
+
+1.43
+
+ 
+
+ 
+
+1/3/2033
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+6,255
+
+ 
+
+ 
+
+ 
+
+13,745
+
+ 
+
+ 
+
+ 
+
+10.50
+
+ 
+
+ 
+
+2/9/2032
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+Jason
+ Frishman
+
+ 
+
+ 
+
+16,668
+
+ 
+
+ 
+
+ 
+
+183,332
+
+ 
+
+ 
+
+ 
+
+1.43
+
+ 
+
+ 
+
+1/3/2033
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+ 
+
+6,255
+
+ 
+
+ 
+
+ 
+
+13,745
+
+ 
+
+ 
+
+ 
+
+10.50
+
+ 
+
+ 
+
+2/9/2032
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+ 
+
+0
+
+ 
+
+ 
+
+Officer
+Compensation
+
+ 
+
+Beginning
+in fiscal 2021, we paid each of our Named Executives Officers an annual salary of $96,000 per annum. Each Named Executive Officer has
+also received varying amounts of equity awards for their services.
+
+ 
+
+Officer
+Compensation
+
+ 
+
+We
+pay each of our Named Executives Officers a combination of a cash salary and equity awards for their services.
+
+ 
+
+Employment
+Agreements
+
+ 
+
+We
+currently have employment agreements with Martin Kay and Coreen Kraysler. Prior to the resignations of Cecilia Lenk on January 3, 2023
+and Jason Frishman on February 9, 2023, we and our Netcapital Funding Portal subsidiary had employment agreements with each of them,
+respectively. Cecilia Lenk is currently the Chief Executive Officer of our wholly owned subsidiary and Jason Frishman holds the position
+of Founder of Netcapital Inc. The former employment agreements of Cecilia Lenk and Jason Frishman are described below. Prior to the termination
+of Carole Murko on January 7, 2022, we had an employment agreement with her as described below:
+
+ 
+
+Employment
+Agreement with Martin Kay
+
+ 
+
+We
+entered into an employment agreement with Martin Kay on January 3, 2023, pursuant to which we employ Mr. Kay as our Chief Executive Officer.
+Under the Employment Agreement, Mr. Kay is eligible to (a) receive an annual base salary of $300,000; (b) receive an option grant to
+purchase 100,000 fully vested shares of the Company pursuant to the 2023 Plan and an option grant to purchase 1,000,000 shares of the
+Company, which vest monthly over four (4) years pursuant to an option award agreement, described below, and in each case subject to the
+2023 Plan; (c) receive periodic bonuses or additional salary in the discretion of the Board or compensation committee; (d) receive .005
+times the gross revenue paid in cash annually so long as the Company reports positive earnings after the bonus is paid; (d) participate
+in the Company’s fringe benefits, health and welfare plans, and pension and/ or profit sharing plans provided to executives; (e)
+receive reimbursement for all reasonable business expenses; and f) receive sick leave, sick pay, and disability benefits in accordance
+with Company policy. Mr. Kay’s employment agreement, which has a three-year term, may be terminated upon the occurrence of the
+death of Mr. Kay, at any time by Mr. Kay, by the Company due to disability, by the Company for “cause”, and by Mr. Kay for
+“good reason”. Mr. Kay’s employment agreement also contains provisions regarding, among other things, a six (6)-month
+non-competition provision, confidential information, governing law, and covenants governing Mr. Kay’s conduct.
+
+17
+
+ 
+
+ 
+
+Employment
+Agreement with Cecilia Lenk
+
+ 
+
+We
+entered into an employment agreement with Cecilia Lenk on June 23, 2022 pursuant to which we employed Ms. Lenk as CEO of our wholly owned
+subsidiary. The term of her agreement ends on June 23, 2025. The agreement provided for an annual base salary during the term of the
+agreement of $96,000, which was increased to $150,000 upon completion of a public offering in July 2022. Ms. Lenk was eligible for periodic
+bonuses or for additional salary in addition to her base salary, as may be determined by our board of directors or the compensation committee.
+
+ 
+
+The
+agreement also contained the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or
+profit share plans; eligible to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits;
+entitled to reimbursement for all reasonable and necessary business expenses. Ms. Lenk agreed to non-compete and non-solicit terms under
+her agreement.
+
+ 
+
+Employment
+Agreement with Coreen Kraysler
+
+ 
+
+We
+entered into an employment agreement with Coreen Kraysler on June 23, 2022 pursuant to which we employ Ms. Kraysler as our Chief Financial
+Officer. The term of her agreement ends on June 23, 2025. The agreement provides for an annual base salary during the term of the agreement
+of $96,000, which was increased to $150,000 upon completion of a public offering in July 2022, and increased to $225,000 in January 2023.
+Ms. Kraysler is eligible for periodic bonuses or for additional salary in addition to her base salary, as may be determined by our board
+of directors or the compensation committee.
+
+ 
+
+The
+agreement also contains the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or
+profit share plans; eligible to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits;
+entitled to reimbursement for all reasonable and necessary business expenses. Ms. Kraysler agreed to non-compete and non-solicit terms
+under her agreement.
+
+ 
+
+Employment
+Agreement with Jason Frishman
+
+ 
+
+We
+entered into an employment agreement with Jason Frishman on June 23 2022 pursuant to which we employed Mr. Frishman, our Founder, as
+Chief Executive Officer of Netcapital Funding Portal, Inc. The term of his agreement ends on June 23, 2025. The Agreement provided for
+an annual base salary during the term of the agreement of $96,000, which was increased to $150,000 upon completion of a public offering
+in July 2022, and increased to $225,000 in January 2023. Mr. Frishman is eligible for periodic bonuses or for additional salary in addition
+to his base salary, as may be determined by our board of directors or the compensation committee.
+
+ 
+
+The
+agreement also contained the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or
+profit share plans; eligible to participate in any medical and health plans; entitled to sick leave, sick pay and disability benefits;
+entitled to reimbursement for all reasonable and necessary business expenses. Mr. Frishman agreed to non-compete and non-solicit terms
+under his agreement.
+
+ 
+
+Employment
+Agreement with Carole Murko
+
+ 
+
+We
+entered into an employment agreement with Carole Murko on March 10, 2020 pursuant to which we employed Ms. Murko as our Director of Business
+Development. The agreement was for an initial term of four years. The agreement provided for an annual base salary during the term of
+the agreement of $1.00 plus a commission of 20% of the cash collected from revenues generated directly by Ms. Murko plus an unvested
+grant of stock-based compensation of 12,500 shares (after giving effect to the November 2020 1-for-2000 reverse stock split) of restricted
+stock. The stock vested over a 48 month period in equal installments of 260 shares per month. Ms. Murko was eligible for periodic bonuses
+or for additional salary in addition to her base salary.
+
+ 
+
+The
+agreement also contained the following material provisions: eligible to participate in all employee fringe benefits and any pension and/or
+profit share plans; eligible to participate in any medical and health plans; entitled to up to eight weeks of paid time off; entitled
+to sick leave, sick pay and disability benefits; entitled to reimbursement for all reasonable and necessary business expenses. If Ms.
+Murko was to be terminated for any reason other than “cause” prior
+to the end of her term, then the Company will have no claim on the unvested portion of her 12,500 shares. If Ms. Murko resigned without
+“good reason” or retired before the end of her term, the unvested shares would have been returned to the Company. Ms. Murko
+agreed to non-compete and non-solicit terms under her agreement.
+
+18
+
+ 
+
+ 
+
+CERTAIN
+RELATIONSHIPS AND RELATED TRANSACTIONS
+
+ 
+
+Policies
+and Procedures for Transactions with Related Parties
+
+ 
+
+Our
+Chief Executive Officer or our Chief Financial Officer must review and approve certain transactions between us and Related Parties (as
+defined below). A “Related-Party Transaction” is defined as a transaction, arrangement or relationship (or any series of
+similar transactions, arrangements or relationships) in which we (including any of our subsidiaries) were, are or will be a participant.
+
+ 
+
+For
+the purposes of our Related-Party Transactions, a “Related Party” is defined as: any person who is, or at any time since
+the beginning of our last two fiscal years was, a director or executive officer or a nominee to become a director; any person who is
+known to be the beneficial owner of more than ten percent of our common stock; any immediate family member of any of the foregoing persons,
+including any child, stepchild, parent, stepparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law, brother-in-law
+or sister-in-law, and any person (other than a tenant or employee) sharing the household of any of the foregoing persons; and any firm,
+corporation or other entity in which any of the foregoing persons is a general partner or, for other ownership interests, a limited partner
+or other owner in which such person has a beneficial ownership interest of 10% or more.
+
+ 
+
+Transactions
+with Related Parties
+
+ 
+
+The Company’s largest
+shareholder, Netcapital Systems LLC (“Systems”), an entity that Jason Frishman owns a 29% interest, owns 1,711,261 shares
+of common stock, or 26.6% of the Company’s 6,440,527 outstanding shares as of April 30, 2023 (and approximately 18.1% of the Company’s
+outstanding stock as of October 5, 2023). As of April 30, 2022, the Company accrued a payable to Systems of $294,054 for supplemental
+consideration owed in conjunction with its purchase of Netcapital Funding Portal Inc., which was paid in full on July 14, 2022, with the
+issuance to Systems of 39,901 shares of the Company’s common stock. The Company provided professional services to Systems in the
+years ended April 30, 2023 and 2022 and recorded revenue of $4,660 and $15,000, respectively, for those services.
+
+ 
+
+In total, the Company owed
+Systems $0 and $294,054 as of April 30, 2023 and 2022, respectively. The company paid Systems $430,000 and $357,429 in the years ended
+April 30, 2023 and 2022, respectively, for use of the software that runs the website www.netcapital.com.
+
+ 
+
+Cecilia Lenk, a member of
+our Board and Chief Executive Officer of our wholly owned subsidiary, Netcapital Advisors Inc., is a member of the board of directors
+of KingsCrowd Inc. The Company sold 606,060 shares of KingsCrowd in June 2022 for proceeds of $200,000 and recorded a realized loss on
+the sale of the investment of $406,060. As of April 30, 2023 and 2022, the Company owned 3,209,685 and 3,815,745 shares of KingsCrowd
+Inc., valued at $3,209,685 and $3,815,745, respectively.
+
+ 
+
+Cecilia Lenk, a member of
+our Board and Chief Executive Officer of our wholly owned subsidiary, Netcapital Advisors Inc. is a member of the board of directors of
+Deuce Drone LLC. As of April 30, 2023 and 2022, the Company owned 2,350,000 membership interest units of Deuce Drone LLC., valued at $2,350,000.
+The Company has notes receivable aggregating $152,000 from Deuce Drone LLC as of April 30, 2023 and 2022. These notes accrue interest
+at an annual rate of $8.0% and are not currently in default.
+
+ 
+
+Compensation expense to officers
+in the years ended April 30, 2023 and 2022 consisted of common stock valued at $0 and $190,763, respectively, cash compensation of $598,077
+and $265,688, respectively, and options to purchase common stock valued at $137,994 and $3,147, respectively.
+
+ 
+
+Compensation to a related
+party consultant, John Fanning, Jr., son of Coreen Kraysler, our Chief Financial Officer, in the years ended April 30, 2023 and 2022 consisted
+of common stock valued at $0 and $25,908, respectively, and cash compensation of $60,039 and $60,000, respectively. 
+Mr.
+Fanning, Jr. is also the controlling shareholder of Zelgor Inc., and the Company earned revenues from Zelgor Inc. of $66,000 and $5,500
+in the years ended April 30, 2023 and 2022. The Company owns 1,400,000 shares of Zelgor Inc., valued at $1,400,000 and holds a note receivable
+of $50,000 as of April 30, 2023.
+
+19
+
+ 
+
+ 
+
+Cash compensation to Jason
+Frishman, President of Netcapital Systems LLC amounted to $184,808 and $96,000, and stock-based compensation amounted to $25,927 and $0,
+in the years ended April 30, 2023 and 2022, respectively.
+
+ 
+
+We owe, Steven Geary, a member
+of our Board, $31,680 as of April 30, 2023 and 2022. This obligation is not interest bearing. $16,680 is recorded as a related party trade
+accounts payable and $15,000 as a related party note payable. We have no signed agreements for the indebtedness to Mr. Geary and accordingly,
+such obligations are not deemed in default. We owe Paul Riss, a director of our subsidiary, Netcapital Funding Portal, Inc., $58,524,
+which is recorded as a related party trade accounts payable, and along with the $16,680 amount due to Mr. Geary, accounts for the total
+related party trade accounts payable amount of $75,204.
+
+ 
+
+The Company made an investment
+of $240,080 in an affiliate, 6A Aviation Alaska Consortium, Inc., in conjunction with a land lease in an airport in Alaska. Cecilia Lenk,
+a member of our Board and Chief Executive Officer of our wholly-owned subsidiary Netcapital Advisors Inc., is also the Chief Executive
+Officer of 6A Aviation Alaska Consortium, Inc. As a result of the investment, the Company is a 19% owner of 6A Aviation Consortium Inc.
+
+ 
+
+In November 2021, we issued
+a member of our Board, Avi Liss, 10,000 shares of common stock for his service as a member of our Board and audit committee, valued at
+$100,000.
+
+ 
+
+On February 2, 2022, the
+Company granted members of our Board an aggregate of 25,000 options to purchase shares of our common stock at an exercise price of $10.50
+per share. An option to purchase 10,000 shares of common stock was granted to Cecilia Lenk, the Chief Executive Officer of Netcapital
+Advisors Inc., and each of the then three independent Board members, Avi Liss, Thomas Carmody and Steven Geary, received an option to
+purchase 5,000 shares of common stock. The options vest on a straight-line basis over 48 months and expire in 10 years. On April 25, 2023,
+the Company also granted the four members of our Board, Avi Liss, Steven Geary, Cecilia Lenk and Arnold Scott, an aggregate of 80,000
+options, or 20,000 for each board member, to purchase shares of our common stock at an exercise price of $1.40 per share. The options
+vest monthly on a straight-line basis over a 4-year period and expire in 10 years.
+
+ 
+
+In January 2023 we granted
+stock options to purchase an aggregate of 1,600,000 shares of our common stock to four related parties as follows: Martin Kay, our Chief
+Executive Officer, 1,000,000 shares; Coreen Kraysler, our Chief Financial Officer, 200,000 shares; Jason Frishman, our Founder, 200,000
+shares; and Paul Riss, a director of our subsidiary, Netcapital Funding Portal, Inc., 200,000 shares. The options have an exercise price
+of $1.43, vest monthly on a straight-line basis over a 4-year period and expire in 10 years.
+
+ 
+
+Coreen Kraysler, our Chief
+Financial Officer, has personally guaranteed a $500,000 promissory note from the U.S. Small Business Administration. The note bears
+interest at an annual rate of 3.75%, has a 30-year term, and monthly payments of $2,594 began on December 17, 2022.
+
+ 
+
+PROPOSAL
+2: RATIFICATION OF
+
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+ 
+
+Our
+audit committee has appointed Fruci as the Company’s independent registered public accounting firm for the fiscal year ending April
+30, 2024 and our Board has directed that management submit the appointment of Fruci as the Company’s independent registered public
+accounting firm for ratification by the shareholders at the 2023 Annual Meeting. Representatives of Fruci are expected to be virtually
+present at the 2023 Annual Meeting, will have an opportunity to make a statement if they so desire, and be available to respond to appropriate
+questions. Fruci was appointed to serve as our independent registered public accounting firm in 2017.
+
+ 
+
+Shareholder
+ratification of the appointment of Fruci as the Company’s independent registered public accounting firm is not required law. However,
+our Board is submitting the audit committee’s appointment of Fruci to the shareholders for ratification as a matter of good corporate
+practice. If the shareholders fail to ratify the appointment, the audit committee will reconsider whether to retain that firm. Even if
+the appointment is ratified, the audit committee, in its discretion, may direct the appointment of a different independent registered
+public accounting firm at any time during the year if the audit committee determines that such a change would be in the best interests
+of the Company and its shareholders.
+
+ 
+
+Independent
+Registered Public Accountant’s Fee
+
+ 
+
+The
+following table presents fees for professional audit services rendered by our independent registered public accounting firm during the
+past two fiscal years.
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fiscal
+ 2023
+
+ 
+
+Fiscal
+ 2022
+
+Audit
+ fees
+
+ 
+
+$
+
+84,113
+
+ 
+
+ 
+
+$
+
+53,325
+
+ 
+
+Audit
+ related fees
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Tax
+ fees
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All
+ other fees
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+
+ 
+
+$
+
+84,113
+
+ 
+
+ 
+
+$
+
+53,325
+
+ 
+
+ 
+
+Policy
+on Audit Committee Pre-Approval of Audit and Permissible Non-Audit Services of Independent Auditors
+
+ 
+
+Consistent
+with SEC policies regarding auditor independence, our board of directors has responsibility for appointing, setting compensation and
+overseeing the work of the independent auditor. In recognition of this responsibility, the board of directors has established a policy
+to pre-approve all audit and permissible non-audit services provided by the independent auditor.
+
+ 
+
+Prior
+to engagement of the independent auditor for the next year's audit, management will submit an aggregate of services expected to be rendered
+during that year for each of four categories of services to the board of directors for approval.
+
+ 
+
+1. 
+Audit 
+services
+include audit work performed in the preparation of financial statements, as well as work that generally only the independent auditor
+can reasonably be expected to provide, including comfort letters and reviews of our financial statements included in our Quarterly Reports
+on Form 10-Q.
+
+  
+
+2. 
+Audit-Related 
+services
+are for assurance and related services that are traditionally performed by the independent auditor, including due diligence related to
+mergers and acquisitions, employee benefit plan audits, and special procedures required to meet certain regulatory requirements.
+
+ 
+
+3. 
+Tax
+ services
+include all services performed by the independent auditor's tax personnel except those services specifically related to the audit of
+the financial statements, and includes fees in the areas of tax compliance, tax planning, and tax advice.
+
+ 
+
+4. 
+Other 
+services
+are those associated with services not captured in the other categories. We generally do not request such services from the independent
+auditor.
+
+ 
+
+Recommendation
+of our Board
+
+ 
+
+Our
+Board recommends a vote “
+FOR
+” the ratification of the appointment of Fruci as our independent registered public accounting
+firm for the fiscal year ending April 30, 2024.
+
+ 
+
+SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+ 
+
+The
+following table sets forth information with respect to the beneficial ownership of shares of our common stock as of October 5, 2023
+ 
+by:
+
+ 
+
+●
+
+each person whom we know
+ beneficially owns more than 5% of any class of equity security;
+
+ 
+
+ 
+
+●
+
+each of our directors individually;
+
+ 
+
+ 
+
+●
+
+each of our named executive
+ officers individually; and
+
+ 
+
+ 
+
+●
+
+all of our current directors
+ and executive officers as a group.
+
+ 
+
+We
+have determined beneficial ownership in accordance with the rules of the SEC. These rules generally attribute beneficial ownership of
+securities to persons who possess sole or shared voting or investment power with 
+respect
+to such securities. In addition, pursuant to such rules, we deemed outstanding shares of common stock subject to options or warrants
+held by that person that are currently exercisable or exercisable within 60 days of October 5, 2023. We did not deem such shares outstanding,
+however, for the purpose of computing the percentage ownership of any other person. Except as indicated by the footnotes below, we believe,
+based on the information furnished to us, that the beneficial owners named in the table below have sole voting and investment power with
+respect to all shares of our common stock that they beneficially own, subject to applicable community property laws. The inclusion in
+the table below of any shares deemed beneficially owned does not constitute an admission of beneficial ownership of those shares.
+
+21
+
+ 
+
+ 
+
+Name and Address
+
+ 
+
+Amount of Shares and Nature
+
+ 
+
+ 
+
+of Beneficial Owner
+(1)
+
+ 
+
+of Beneficial Ownership of Common Stock
+
+ 
+
+Percent of Common Stock*
+
+Jason Frishman
+(2)
+
+ 
+
+ 
+
+1,766,261
+
+ 
+
+ 
+
+ 
+
+18.7
+
+%
+
+Martin Kay
+(3)
+
+ 
+
+ 
+
+229,167
+
+ 
+
+ 
+
+ 
+
+2.4
+
+%
+
+Arnold Scott
+(4)
+
+ 
+
+ 
+
+89,473
+
+ 
+
+ 
+
+ 
+
+**
+
+%
+
+Coreen Kraysler
+(5)
+
+ 
+
+ 
+
+77,500
+
+ 
+
+ 
+
+ 
+
+**
+
+%
+
+Cecilia Lenk
+(6)
+
+ 
+
+ 
+
+33,567
+
+ 
+
+ 
+
+ 
+
+**
+
+%
+
+Steven Geary
+(7)
+
+ 
+
+ 
+
+15,925
+
+ 
+
+ 
+
+ 
+
+**
+
+%
+
+Avi Liss
+(7)
+
+ 
+
+ 
+
+16,625
+
+ 
+
+ 
+
+ 
+
+**
+
+%
+
+Officers and Directors as a group (7 persons)
+
+ 
+
+ 
+
+2,173,518
+
+ 
+
+ 
+
+ 
+
+23.62
+
+%
+
+5% or Greater Shareholders
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Netcapital Systems LLC
+(8)
+
+ 
+
+ 
+
+1,711,261
+
+ 
+
+ 
+
+ 
+
+18.1
+
+%
+
+Bard Associates Inc.
+(9)
+
+ 
+
+ 
+
+1,494,835
+
+ 
+
+ 
+
+ 
+
+15.8
+
+%
+
+_________________
+
+* Based on 9,434,132 shares outstanding
+ as of October 5, 2023.
+
+** Less than 1%
+
+ 
+
+(1)
+
+Unless otherwise noted, the business address of each member of our Board is c/o Netcapital Inc. 1 Lincoln Street, Suite 2400,  Boston Massachusetts 02111.
+
+ 
+
+ 
+
+(2)
+
+Includes (i) 55,000 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023, and (ii) 1,711,261 shares of common stock held by Netcapital Systems LLC, an entity that Jason Frishman is the President of and in such capacity has the right to vote and dispose of the securities held by such entity.
+
+ 
+
+(3)
+
+Includes 229,167 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023.  
+
+ 
+
+(4)
+
+Includes 3,333 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023.  
+
+ 
+
+ 
+
+(5)
+
+Includes 55,000 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023.  
+
+ 
+
+ 
+
+(6)
+
+Includes 7,916 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023.  
+
+ 
+
+(7)
+
+Includes 5,625 shares of common stock subject to stock options that are presently exercisable or exercisable within 60 days after October 5, 2023.  
+
+ 
+
+ 
+
+(8)
+
+Jason Frishman is the President of Netcapital Systems LLC and in such capacity has the right to vote and dispose of the securities held by such entity.
+
+ 
+
+ 
+
+(9)
+
+Based solely on a Schedule 13D/A filed with the SEC on May 26, 2023, Bard Associates Inc. is an investment manager and beneficially owns 1,494,835 shares of our common stock (including 233,525 shares of common stock under presently exercisable warrants), including sole voting power over 73,000 shares, sole dispositive power over 73,000 shares, shared dispositive power over 1,421,835 shares; and Timothy Johnson has sole dispositive power over 101,000 shares. The address for Bard Associates Inc. and Timothy Johnson is 135 South LaSalle Street, Suite 3700, Chicago, IL 60603.
+
+ 
+
+22
+
+ 
+
+SECURITIES
+AUTHORIZED FOR ISSUANCE UNDER EQUITY COMPENSATION PLANS
+
+ 
+
+The
+following table shows information regarding our equity compensation plans as of April 30, 2023.
+
+ 
+
+Plan Category
+
+ 
+
+Number of securities to be issued upon exercise of outstanding options, warrants and rights (a)
+
+ 
+
+Weighted average exercise price of outstanding options, warrants and rights (b)
+
+ 
+
+Number of securities remaining available for future issuance under equity compensation plans (excluding securities reflected in column ©
+
+Equity compensation plans approved by security holders  (1)
+
+ 
+
+ 
+
+1,950,000
+
+ 
+
+ 
+
+$
+
+1.42
+
+ 
+
+ 
+
+ 
+
+50,000
+
+ 
+
+Equity compensation plans not approved by security holders (2)
+
+ 
+
+ 
+
+252,000
+
+ 
+
+ 
+
+$
+
+10.50
+
+ 
+
+ 
+
+ 
+
+48,000
+
+ 
+
+Total
+
+ 
+
+ 
+
+2,202,000
+
+ 
+
+ 
+
+$
+
+2.46
+
+ 
+
+ 
+
+ 
+
+98,000
+
+ 
+
+ 
+
+(1) 
+2023
+Omnibus Equity Incentive Plan
+. On January 3, 2023, the Board of Directors of the Company approved and adopted the Netcapital Inc.,
+2023 Omnibus Equity Incentive Plan (the “2023 Plan”), subject to the approval of the 2023 Plan by the Company’s stockholders.
+The total number of Shares of Common Stock authorized for issuance under the 2023 Plan is (i) 2,000,000 Shares of Common Stock plus (ii)
+an annual increase on the first day of each calendar year beginning with May 1, 2024 and ending with the last May 1 during the initial
+ten-year term of the 2023 Plan, equal to the lesser of (A) five percent (5%) of the Shares of Common Stock outstanding (on an as-converted
+basis, which shall include Shares issuable upon the exercise or conversion of all outstanding securities or rights convertible into or
+exercisable for Shares of Common Stock, including without limitation, preferred stock, warrants and employee options to purchase any
+Shares of Common Stock) on the final day of the immediately preceding calendar year and (B) such lesser number of Shares of Common Stock
+as determined by the Board; provided, that, Shares of Common Stock issued under the 2023 Plan with respect to an Exempt Award shall not
+count against such share limit. No more than 2,000,000 Shares, and as increased on an annual basis, on the first day of each calendar
+year beginning with May 1, 2024 and ending with the last May 1 during the initial ten-year term of the Plan, by the lesser of (A) five
+percent (5%) of the shares of Common Stock outstanding (on an as-converted basis, which shall include Shares of Common Stock issuable
+upon the exercise or conversion of all outstanding securities or rights convertible into or exercisable for shares of Common Stock, including
+without limitation, preferred stock, warrants and employee options to purchase any shares of Common Stock) on the final day of the immediately
+preceding calendar year; (B) 300,000 shares of Common Stock, and (C) such lesser number of shares of Common Stock as determined
+by the Board, shall be issued pursuant to the exercise of ISOs. As of April 30, 2023, we had awarded an aggregate of 1,950,000 options
+to purchase shares of common stock to directors and there remain 50,000 shares for grant under the 2023 Plan. 
+
+ 
+
+ 
+
+SHAREHOLDER
+PROPOSALS AND DIRECTOR NOMINATIONS FOR 2023 ANNUAL MEETING OF
+
+SHAREHOLDERS
+
+ 
+
+Shareholders
+who intend to have a proposal considered for inclusion in our proxy materials for presentation at our 2024 annual meeting of
+shareholders (the “2024 Annual Meeting”) must submit the proposal to us at our corporate headquarters no later than June
+7, 2024, which proposal must be made in accordance with the provisions of Rule 14a-8 of the Exchange Act. In the event the date of
+the 2024 Annual Meeting has been changed by more than 30 days from the date of the 2023 Annual Meeting, shareholders who intend to
+have a proposal considered for inclusion in our proxy materials for presentation at our 2024 Annual Meeting must submit the proposal
+to us at our corporate headquarters
+no later than a reasonable time before we begin to print and send our proxy materials for our 2024 Annual Meeting.
+
+23
+
+ 
+
+ 
+
+Shareholders
+who intend to present a proposal at our 2024 Annual Meeting without inclusion of the proposal in our proxy materials are required to
+provide notice of such proposal to our Corporate Secretary so that such notice is received by our Corporate Secretary at our principal
+executive offices on or after January 5, 2024 but no later than February 6, 2024; provided, however, in the event that the 2024 Annual
+Meeting occurs on a date that is not within 25 days before or after the anniversary date of the 2023 Annual Meeting, notice of such proposal
+must be received by our Corporate Secretary no later than the close of business on the 10
+th
+ day following the day on
+which such notice of the date of the 2024 Annual Meeting is mailed or public disclosure of the date of the 2024 Annual Meeting is made,
+whichever first occurs. We reserve the right to reject, rule out of order or take other appropriate action with respect to any proposal
+that does not comply with these and other applicable requirements.
+
+ 
+
+OTHER
+MATTERS
+
+ 
+
+The
+board of directors knows of no other business, which will be presented to the Annual Meeting. If any other business is properly brought
+before the Annual Meeting, proxies in the enclosed form will be voted in accordance with the judgment of the persons voting the proxies.
+
+ 
+
+If
+you do not plan to attend the Annual Meeting, in order that your shares may be represented and in order to assure the required quorum,
+please sign, date and return your proxy promptly. In the event you are able to attend the Annual Meeting virtually, at your request,
+we will cancel your previously submitted proxy.
+
+ 
+
+HOUSEHOLDING
+
+ 
+
+The
+SEC has adopted rules that permit companies and intermediaries (e.g., brokers) to satisfy the delivery requirements for proxy statements
+and other Annual Meeting materials with respect to two or more stockholders sharing the same address by delivering a proxy statement
+or other Annual Meeting materials addressed to those stockholders. This process, which is commonly referred to as householding, potentially
+provides extra convenience for stockholders and cost savings for companies. Stockholders who participate in householding will continue
+to be able to access and receive separate proxy cards.
+
+ 
+
+If you share an address with another
+stockholder and have received multiple copies of our proxy materials, you may write or call us at the address or phone number below to
+request delivery of a single copy of the notice and, if applicable, other proxy materials in the future. We undertake to deliver promptly
+upon written or oral request a separate copy of the proxy materials, as requested, to a stockholder at a shared address to which a single
+copy of the proxy materials was delivered. If you hold stock as a record stockholder and prefer to receive separate copies of our proxy
+materials either now or in the future, please contact us at 1 Lincoln Street, Suite 2400, Boston, MA 02111, Attn: Secretary, or by phone
+at (781) 925-1700. If your stock is held through a brokerage firm or bank and you prefer to receive separate copies of our proxy materials
+either now or in the future, please contact your brokerage firm or bank.
+
+ 
+
+ANNUAL
+REPORT
+
+ 
+
+Additional
+copies of our Annual Report on Form 10-K for the fiscal year ended April 30, 2023 may be obtained without charge by writing to the Company
+at Lincoln Street, Boston, MA 02111, Attn: Secretary, or by phone at (781) 925-1700.
+
+ 
+
+ 
+
+By Order of the Board of
+ Directors
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin Kay
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+Date:
+
+October 6, 2023
+
+ 
+
+ 
+
+24
+
+ 
+
+ 
+
+25
+
+ 
+
+ 
+
+NETCAPITAL INC
+
+CONTROL ID:
+ 
+
+State Street Financial Center, 1 Lincoln Street,
+
+ 
+
+Boston, MA 02111
+
+ 
+
+ 
+ 
+
+IMPORTANT
+NOTICE REGARDING THE AVAILABILITY OF PROXY MATERIALS
+
+FOR THE NETCAPITAL INC. 2023 ANNUAL MEETING OF STOCKHOLDERS TO BE HELD ON 
+NOVEMBER 21, 2023
+
+SPECIAL
+ MEETING DATE: November 21, 2023
+
+ 
+
+ 
+
+ 
+
+TIME:
+ 
+AT 11:00 AM (EASTERN TIME)
+
+ 
+
+ 
+
+ 
+
+LOCATION:
+ 
+ To be held virtually by calling 877-407-3088 (toll free),
+
+ 
+
+ 
+
+ 
+
+THIS
+COMMUNICATION IS NOT A FORM OF VOTING AND ONLY REPRESENTS A NOTICE TO ACCESS A MORE COMPLETE SET OF PROXY MATERIALS (INCLUDING 
+THE
+PROXY STATEMENT AND FORM 10K)
+ AVAILABLE TO YOU ON THE INTERNET. WE ENCOURAGE YOU TO ACCESS AND REVIEW ALL OF THE IMPORTANT INFORMATION
+CONTAINED IN THE PROXY MATERIALS BEFORE VOTING. THE PROXY MATERIALS ARE AVAILABLE AT 
+www.NETCAPITAL.vote
+. To submit your proxy while visiting this site, you will need the control ID in the box above.
+
+IF YOU
+DECIDE TO VIEW THE PROXY MATERIALS AND VOTE YOUR SHARES ONLINE,
+
+Step
+ 1: Go to www.netcapital.vote
+
+Step
+ 2: To view or download the proxy materials, click on the link that describes the material you wish to view or download. For example,
+ to view or download the Proxy Statement, click on the “Proxy Statement” link.
+
+Step
+ 3: To vote online, click on the designated link and follow the on-screen instructions. YOU MAY VOTE ONLINE UNTIL 
+7:00 PM EASTERN
+ TIME 
+NOVEMBER 20, 2023
+.
+
+IF YOU
+WANT TO RECEIVE A PAPER COPY OF THE PROXY MATERIALS INCLUDING THE PROXY CARD, YOU MUST REQUEST ONE. THERE IS NO CHARGE TO YOU FOR REQUESTING
+A COPY. TO FACILITATE TIMELY DELIVERY PLEASE MAKE THE REQUEST, AS INSTRUCTED BELOW, BEFORE NOVEMBER 6, 2023
+.
+
+ 
+HOW
+ TO REQUEST PAPER COPIES OF OUR MATERIALS
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+  
+
+PHONE:
+
+FAX:
+
+INTERNET:
+
+EMAIL:
+
+CALL
+ TOLL FREE
+
+SEND
+ THIS CARD TO
+
+www.netcapital.vote
+ 
+  
+
+proxy@equitystock.com
+
+         1-855-557-4647    
+
+  1-646-201-9006   
+
+FOLLOW
+ THE ON-SCREEN INSTRUCTIONS.
+
+INCLUDE
+ YOUR CONTROL ID IN YOUR EMAIL.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+26
+
+ 
+
+How
+to attend the VIRTUAL meeting and vote aT THE MEETING: 
+PLEASE VISIT WWW.NETCAPITAL.VOTE FOR INFORMATION ON HOW TO PARTICIPATE IN
+THE COMPANY’S VIRTUAL MEETING. If you encounter any technical difficulties with the virtual meeting platform on the meeting day,
+please call 877-804-2062 (toll free) or email proxy@equitystock.com.
+
+Voting
+ items
+
+ 
+
+ 
+
+ 
+
+The
+board of directors recommends that you vote “for” each nominee listed in PROPOSAL 1 and “for” proposal 2:
+
+ 
+
+ 
+
+ 
+
+1.     
+ Election of Directors to be elected for terms expiring in 2024:
+
+(a)  
+ Steven Geary
+
+(b)  
+ Martin Kay
+
+(c)  
+ Cecelia Lenk
+
+(d)  
+ Avi Liss
+
+(e)  
+ Arnold Scott
+
+ 
+
+2.     
+ Ratify the appointment of Fruci & Associates II, PLLC (“Fruci”) as the Company’s independent registered public
+ accounting firm for the fiscal year ending April 30, 2024.
+
+ 
+
+ 
+
+ 
+
+ 
+
+THE
+BOARD OF DIRECTORS HAS FIXED THE CLOSE OF BUSINESS ON 
+SEPTEMBER 22, 2023, 
+AS THE RECORD DATE FOR THE DETERMINATION OF MEMBERS
+ENTITLED TO RECEIVE NOTICE OF THE ANNUAL MEETING AND TO VOTE THE COMPANY’S COMMON SHARES THEY HELD ON THAT DATE AT THE MEETING
+OR ANY POSTPONEMENT OR ADJOURNMENT OF THE MEETING.
+
+ 
+
+PLEASE
+NOTE–THIS IS NOT A PROXY CARD - YOU CANNOT VOTE BY RETURNING THIS CARD. TO VOTE YOUR SHARES, YOU MUST VOTE ONLINE OR REQUEST A
+PAPER COPY OF PROXY MATERIALS TO RECEIVE A PROXY CARD. 
+
+ 
+
+YOUR
+VOTE IS IMPORTANT!
+
+27

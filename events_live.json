@@ -1,0 +1,1768 @@
+[
+  {
+    "id": "e17791cc-5ad1-4865-8519-577464cd7352",
+    "ts": 1787023372.5162375,
+    "actor": "orchestrator",
+    "kind": "mission",
+    "payload": {
+      "mission": "Determine whether this company misrepresented its financial condition, and identify who is responsible."
+    }
+  },
+  {
+    "id": "dd9b9087-b68a-4ef6-adfc-863b30a2bb98",
+    "ts": 1787023372.5162735,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F01A",
+      "summary": "FY ending 2020-04-30: reported net income of $604,851 against operating cash flow of $-3,604 \u2014 a $608,455 gap, 35% of revenue. The reported profit did not arrive as cash.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "net income=604,851",
+        "operating cash flow=-3,604",
+        "gap=608,455"
+      ]
+    }
+  },
+  {
+    "id": "4a922829-4c4e-413a-9459-f48fd2f7037d",
+    "ts": 1787023372.5162804,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F01M",
+      "summary": "Beneish M-Score for FY ending 2020-04-30 is -0.56, above the -1.78 manipulation threshold. Dominant driver: SGI. A screen fit on SEC AAER companies \u2014 high false-positive rate, and not a finding of fraud.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "M=-0.56",
+        "SGI=1.73"
+      ]
+    }
+  },
+  {
+    "id": "e90b6fef-c651-4fcf-8642-feb28cbd9ab3",
+    "ts": 1787023372.516285,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F02A",
+      "summary": "FY ending 2021-04-30: reported net income of $1,469,660 against operating cash flow of $-3,250,868 \u2014 a $4,720,528 gap, 100% of revenue. The reported profit did not arrive as cash.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "net income=1,469,660",
+        "operating cash flow=-3,250,868",
+        "gap=4,720,528"
+      ]
+    }
+  },
+  {
+    "id": "44821810-1ee2-4507-b602-9e5f23db1e76",
+    "ts": 1787023372.5162892,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F02M",
+      "summary": "Beneish M-Score for FY ending 2021-04-30 is -0.07, above the -1.78 manipulation threshold. Dominant driver: SGI. A screen fit on SEC AAER companies \u2014 high false-positive rate, and not a finding of fraud.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "M=-0.07",
+        "SGI=2.69"
+      ]
+    }
+  },
+  {
+    "id": "a2fe40b9-482c-42b3-bb08-604c9121746e",
+    "ts": 1787023372.516294,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F03A",
+      "summary": "FY ending 2022-04-30: reported net income of $3,503,530 against operating cash flow of $-3,006,667 \u2014 a $6,510,197 gap, 119% of revenue. The reported profit did not arrive as cash.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "net income=3,503,530",
+        "operating cash flow=-3,006,667",
+        "gap=6,510,197"
+      ]
+    }
+  },
+  {
+    "id": "c006498e-9884-4d29-aba5-e914e035c81e",
+    "ts": 1787023372.5162978,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F03M",
+      "summary": "Beneish M-Score for FY ending 2022-04-30 is -1.07, above the -1.78 manipulation threshold. Dominant driver: DSRI. A screen fit on SEC AAER companies \u2014 high false-positive rate, and not a finding of fraud.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "M=-1.07",
+        "DSRI=1.55"
+      ]
+    }
+  },
+  {
+    "id": "54316189-4212-43a3-901e-9a25c2242739",
+    "ts": 1787023372.5163045,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F04A",
+      "summary": "FY ending 2023-04-30: reported net income of $2,954,972 against operating cash flow of $-4,617,200 \u2014 a $7,572,172 gap, 89% of revenue. The reported profit did not arrive as cash.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "net income=2,954,972",
+        "operating cash flow=-4,617,200",
+        "gap=7,572,172"
+      ]
+    }
+  },
+  {
+    "id": "7e026577-bfc9-4f2f-a20a-640339cbdee6",
+    "ts": 1787023372.516326,
+    "actor": "forensic",
+    "kind": "evidence",
+    "payload": {
+      "id": "F04M",
+      "summary": "Beneish M-Score for FY ending 2023-04-30 is -1.55, above the -1.78 manipulation threshold. Dominant driver: SGI. A screen fit on SEC AAER companies \u2014 high false-positive rate, and not a finding of fraud.",
+      "tier": "INFERRED",
+      "entities": [],
+      "figures": [
+        "M=-1.55",
+        "SGI=1.55"
+      ]
+    }
+  },
+  {
+    "id": "1b29e019-5071-4d15-9d4b-36b7027446eb",
+    "ts": 1787023372.5163467,
+    "actor": "forensic",
+    "kind": "seeded",
+    "payload": {
+      "count": 8,
+      "methods": [
+        "accruals_divergence",
+        "beneish_m_score"
+      ]
+    }
+  },
+  {
+    "id": "9a6dbd10-4a2f-444e-975f-b560b60f9f2b",
+    "ts": 1787023372.5163825,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L-seed",
+      "question": "Survey the corpus. Extract the revenue composition, all named counterparties, all related-party disclosures, and any figures that repeat across supposedly independent parties."
+    }
+  },
+  {
+    "id": "b745720a-8357-42bc-b372-2db88e9d6d52",
+    "ts": 1787023372.5304885,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "75d9b46c-15cd-4ac6-9981-5ff77f39cebd",
+    "ts": 1787023456.8722262,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E01",
+      "summary": "Netcapital Inc. disaggregates its revenues into consulting services and online service fees, which include a portal fee of 4.9% of funds raised.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "4.9%"
+      ]
+    }
+  },
+  {
+    "id": "8ed926fa-edac-41a3-ac96-ccf811ff6c18",
+    "ts": 1787023456.8722348,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E02",
+      "summary": "Revenue concentration disclosures show repeating identical proportions, where two distinct customers represent exactly 33% of revenues in early 2022 and exactly 37% of revenues in mid-2023.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "33%",
+        "37%"
+      ]
+    }
+  },
+  {
+    "id": "d79868f5-4faf-4807-b8f4-bcc824b6d309",
+    "ts": 1787023456.8722398,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E03",
+      "summary": "Filings identify various counterparties, subsidiaries, and investment entities including Netcapital Systems LLC, Netcapital Funding Portal Inc., Zelgor Inc., Chase Bank, Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and 6A Aviation Alaska Consortium, Inc.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Systems LLC",
+        "Netcapital Funding Portal Inc.",
+        "Zelgor Inc.",
+        "Chase Bank",
+        "Caesar Media Group Inc.",
+        "6A Aviation Alaska Consortium, Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "6f3ba95b-fd5b-4605-9589-e6a9523489fe",
+    "ts": 1787023456.8722441,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E04",
+      "summary": "Related-party transactions disclose significant debt and software usage fees paid to majority shareholder Netcapital Systems LLC, as well as a CEO overlapping with affiliate 6A Aviation Alaska Consortium, Inc.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Systems LLC",
+        "6A Aviation Alaska Consortium, Inc."
+      ],
+      "figures": [
+        "1,671,360"
+      ]
+    }
+  },
+  {
+    "id": "4ff4b2d7-294c-4c93-add2-9c69224fff56",
+    "ts": 1787023456.8722477,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E05",
+      "summary": "Netcapital Funding Portal Inc. licensed funding portal software from Netcapital Systems LLC for an annual fee of $380,000.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Funding Portal Inc.",
+        "Netcapital Systems LLC"
+      ],
+      "figures": [
+        "$380,000"
+      ]
+    }
+  },
+  {
+    "id": "a6c80713-7abf-4d33-8fb6-d0de4304033e",
+    "ts": 1787023456.872257,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E06",
+      "summary": "Employment agreements for three executives (Lenk, Kraysler, Frishman) set identical initial salaries of $96,000 that increase to $150,000 upon a subsequent public offering.",
+      "tier": "DIRECT",
+      "entities": [
+        "Cecilia Lenk",
+        "Coreen Kraysler",
+        "Jason Frishman"
+      ],
+      "figures": [
+        "$96,000",
+        "$150,000"
+      ]
+    }
+  },
+  {
+    "id": "711a48f0-f0ab-47b2-9337-8bde396257c7",
+    "ts": 1787023456.8722615,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E07",
+      "summary": "On September 9, 2019, Netcapital Inc. issued stock-based compensation valued at identical repeating amounts of $305,000 to the CEO, CFO, and two consultants.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$305,000"
+      ]
+    }
+  },
+  {
+    "id": "08d097b4-eda5-4a0c-ae4b-54201b2c09e2",
+    "ts": 1787023456.8722663,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E08",
+      "summary": "Netcapital Inc. borrowed identical principal amounts of $1,885,800 under separate SBA loans on May 6, 2020 and February 2, 2021.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc.",
+        "U.S. Small Business Administration"
+      ],
+      "figures": [
+        "$1,885,800"
+      ]
+    }
+  },
+  {
+    "id": "764e8926-e159-486f-bc48-72aa04b7459f",
+    "ts": 1787023469.1032553,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Analyze the status of the two SBA loans of $1,885,800 each ("
+      ]
+    }
+  },
+  {
+    "id": "0c3de846-66ff-4017-ac5d-609c3758af94",
+    "ts": 1787023469.103272,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Determine the exact amounts of non-cash or equity-based consulting revenue recognized in the annual (10-K) and quarterly (10-Q) filings from fiscal years 2020 to 2023, and compare these totals to the operating cash flow gaps.",
+      "priority": 0.9,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "8c8d30f6-aac9-4dbe-a576-80253a091616",
+    "ts": 1787023469.1032777,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Identify the names or descriptions of the customers constituting 33% of revenues in early 2022 and 37% of revenues in mid-2023 from the revenue concentration disclosures or related party transaction sections.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "66aab3d3-15ea-418d-b840-60b949af4b75",
+    "ts": 1787023469.103283,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L04",
+      "question": "Identify the recipients (CEO, CFO, and the two consultants) who were issued stock-based compensation of $305,000 each on September 9, 2019, and check if these individuals are also associated with Netcapital Systems LLC or other related parties.",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "9a85415e-e3f5-4677-b82b-7246d1288fbe",
+    "ts": 1787023469.1033154,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L01",
+      "question": "Determine the exact amounts of non-cash or equity-based consulting revenue recognized in the annual (10-K) and quarterly (10-Q) filings from fiscal years 2020 to 2023, and compare these totals to the operating cash flow gaps."
+    }
+  },
+  {
+    "id": "bf20208c-3763-4685-a74b-f2c84a6681ad",
+    "ts": 1787023469.1137064,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "50843469-8590-42a5-a3af-c21cfeb15f65",
+    "ts": 1787023504.1763093,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E09",
+      "summary": "In its quarterly filing for the period ended January 31, 2021, Netcapital Inc. recognized non-cash revenue from the receipt of equity of $2,319,532 for the nine months ended January 31, 2021, and $1,410,796 for the nine months ended January 31, 2020.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$2,319,532",
+        "$1,410,796"
+      ]
+    }
+  },
+  {
+    "id": "1ad4928b-a27e-4c99-b9a4-784984218610",
+    "ts": 1787023504.1763184,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E10",
+      "summary": "In its quarterly filing for the period ended July 31, 2023, Netcapital Inc. recognized receipt of equity in lieu of cash of $1,170,000 for the three months ended July 31, 2023, and $1,200,000 for the three months ended July 31, 2022.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$1,170,000",
+        "$1,200,000"
+      ]
+    }
+  },
+  {
+    "id": "7950e74e-e419-44f4-80b8-1c5b194e4285",
+    "ts": 1787023504.1763232,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E11",
+      "summary": "The exact totals of non-cash or equity-based consulting revenue for all quarters and fiscal years from 2020 to 2023 cannot be fully determined because several 10-K and 10-Q filings, or their respective financial statement sections, are absent from the provided corpus.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "8d3d297c-48a6-46d7-9ba8-1db836f41856",
+    "ts": 1787023516.191522,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Sum the impairment of investments, write-downs, or unrealized losses on equity securities across all available filings from FY 2020 through FY 2023, and compare these losses to the cumulative non-cash equity revenue recognized during the same period.",
+      "priority": 0.85,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "62440e9c-a06e-4940-bbf4-d38dee28f3ea",
+    "ts": 1787023516.1915305,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Examine the customer concentration and related-party footnotes in all available 10-Q and 10-K filings to identify the specific names or characteristics of the customers constituting 33% or 37% of revenues, and check if they are related parties or companies in which Netcapital holds equity.",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "16f8a5ed-a981-43ca-9828-d7f7ccabc4e6",
+    "ts": 1787023516.191537,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L03",
+      "question": "Determine the terms, repayment status, and potential forgiveness of the two separate SBA loans of $1,885,800 received on May 6, 2020, and February 2, 2021, by reviewing the debt and subsequent event disclosures in all available filings.",
+      "priority": 0.6,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "741ebcf0-4ee5-4e73-adfe-0de0364fe242",
+    "ts": 1787023516.1915739,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L01",
+      "question": "Sum the impairment of investments, write-downs, or unrealized losses on equity securities across all available filings from FY 2020 through FY 2023, and compare these losses to the cumulative non-cash equity revenue recognized during the same period."
+    }
+  },
+  {
+    "id": "5b5e349d-98d7-4f7d-b044-ba5ce30db93d",
+    "ts": 1787023516.2020054,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "e2550c33-4d56-4543-9b68-308d452b33fb",
+    "ts": 1787023541.8189466,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E12",
+      "summary": "For the nine months ended January 31, 2022, Netcapital Inc. recognized $1,187,500 in non-cash revenue from the receipt of equity and an unrealized gain on equity securities of $3,275,745.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$1,187,500",
+        "$3,275,745"
+      ]
+    }
+  },
+  {
+    "id": "cec02a9c-5808-499f-9025-66e2eb4ce7e0",
+    "ts": 1787023541.8189554,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E13",
+      "summary": "For the three months ended July 31, 2022, Netcapital Inc. recognized a realized loss on the sale of an investment of $406,060.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$406,060"
+      ]
+    }
+  },
+  {
+    "id": "76c601aa-a42c-4762-b0f6-aa4721076e18",
+    "ts": 1787023541.8189654,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E14",
+      "summary": "The cumulative totals for impairments, write-downs, or unrealized losses on equity securities, as well as the complete non-cash equity revenue from FY 2020 through FY 2023, cannot be calculated because several annual and quarterly filings are missing from the corpus.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "d36f5569-f78b-4cab-a86e-741d58c8d7b8",
+    "ts": 1787023549.9687254,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Check for disclosures regarding the SBA loans of $1,885,800 "
+      ]
+    }
+  },
+  {
+    "id": "c629c0b2-b53d-4097-9e32-9c972f148c46",
+    "ts": 1787023549.9687412,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Find all mentions of the two customers who represented exactly 37% of revenues in the period ended July 31, 2023, or 33% of revenues in early 2022, to determine if they are related parties or specific named entities like Caesar Media Group Inc. or Zelgor Inc.",
+      "priority": 0.9,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "1fb49546-2e0b-443b-8c7f-3ce207a5e079",
+    "ts": 1787023549.968748,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L03",
+      "question": "Analyze the relationship and any transactions between Netcapital Inc. and Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and Zelgor Inc. to see if they are the sources of the non-cash equity-based consulting revenue.",
+      "priority": 0.85,
+      "assign_to": "hypothesis"
+    }
+  },
+  {
+    "id": "c043530c-4a41-4670-b513-60aefb478b89",
+    "ts": 1787023549.9687529,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Identify the names of the CEO, CFO, and the two consultants who received the identical $305,000 stock-based compensation on September 9, 2019, and verify if these awards are described in other filings.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "7fcfd8bc-a02f-4d7c-b3b7-5b5cd8cb51b5",
+    "ts": 1787023549.968793,
+    "actor": "orchestrator",
+    "kind": "starvation_override",
+    "payload": {
+      "stage": "hypothesis",
+      "upstream": "evidence",
+      "upstream_count": 22,
+      "note": "evidence is plentiful and hypothesis has produced nothing"
+    }
+  },
+  {
+    "id": "b66783b2-1110-4f2b-96cc-ab2971425e00",
+    "ts": 1787023549.9688,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "hypothesis",
+      "lead": "L-force-hypothesis",
+      "question": "You have substantial evidence and no hypotheses. Form competing explanations NOW over the evidence already collected, including at least one innocent explanation. Do not request more evidence."
+    }
+  },
+  {
+    "id": "ec708cc3-102e-4224-ad0a-db3075504d92",
+    "ts": 1787023562.5037694,
+    "actor": "hypothesis",
+    "kind": "hypothesis",
+    "payload": {
+      "id": "H1",
+      "claim": "Netcapital Inc. engaged in aggressive revenue recognition practices by inflating reported net income through the valuation of subjective, illiquid equity securities received as non-cash consulting revenue, leading to a severe cash flow divergence and elevated Beneish M-Scores.",
+      "confidence": 0.7,
+      "prior_confidence": null
+    }
+  },
+  {
+    "id": "4d3854ee-1c03-4ba6-9d1e-f4b1cdee450f",
+    "ts": 1787023562.5037785,
+    "actor": "hypothesis",
+    "kind": "hypothesis",
+    "payload": {
+      "id": "H2",
+      "claim": "The divergence between Netcapital Inc.'s net income and operating cash flow is an innocent consequence of its equity crowdfunding business model and standard GAAP compliance, where startup clients pay for consulting and portal services with equity instead of cash, which must be recognized as non-cash revenue and subsequently marked-to-market.",
+      "confidence": 0.75,
+      "prior_confidence": null
+    }
+  },
+  {
+    "id": "2bfd50fb-077e-457c-b47d-8acbb66235bc",
+    "ts": 1787023575.1252286,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Scan all available quarterly (10-Q) and annual (10-K) filing"
+      ]
+    }
+  },
+  {
+    "id": "f536bae1-39fc-4fd1-b314-08048973c4e9",
+    "ts": 1787023575.1252432,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Locate and extract the 'Fair Value Measurements' disclosure note from all Netcapital Inc. 10-K and 10-Q filings in the corpus to identify the ASC 820 fair value hierarchy level (Level 1, 2, or 3) of their equity investments, the specific valuation techniques utilized, and the quantitative unobservable inputs used.",
+      "priority": 0.85,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "46073ca2-59a5-4cb8-9f84-5061bae6ebea",
+    "ts": 1787023575.1252506,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Search the corpus for any 10-K filings for Netcapital Inc. (covering fiscal years 2020 through 2023) and extract the auditor's report, focusing on whether there are any Critical Audit Matters (CAMs) or Key Audit Matters (KAMs) related to the valuation of non-marketable equity securities received as consulting revenue.",
+      "priority": 0.8,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "5cb3ce9c-2900-4b78-8847-f4c8fc257056",
+    "ts": 1787023575.1252565,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L03",
+      "question": "Identify and sum all instances of 'impairment of investments', 'unrealized losses', or 'write-downs' of equity securities across all available filings to compare the volume of write-downs with the volume of recognized non-cash equity revenue.",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "a5015dde-77a6-4817-a986-ebbbdb9b550f",
+    "ts": 1787023575.1252952,
+    "actor": "orchestrator",
+    "kind": "starvation_override",
+    "payload": {
+      "stage": "skeptic",
+      "upstream": "hypotheses",
+      "upstream_count": 2,
+      "note": "hypotheses is plentiful and skeptic has produced nothing"
+    }
+  },
+  {
+    "id": "3258229c-a481-4bb2-8274-488886997c48",
+    "ts": 1787023575.125302,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "skeptic",
+      "lead": "L-force-skeptic",
+      "question": "Hypotheses are open and unchallenged. Attack every one of them now. Do not request more evidence."
+    }
+  },
+  {
+    "id": "8fb788db-c2b0-44d6-a5f2-6b3f392cb580",
+    "ts": 1787023593.316919,
+    "actor": "skeptic",
+    "kind": "confidence_change",
+    "payload": {
+      "id": "H1",
+      "before": 0.7,
+      "after": 0.15,
+      "survives": false,
+      "unsupported_leap": false,
+      "attack": "The hypothesis characterizes standard GAAP-compliant revenue recognition as aggressive manipulation without any supporting evidence of valuation impropriety, restatements, or regulatory action. Under ASC 606, Netcapital is required to recognize non-cash consideration at fair value upon receipt, and under ASC 321/820, it must adjust these holdings to fair value each period. Furthermore, the elevated Beneish M-Scores are driven by Sales Growth Index (SGI) and Days Sales in Receivables Index (DSRI), which are natural consequences of Netcapital's rapid expansion and business model, and represent a recognized high false-positive rate rather than proof of manipulation."
+    }
+  },
+  {
+    "id": "bd12e5ac-7164-49f7-b6b0-e195b0e68622",
+    "ts": 1787023593.3169296,
+    "actor": "skeptic",
+    "kind": "confidence_change",
+    "payload": {
+      "id": "H2",
+      "before": 0.75,
+      "after": 0.45,
+      "survives": true,
+      "unsupported_leap": false,
+      "attack": "While GAAP compliance dictates the accounting entries, labeling the extreme divergence between net income and cash flow as entirely innocent is premature. The massive non-cash gaps (reaching 100% and 119% of total revenue in FY21 and FY22) depend entirely on highly subjective Level 3 fair value estimates of illiquid startup equity. The realized loss of $406,060 on an investment sale (E13) demonstrates that these holdings are prone to significant value erosion upon liquidation, and the absence of complete filings (E11, E14) prevents a full evaluation of long-term asset impairments."
+    }
+  },
+  {
+    "id": "f89e43b9-81cd-4864-a835-3b2aaddcd543",
+    "ts": 1787023604.96982,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Determine the total fees paid or payable to Netcapital Syste"
+      ]
+    }
+  },
+  {
+    "id": "c30e17c4-e821-42ac-9a0d-4e65afd671d5",
+    "ts": 1787023604.9698346,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_valuation_methodology",
+      "question": "Identify the valuation methodology, fair value hierarchy levels (Level 1, 2, or 3), and specific inputs used by Netcapital Inc. to value the equity securities received as non-cash revenue in 2021-03-22_10-Q_000154.txt, 2022-03-17_10-Q_000068.txt, and 2023-09-14_10-Q_000722.txt.",
+      "priority": 0.85,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "f9b50348-2505-4a54-96e4-c589c226d6d8",
+    "ts": 1787023604.9698403,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_auditor_reports_and_kams",
+      "question": "Search the corpus for any independent auditor reports or disclosures to identify whether any Key Audit Matters (KAMs) or material weaknesses in internal control over financial reporting were reported, particularly regarding investment valuation or revenue recognition.",
+      "priority": 0.8,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "3595e54a-828c-48b2-9134-d271cc9d1d87",
+    "ts": 1787023604.9698455,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_customer_identities",
+      "question": "Check all available quarterly and annual filings for disclosures regarding the identities or descriptions of the customers representing 33% and 37% of revenues, and determine if they are related parties or overlapping entities listed in E03 (e.g., Zelgor Inc., Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC).",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "d404dbba-8af0-4933-b856-c53e1624d32a",
+    "ts": 1787023604.9698915,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L02",
+      "question": "Find all mentions of the two customers who represented exactly 37% of revenues in the period ended July 31, 2023, or 33% of revenues in early 2022, to determine if they are related parties or specific named entities like Caesar Media Group Inc. or Zelgor Inc."
+    }
+  },
+  {
+    "id": "688ebba7-43d4-4a27-8637-df684d0fd5d4",
+    "ts": 1787023604.9805615,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "19f91854-f558-48f7-86a1-af50423b7370",
+    "ts": 1787023648.4407074,
+    "actor": "evidence",
+    "kind": "citation_quarantine",
+    "payload": {
+      "evidence": "E16",
+      "rejected": 1,
+      "detail": [
+        "NOT_FOUND: 2022-03-17_10-Q_000068.txt"
+      ],
+      "downgraded": true
+    }
+  },
+  {
+    "id": "71f691d7-8448-47f6-a059-4c024f67553d",
+    "ts": 1787023648.5181046,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E15",
+      "summary": "In the quarterly period ended July 31, 2023, two customers represented exactly 37% of revenues each, but they are disclosed anonymously as 'one customer' and 'a second customer'.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "37%"
+      ]
+    }
+  },
+  {
+    "id": "175c9df4-c97f-498f-b81e-0584c47e8366",
+    "ts": 1787023648.518117,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E16",
+      "summary": "In the quarterly period ended January 31, 2022, two customers represented exactly 33% of revenues each, but they are disclosed anonymously as 'one customer' and 'a second customer'.",
+      "tier": "INFERRED",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "30%",
+        "33%",
+        "28%"
+      ]
+    }
+  },
+  {
+    "id": "20f60af2-7939-485a-a374-7d6803406df2",
+    "ts": 1787023648.518123,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E17",
+      "summary": "Zelgor Inc. is identified as a related party customer in the prior nine-month period ended January 31, 2021, representing approximately 37% of revenues, but is not linked to the 2022 or 2023 concentrations.",
+      "tier": "DIRECT",
+      "entities": [
+        "Zelgor Inc.",
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$1,400,000",
+        "37%",
+        "0%"
+      ]
+    }
+  },
+  {
+    "id": "b5c3fc03-f395-4c6b-b4f3-65467c033525",
+    "ts": 1787023648.5181284,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E18",
+      "summary": "Caesar Media Group Inc. is identified as a marketing firm in which Netcapital purchased a 10% interest, but is not identified as a major revenue-producing customer.",
+      "tier": "DIRECT",
+      "entities": [
+        "Caesar Media Group Inc.",
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "10%",
+        "50,000"
+      ]
+    }
+  },
+  {
+    "id": "923f735b-76a5-4d24-b8f9-b37549c6cfe9",
+    "ts": 1787023648.5181332,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E19",
+      "summary": "The corpus does not confirm whether the anonymous customers representing 33% of revenues in early 2022 or 37% of revenues in mid-2023 are related parties or named entities like Caesar Media Group Inc. or Zelgor Inc.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc.",
+        "Caesar Media Group Inc.",
+        "Zelgor Inc."
+      ],
+      "figures": [
+        "33%",
+        "37%"
+      ]
+    }
+  },
+  {
+    "id": "139a82fc-7efa-4741-8d9b-cae6125350d2",
+    "ts": 1787023660.7637053,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Are there any mentions of MSG Development Corp. or Vaxstar L"
+      ]
+    }
+  },
+  {
+    "id": "50fed3b7-7487-4e71-8efe-5aa37cde73a4",
+    "ts": 1787023660.7637367,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L1",
+      "question": "What is the specific fair value hierarchy level (Level 1, 2, or 3) and valuation methodology used by Netcapital Inc. to value the equity securities received as non-cash consulting revenue, as disclosed in its 10-Q and 10-K filings?",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "87faeb9f-8aa5-4da1-9007-cf6d8d42527b",
+    "ts": 1787023660.7637463,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L4",
+      "question": "Does the corpus contain any auditor reports or letters addressing Key Audit Matters (KAMs) or going concern issues specifically related to the valuation of these illiquid equity holdings or cash flow divergence?",
+      "priority": 0.75,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "f97437d6-a074-4113-aa91-d0382937db43",
+    "ts": 1787023660.763754,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L3",
+      "question": "Do any files in the corpus disclose details about the customers who represented 33% of revenues in early 2022 or 37% of revenues in mid-2023, and are they related parties?",
+      "priority": 0.7,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "ef45b531-12e1-4b9f-b5ec-377f46bd4cdf",
+    "ts": 1787023660.7638335,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "hypothesis",
+      "lead": "L03",
+      "question": "Analyze the relationship and any transactions between Netcapital Inc. and Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and Zelgor Inc. to see if they are the sources of the non-cash equity-based consulting revenue."
+    }
+  },
+  {
+    "id": "d0f7259f-9d98-4fce-9663-b8cf8acb426c",
+    "ts": 1787023686.6768155,
+    "actor": "hypothesis",
+    "kind": "hypothesis",
+    "payload": {
+      "id": "H3",
+      "claim": "Zelgor Inc. was a major source of Netcapital Inc.'s non-cash equity-based consulting revenue during the nine months ended January 31, 2021, whereas Caesar Media Group Inc. was not a consulting client but rather an investment target acquired via Netcapital's own share issuance. The roles of MSG Development Corp. and Vaxstar LLC remain unconfirmed due to absent details in the available filings.",
+      "confidence": 0.7,
+      "prior_confidence": null
+    }
+  },
+  {
+    "id": "9895f451-eaea-46c4-9699-95e0d5802cb6",
+    "ts": 1787023686.6768231,
+    "actor": "hypothesis",
+    "kind": "hypothesis",
+    "payload": {
+      "id": "H4",
+      "claim": "All four entities (Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and Zelgor Inc.) acted as sources of Netcapital's non-cash equity-based consulting revenue under a uniform business practice of accepting client equity in lieu of cash for professional fees.",
+      "confidence": 0.25,
+      "prior_confidence": null
+    }
+  },
+  {
+    "id": "ef8cc1a5-b044-4788-b7b2-38b54f862bf9",
+    "ts": 1787023697.8960023,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L1",
+      "question": "Search all available filings (such as 2023-09-14_10-Q_000722.txt and 2022-03-17_10-Q_000068.txt) for any mentions of 'MSG Development Corp' and 'Vaxstar LLC' to determine their relationship with Netcapital Inc. and whether they paid any consulting fees or issued equity.",
+      "priority": 0.9,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "76f91362-c85c-4d38-8daf-7787b1d599da",
+    "ts": 1787023697.8960116,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L2",
+      "question": "Analyze the customer concentration footnotes in 2022-03-17_10-Q_000068.txt and 2023-09-14_10-Q_000722.txt to verify if the anonymous customers (representing 33% and 37% of revenues) are identified as related parties or can be matched to named entities in the related party disclosures.",
+      "priority": 0.8,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "ff038591-5f0b-4afa-ab9e-7e124eeedb73",
+    "ts": 1787023697.896018,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L3",
+      "question": "Examine the accounting policies and fair value measurement footnotes in all available quarterly and annual filings to determine the valuation tier (Level 1, 2, or 3 under ASC 820) applied to the non-cash equity securities received as revenue, and check for any auditor remarks regarding valuation reliability.",
+      "priority": 0.75,
+      "assign_to": "hypothesis"
+    }
+  },
+  {
+    "id": "de9bea90-02eb-4d08-b2db-b5677fb41ede",
+    "ts": 1787023697.8960736,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L1",
+      "question": "Search all available filings (such as 2023-09-14_10-Q_000722.txt and 2022-03-17_10-Q_000068.txt) for any mentions of 'MSG Development Corp' and 'Vaxstar LLC' to determine their relationship with Netcapital Inc. and whether they paid any consulting fees or issued equity."
+    }
+  },
+  {
+    "id": "a02ebd34-0e0a-4dda-8f24-6bbb653cce05",
+    "ts": 1787023697.9055552,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "14772c58-4736-4d68-bdb5-2b165b16b1c1",
+    "ts": 1787023735.2840476,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E20",
+      "summary": "Netcapital Inc. purchased MSG Development Corp. during the quarter ended January 31, 2022, by issuing 50,000 shares of Netcapital common stock valued at $488,500.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc.",
+        "MSG Development Corp."
+      ],
+      "figures": [
+        "50,000SR",
+        "50,000",
+        "488,500",
+        "488,450"
+      ]
+    }
+  },
+  {
+    "id": "bb6e5e28-eb27-4987-9a0a-48ac6c60fe26",
+    "ts": 1787023735.284056,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E21",
+      "summary": "On April 18, 2022, Netcapital Inc. borrowed $400,000 from Vaxstar LLC under a July 2014 Loan and Security Agreement, bringing the total amount owed to $1.4 million.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc.",
+        "Vaxstar LLC"
+      ],
+      "figures": [
+        "$400,000",
+        "July 24, 2014",
+        "8%",
+        "April 30, 2023",
+        "1.4 million"
+      ]
+    }
+  },
+  {
+    "id": "664bc8bf-f93d-4989-b2ed-0355f42c871f",
+    "ts": 1787023735.2840602,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E22",
+      "summary": "Vaxstar LLC is inferred to be the unnamed principal secured lender from Netcapital's prior quarterly filings, as both refer to a loan agreement from July 2014 with an outstanding balance of $1.0 million.",
+      "tier": "INFERRED",
+      "entities": [
+        "Netcapital Inc.",
+        "Vaxstar LLC"
+      ],
+      "figures": [
+        "$1,000,000",
+        "July 26, 2014",
+        "July 24, 2014",
+        "1.4 million"
+      ]
+    }
+  },
+  {
+    "id": "765793d0-32c7-4d54-b7f3-f18c50b9e6da",
+    "ts": 1787023735.2840643,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E23",
+      "summary": "The available filings do not contain any information indicating that either MSG Development Corp. or Vaxstar LLC paid consulting fees or issued equity to Netcapital Inc.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc.",
+        "MSG Development Corp.",
+        "Vaxstar LLC"
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "469e3d3e-404b-46e5-a278-74af7efd722a",
+    "ts": 1787023743.2720253,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L1",
+      "question": "Search the filings for any disclosures concerning ASC 820 Fair Value Measurement levels (Level 1, 2, or 3) used to value the non-cash equity received, and any related Key Audit Matters or auditor commentary in the annual filings.",
+      "priority": 0.85,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "4a5e32ed-4247-436f-9d5f-052d6dbb7d50",
+    "ts": 1787023743.2720346,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L2",
+      "question": "Locate and extract the exact text and percentages for customer concentration in the quarterly filing for the period ended January 31, 2022 (2022-03-17_10-Q_000068.txt) to resolve the unverifiable citation in E16.",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "62759b30-78ca-4157-ba43-62a687695421",
+    "ts": 1787023743.2720406,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L3",
+      "question": "Analyze subsequent 10-K and 10-Q filings for details of the conversion, sale, or write-down of equity holdings from Zelgor Inc. to verify whether any cash was ultimately realized from this position.",
+      "priority": 0.7,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "65cc2abb-628d-4428-9fdd-ad2abb5b771a",
+    "ts": 1787023743.272142,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L02",
+      "question": "Locate and extract the 'Fair Value Measurements' disclosure note from all Netcapital Inc. 10-K and 10-Q filings in the corpus to identify the ASC 820 fair value hierarchy level (Level 1, 2, or 3) of their equity investments, the specific valuation techniques utilized, and the quantitative unobservable inputs used."
+    }
+  },
+  {
+    "id": "636aeca1-0fff-4d19-8a78-2c7f3b686546",
+    "ts": 1787023743.2836263,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "88a2a7cd-2e47-4149-9923-c766a1bc7ea3",
+    "ts": 1787023777.5284462,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E22",
+      "summary": "In its quarterly report for the period ended January 31, 2022, Netcapital Inc.'s Note 9 on Fair Value starts to discuss the FASB ASC fair value hierarchy but cuts off mid-sentence.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "5af48a67-a84e-40bd-97ba-2bb471c42aaf",
+    "ts": 1787023777.5284553,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E23",
+      "summary": "The ASC 820 fair value hierarchy levels, specific valuation techniques, and quantitative unobservable inputs used by Netcapital Inc. are absent from the corpus because all relevant notes are truncated or omitted.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "b8a7f9af-940b-46b5-96c2-f06d855dd1d9",
+    "ts": 1787023777.5284603,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E24",
+      "summary": "Netcapital Inc. reports having $24,308,633 and $11,261,253 in equity securities at fair value as of July 31, 2023, and January 31, 2022, respectively, but the disclosure of their hierarchy levels and inputs is missing.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "$24,308,633",
+        "$22,955,445",
+        "$11,261,253",
+        "$6,298,008"
+      ]
+    }
+  },
+  {
+    "id": "1f333df9-6ee6-4da1-9ea1-cf7ba9fd1e78",
+    "ts": 1787023790.5178657,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_01",
+      "question": "Verify the customer concentration percentages and figures for the three and nine months ended January 31, 2022, by searching 2022-03-17_10-Q_000068.txt for the exact text on customer concentrations.",
+      "priority": 0.9,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "08975542-a14f-41cb-8f11-b6f0ee275f6e",
+    "ts": 1787023790.5178766,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_02",
+      "question": "Determine whether the $1,400,000 revenue from Zelgor Inc. for the nine months ended January 31, 2021, was paid in cash or equity, and verify the nature of the relationship with the consultant who is also the controlling shareholder of Zelgor Inc. by analyzing 2022-03-17_10-Q_000068.txt.",
+      "priority": 0.8,
+      "assign_to": "hypothesis"
+    }
+  },
+  {
+    "id": "3fdbf892-211d-47a7-a83d-bb02d032d1b4",
+    "ts": 1787023790.5178835,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_03",
+      "question": "Search all available filings (including 2022-03-17_10-Q_000068.txt and 2023-09-14_10-Q_000722.txt) for disclosures showing whether MSG Development Corp ever generated consulting revenues for Netcapital Inc. or if its relationship was strictly limited to being an acquisition target.",
+      "priority": 0.7,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "d7245907-33cb-4d9d-9a6d-2c1af67aecc3",
+    "ts": 1787023790.5179415,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "lead_01",
+      "question": "Verify the customer concentration percentages and figures for the three and nine months ended January 31, 2022, by searching 2022-03-17_10-Q_000068.txt for the exact text on customer concentrations."
+    }
+  },
+  {
+    "id": "58e38a81-3ab1-4edb-9c08-84c9edbae10a",
+    "ts": 1787023790.5262742,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "f7686ae3-2802-43ab-b404-fcf739efafbd",
+    "ts": 1787023802.4920747,
+    "actor": "evidence",
+    "kind": "citation_quarantine",
+    "payload": {
+      "evidence": "E_concentration_2022",
+      "rejected": 1,
+      "detail": [
+        "NOT_FOUND: 2022-03-17_10-Q_000068.txt"
+      ],
+      "downgraded": true
+    }
+  },
+  {
+    "id": "486a132d-3f1f-4ec4-b867-6bfda32eab77",
+    "ts": 1787023802.492101,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E_concentration_2022",
+      "summary": "For the nine- and three-month periods ended January 31, 2022, Netcapital Inc. had one customer that constituted 30% and 33% of revenues and a second customer that constituted 28% and 33% of revenues, respectively.",
+      "tier": "INFERRED",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "30%",
+        "33%",
+        "28%"
+      ]
+    }
+  },
+  {
+    "id": "4865696c-15d1-4d64-98e3-013e005ef147",
+    "ts": 1787023816.6953356,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 5,
+      "kept": 3,
+      "dropped": [
+        "Identify whether MSG Development Corp. operates as a separat",
+        "Look for disclosures in the filings (including 2023-09-14_10"
+      ]
+    }
+  },
+  {
+    "id": "ef838024-79da-40c7-9a75-b049ec5958a3",
+    "ts": 1787023816.6953568,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Search the file 2022-03-17_10-Q_000068.txt for the exact customer concentration disclosures, including percentages and verbatim quotes, for the three- and nine-month periods ended January 31, 2022 to resolve the unverifiable citation in E16.",
+      "priority": 0.95,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "f4ed4e29-4d88-4607-b4b1-cd300b8d7e36",
+    "ts": 1787023816.6953635,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Scan all filings in the corpus, particularly 2022-06-28_8-K_000400.txt and any 10-Q reports, to determine if Vaxstar LLC is a related party or shares common officers, directors, or owners with Netcapital Inc. or Netcapital Systems LLC.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "a8021b8c-23ac-48eb-86e0-0e34f0dca977",
+    "ts": 1787023816.6953695,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L03",
+      "question": "Verify if there are any other disclosures or filings in the corpus that name the auditor of Netcapital Inc. or discuss any Key Audit Matters (KAMs) or internal control weaknesses.",
+      "priority": 0.75,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "beccb56e-083d-4206-ba6a-6a98a2d01cb1",
+    "ts": 1787023816.6954193,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L01",
+      "question": "Search the file 2022-03-17_10-Q_000068.txt for the exact customer concentration disclosures, including percentages and verbatim quotes, for the three- and nine-month periods ended January 31, 2022 to resolve the unverifiable citation in E16."
+    }
+  },
+  {
+    "id": "560e6e79-2534-4339-84ef-1c93869c3607",
+    "ts": 1787023816.7051733,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "833a2b16-ab4f-4c4a-b1a5-d6bae4e99a05",
+    "ts": 1787023839.356669,
+    "actor": "evidence",
+    "kind": "citation_quarantine",
+    "payload": {
+      "evidence": "E22",
+      "rejected": 1,
+      "detail": [
+        "NOT_FOUND: 2022-03-17_10-Q_000068.txt"
+      ],
+      "downgraded": true
+    }
+  },
+  {
+    "id": "dbec2981-6e84-4856-857f-ce15028e34db",
+    "ts": 1787023839.356687,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E22",
+      "summary": "For the nine- and three-month periods ended January 31, 2022, Netcapital Inc. had one customer that constituted 30% and 33% of revenues and a second customer that constituted 28% and 33% of revenues, respectively.",
+      "tier": "INFERRED",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "30%",
+        "33%",
+        "28%"
+      ]
+    }
+  },
+  {
+    "id": "de9c4479-adfe-404a-b517-5fa7bdaad2de",
+    "ts": 1787023851.391478,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 5,
+      "kept": 3,
+      "dropped": [
+        "Search the corpus for any mentions of Vaxstar LLC to find if",
+        "Analyze any auditor reports or notes on critical audit matte"
+      ]
+    }
+  },
+  {
+    "id": "9aa23cee-ccaf-4626-8ef0-86aa2f491006",
+    "ts": 1787023851.3915098,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L3",
+      "question": "Verify if there are any annual reports (10-K filings) in the corpus for the fiscal years ended April 30, 2021, 2022, or 2023, and extract the disclosures on customer concentrations to see if the major customers representing 33% or 37% of revenues are identified by name.",
+      "priority": 0.9,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "b2828ddb-e038-4570-9525-e963eb526a91",
+    "ts": 1787023851.3915205,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L5",
+      "question": "Search the corpus for details of the $1,400,000 revenue from Zelgor Inc. in the nine months ended January 31, 2021, to find whether the payment was made in cash, Netcapital stock, or Zelgor's own equity.",
+      "priority": 0.85,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "f54993b8-8584-4852-bdd8-fecc7568f8aa",
+    "ts": 1787023851.3915277,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L1",
+      "question": "Search all filings in the corpus for any details on the purchase of MSG Development Corp. to confirm if it was acquired to obtain its consulting contracts or if MSG Development Corp. was itself a source of consulting revenue.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "3b0f1cb2-2c2f-4b5c-8cd5-c6887d947bbf",
+    "ts": 1787023851.3915954,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "L3",
+      "question": "Verify if there are any annual reports (10-K filings) in the corpus for the fiscal years ended April 30, 2021, 2022, or 2023, and extract the disclosures on customer concentrations to see if the major customers representing 33% or 37% of revenues are identified by name."
+    }
+  },
+  {
+    "id": "75fc9c13-de74-4b43-9e76-1062f597fde2",
+    "ts": 1787023851.4021873,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "4497cfd5-9129-4668-b2a2-49db9f44b158",
+    "ts": 1787023879.459245,
+    "actor": "evidence",
+    "kind": "citation_quarantine",
+    "payload": {
+      "evidence": "E203",
+      "rejected": 1,
+      "detail": [
+        "NOT_FOUND: 2022-03-17_10-Q_000068.txt"
+      ],
+      "downgraded": false
+    }
+  },
+  {
+    "id": "bc5611f9-5622-490c-afda-f96bbcfbce14",
+    "ts": 1787023879.459258,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E201",
+      "summary": "The corpus contains the annual report (Form 10-K) for the fiscal year ended April 30, 2021, but lacks annual reports for the fiscal years ended April 30, 2022, and April 30, 2023.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "2021",
+        "2022",
+        "2023"
+      ]
+    }
+  },
+  {
+    "id": "79928245-e6d9-4c80-8212-e94c73a1ff59",
+    "ts": 1787023879.459264,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E202",
+      "summary": "In the annual report for the fiscal year ended April 30, 2021, the customer concentrations do not include 33% or 37%, and the major customers are described anonymously without being identified by name.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "30%",
+        "15%",
+        "14%",
+        "11%"
+      ]
+    }
+  },
+  {
+    "id": "4c812414-1974-4990-af98-c9a990f5aba8",
+    "ts": 1787023879.4592686,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E203",
+      "summary": "The customer concentrations of 33% and 37% are found in quarterly reports (10-Q filings) rather than annual reports (10-K filings), and those major customers are disclosed anonymously without names.",
+      "tier": "DIRECT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": [
+        "30%",
+        "33%",
+        "28%",
+        "37%"
+      ]
+    }
+  },
+  {
+    "id": "191e2fe7-dcfa-48c6-932d-fbf8851b7a00",
+    "ts": 1787023891.2801743,
+    "actor": "lead",
+    "kind": "leads_truncated",
+    "payload": {
+      "emitted": 4,
+      "kept": 3,
+      "dropped": [
+        "Review Netcapital's acquisition details of MSG Development C"
+      ]
+    }
+  },
+  {
+    "id": "04b46a07-82fa-4559-8a9f-d602a7d2a511",
+    "ts": 1787023891.280198,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L01",
+      "question": "Examine 2022-03-17_10-Q_000068.txt and other filings to determine if the $1,400,000 in revenue from Zelgor Inc. during the nine months ended January 31, 2021 was recorded as cash or non-cash/equity revenue, and check if Zelgor is a related party under common control.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "6151e99d-21bb-4355-9132-37b43c2211a1",
+    "ts": 1787023891.280206,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L02",
+      "question": "Analyze disclosures in 2022-03-17_10-Q_000068.txt and 2023-09-14_10-Q_000722.txt regarding Caesar Media Group Inc. to confirm if Netcapital ever received consulting fees or equity from Caesar, or if Netcapital's ownership of Caesar was solely via Netcapital's share issuance.",
+      "priority": 0.75,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "73c049cf-0b34-460d-abe0-edb1d09eb065",
+    "ts": 1787023891.2802124,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "L03",
+      "question": "Search the corpus, including 2022-06-28_8-K_000400.txt, for any indication that Vaxstar LLC has a commercial or consulting relationship with Netcapital Inc. beyond the July 2014 Loan and Security Agreement.",
+      "priority": 0.7,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "78ec1178-1ee4-483a-b028-5ca1a3a3e953",
+    "ts": 1787023891.2802763,
+    "actor": "orchestrator",
+    "kind": "dispatch",
+    "payload": {
+      "agent": "evidence",
+      "lead": "lead_valuation_methodology",
+      "question": "Identify the valuation methodology, fair value hierarchy levels (Level 1, 2, or 3), and specific inputs used by Netcapital Inc. to value the equity securities received as non-cash revenue in 2021-03-22_10-Q_000154.txt, 2022-03-17_10-Q_000068.txt, and 2023-09-14_10-Q_000722.txt."
+    }
+  },
+  {
+    "id": "b701e19f-0a1b-499a-b6da-eac6bb1e11f3",
+    "ts": 1787023891.2890227,
+    "actor": "evidence",
+    "kind": "coverage_note",
+    "payload": {
+      "shown": 8,
+      "total": 71,
+      "note": "corpus truncated for this call - not full coverage"
+    }
+  },
+  {
+    "id": "d819ac66-df8e-49c3-afe9-0047ec7b6045",
+    "ts": 1787023932.1203325,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E_VAL_2021",
+      "summary": "The valuation methodology, fair value hierarchy levels, and inputs for equity securities received as non-cash revenue are absent from the 2021-03-22 Form 10-Q, which lists investments at cost and contains no Note 9 or fair value disclosures.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "8eb298d4-f419-4596-9485-08ced6ae243b",
+    "ts": 1787023932.1203427,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E_VAL_2022",
+      "summary": "The valuation methodology, fair value hierarchy levels, and specific inputs are absent from the 2022-03-17 Form 10-Q because the Note 9 Fair Value section is truncated immediately after its introductory sentence.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "df28e5f2-4844-458e-9180-f15f06680732",
+    "ts": 1787023932.1203494,
+    "actor": "evidence",
+    "kind": "evidence",
+    "payload": {
+      "id": "E_VAL_2023",
+      "summary": "The valuation methodology, fair value hierarchy levels, and specific inputs are absent from the 2023-09-14 Form 10-Q as the filing is truncated mid-sentence during Note 3 on Revenue Recognition.",
+      "tier": "ABSENT",
+      "entities": [
+        "Netcapital Inc."
+      ],
+      "figures": []
+    }
+  },
+  {
+    "id": "1e04c22a-8126-481a-927f-7b7a4a0526f5",
+    "ts": 1787023941.155131,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_auditor_opinion",
+      "question": "Search the corpus for Netcapital's independent auditor reports, audit opinions, identified material weaknesses, or discussion of valuation methodologies for non-cash equity to see if any concerns or Key Audit Matters were raised regarding subjective asset valuation.",
+      "priority": 0.85,
+      "assign_to": "skeptic"
+    }
+  },
+  {
+    "id": "fe7ae25c-fcb2-4dd1-b77b-f4796fefd6de",
+    "ts": 1787023941.1551418,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_vaxstar_details",
+      "question": "Search all filings in the corpus for 'Vaxstar LLC' to identify its principal owners, relationship to Netcapital Inc., and whether the loan agreements involved any equity compensation, debt-to-equity conversions, or consulting services.",
+      "priority": 0.8,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "fee4b7e1-9b14-4238-84d7-7dda2bd10e24",
+    "ts": 1787023941.1551495,
+    "actor": "lead",
+    "kind": "lead",
+    "payload": {
+      "id": "lead_msg_acquisition",
+      "question": "Search the corpus for all disclosures of 'MSG Development Corp.' to identify the business purpose, previous owners, and whether it generated any revenue or was involved in non-cash consulting transactions before or after its acquisition.",
+      "priority": 0.75,
+      "assign_to": "evidence"
+    }
+  },
+  {
+    "id": "ca480e97-80d7-4d10-bb8c-23ece8efa16c",
+    "ts": 1787023941.1551638,
+    "actor": "orchestrator",
+    "kind": "stop",
+    "payload": {
+      "reason": "budget_exhausted",
+      "evidence": 39,
+      "hypotheses": 4,
+      "verdicts": 2,
+      "open_leads": 29,
+      "events": 126
+    }
+  }
+]

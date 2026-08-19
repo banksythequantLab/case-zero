@@ -1,0 +1,27 @@
+# The withheld answer key must never enter the image.
+complaint.pdf
+complaint.txt
+ground_truth.json
+score_run.py
+BENCHMARK.md
+CANDIDATES.md
+
+# Not needed at runtime
+tests/
+*.png
+*.md
+!README.md
+.git/
+__pycache__/
+**/__pycache__/
+*.pyc
+*.log
+*.tar.gz
+scorecard.json
+run.sample.json
+architecture.html
+board_*.png
+
+# secrets
+.env
+*.key

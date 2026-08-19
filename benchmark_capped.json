@@ -1,0 +1,75 @@
+[
+  {
+    "run": 1,
+    "seconds": 525,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 34,
+      "hypotheses": 4,
+      "verdicts": 8,
+      "open_leads": 25,
+      "events": 113
+    },
+    "findings": [
+      {
+        "confidence": 0.45,
+        "title": "The persistent divergence between Netcapital's net income and operating cash flow is due to non-cash revenue recognition"
+      },
+      {
+        "confidence": 0.25,
+        "title": "The large gaps between net income and operating cash flow, along with elevated Beneish M-scores, are caused by aggressiv"
+      },
+      {
+        "confidence": 0.15,
+        "title": "The revision of Zelgor's Q3 2021 revenue from $350,000 to $0 in the comparative period of the 2022 filing was an innocen"
+      },
+      {
+        "confidence": 0.1,
+        "title": "The discrepancy in Q3 2021 Zelgor revenue between the 2021 and 2022 filings represents retroactive correction of unearne"
+      }
+    ],
+    "n_findings": 4,
+    "n_refuted": 0,
+    "n_blocked": 0,
+    "citation_accuracy": 0.8648648648648649,
+    "citations_checked": 37,
+    "quarantined": 5,
+    "overrides": [
+      "hypothesis",
+      "skeptic"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 113
+  },
+  {
+    "run": 2,
+    "seconds": 527,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 41,
+      "hypotheses": 4,
+      "verdicts": 9,
+      "open_leads": 24,
+      "events": 116
+    },
+    "findings": [
+      {
+        "confidence": 0.7,
+        "title": "The two SBA loans of identical principal ($1,885,800) obtained on May 6, 2020, and February 2, 2021, represent standard "
+      }
+    ],
+    "n_findings": 1,
+    "n_refuted": 2,
+    "n_blocked": 1,
+    "citation_accuracy": 1.0,
+    "citations_checked": 25,
+    "quarantined": 0,
+    "overrides": [
+      "hypothesis"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 116
+  }
+]

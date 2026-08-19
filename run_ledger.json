@@ -1,0 +1,78 @@
+{
+  "mission": "Determine whether this company misrepresented its financial condition, and identify who is responsible.",
+  "source_run": 1,
+  "of_runs": 2,
+  "stop_reason": "budget_exhausted",
+  "findings": [
+    {
+      "id": "H01",
+      "title": "Netcapital Inc. engaged in non-cash revenue inflation by accepting highly overvalued equity from customer startups as pa",
+      "description": "Netcapital Inc. engaged in non-cash revenue inflation by accepting highly overvalued equity from customer startups as payment for consulting services, driving massive divergence between reported profits and operating cash flows.",
+      "confidence": 0.35,
+      "evidence": [
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "Non-cash revenue from receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "title": "The high non-cash revenue valuations reflect standard high-risk startup consulting practices, while the matching figures",
+      "description": "The high non-cash revenue valuations reflect standard high-risk startup consulting practices, while the matching figures and near-miss values across unrelated counterparties are the result of clerical XBRL tagging errors and default template values rather than intentional fraud.",
+      "confidence": 0.2,
+      "evidence": [
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "A distinction exists in revenue source; our revenues are either generated online or from consulting services.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "Non-cash revenue from receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CountSharpLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CupCrewLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:HeadFarmLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:RealWorldLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    }
+  ]
+}

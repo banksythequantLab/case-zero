@@ -1,0 +1,305 @@
+[
+  {
+    "run": 1,
+    "seconds": 1578,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 65,
+      "hypotheses": 6,
+      "verdicts": 12,
+      "open_leads": 93,
+      "events": 351
+    },
+    "findings": [
+      {
+        "id": "H01",
+        "title": "Netcapital artificially inflated its reported revenue and net income by recognizing overvalued, non-cash, equity-settled",
+        "description": "Netcapital artificially inflated its reported revenue and net income by recognizing overvalued, non-cash, equity-settled consulting fees from counterparties, creating a massive divergence between reported earnings and actual cash flows.",
+        "confidence": 0.6,
+        "evidence": [
+          {
+            "file": "2023-03-16_10-Q_000195.txt",
+            "quote": "Note 13 \u2013 Investments In January 2023, the Company received 2,100,000 units of Dark LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $1.00 per unit based on a sales price of $1.00 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $2,100,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-12-12_10-Q_000902.txt",
+            "quote": "Note 13 \u2013 Investments In August 2022, the Company received 1,911,765 units of NetWire LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,300,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-08-08_10-K_000497.txt",
+            "quote": "Investments In April 2022, the Company received 3,000,000 units of Cust Corp. as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.40 per unit based on a sales price of $0.40 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-09-12_10-Q_000581.txt",
+            "quote": "Note 13 \u2013 Investments In May 2022, the Company received 1,764,706 units of Reper LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "Investments In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-09-14_10-Q_000722.txt",
+            "quote": "Note 13 \u2013 Investments In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-03-17_10-Q_000068.txt",
+            "quote": "e Company owns 1,700,000 units which are valued at $425,000. In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-03-17_10-Q_000068.txt",
+            "quote": "In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-02-14_S-1_000119.txt",
+            "quote": "The Netcapital funding portal charges a $5,000 engagement fee and a 4.9% success fee for capital raised at closing.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-07_S-1_000526.txt",
+            "quote": "The Netcapital funding portal charges a $5,000 to $10,000 engagement fee a 4.9% success fee for capital raised at closing, and in certain instances a fee payable in equity from the issuer.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2021-09-14_10-Q_000611.txt",
+            "quote": "In August 2020 the Company entered a consulting agreement with C-Reveal Therapeutics LLC (\u201cCRT\u201d). for a $120,000 fee over a 12-month period. $50,000 of the fee is payable in CRT units.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2021-03-22_10-Q_000154.txt",
+            "quote": "On July 20, 2020 the Company entered a consulting agreement with Vymedic, Inc. for a $40,000 fee over a 5-month period.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-09-14_10-Q_000722.txt",
+            "quote": "In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-09-14_10-Q_000722.txt",
+            "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-12-18_S-1A_045158.txt",
+            "quote": "and is a member of FINRA. \u25cf 116,920 investor accounts \u25cf 386 offerings launched \u25cf 252 offerings funded \u25cf $65.5 million raised through the platform For the six-month period ended October 31, 2023, we had one customer, AceHedge LLC that constituted 32% of revenues, a second customer, Fantize LLC that constituted 32% of revenues, and a third customer, StockText LLC, that constituted 11% of revenues.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-11-30_S-1A_043259.txt",
+            "quote": "tal The Netcapital funding portal is registered with the SEC and is a member of FINRA. \u25cf 111,716 investor accounts \u25cf 357 offerings launched \u25cf 231 offerings funded \u25cf $58.5 million raised through the platform For the three-month period ended July 31, 2023, the Company had one customer, AceHedge LLC that constituted 37% of revenues and a second customer, Fantize LLC that constituted 37% of revenues.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          }
+        ]
+      },
+      {
+        "id": "H04",
+        "title": "Consistent with Netcapital's established business model of accepting customer equity in lieu of cash, the revenues from ",
+        "description": "Consistent with Netcapital's established business model of accepting customer equity in lieu of cash, the revenues from AceHedge LLC, Fantize LLC, and StockText LLC were recognized as accounts receivable and subsequently settled in issuer equity units, and these entities represent crowdfunding issuers launched on Netcapital's own portal.",
+        "confidence": 0.35,
+        "evidence": [
+          {
+            "file": "2023-03-16_10-Q_000195.txt",
+            "quote": "Note 13 \u2013 Investments In January 2023, the Company received 2,100,000 units of Dark LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $1.00 per unit based on a sales price of $1.00 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $2,100,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-12-12_10-Q_000902.txt",
+            "quote": "Note 13 \u2013 Investments In August 2022, the Company received 1,911,765 units of NetWire LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,300,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-08-08_10-K_000497.txt",
+            "quote": "Investments In April 2022, the Company received 3,000,000 units of Cust Corp. as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.40 per unit based on a sales price of $0.40 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-09-12_10-Q_000581.txt",
+            "quote": "Note 13 \u2013 Investments In May 2022, the Company received 1,764,706 units of Reper LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "Investments In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-07-26_10-K_000560.txt",
+            "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-09-14_10-Q_000722.txt",
+            "quote": "Note 13 \u2013 Investments In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-03-17_10-Q_000068.txt",
+            "quote": "e Company owns 1,700,000 units which are valued at $425,000. In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2022-03-17_10-Q_000068.txt",
+            "quote": "In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-12-18_S-1A_045158.txt",
+            "quote": "and is a member of FINRA. \u25cf 116,920 investor accounts \u25cf 386 offerings launched \u25cf 252 offerings funded \u25cf $65.5 million raised through the platform For the six-month period ended October 31, 2023, we had one customer, AceHedge LLC that constituted 32% of revenues, a second customer, Fantize LLC that constituted 32% of revenues, and a third customer, StockText LLC, that constituted 11% of revenues.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          },
+          {
+            "file": "2023-11-30_S-1A_043259.txt",
+            "quote": "tal The Netcapital funding portal is registered with the SEC and is a member of FINRA. \u25cf 111,716 investor accounts \u25cf 357 offerings launched \u25cf 231 offerings funded \u25cf $58.5 million raised through the platform For the three-month period ended July 31, 2023, the Company had one customer, AceHedge LLC that constituted 37% of revenues and a second customer, Fantize LLC that constituted 37% of revenues.",
+            "_verdict": "EXACT",
+            "_detail": ""
+          }
+        ]
+      }
+    ],
+    "n_findings": 2,
+    "n_refuted": 3,
+    "n_blocked": 2,
+    "n_contradicted": 1,
+    "n_merged": 0,
+    "citation_accuracy": 0.9705882352941176,
+    "citations_checked": 68,
+    "quarantined": 2,
+    "overrides": [
+      "hypothesis",
+      "skeptic"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 351
+  }
+]

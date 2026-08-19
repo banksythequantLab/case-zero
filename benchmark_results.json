@@ -1,0 +1,103 @@
+[
+  {
+    "run": 1,
+    "seconds": 896,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 75,
+      "hypotheses": 2,
+      "verdicts": 2,
+      "open_leads": 39,
+      "events": 188
+    },
+    "findings": [
+      {
+        "confidence": 0.5,
+        "title": "Netcapital artificially inflated its revenue and net income through aggressive recognition of uncollectible or non-cash "
+      },
+      {
+        "confidence": 0.35,
+        "title": "Netcapital's persistent operating cash flow deficits and large accrual gaps reflect its business model of providing cons"
+      }
+    ],
+    "n_findings": 2,
+    "n_refuted": 0,
+    "n_blocked": 0,
+    "citation_accuracy": 0.9537037037037037,
+    "citations_checked": 108,
+    "quarantined": 5,
+    "overrides": [
+      "hypothesis",
+      "skeptic"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 188
+  },
+  {
+    "run": 2,
+    "seconds": 867,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 51,
+      "hypotheses": 2,
+      "verdicts": 8,
+      "open_leads": 39,
+      "events": 163
+    },
+    "findings": [
+      {
+        "confidence": 0.1,
+        "title": "Netcapital's persistent divergence between net income and operating cash flow is a benign consequence of its business mo"
+      }
+    ],
+    "n_findings": 1,
+    "n_refuted": 1,
+    "n_blocked": 0,
+    "citation_accuracy": 1.0,
+    "citations_checked": 54,
+    "quarantined": 0,
+    "overrides": [
+      "hypothesis",
+      "skeptic"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 163
+  },
+  {
+    "run": 3,
+    "seconds": 934,
+    "stop_reason": "budget_exhausted",
+    "counts": {
+      "evidence": 58,
+      "hypotheses": 4,
+      "verdicts": 2,
+      "open_leads": 39,
+      "events": 176
+    },
+    "findings": [
+      {
+        "confidence": 0.85,
+        "title": "The divergence between Net Income and Operating Cash Flow is mathematically explained by large equity-related non-cash i"
+      },
+      {
+        "confidence": 0.65,
+        "title": "The persistent Net Income-to-OCF gap is driven by low-quality earnings where revenues are recognized from overvalued, hi"
+      }
+    ],
+    "n_findings": 2,
+    "n_refuted": 1,
+    "n_blocked": 2,
+    "citation_accuracy": 0.84375,
+    "citations_checked": 64,
+    "quarantined": 10,
+    "overrides": [
+      "hypothesis",
+      "skeptic"
+    ],
+    "errors": 0,
+    "schema_retries": 0,
+    "events": 176
+  }
+]

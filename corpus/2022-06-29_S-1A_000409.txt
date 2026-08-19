@@ -1,0 +1,680 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000409/sfsncpls1a062922.htm
+FORM: S-1/A
+FILED: 2022-06-29
+COMPANY: Netcapital Inc.
+
+S-1/A
+
+1
+
+sfsncpls1a062922.htm
+
+As
+filed with the Securities and Exchange Commission on June 29, 2022
+
+ 
+
+Registration
+Statement No. 333-262688
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+AMENDMENT
+NO. 3
+
+to
+ 
+
+FORM
+S-1
+
+REGISTRATION
+STATEMENT UNDER THE SECURITIES ACT OF 1933
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+Utah
+
+ 
+
+6199
+
+ 
+
+87-0409951
+
+(State
+ or other jurisdiction of
+
+incorporation
+ or organization)
+
+ 
+
+(Primary
+ Standard Industrial
+
+Classification
+ Code Number)
+
+ 
+
+(I.R.S.
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+Lincoln Street
+
+Boston,
+MA 02111
+
+Phone:
+(781) 925-1700
+
+(Address,
+Including Zip Code, and Telephone Number, Including Area Code, of Registrant’s Principal Executive Offices)
+
+ 
+
+Coreen
+Kraysler
+
+Chief
+Financial Officer
+
+1
+Lincoln Street
+
+Boston,
+MA 02111
+
+Phone:
+(781) 925-1700
+
+(Name,
+Address, Including Zip Code, and Telephone Number, Including Area Code, of Agent for Service)
+
+ 
+
+ 
+
+Copies
+to:
+
+Richard
+ A. Friedman, Esq.
+
+Greg
+ Carney, Esq. 
+
+Oded
+ Har-Even, Esq.
+
+ Angela Gomes, Esq.
+
+Sheppard
+ Mullin Richter & Hampton, LLP
+
+Sullivan
+ & Worcester LLP
+
+30
+ Rockefeller Plaza
+
+1633
+ Broadway 
+
+New
+ York, NY 10112
+
+New
+ York, NY 10019
+
+Phone:
+ (212) 653-8700
+
+Phone:
+ (212) 660-5002 
+
+ 
+
+Approximate
+date of proposed sale to public: As soon as practicable after this registration statement becomes effective.
+
+ 
+
+If
+any of the securities being registered on the Form are to be offered on a delayed or continuous basis pursuant to Rule 415 under the
+Securities Act of 1933, check the following box. ☒
+
+ 
+
+If
+this Form is filed to register additional securities for an offering pursuant to Rule 462(b) under the Securities Act, please check the
+following box and list the Securities Act registration statement number of the earlier effective registration statement for the same
+offering. ☐
+
+ 
+
+ 
+
+ 
+
+If
+this Form is a post-effective amendment filed pursuant to Rule 462(c) under the Securities Act, please check the following box and list
+the Securities Act registration statement number of the earlier registration statement for the same offering. ☐
+
+ 
+
+If
+this Form is a post-effective amendment filed pursuant to Rule 462(d) under the Securities Act, check the following box and list the
+Securities Act registration statement number of the earlier registration statement for the same offering: ☐
+
+ 
+
+Indicate
+by check mark whether registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company,
+or an emerging growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller
+reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act of 1934, as amended.
+
+ 
+
+Large accelerated
+ filer
+
+☐
+
+Accelerated
+ filer
+
+☐
+
+Non-accelerated filer
+
+☒
+
+Smaller reporting company
+
+☒
+
+ 
+
+ 
+
+Emerging
+ growth company
+
+☐
+
+ 
+
+If
+an emerging growth company indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided to Section 7(a)(2)(B) of the Securities Act. ☐
+
+ 
+
+The
+registrant hereby amends this registration statement on such date or dates as may be necessary to delay its effective date until the
+registrant shall file a further amendment which specifically states that this registration statement shall thereafter become effective
+in accordance with Section 8(a) of the Securities Act of 1933 or until the registration statement shall become effective on such date
+as the Commission, acting pursuant to Section 8(a) may determine.
+ 
+
+ 
+
+ 
+
+ 
+
+EXPLANATORY
+NOTE
+
+ 
+
+This Amendment No. 3 (“Amendment
+No. 3”) to the Registration Statement on Form S-1 (File No. 333-262688) of Netcapital Inc. (“Registration Statement”)
+is being filed solely for the purpose of filing an updated Exhibit 5.1. Accordingly, this Amendment No. 3 consists only of the facing
+page, this explanatory note, Item 16 of Part II of the Registration Statement, the signature page, Exhibit 5.1 and the Exhibit Index.
+The remainder of the Registration Statement is unchanged and therefore has not been included in this Amendment No. 3. 
+
+ 
+
+ 
+
+ 
+
+Item
+16. Exhibits and Financial Statement Schedules 
+
+ 
+
+(a)
+
+Exhibits. The 
+following
+ exhibits are filed as part of this registration statement:
+
+ 
+
+ 
+
+Exhibit
+ 
+
+ Number
+
+ 
+
+Description
+ 
+
+ 
+
+1.1**
+
+ 
+
+Form of Underwriting Agreement
+
+ 
+
+2.1
+
+ 
+
+Asset Purchase Agreement dated November 23, 2010 between Valuesetters, Inc. and NetGames.com, incorporated by reference to Exhibit 2.1 to our Form 10/A dated July 25, 2014
+
+ 
+
+2.2
+
+ 
+
+Agreement and Plan of Merger by and Among Netcapital Funding Portal Inc., Valuesetters Inc.and Netcapital Acquisition Vehicle Inc., incorporated by reference to our Current Report on Form 8-K dated August 23, 2020
+
+ 
+
+3.1
+
+ 
+
+Articles of Incorporation filed on April 25, 1984, incorporated by reference to Exhibit 3.1 to our Form 10 dated September 3, 2013
+
+ 
+
+3.1.1
+
+ 
+
+Amendment to Articles of Incorporation filed on September 7, 1999, incorporated by reference to Exhibit 3.2 to our Form 10 dated September 3, 2013
+
+ 
+
+3.1.2
+
+ 
+
+Amendment to Articles of Incorporation filed on December 4, 2003, incorporated by reference to Exhibit 3.2 to our Form 10 dated September 3, 2013
+
+ 
+
+3.1.3**
+
+ 
+
+Amendment to Articles of Incorporation filed on April 13, 2015
+
+ 
+
+3.1.4
+
+ 
+
+Amendment to Articles of Incorporation filed on September 29, 2020, incorporated by reference to Exhibit 3.1 to our Form 8-K dated November 5, 2020
+
+ 
+
+3.2
+
+ 
+
+By-Laws of Valuesetters, Inc, incorporated by reference to Exhibit 3.4 to our Form 10 dated September 3, 2013
+
+ 
+
+4.1**
+
+ 
+
+Specimen stock certificate evidencing shares of common stock
+
+ 
+
+4.2
+
+ 
+
+Form of Representative’s Warrant (Included in Exhibit 1.1)
+
+ 
+
+4.3**
+
+ 
+
+Form of Unsecured Convertible Notes
+
+ 
+
+4.4**
+
+ 
+
+Form of Warrant Agent Agreement
+
+ 
+
+4.5**
+
+ 
+
+Form of Warrant (Included in Exhibit 4.4)
+
+ 
+
+4.6**
+
+ 
+
+Form of Pre-Funded Warrant
+
+ 
+
+5.1
+
+ 
+
+Opinion of Codelaw LLC
+
+ 
+
+10.1+
+
+ 
+
+2021 Equity Incentive Plan, filed as Exhibit 4.1 to the registrant’s registration statement on Form S-8 on January 27, 2022 and incorporated herein by reference.
+
+ 
+
+10.2
+
+ 
+
+Promissory Note dated April 28, 2011, as amended, in the principal amount of $1,000,000 made by the registrant in favor of Vaxstar LLC, incorporated by reference to Exhibit 2.1 to our Form 10/A filed on July 28, 2014
+
+ 
+
+10.3
+
+ 
+
+Amended Secured Lending Agreement between Valuesetters, Inc. and Vaxstar LLC, incorporated by reference to  Exhibit 10.1 to our Form 10/A filed on July 28, 2014.
+
+ 
+
+10.4
+
+ 
+
+Purchase and Assignment Agreement between Valuesetters, Inc. and Vaxstar LLC, filed as Exhibit 10.2 to our Current Report on Form 8-K dated September 30, 2014 and incorporated herein by reference.
+
+ 
+
+10.5
+
+ 
+
+Amended Loan and Security Agreement between Valuesetters, Inc. and Vaxstar LLC dated October 31, 2017, filed as an Exhibit 10.1 to our Current Report on Form 8-K dated October 31, 2017 and incorporated herein by reference.
+
+ 
+
+10.6
+
+ 
+
+Amendment to Revolving Loan and Security Agreement between Valuesetters, Inc. and Vaxstar LLC dated October 30, 2020.
+
+ 
+
+10.7
+
+ 
+
+Amendment to Revolving Loan and Security Agreement between Netcapital Inc. and Vaxstar LLC dated January 31, 2021.
+
+ 
+
+10.8
+
+ 
+
+Amendment to Revolving Loan and Security Agreement dated April 30, 2021 between Netcapital Inc. and Vaxstar LLC.
+
+ 
+
+10.9
+
+ 
+
+Amendment to Revolving Loan and Security Agreement dated January 28, 2022 between Netcapital Inc. and Vaxstar LLC, filed as Exhibit 10.1 to our Current Report on Form 8-K dated January 28, 2022 and incorporated by reference herein.
+
+ 
+
+10.10
+
+ 
+
+Amendment to Revolving Loan and Security Agreement dated February 3, 2022 between Netcapital Inc. and Vaxstar LLC, filed as Exhibit 10.2 to our Current Report on Form 8-K dated January 28, 2022 and incorporated by reference herein.
+
+ 
+
+10.11**+
+
+ 
+
+Employment Agreement with Carole Murko
+
+ 
+
+10.12**+
+
+ 
+
+Separation Agreement with Carole Murko
+
+ 
+
+10.13**
+
+ 
+
+Form of Note Purchase Agreement
+
+ 
+
+10.14
+
+ 
+
+License Agreement between Netcapital Systems LLC, a Delaware limited liability company, and Netcapital Funding Portal Inc., filed as Exhibit 10.1 to our Current Report on Form 8-K dated April 18, 2022 and filed on June 28, 2022 and incorporated by reference herein.
+
+ 
+
+10.15+
+
+ 
+
+Employment Agreement with Cecilia Lenk, filed as Exhibit 10.2 to our Current Report on Form 8-K dated April 18, 2022 and filed on June 28, 2022 and incorporated by reference herein.
+
+ 
+
+10.16+
+
+ 
+
+Employment Agreement with Coreen Kraysler, filed as Exhibit 10.3 to our Current Report on Form 8-K dated April 18, 2022 and filed on June 28, 2022 and incorporated by reference herein.
+
+ 
+
+10.17+
+
+ 
+
+Employment Agreement with Jason Frishman, filed as Exhibit 10.4 to our Current Report on Form 8-K dated April 18, 2022 and filed on June 28, 2022 and incorporated by reference herein.
+
+ 
+
+14.1**
+
+ 
+
+Code of Ethics
+
+ 
+
+21.1**
+
+ 
+
+Subsidiaries of the Registrant
+
+ 
+
+23.1**
+
+ 
+
+Consent of Fruci and Associates II, PLLC
+
+ 
+
+23.2
+
+ 
+
+Consent of Codelaw LLC. (included in Exhibit 5.1)
+
+ 
+
+24.1**
+
+ 
+
+Powers of Attorney (included on signature page to this Registration Statement)
+
+ 
+
+107**
+
+ 
+
+Fee table
+
+ 
+
+ 
+
+*To
+be filed by amendment.
+
+**Previously
+filed.
+
++ Indicates
+ a management contract or compensatory plan or arrangement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Act of 1933, the Registrant has duly caused this Amendment No. 3 to Registration Statement to be
+signed on its behalf by the Undersigned, thereunto duly authorized, in the City of Boston, Massachusetts on the 29
+th
+ day of
+June, 2022.
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Cecilia Lenk
+
+ 
+
+ 
+
+ 
+
+Name:
+ Cecilia Lenk
+
+Title:
+ Chief Executive Officer (Principal Executive Officer)

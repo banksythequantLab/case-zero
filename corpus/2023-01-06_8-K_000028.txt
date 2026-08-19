@@ -1,0 +1,374 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000028/f2sncpl8k010623.htm
+FORM: 8-K
+FILED: 2023-01-06
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2023-01-02
+
+2023-01-02
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+January
+ 2, 2023
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.
+Entry into a Material Definitive Agreement.  
+
+ 
+
+On
+January 2, 2023, Netcapital Systems LLC (“Systems”), a Utah limited liability company and wholly owned subsidiary of Netcapital
+Inc. (the “Company”) entered into a software license and services agreement (“Agreement”) with Templum, Inc.
+(“Templum”), a company that provides capital markets infrastructure for trading private equity securities. The Agreement
+allows the Company to launch a customized marketplace for the trading of private securities issued under an exemption to the Securities
+Act of 1933, as amended. Templum Markets LLC is an alternative trading system operating under the provisions of Regulation ATS. The agreement
+is for an initial term of three (3) years and will automatically renew for consecutive terms of one (1) year unless (i) either party
+upon at least ninety (90) days prior to the expiration of the initial term or then-current renewal term, provides written notice to the
+other party of its intention not to renew, in which case this Agreement and the applicable Order and Technology Services and Pricing
+Outline will expire, as the case may be, at the end of the then current initial term or renewal term; or (ii) either party terminates
+this Agreement pursuant to and in accordance with the terms and conditions set forth in the Agreement.. Systems paid Templum an implementation
+fee upon signing of the Agreement.
+
+ 
+
+The
+license grants Systems a limited, revocable, non-exclusive, non-transferable, and non-sublicensable right and license to use Templum’s
+software and to provide its users access to the software. Notwithstanding the foregoing, Systems shall be Templum’s exclusive registered
+crowdfunding platform partner and Templum shall not provide services to any third-party whose primary business is providing services
+as a registered crowdfunding platform except as noted in the Agreement. System agreed to pay Templum a discounted license fee in year
+1, and a standard license fee in years 2 and 3. After conclusion of the initial 3-year term, the annual license fee will increase by
+the greater of CPI+3% or 5% for each renewal term.
+
+ 
+
+Item
+9.01 Other Events.
+
+ 
+
+On
+January 6, 2023, the Company issued a press release announcing the software license and services agreement with Templum, Inc. A copy
+of the press release is attached hereto as Exhibit 99.1 and incorporated herein by reference.
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+10.1*
+
+ 
+
+ 
+
+Software
+ License and Services Agreement between Templum, Inc. and Netcapital Systems LLC dated January 2, 2023
+
+99.1
+
+ 
+
+Press
+ Release dated January 6, 2023.
+
+  
+
+*
+Certain confidential portions of this exhibit have been redacted from the publicly filed document because such portions are (i) not material
+and (ii) would be competitively harmful if publicly disclosed.
+ 
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: January 6, 2022
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer

@@ -1,0 +1,6319 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000172186821000611/f2sncpl10q091121.htm
+FORM: 10-Q
+FILED: 2021-09-14
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+2022
+
+Q1
+
+04/30
+
+0001414767
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+2021-09-14
+
+0001414767
+
+2021-07-31
+
+0001414767
+
+2021-04-30
+
+0001414767
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-04-30
+
+0001414767
+
+2019-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-05-01
+
+2019-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-05-01
+
+2019-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-05-01
+
+2019-07-31
+
+0001414767
+
+2019-05-01
+
+2019-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-07-31
+
+0001414767
+
+2019-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-08-01
+
+2019-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-08-01
+
+2019-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-08-01
+
+2019-10-31
+
+0001414767
+
+2019-08-01
+
+2019-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-10-31
+
+0001414767
+
+2019-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2019-11-01
+
+2020-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2019-11-01
+
+2020-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2019-11-01
+
+2020-01-31
+
+0001414767
+
+2019-11-01
+
+2020-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-01-31
+
+0001414767
+
+2020-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-02-01
+
+2020-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-02-01
+
+2020-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-02-01
+
+2020-04-30
+
+0001414767
+
+2020-02-01
+
+2020-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-04-30
+
+0001414767
+
+2020-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-07-31
+
+0001414767
+
+2020-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-08-01
+
+2020-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-08-01
+
+2020-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-08-01
+
+2020-10-31
+
+0001414767
+
+2020-08-01
+
+2020-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-10-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-10-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-10-31
+
+0001414767
+
+2020-10-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2020-11-01
+
+2021-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2020-11-01
+
+2021-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2020-11-01
+
+2021-01-31
+
+0001414767
+
+2020-11-01
+
+2021-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2021-01-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2021-01-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2021-01-31
+
+0001414767
+
+2021-01-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2021-02-01
+
+2021-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2021-02-01
+
+2021-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2021-02-01
+
+2021-04-30
+
+0001414767
+
+2021-02-01
+
+2021-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2021-04-30
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2021-04-30
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2021-04-30
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+us-gaap:CommonStockMember
+
+2021-07-31
+
+0001414767
+
+us-gaap:AdditionalPaidInCapitalMember
+
+2021-07-31
+
+0001414767
+
+us-gaap:RetainedEarningsMember
+
+2021-07-31
+
+0001414767
+
+NCPL:OneCustomerMember
+
+us-gaap:SalesRevenueNetMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:SecondCustomerMember
+
+us-gaap:SalesRevenueNetMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:OneCustomerMember
+
+us-gaap:SalesRevenueNetMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:SecondCustomerMember
+
+us-gaap:SalesRevenueNetMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:ThirdCustomerMember
+
+us-gaap:SalesRevenueNetMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+us-gaap:SecuredDebtMember
+
+2021-07-31
+
+0001414767
+
+us-gaap:SecuredDebtMember
+
+2021-04-30
+
+0001414767
+
+NCPL:NotesPayableRelatedPartiesMember
+
+2021-07-31
+
+0001414767
+
+NCPL:NotesPayableRelatedPartiesMember
+
+2021-04-30
+
+0001414767
+
+NCPL:USSBALoanMember
+
+2021-07-31
+
+0001414767
+
+NCPL:USSBALoanMember
+
+2021-04-30
+
+0001414767
+
+NCPL:USSBALoanOneMember
+
+2021-07-31
+
+0001414767
+
+NCPL:USSBALoanOneMember
+
+2021-04-30
+
+0001414767
+
+NCPL:USSBALoanTwoMember
+
+2021-07-31
+
+0001414767
+
+NCPL:USSBALoanTwoMember
+
+2021-04-30
+
+0001414767
+
+NCPL:LoanPayableBankMember
+
+2021-07-31
+
+0001414767
+
+NCPL:LoanPayableBankMember
+
+2021-04-30
+
+0001414767
+
+2019-05-01
+
+2020-04-30
+
+0001414767
+
+NCPL:ChaseBankMember
+
+2021-07-31
+
+0001414767
+
+NCPL:ChaseBankMember
+
+2021-04-30
+
+0001414767
+
+NCPL:ChaseBankMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:ChiefMarketingOfficerMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:ChiefMarketingOfficerMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:MarketingEmployeeMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:MarketingEmployeeMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:RelatedpartyconsultantMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:RelatedpartyconsultantMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2020-05-01
+
+2020-07-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2021-07-31
+
+0001414767
+
+srt:ChiefExecutiveOfficerMember
+
+2021-04-30
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2021-07-31
+
+0001414767
+
+srt:ChiefFinancialOfficerMember
+
+2021-04-30
+
+0001414767
+
+NCPL:RelatedpartyconsultantMember
+
+2021-07-31
+
+0001414767
+
+NCPL:RelatedpartyconsultantMember
+
+2021-04-30
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2021-07-31
+
+0001414767
+
+NCPL:BusinessConsultantMember
+
+2021-04-30
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2021-07-31
+
+0001414767
+
+NCPL:MarketingConsultantMember
+
+2021-04-30
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2021-07-31
+
+0001414767
+
+NCPL:MarketingConsultantOneMember
+
+2021-04-30
+
+0001414767
+
+srt:ProFormaMember
+
+2020-04-01
+
+2020-11-04
+
+0001414767
+
+srt:ProFormaMember
+
+2019-04-01
+
+2019-11-04
+
+0001414767
+
+NCPL:ZelgorMember
+
+2021-05-01
+
+2021-07-31
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2021-07-31
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2021-07-31
+
+0001414767
+
+NCPL:NetcapitalSystemsLLCMember
+
+2021-04-30
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2021-07-31
+
+0001414767
+
+NCPL:WatchPartyLLCMember
+
+2021-04-30
+
+0001414767
+
+NCPL:ZelgorMember
+
+2021-07-31
+
+0001414767
+
+NCPL:ZelgorMember
+
+2021-04-30
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2021-07-31
+
+0001414767
+
+NCPL:ChipBrainLLCMember
+
+2021-04-30
+
+0001414767
+
+NCPL:VymedicMember
+
+2021-07-31
+
+0001414767
+
+NCPL:VymedicMember
+
+2021-04-30
+
+0001414767
+
+NCPL:CRevealMember
+
+2021-07-31
+
+0001414767
+
+NCPL:CRevealMember
+
+2021-04-30
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2021-07-31
+
+0001414767
+
+NCPL:DeuceDroneLLCMember
+
+2021-04-30
+
+0001414767
+
+NCPL:KingscrowdIncMember
+
+2021-04-30
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+xbrli:pure
+
+UNITED STATES 
+
+SECURITIES AND
+EXCHANGE COMMISSION
+
+Washington, D.C.
+20549
+
+ 
+
+FORM 
+10-Q
+
+ 
+
+[X]
+ 
+QUARTERLY REPORT
+UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+For the quarterly
+period ended: 
+July 31, 2021
+
+ 
+
+OR
+
+ 
+
+[ ]
+ 
+TRANSITION
+REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+Commission file number:
+
+000-55036
+
+ 
+
+NETCAPITAL INC.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+Utah
+
+ 
+
+87-0409951
+
+(State
+ or other jurisdiction of incorporation or organization)
+
+ 
+
+(I.R.S.
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1 Lincoln Street
+
+Boston
+ 
+MA
+ 
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(
+781
+)
+ 
+925-1700
+
+ 
+
+(Registrant’s
+ telephone number, including area code)
+
+ 
+
+Indicate by check
+whether the registrant (1) filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject
+to such filing requirements for the past 90 days.
+
+Yes
+[X] No [ ]
+
+ 
+
+Indicate by check
+mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required
+to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or
+for such shorter period that the registrant was required to submit and post such files). 
+Yes
+ [X] No [ ]
+
+ 
+
+Indicate by
+check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting
+company.
+
+Large accelerated filer  [ ]
+
+Accelerated filer  [ ]
+
+Non-accelerated filer
+  [X]
+
+Smaller reporting company  
+[X]
+
+ 
+
+ 
+
+ 
+
+Emerging growth company  
+[
+ ]
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+Indicate by check
+mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes[ ] 
+No
+ [X]
+
+ 
+
+As of September 14,
+2021 the Company had 
+2,718,373
+ shares of its common stock, par value $0.001 per share, issued and outstanding.
+
+ 
+
+ 
+
+TABLE OF CONTENTS
+
+ 
+
+ 
+
+Page
+
+PART I—FINANCIAL
+ INFORMATION
+
+ 
+
+ 
+
+Item 1. Financial Statements.
+
+3
+
+ 
+
+ 
+
+Item 2. Management’s
+ Discussion and Analysis of Financial Condition and Results of Operations. 
+
+17
+
+ 
+
+ 
+
+Item 3. Quantitative and
+ Qualitative disclosures about Market Risk.
+
+19
+
+ 
+
+ 
+
+Item 4. Controls and Procedures.
+
+19
+
+ 
+
+ 
+
+PART II—OTHER
+ INFORMATION
+
+ 
+
+ 
+
+Item 1. Legal Proceedings.
+
+21
+
+ 
+
+ 
+
+Item1A. Risk Factors.
+
+21
+
+ 
+
+ 
+
+Item 2. Unregistered Sales
+ of Equity Securities and Use of Proceeds.
+
+21
+
+ 
+
+ 
+
+Item 3. Defaults Upon Senior
+ Securities.
+
+21
+
+ 
+
+ 
+
+Item 4. Mine Safety Disclosures.
+
+21
+
+ 
+
+ 
+
+Item 5. Other Information.
+
+21
+
+ 
+
+ 
+
+Item 6. Exhibits.
+
+21
+
+ 
+
+ 
+
+Signatures.
+
+22
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+Condensed Consolidated
+Balance Sheets
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Assets:
+ 
+
+July 31, 2021
+
+(Unaudited) 
+ 
+
+April 30, 2021
+
+(Audited) 
+
+  Cash
+ and cash equivalents
+ 
+
+$
+2,059,216
+ 
+ 
+
+$
+2,473,959
+ 
+
+  Accounts receivable
+ net
+ 
+
+ 
+1,332,218
+ 
+ 
+
+ 
+1,356,932
+ 
+
+  Prepaid
+ expenses
+ 
+
+ 
+431,795
+ 
+ 
+
+ 
+653,861
+ 
+
+Total
+ current assets
+ 
+
+ 
+3,823,229
+ 
+ 
+
+ 
+4,484,752
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+   Deposits
+ 
+
+ 
+6,300
+ 
+ 
+
+ 
+6,300
+ 
+
+   Notes receivable
+ - related parties
+ 
+
+ 
+100,000
+ 
+ 
+
+ 
+—
+  
+ 
+
+   Purchased
+ technology
+ 
+
+ 
+14,803,954
+ 
+ 
+
+ 
+14,803,954
+ 
+
+   Investment
+ in affiliate
+ 
+
+ 
+127,415
+ 
+ 
+
+ 
+122,914
+ 
+
+   Equity
+ securities at fair value
+ 
+
+ 
+9,623,753
+ 
+ 
+
+ 
+6,298,008
+ 
+
+Total
+ assets
+ 
+
+$
+28,484,651
+ 
+ 
+
+$
+25,715,928
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Liabilities and Stockholders'
+ Equity
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Current liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts payable
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+   Trade
+ 
+
+$
+309,115
+ 
+ 
+
+$
+308,506
+ 
+
+   Related
+ party
+ 
+
+ 
+320,224
+ 
+ 
+
+ 
+3,843,686
+ 
+
+Accrued expenses
+ 
+
+ 
+283,795
+ 
+ 
+
+ 
+306,308
+ 
+
+Stock subscription payable
+ 
+
+ 
+185,000
+ 
+ 
+
+ 
+1,199,996
+ 
+
+Deferred revenue
+ 
+
+ 
+613
+ 
+ 
+
+ 
+622
+ 
+
+Interest payable
+ 
+
+ 
+151,254
+ 
+ 
+
+ 
+116,483
+ 
+
+Deferred tax liability, net
+ 
+
+ 
+1,140,000
+ 
+ 
+
+ 
+433,000
+ 
+
+Related party debt
+ 
+
+ 
+22,860
+ 
+ 
+
+ 
+22,860
+ 
+
+Secured note payable
+ 
+
+ 
+1,000,000
+ 
+ 
+
+ 
+1,000,000
+ 
+
+Current portion of SBA loans
+ 
+
+ 
+1,887,620
+ 
+ 
+
+ 
+1,885,800
+ 
+
+Loan
+ payable - bank
+ 
+
+ 
+34,324
+ 
+ 
+
+ 
+34,324
+ 
+
+Total
+ current liabilities
+ 
+
+ 
+5,334,805
+ 
+ 
+
+ 
+9,151,585
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Long-term liabilities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Long-term
+ SBA loans, less current portion
+ 
+
+ 
+2,383,980
+ 
+ 
+
+ 
+2,385,800
+ 
+
+Total
+ Liabilities
+ 
+
+ 
+7,718,785
+ 
+ 
+
+ 
+11,537,385
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Commitments and contingencies
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+—
+  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stockholders' equity:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+  Common stock, $
+.001
+ par value; 
+900,000,000
+
+ shares authorized, 
+2,718,373
+
+ and 
+2,178,766
+ shares issued and outstanding
+ 
+
+ 
+2,718
+ 
+ 
+
+ 
+2,178
+ 
+
+  Capital in excess of par value
+ 
+
+ 
+20,298,360
+ 
+ 
+
+ 
+15,168,987
+ 
+
+  Retained
+ earnings (deficit)
+ 
+
+ 
+464,788
+ 
+ 
+
+ 
+(
+992,622
+)
+
+Total
+ stockholders' equity
+ 
+
+ 
+20,765,866
+ 
+ 
+
+ 
+14,178,543
+ 
+
+Total
+ liabilities and stockholders' equity
+ 
+
+$
+28,484,651
+ 
+ 
+
+$
+25,715,928
+ 
+
+ 
+
+ 
+
+	See Accompanying Notes to the Condensed Consolidated
+Financial Statements	
+
+ 
+
+ 
+3
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+Condensed
+ Consolidated Statements of Operations
+
+ (Unaudited)
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Three Months
+ Ended
+ 
+
+Three Months
+ Ended
+
+ 
+ 
+
+July
+ 31, 2021
+ 
+
+July
+ 31, 2020
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Revenues
+ 
+
+$
+625,187
+ 
+ 
+
+$
+1,762,322
+ 
+
+Costs
+ of services
+ 
+
+ 
+28,305
+ 
+ 
+
+ 
+431,019
+ 
+
+Gross profit
+ 
+
+ 
+596,882
+ 
+ 
+
+ 
+1,331,303
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Costs and expenses:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stock-based compensation
+ 
+
+ 
+296,980
+ 
+ 
+
+ 
+121,378
+ 
+
+Consulting expense
+ 
+
+ 
+19,651
+ 
+ 
+
+ 
+1,991
+ 
+
+Marketing
+ 
+
+ 
+21,826
+ 
+ 
+
+ 
+4,101
+ 
+
+Rent
+ 
+
+ 
+12,130
+ 
+ 
+
+ 
+14,079
+ 
+
+Payroll and payroll related
+ expenses
+ 
+
+ 
+927,333
+ 
+ 
+
+ 
+1,096,120
+ 
+
+General
+ and administrative costs
+ 
+
+ 
+395,052
+ 
+ 
+
+ 
+41,139
+ 
+
+               Total
+ costs and expenses
+ 
+
+ 
+1,672,972
+ 
+ 
+
+ 
+1,278,808
+ 
+
+Operating
+ income (loss)
+ 
+
+ 
+(
+1,076,090
+)
+ 
+
+ 
+52,495
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Other income (expense):
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Interest expense
+ 
+
+ 
+(
+35,245
+)
+ 
+
+ 
+(
+10,283
+)
+
+Unrealized
+ gain on equity securities
+ 
+
+ 
+3,275,745
+ 
+ 
+
+ 
+—
+  
+ 
+
+Total
+ other income (expense)
+ 
+
+ 
+3,240,500
+ 
+ 
+
+ 
+(
+10,283
+)
+
+               Net
+ income before taxes
+ 
+
+ 
+2,164,410
+ 
+ 
+
+ 
+42,212
+ 
+
+  Income
+ taxes
+ 
+
+ 
+(
+707,000
+)
+ 
+
+ 
+(
+11,341
+)
+
+Net
+ income
+ 
+
+$
+1,457,410
+ 
+ 
+
+$
+30,871
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic earnings per share
+ 
+
+$
+0.66
+ 
+ 
+
+$
+0.07
+ 
+
+Diluted earnings per share
+ 
+
+$
+0.65
+ 
+ 
+
+$
+0.07
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average number
+ of common shares outstanding:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Basic
+ 
+
+ 
+2,206,118
+ 
+ 
+
+ 
+415,636
+ 
+
+Diluted
+ 
+
+ 
+2,241,675
+ 
+ 
+
+ 
+415,636
+ 
+
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements
+
+ 
+
+ 
+4
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+Condensed
+ Consolidated Statements of Stockholders' Equity
+
+For the
+ Three Months Ended July 31, 2021 and the Years Ended April 30, 2021, and 2020
+
+(Unaudited)
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Capital in
+ 
+
+Retained
+ 
+
+ 
+
+ 
+ 
+
+ Common Stock
+ 
+
+Excess
+ of
+ 
+
+Earnings
+ 
+
+Total
+
+ 
+ 
+
+Shares
+ 
+
+Amount
+ 
+
+Par
+ Value
+ 
+
+(Deficit)
+ 
+
+Equity
+
+Balance, April 30, 2019
+ 
+
+ 
+377,685
+ 
+ 
+
+$
+378
+ 
+
+$
+2,201,497
+ 
+ 
+
+$
+(
+3,067,133
+)
+ 
+
+$
+(
+865,258
+)
+
+Q1 stock-based compensation
+ 
+
+ 
+1,406
+ 
+ 
+
+1
+ 
+
+ 
+19,687
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+19,688
+ 
+
+Net income, July 31, 2019
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+24,475
+ 
+ 
+
+ 
+24,475
+ 
+
+Balance, July 31, 2019
+ 
+
+ 
+379,091
+ 
+ 
+
+379
+ 
+
+ 
+2,221,184
+ 
+ 
+
+ 
+(
+3,042,658
+)
+ 
+
+ 
+(
+821,095
+)
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q2 stock-based compensation
+ 
+
+ 
+37,656
+ 
+ 
+
+38
+ 
+
+ 
+917,305
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+917,343
+ 
+
+Net income, October 31,
+ 2019
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+542,451
+ 
+ 
+
+ 
+542,451
+ 
+
+Balance, October 31, 2019
+ 
+
+ 
+416,747
+ 
+ 
+
+417
+ 
+
+ 
+3,138,489
+ 
+ 
+
+ 
+(
+2,500,207
+)
+ 
+
+ 
+638,699
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q3 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+—
+ 
+ 
+
+ 
+1,500
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+1,500
+ 
+
+Net income, January 31,
+ 2020
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+595,174
+ 
+ 
+
+ 
+595,174
+ 
+
+Balance, January 31, 2020
+ 
+
+ 
+416,903
+ 
+ 
+
+417
+ 
+
+ 
+3,139,989
+ 
+ 
+
+ 
+(
+1,905,033
+)
+ 
+
+ 
+1,235,373
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q4 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+—
+ 
+ 
+
+ 
+1,032
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+1,032
+ 
+
+Net loss, April 30, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+(
+557,249
+)
+ 
+
+ 
+(
+557,249
+)
+
+Balance, April 30, 2020
+ 
+
+ 
+417,059
+ 
+ 
+
+417
+ 
+
+ 
+3,141,021
+ 
+ 
+
+ 
+(
+2,462,282
+)
+ 
+
+ 
+679,156
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q1 stock-based compensation
+ 
+
+ 
+156
+ 
+ 
+
+—
+ 
+ 
+
+ 
+1,406
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+1,406
+ 
+
+Net income, July 31, 2020
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+30,871
+ 
+ 
+
+ 
+30,871
+ 
+
+Balance, July 31, 2020
+ 
+
+ 
+417,215
+ 
+ 
+
+417
+ 
+
+ 
+3,142,427
+ 
+ 
+
+ 
+(
+2,431,411
+)
+ 
+
+ 
+711,433
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q2 stock-based compensation
+ 
+
+ 
+2,240
+ 
+ 
+
+2
+ 
+
+ 
+18,555
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+18,557
+ 
+
+Net income, October 31,
+ 2020
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+30,022
+ 
+ 
+
+ 
+30,022
+ 
+
+Balance, October 31, 2020
+ 
+
+ 
+419,455
+ 
+ 
+
+419
+ 
+
+ 
+3,160,982
+ 
+ 
+
+ 
+(
+2,401,389
+)
+ 
+
+ 
+760,012
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Shares issued to acquire funding
+ portal
+ 
+
+ 
+1,666,360
+ 
+ 
+
+1,666
+ 
+
+ 
+11,329,582
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+11,331,248
+ 
+
+Return of shares of common stock
+ 
+
+ 
+(
+5,000
+)
+ 
+
+(
+5
+)
+ 
+
+ 
+5
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+—
+  
+ 
+
+Q3 stock-based compensation
+ 
+
+ 
+937
+ 
+ 
+
+1
+ 
+
+ 
+6,239
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+6,240
+ 
+
+Net income, January 31,
+ 2021
+ 
+
+ 
+—  
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+42,642
+ 
+ 
+
+ 
+42,642
+ 
+
+Balance, January 31, 2021
+ 
+
+ 
+2,081,752
+ 
+ 
+
+2,081
+ 
+
+ 
+14,496,808
+ 
+ 
+
+ 
+(
+2,358,747
+)
+ 
+
+ 
+12,140,142
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q4 stock-based compensation
+ 
+
+ 
+95,937
+ 
+ 
+
+96
+ 
+
+ 
+657,180
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+657,276
+ 
+
+Shares issued for debt settlement
+ 
+
+ 
+1,077
+ 
+ 
+
+1
+ 
+
+ 
+14,999
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+15,000
+ 
+
+Net income, April 30, 2021
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+1,366,125
+ 
+ 
+
+ 
+1,366,125
+ 
+
+Balance, April 30, 2021
+ 
+
+ 
+2,178,766
+ 
+ 
+
+2,178
+ 
+
+ 
+15,168,987
+ 
+ 
+
+ 
+(
+992,622
+)
+ 
+
+ 
+14,178,543
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Q1 stock-based compensation
+ 
+
+ 
+937
+ 
+ 
+
+2
+ 
+
+ 
+14,054
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+14,056
+ 
+
+Sale of common stock
+ 
+
+ 
+176,934
+ 
+ 
+
+176
+ 
+
+ 
+1,592,219
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+1,592,395
+ 
+
+Shares issued to acquire funding
+ portal
+ 
+
+ 
+361,736
+ 
+ 
+
+362
+ 
+
+ 
+3,523,100
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+3,523,462
+ 
+
+Net income, July 31, 2021
+ 
+
+ 
+—  
+ 
+ 
+
+—
+ 
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+1,457,410
+ 
+ 
+
+ 
+1,457,410
+ 
+
+Balance, July 31, 2021
+ 
+
+ 
+2,718,373
+ 
+ 
+
+$
+2,718
+ 
+
+$
+20,298,360
+ 
+ 
+
+$
+464,788
+ 
+ 
+
+$
+20,765,866
+ 
+
+ 
+
+ 
+
+See Accompanying Notes to the Condensed Consolidated
+Financial Statements	
+
+ 
+5
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+Condensed
+ Consolidated Statements of Cash Flows
+
+(Unaudited)
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Three Months Ended
+
+July 31, 2021
+ 
+
+Three Months Ended
+
+ 
+July 31, 2020
+
+OPERATING
+ ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net income
+ 
+
+$
+1,457,410
+ 
+ 
+
+$
+30,871
+ 
+
+Adjustment to reconcile net
+ income to net cash used in operating activities:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Stock-based
+ compensation
+ 
+
+ 
+296,980
+ 
+ 
+
+ 
+121,378
+ 
+
+Non-cash
+ revenue from the receipt of equity
+ 
+
+ 
+(
+50,000
+)
+ 
+
+ 
+(
+1,754,046
+)
+
+Unrealized
+ gain on equity securities
+ 
+
+ 
+(
+3,275,745
+)
+ 
+
+ 
+—
+  
+ 
+
+Changes
+ in deferred taxes
+ 
+
+ 
+707,000
+ 
+ 
+
+ 
+11,341
+ 
+
+Changes in non-cash working
+ capital balances:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Accounts
+ receivable
+ 
+
+ 
+24,714
+ 
+ 
+
+ 
+(
+6,000
+)
+
+Prepaid
+ expenses
+ 
+
+ 
+(
+60,858
+)
+ 
+
+ 
+(
+13,172
+)
+
+Accounts
+ payable and accrued expenses
+ 
+
+ 
+(
+21,904
+)
+ 
+
+ 
+48,571
+ 
+
+Deferred
+ revenue
+ 
+
+ 
+(
+9
+)
+ 
+
+ 
+34,916
+ 
+
+Accrued
+ interest payable
+ 
+
+ 
+34,771
+ 
+ 
+
+ 
+3,151
+ 
+
+Net
+ cash used in operating activities
+ 
+
+ 
+(
+887,641
+)
+ 
+
+ 
+(
+1,522,990
+)
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+INVESTING
+ ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Loans to
+ affiliates
+ 
+
+ 
+(
+100,000
+)
+ 
+
+ 
+—
+  
+ 
+
+Investment
+ in affiliate
+ 
+
+ 
+(
+4,501
+)
+ 
+
+ 
+—
+  
+ 
+
+Net
+ cash used in investing activities
+ 
+
+ 
+(
+104,501
+)
+ 
+
+ 
+—
+  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+FINANCING
+ ACTIVITIES
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+     Proceeds
+ from SBA loans
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+2,385,800
+ 
+
+Proceeds
+ from stock subscriptions
+ 
+
+ 
+577,399
+ 
+ 
+
+ 
+—
+  
+ 
+
+Net
+ cash provided by financing activities
+ 
+
+ 
+577,399
+ 
+ 
+
+ 
+2,385,800
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net increase
+ (decrease) in cash
+ 
+
+ 
+(
+414,743
+)
+ 
+
+ 
+862,810
+ 
+
+Cash
+ and cash equivalents, beginning of the period
+ 
+
+ 
+2,473,959
+ 
+ 
+
+ 
+11,206
+ 
+
+Cash
+ and cash equivalents, end of the period
+ 
+
+$
+2,059,216
+ 
+ 
+
+$
+874,016
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental
+ disclosure of cash flow information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Cash
+ paid for taxes
+ 
+
+$
+—
+  
+ 
+ 
+
+$
+—
+  
+ 
+
+Cash
+ paid for interest
+ 
+
+$
+477
+ 
+ 
+
+$
+480
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Supplemental
+ Non-Cash Financing Information:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Common
+ stock issued to reduce related party payable
+ 
+
+$
+3,523,462
+ 
+ 
+
+$
+—
+  
+ 
+
+ 
+
+See Accompanying Notes
+to the Condensed Consolidated Financial Statements 	
+
+ 
+6
+ 
+
+ 
+
+NETCAPITAL INC.
+
+ 
+
+Notes To Condensed
+Consolidated Financial Statements (Unaudited)
+
+ 
+
+Note 1–
+ Basis of Presentation
+
+ 
+
+The accompanying unaudited
+condensed consolidated financial statements have been prepared in accordance with generally accepted accounting principles for
+interim financial information and in accordance with the rules and regulations of the U.S. Securities and Exchange Commission
+(“SEC”) for quarterly reports on Form 10-Q. Accordingly, they do not include all of the information and footnotes
+required by generally accepted accounting principles for complete financial statements. In the opinion of management, all
+adjustments (consisting of normal recurring accruals) considered necessary for a fair presentation have been included. Operating
+results for the three-month period ended July 31, 2021, are not necessarily indicative of the results that may be expected for the
+fiscal year ended April 30, 2022. For further information, refer to the audited financial statements and footnotes thereto in our
+Annual Report on Form 10-K for the year ended April 30, 2021.
+
+ 
+
+In June 2016, the
+FASB issued ASU No. 2016-13 
+Financial Instruments-Credit Losses
+.  The new guidance provides better representation about
+expected credit losses on financial instruments. This update requires the use of a methodology that reflects expected losses and requires
+consideration of a broader range of reasonable and supportive information to inform credit loss estimates.  This ASU is effective
+for reporting periods beginning after December 15, 2022, with early adoption permitted.  The company is studying the impact of adopting
+the ASU in fiscal year 2023, and what effect it could have. The Company believes the accounting change would not have a material effect
+on the financial statements.
+
+ 
+
+In
+December 2019, the FASB issued Accounting Standard Update No. 2019-12, 
+Income Taxes
+ 
+(Topic 740):
+ 
+Simplifying
+the Accounting for Income Taxes
+ (ASU 2019-12), which simplifies the accounting for income taxes. This guidance had no impact
+on our consolidated financial statements.
+
+ 
+
+Management does not
+believe that any other recently issued, but not yet effective, accounting standards could have a material effect on the accompanying
+financial statements. As new accounting pronouncements are issued, we will adopt those that are applicable under the circumstances.
+
+ 
+
+Note 2 –
+
+Concentrations
+
+ 
+
+For the three-month
+period ended July 31, 2021, the Company had one customer that constituted 
+19
+% of revenues and a second customer that constituted 
+16
+%
+of revenues. For the three-month period ended July 31, 2020, the Company had one customer that constituted 
+60
+% of revenues, a second
+customer that constituted 
+26
+% of revenues and a third customer that constituted 
+12
+% of revenues.
+
+ 
+
+Note 3 –
+
+Revenue Recognition
+
+ 
+
+Revenue Recognition under ASC
+606
+
+The Company recognizes
+service revenue from its consulting contracts and its game website using the five-step model as prescribed by ASC 606:
+
+ 
+
+• Identification
+of the contract, or contracts, with a customer;
+
+• Identification
+of the performance obligations in the contract;
+
+• Determination
+of the transaction price;
+
+• Allocation
+of the transaction price to the performance obligations in the contract; and
+
+• Recognition
+of revenue when or as, the Company satisfies a performance obligation.
+
+ 
+
+The Company identifies
+performance obligations in contracts with customers, which primarily are professional services, listing fees on our funding portal, and
+a success fee of 4.9% of the money raised on the funding portal. The transaction price is determined based on the amount the Company
+expects to be entitled to receive in exchange for transferring the promised services to the customer. The transaction price in the contract
+is allocated to each distinct 
+performance obligation
+in an amount that represents the relative amount of consideration expected to be received in exchange for satisfying each performance
+obligation. Revenue is recognized when performance obligations are satisfied. The Company usually bills its customers before it provides
+any services and begins performing services after the first payment is received. Contracts are typically one year or less. For larger
+contracts, in addition to the initial payment, the Company may allow for progress payments throughout the term of the contract.
+
+ 
+
+ 
+7
+ 
+
+ 
+
+ 
+
+Judgments and
+Estimates
+
+The estimation of
+variable consideration for each performance obligation requires the Company to make subjective judgments. The Company enters into contracts
+with customers that regularly include promises to transfer multiple services, such as digital marketing, web-based videos, offering statements,
+and professional services. For arrangements with multiple services, the Company evaluates whether the individual services qualify as
+distinct performance obligations. In its assessment of whether a service is a distinct performance obligation, the Company determines
+whether the customer can benefit from the service on its own or with other readily available resources, and whether the service is separately
+identifiable from other services in the contract. This evaluation requires the Company to assess the nature of each individual service
+offering and how the services are provided in the context of the contract, including whether the services are significantly integrated,
+highly interrelated, or significantly modify each other, which may require judgment based on the facts and circumstances of the contract.
+
+ 
+
+When agreements involve
+multiple distinct performance obligations, the Company allocates arrangement consideration to all performance obligations at the inception
+of an arrangement based on the relative standalone selling prices (SSP) of each performance obligation. Where the Company has standalone
+sales data for its performance obligations which are indicative of the price at which the Company sells a promised service separately
+to a customer, such data is used to establish SSP. In instances where standalone sales data is not available for a particular performance
+obligation, the Company estimates SSP by the use of observable market and cost-based inputs. The Company continues to review the factors
+used to establish list price and will adjust standalone selling price methodologies as necessary on a prospective basis.
+
+ 
+
+Service Revenue
+
+Service revenue from
+subscriptions to the Company's game website is recognized over time on a ratable basis over the contractual subscription term beginning
+on the date that the platform is made available to the customer. Payments received in advance of subscription services being rendered
+are recorded as a deferred revenue. Professional services revenue is recognized over time as the services are rendered.
+
+ 
+
+When a contract with
+a customer is signed, the Company assesses whether collection of the fees under the arrangement is probable. The Company estimates the
+amount to reserve for uncollectible amounts based on the aging of the contract balance, current and historical customer trends, and communications
+with its customers. These reserves are recorded as operating expenses against the contract asset (Accounts Receivable).
+
+ 
+
+Contract Assets
+
+Contract assets are
+recorded for those parts of the contract consideration not yet invoiced but for which the performance obligations are completed. The
+revenue is recognized when the customer receives services. Contract assets are included in other current assets in the consolidated balance
+sheets and will be recognized during the succeeding twelve-month period.
+
+ 
+
+Deferred Revenue
+
+Deferred revenues
+represent billings or payments received in advance of revenue recognition and is recognized upon transfer of control. Balances consist
+primarily of annual plan subscription services and professional services not yet provided as of the balance sheet date. Deferred revenues
+that will be recognized during the succeeding twelve-month period are recorded as current deferred revenues in the consolidated balance
+sheets, with the remainder recorded as other non-current liabilities in the consolidated balance sheets.
+
+ 
+
+Costs to Obtain
+a Customer Contract
+
+Sales commissions
+and related expenses are considered incremental and recoverable costs of acquiring customer contracts. These costs are capitalized as
+other current or non-current assets and amortized on a straight-line basis over the life of the contract, which approximates the benefit
+period. The benefit period was estimated by taking into consideration the length of customer contracts, technology lifecycle, and other
+factors. All sales commissions are recorded as consulting fees within the 
+Company's consolidated
+statement of operations.
+
+ 
+
+ 
+8
+ 
+
+ 
+
+ 
+
+Remaining Performance
+Obligations
+
+The Company's subscription
+terms are typically less than one year. All of the Company’s revenues in the three-month periods ended July 31, 2021 and 2020,
+which amounted to $
+625,187
+ and $
+1,762,322
+, respectively, are considered contract revenues. Contract revenue as of July 31, 2021 and April
+30, 2021, which has not yet been recognized, amounted to $
+613
+ and $
+622
+, respectively, and is recorded on the balance sheet as deferred
+revenue. The Company expects to recognize revenue on all of its remaining performance obligations over the next 12 months.  
+
+ 
+
+Note 4 –
+
+Earnings Per Common Share
+
+ 
+
+Income per common
+share data was computed as follows:
+
+ 
+
+Schedule of earnings per share
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Three Months Ended 
+July 31, 2021
+ 
+
+Three Months Ended 
+July 31, 2020
+
+Net income attributable to common stockholders – basic
+ 
+
+$
+1,457,410
+ 
+ 
+
+$
+30,871
+ 
+
+Adjustments to net income
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+—
+  
+ 
+
+Net income attributable to common stockholders – diluted
+ 
+
+$
+1,457,410
+ 
+ 
+
+$
+30,871
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Weighted average common shares outstanding – basic
+ 
+
+ 
+2,206,118
+ 
+ 
+
+ 
+415,636
+ 
+
+Effect of dilutive securities
+ 
+
+ 
+35,557
+ 
+ 
+
+ 
+—
+  
+ 
+
+Weighted average common shares outstanding – diluted
+ 
+
+ 
+2,241,675
+ 
+ 
+
+ 
+415,636
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Earnings per common share – basic
+ 
+
+$
+0.66
+ 
+ 
+
+$
+0.07
+ 
+
+Earnings per common share – diluted
+ 
+
+$
+0.65
+ 
+ 
+
+$
+0.07
+ 
+
+ 
+
+35,557 shares that
+are issuable to satisfy a supplemental consideration liability were included for the calculation of earnings per share for the three
+months ended July 31, 2021 because their effect is dilutive. No dilutive securities existed for the three months ended July 31, 2020.
+
+ 
+
+ 
+9
+ 
+
+ 
+
+ 
+
+Note 5 –
+
+Principal Financing Arrangements
+
+ 
+
+The
+following table summarizes components debt as of July 31, 2021 and April 30, 2021:
+
+ 
+
+Schedule of debt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+July
+ 31,
+
+2021
+
+ 
+
+April
+ 30, 2021
+
+ 
+
+Interest
+ Rate
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Secured
+ lender
+
+ 
+
+$
+
+1,000,000
+
+ 
+
+ 
+
+$
+
+1,000,000
+
+ 
+
+ 
+
+ 
+
+8.0
+
+%
+
+Notes
+ payable – related parties
+
+ 
+
+ 
+
+22,860
+
+ 
+
+ 
+
+ 
+
+22,860
+
+ 
+
+ 
+
+ 
+
+0.0
+   
+
+%
+
+U.S.
+ SBA loan
+
+ 
+
+ 
+
+1,885,800
+
+ 
+
+ 
+
+ 
+
+1,885,800
+
+ 
+
+ 
+
+ 
+
+1.0
+ 
+
+%
+
+U.S.
+ SBA loan
+
+ 
+
+ 
+
+500,000
+
+ 
+
+ 
+
+ 
+
+500,000
+
+ 
+
+ 
+
+ 
+
+3.75
+
+%
+
+U.S.
+ SBA loan
+
+ 
+
+ 
+
+1,885,800
+
+ 
+
+ 
+
+ 
+
+1,885,800
+
+ 
+
+ 
+
+ 
+
+1.0
+
+%
+
+Loan
+ payable – bank
+
+ 
+
+ 
+
+34,324
+
+ 
+
+ 
+
+ 
+
+34,324
+
+ 
+
+ 
+
+ 
+
+5.5
+
+%
+
+        Total
+ Debt
+
+ 
+
+ 
+
+5,328,784
+
+ 
+
+ 
+
+ 
+
+5,328,784
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Less:
+ current portion of long-term debt
+
+ 
+
+ 
+
+2,944,804
+
+ 
+
+ 
+
+ 
+
+2,942,984
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total
+ long-term debt
+
+ 
+
+$
+
+2,383,980
+
+ 
+
+ 
+
+$
+
+2,385,800
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+As of April 30, 2021
+and 2020, the Company owed its principal lender (“Lender”) $
+1,000,000
+
+under a loan and security agreement (“Loan”)
+dated April 28, 2011, that was amended on July 26, 2014 and again on October 31, 2017, October 31, 2020, January 31, 2021 and April 30,
+2021. The Lender was the largest shareholder of the Company owning 32.6% of the shares issued and outstanding until the Company purchased
+Netcapital Funding Portal Inc. on November 5, 2020. With the purchase of Netcapital Funding Portal Inc., the Lender owns less than 10%
+of the Company and is no longer considered a related party.
+
+ 
+
+The Loan was amended
+on October 31, 2020 to change the maturity date to January 31, 2021, and increase the interest rate from 1.25% to 8% per annum. The Loan
+has been further amended to change the maturity date to April 30, 2022.
+
+ 
+
+In connection with
+the financing, the Company has agreed to certain restrictive covenants, including, among others, that the Company may not convey, sell,
+lease, transfer or otherwise dispose of any part of its business or property, except as permitted in the agreement, dissolve, liquidate
+or merge with any other party unless, in the case of a merger, the Company is the surviving entity, incur any indebtedness except as
+defined in the agreement, create or allow a lien on any of its assets or collateral that has been pledged to the Lender, make any loans
+to any person, except for prepaid items or deposits incurred in the ordinary course of business, or make any material capital expenditures.
+To secure the payment of all obligations to the Lender, the Company granted to the Lender a continuing security interest and first lien
+on all of the assets of the Company.
+
+ 
+
+As of July 31, 2021
+and April 30, 2021, the Company’s related-party unsecured notes payable totaled $
+22,860
+. The Company also owes $
+34,324
+ as of July
+31, 2021 and April 30, 2021 to Chase Bank. The Company pays interest expense to Chase Bank, which is calculated at a rate of 
+5.5
+% per
+annum.
+
+ 
+
+On May 6, 2020, the
+Company borrowed $1,885,800 (the “May Loan”), on June 17, 2020 the Company borrowed $500,000 (the “June Loan”),
+and on February 2, 2021, the Company borrowed $1,885,800 (the “February Loan”) from an a U.S. Small Business Administration
+(“SBA”) loan program.
+
+ 
+
+The May loan bears
+interest at a rate of 1% per annum and the SBA has postponed any installment payments until September 6, 2021. The Company has applied
+for forgiveness of the May Loan and believes it will be forgiven in its entirety.
+
+ 
+
+The June Loan required
+installment payments of $2,594 monthly, beginning on June 17, 2021, over a term of thirty years. However, the SBA has postponed the first
+installment payment for 12 months. Interest accrues at a rate of 3.75% per annum. The Company agreed to grant a continuing security interest
+in its assets to secure payment and performance of all debts, liabilities, and obligations to the SBA. The June Loan was personally guaranteed
+by the Company’s Chief Financial Officer.
+
+ 
+
+ 
+10
+ 
+
+ 
+
+ 
+
+The February loan
+bears interest at a rate of 1% per annum and the due date of the first payment is May 22, 2022. The Company plans to apply for forgiveness
+of the February Loan and believes it will be forgiven in its entirety.
+
+ 
+
+ 
+
+Note 6 –
+
+Income Taxes
+
+ 
+
+As of July 31, 2021
+and April 30, 2021, the Company had net operating loss carryforwards for Federal income tax purposes of approximately $
+1,649,000
+ and
+$
+890,000
+, respectively, expiring in the years of 2022 through 2036.
+
+ 
+
+For the three months
+ended July 31, 2021, the Company recorded income tax expense of $
+707,000
+ and increased its net deferred tax liability to $
+1,140,000
+,
+from a balance of $
+433,000
+ as of April 30, 2021. For the three months ended July 31, 2020, the Company recorded income tax expense of
+$
+11,341
+.
+
+ 
+
+As of July 31, 2021
+and April 30, 2021, the Company had net deferred tax assets calculated at an expected federal rate of 21%, and a state rate of 8%, when
+applicable, or approximately $556,000 and $313,000, respectively. As a result of unrealized book gains on equity securities, the Company
+also has a deferred tax liability of $
+1,696,000
+ and $
+746,000
+ as of July 31, 2021 and April 30, 2021, respectively. Deferred income taxes
+reflect the net tax effects of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes
+and the amounts used for income tax purposes. Significant components of the Company’s deferred tax assets and liabilities as of
+July 31, 2021 and April 30, 2021 were as follows:
+
+ 
+
+Schedule of Income Taxes
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+July 31, 2021
+ 
+
+April 30, 2021
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Deferred tax assets, net:
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net operating loss carryforwards
+ 
+
+$
+346,000
+ 
+ 
+
+$
+141,000
+ 
+
+Bad debt allowance
+ 
+
+ 
+17,000
+ 
+ 
+
+ 
+17,000
+ 
+
+Stock-based compensation
+ 
+
+ 
+193,000
+ 
+ 
+
+ 
+155,000
+ 
+
+Deferred tax assets
+ 
+
+ 
+556,000
+ 
+ 
+
+ 
+313,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Deferred tax liability
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Unrealized gain
+ 
+
+ 
+1,696,000
+ 
+ 
+
+ 
+746,000
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+Net deferred tax liability
+ 
+
+$
+(
+1,140,000
+)
+ 
+
+$
+(
+433,000
+)
+
+ 
+
+Note 7 –
+
+Related Party Transactions
+
+ 
+
+The Company’s
+majority shareholder, Netcapital Systems LLC, owns 1,671,360 shares of common stock, or 61.5% of the Company as of July 31, 2021. The
+Company has a demand note payable to Netcapital Systems LLC of $4,600 and a demand note payable to one of its managers of $3,200. In
+addition, as of April 30, 2021, the Company accrued a payable of $3,817,516 for supplemental consideration owed in conjunction with its
+purchase of Netcapital Funding Portal Inc., which was reduced to $294,054 as of July 31, 2021, because of the issuance to 361,736 shares
+of common stock, valued at $3,523,462. In total, the Company owed its largest shareholder $298,714 and $3,822,116 as of July 31, 2021
+and April 30, 2021, respectively. The company paid its majority shareholder $50,000 in the first quarter of fiscal 2022 for use of the
+software that runs the website www.netcapital.com.
+
+ 
+
+Compensation
+to officers in the three-month periods ended July 31, 2021 and 2020 consisted of common stock valued at $92,931 and $82,622, respectively,
+and cash payments of $77,538 and $66,462, respectively. 
+
+ 
+
+Compensation
+to a related party consultant in the three-month periods ended July 31, 2021 and 2020 consisted of common stock valued at $19,378 and
+$19,378 respectively, and cash payments of $25,846 and $22,154, respectively. This consultant is also the controlling shareholder of
+Zelgor Inc. and $1,050,000 of the Company’s revenues in the quarter ended July 31, 2020 were from Zelgor Inc.
+
+ 
+
+ 
+11
+ 
+
+ 
+
+ 
+
+Compensation
+to managers of Netcapital Systems LLC in the three-month periods ended July 31, 2021 and 2020 consisted of common stock valued at $19,378
+and $19,378, respectively, and cash payments of $51,692 and $0, respectively. 
+
+ 
+
+The
+Company owes a director $16,680 as of July 31, 2021 and April 30, 2021, which is recorded as accounts payable, plus $15,000 in a non-interest-bearing
+note payable.
+
+ 
+
+Note 8 –
+
+Stockholders’ Equity
+
+ 
+
+The Company is authorized
+to issue 900,000,000 shares of its common stock, par value $0.001. 2,718,373 and 2,178,766 shares were outstanding as of July 31, 2021
+and April 30, 2021, respectively. In August 2020, the board of directors authorized a reverse split of the common stock on a 1-for-2,000
+basis, whereby the Company issued to each of its stockholders one share of Common Stock for every 2,000 shares of common stock held by
+such stockholder. The reverse split was effective on November 5, 2020. The financial statements for the three months ended July 31, 2020
+have been adjusted to give effect to the reverse split.
+
+ 
+
+On July 26, 2021, the Company issued 361,736 shares
+of its common stock as payment of $3,523,462 of supplemental consideration that was owed to its affiliate, Netcapital Systems LLC. The
+361,736 shares of common stock include an aggregate of 35,609 shares of common stock, that paid off liabilities totaling $346,821, that
+were made to our Chief Executive Officer, a company controlled by a member of the board of managers of Netcapital Systems LLC and to an
+individual manager.
+
+ 
+
+On July 27, 2021,
+the Company completed an offering for gross proceeds of $1,592,395 in conjunction with the sale of restricted shares of common stock
+at a price of $9.00 per share. A total of 176,934 shares of common stock were issued.
+
+ 
+
+Effective July 31,
+2021, the Company issued an aggregate of 937 shares of restricted stock to two employees. The shares were valued at $14,056.
+
+ 
+
+Note 9 –
+
+Fair Value
+
+ 
+
+The Fair Value Measurements
+Topic of the FASB Accounting Standards Codification establishes a fair value hierarchy that prioritizes the inputs to valuation techniques
+used to measure fair value. The hierarchy gives the highest priority to unadjusted quoted prices in active markets for identical assets
+or liabilities (Level 1 measurements) and the lowest priority to measurements involving significant unobservable inputs (Level 3 measurements).
+The three levels of the fair value hierarchy are as follows:
+
+ 
+
+Level
+1:	inputs are quoted prices (unadjusted) in active markets for identical assets or liabilities that the company has the ability to
+access at the measurement date.
+
+ 
+
+Level
+2:	inputs are inputs other than quoted prices included within Level 1 that are observable for the asset or liability, either directly
+or indirectly.
+
+ 
+
+Level
+3: inputs are unobservable inputs for the asset or liability.
+
+Under the Fair Value
+Measurements Topic of the FASB Accounting Standards Codification, we base fair value on the price that would be received to sell an asset
+or paid to transfer a liability in an orderly transaction between market participants at the measurement date. It is our policy to maximize
+the use of observable inputs and minimize the use of unobservable inputs when developing fair value measurements, in accordance with
+the fair value hierarchy. Fair value measurements for assets and liabilities where there exists limited or no observable market data
+and, therefore, are based primarily upon management’s own estimates, are often calculated based on current pricing policy, the
+economic and competitive environment, the characteristics of the asset or liability and other such factors. Therefore, the results cannot
+be determined with precision and may not be realized in an actual sale or immediate settlement of the asset or liability. Additionally,
+there may be inherent weaknesses in any calculation technique, and changes in the underlying assumptions used.
+
+ 
+
+ 
+12
+ 
+
+ 
+
+ 
+
+Note
+10 – 
+Stock-Based Compensation Plans
+
+ 
+
+The Company entered
+consulting agreements to issue common stock and recorded the applicable non-cash expense in accordance with the authoritative guidance
+of the Financial Accounting Standards Board.  For the three-month periods ended July 31, 2021 and 2020, the Company recorded $
+296,980
+
+and $
+121,378
+, respectively, in stock-based compensation expense.
+
+ 
+
+As of July 31, 2021
+and April 30, 2021, there was $
+348,953
+ and $
+631,878
+, respectively of prepaid stock-based compensation expense for services. As of July
+31, 2021, four consulting agreements are effective. Two agreements expire on August 31, 2021 and two expire in February 2022.
+
+ 
+
+As of July 31, 2021,
+an aggregate of 8,543 shares of common stock can be earned by the Company’s employees from unvested stock grants. 156 shares vest
+quarterly over the next three quarters and 781 shares vest quarterly over the next 10.3 quarters.	
+
+ 
+
+The table below presents
+the components of stock-based compensation expense for the three-month periods ended July 31, 2021 and 2020.
+
+ 
+
+Schedule of stock-based compensation expense
+ 
+
+ 
+ 
+
+ 
+
+Description
+ 
+
+July 31, 2021
+ 
+
+July 31, 2020
+
+Chief Executive Officer
+ 
+
+$
+40,608
+ 
+ 
+
+$
+40,608
+ 
+
+Chief Financial Officer
+ 
+
+ 
+40,608
+ 
+ 
+
+ 
+40,608
+ 
+
+Chief Marketing Officer
+ 
+
+ 
+11,715
+ 
+ 
+
+ 
+1,406
+ 
+
+Marketing employee
+ 
+
+ 
+2,340
+ 
+ 
+
+ 
+—
+  
+ 
+
+Marketing consultant
+ 
+
+ 
+37,052
+ 
+ 
+
+ 
+—
+  
+ 
+
+Marketing consultant
+ 
+
+ 
+125,901
+ 
+ 
+
+ 
+—
+  
+ 
+
+Related party consultant
+ 
+
+ 
+19,378
+ 
+ 
+
+ 
+19,378
+ 
+
+Business consultant
+ 
+
+ 
+19,378
+ 
+ 
+
+ 
+19,378
+ 
+
+Total
+ 
+
+$
+296,980
+ 
+ 
+
+$
+121,378
+ 
+
+ 
+
+The table
+below presents the prepaid compensation expense as of July 31, 2021 and April 30, 2021:
+
+ 
+
+ 
+Schedule of prepaid compensation
+ 
+
+ 
+ 
+
+ 
+
+Description
+ 
+
+July 31, 2021
+ 
+
+April 30, 2021
+
+Chief Executive Officer
+ 
+
+$
+—
+  
+ 
+ 
+
+$
+40,608
+ 
+
+Chief Financial Officer
+ 
+
+ 
+—
+  
+ 
+ 
+
+ 
+40,608
+ 
+
+Related party consultant
+ 
+
+ 
+6,530
+ 
+ 
+
+ 
+25,908
+ 
+
+Business consultant
+ 
+
+ 
+6,530
+ 
+ 
+
+ 
+25,908
+ 
+
+Marketing consultant
+ 
+
+ 
+254,540
+ 
+ 
+
+ 
+380,441
+ 
+
+Marketing consultant
+ 
+
+ 
+81,353
+ 
+ 
+
+ 
+118,405
+ 
+
+Total
+ 
+
+$
+348,953
+ 
+ 
+
+$
+631,878
+ 
+
+ 
+
+ 
+
+Note
+11 – 
+Deposits and Commitments
+
+ 
+
+The Company utilizes
+office space in Boston, Massachusetts, under a month-to-month lease agreement that allows to company to end its lease by providing 30-day
+written notice. The lease agreement includes a deposit of $6,300.
+
+ 
+
+ 
+13
+ 
+
+ 
+
+ 
+
+Note
+12 –
+ Business Acquisition
+
+ 
+
+On
+August 23, 2020, the Company entered into an Agreement and Plan of Merger (“Agreement”) whereby Netcapital Systems LLC (“Systems”)
+would become an 80% owner of the Company. Pursuant to the requirements of this agreement, the Company filed a definitive information
+statement on September 21, 2020 to change the Company’s corporate name from ValueSetters, Inc. to Netcapital Inc. and to amend the
+Company’s Articles of Incorporation to effect a stock combination, or reverse stock split, pursuant to which 2,000 shares of the
+Company’s common stock would be exchanged for one new share of common stock. In conjunction with the merger agreement, the Company
+issued 1,666,360 shares of common stock to Systems on November 5, 2020.
+
+The
+Agreement is a tax-free merger of Netcapital Funding Portal Inc. (“FP”), a wholly owned subsidiary of Systems, with Netcapital
+Acquisition Vehicle Inc., an indirect wholly owned subsidiary of the Company, wherein FP was the surviving corporation. This transaction
+is designed to enhance the Company’s revenues and ability to provide services to democratize the private capital markets while
+helping companies at all stages to build, grow and fund their businesses with a full range of services from strategic advice to raising
+capital. As a result of the transaction, the company is expected to be a leading provider of private capital transactions for entrepreneurs
+seeking to raise money under the exemption provided by section 4(a)(6) of the Securities Act of 1933, which allows private companies
+to raise up to $5 million every 12 months.
+
+ASC
+805-10-25-4 requires the identification of one of the combining entities in each business combination as the acquirer. Upon evaluation
+of the components of the business combination, including the relative voting rights in the combined entity, the composition of the governing
+body and senior management of the combined entity, the relative size of each entity and the terms of the exchange of equity interests,
+the Company recorded the transaction in the third quarter of fiscal 2021 as a purchase. In conjunction with the purchase, Systems agreed
+to vote all of its shares of common stock to support the resolutions of the existing board of directors of the Company.
+
+The
+following table summarizes the value of the consideration for FP and the amounts of the assets acquired and liabilities assumed in conjunction
+with the Agreement.
+
+Schedule of Merger agreement
+ 
+
+ 
+ 
+ 
+
+Consideration: 
+1,666,360 shares of common stock of the Company
+ 
+
+$
+11,331,248
+ 
+
+Payment of promissory notes and interest
+ 
+
+ 
+3,817,516
+ 
+
+Total consideration
+ 
+
+$
+15,148,764
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Recognized amounts of identifiable assets acquired and liabilities assumed:
+ 
+
+ 
+ 
+ 
+
+Cash
+ 
+
+$
+358,634
+ 
+
+Current assets
+ 
+
+ 
+8,894
+ 
+
+Accounts payable
+ 
+
+ 
+(
+22,718
+)
+
+Platform users
+ 
+
+ 
+7,080,319
+ 
+
+Platform investors
+ 
+
+ 
+6,288,392
+ 
+
+Platform issuers
+ 
+
+ 
+903,125
+ 
+
+Unpatented technology
+ 
+
+ 
+532,118
+ 
+
+Total identifiable net assets
+ 
+
+$
+15,148,764
+ 
+
+The
+fair value of the common shares issued as the consideration for FP was determined by the most recent (the prior day’s) closing
+price of the Company’s common shares at the time the shares were issued. The fair value of the assets and the liabilities of FP
+equaled their book value. Four identifiable intangible assets were valued; platform users, platform investors, platform issuers and unpatented
+technology (collectively the “Intangible Assets”). The estimated market value of the Intangible Assets is approximately $
+27,800,000
+.
+This amount is derived from valuing the IP functionality, brand, and license of FP at $1,000,000; valuing current issuers and pipeline
+issuers at approximately $14,000 each; valuing platform users at $382 each; and valuing investors at $1,025 each. These values are derived
+from comparing the FP Intangible Assets to the values recorded by funding portal offerings of FP’s competitors in public filings
+via Regulations CF and Regulation A.
+
+ 
+14
+ 
+
+ 
+
+ 
+
+The
+excess of purchase price over the total identifiable tangible net assets of $344,810, leaves an aggregate value of $14,803,954 to be
+assigned to the Intangible Assets. The estimated value of the $27,800,000 of Intangible Assets is allocated on a percentage basis in
+the above table to equal $14,803,954.
+
+None
+of FP’s revenues and earnings are included in the Company’s consolidated income statements through the day of closing of
+November 5, 2020. The consolidated income statements for the year ended April 30, 2021 include $834,981 in revenues from FP. If the entities
+had been combined for the two reporting periods, the supplemental pro forma revenues and earnings are as follows:
+
+Schedule of Pro forma revenue and earnings
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Revenues
+ 
+
+ 
+ 
+
+Earnings
+
+Supplemental pro forma for 4/1/20 – 11/04/20
+ 
+
+$
+2,866,063
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+$
+282,264
+
+Supplemental pro forma for 4/1/19 – 11/04/19
+ 
+
+$
+1,018,200
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+$
+680,212
+
+Included in
+the supplemental pro forma information above is revenue earned by the Company from Netcapital Systems LLC of $18,646 and $152,864 in
+the periods ended November 4, 2020 and 2019, respectively.
+
+Note 13 –
+
+Investments
+
+ 
+
+In May 2020, the Company entered a consulting contract
+with Watch Party LLC (“WP”), which allowed the Company to receive up to 110,000 membership interest units of WP in return
+for consulting services. The Company earned 97,500 membership interest units in the quarter ended July 31, 2020. The WP units are valued
+at $2.14 per unit based on a sales price of $2.14 per unit on an online funding portal, resulting in revenues of $208,650 for the three-months
+ended July 31, 2020. As of July 31, 2021 and April 30, 2021, the Company owns 110,000 WP units, which are valued at $235,400.
+
+ 
+
+In May 2020, the
+Company entered a consulting contract with ChipBrain LLC (“Chip”), which allowed the Company to receive up to 710,200 membership
+interest units of Chip in return for consulting services. The Company earned 500,000 membership interest units in the quarter ended July
+31, 2020 and earned the remaining units in the quarter ending October 31, 2020. The Chip units were initially valued at $0.93 per unit
+based on a sales price of $0.93 per unit on an online funding portal, resulting in revenues of $465,000 for the three-months ended July
+31, 2020. Subsequently, ChipBrain sold identical units for $2.40 per unit, and as of July 31, 2021 and April 30, 2021, the units owned
+by the Company are valued at $1,704,480.
+
+ 
+
+In May 2020, the
+Company entered a consulting contract with Zelgor Inc. (“Zelgor”), which allowed the Company to receive up to 1,400,000 shares
+of common stock of Zelgor in return for consulting services. The Company earned 1,050,000 shares in the quarter ended July 31, 2020 and
+earned the remaining shares in the quarter ending October 31, 2020. The Zelgor shares are valued at $1.00 per share based on a sales
+price of $1.00 per share on an online funding portal, resulting in revenues of $
+1,050,000
+ for the three-months ended July 31, 2020. The
+$1.00 per share valuation continues to be the observable price at which the shares trade and the Zelgor shares are valued at $1,400,000
+as of July 31, 2021 and April 30, 2021.
+
+ 
+
+On January 2, 2020,
+the Company entered a consulting contract with Deuce Drone LLC (“Drone”), which allowed the Company to receive up to 2,350,000
+membership interest units of Drone in return for consulting services. The Company earned all 2,350,000 membership interest units in fiscal
+2020. The Drone units were initially valued at $0.35 per unit based on a sales price of $0.35 per unit when the units were earned, or
+$822,500. Drone subsequently sold identical Drone units for $1.00 per unit on an online funding portal and as of July 31, 2021 and April
+30, 2021, the units owned by the Company are valued at $2,350,000.
+
+ 
+
+In August 2019, the
+Company entered a consulting contract with KingsCrowd LLC (“KingsCrowd”), which allowed the Company to receive 300,000 membership
+interest units of KingsCrowd in return for consulting services. The KingsCrowd units were initially valued at $1.80 per unit based on
+a sales price of $1.80 per unit when the units were earned, or $540,000.
+In December 2020, KingsCrowd converted from a limited liability company to a corporation to facilitate raising capital under Regulation
+A. KingsCrowd filed a Form 1-A Offering Statement under the Securities Act of 1933. In connection with the conversion to a corporation,
+each membership interest unit converted into 12.71915 shares of common stock. As of July 31, 2021 and April 30, 2021, the Company owns
+3,815,745 shares of KingsCrowd Inc. In July 2021, KingsCrowd subsequently sold identical shares of common stock for $1.00 per share,
+and as of July 31, 2021 and April 30, 2021, the units owned by the Company are valued at $
+3,815,745
+ and $540,000, respectively.
+
+ 
+
+ 
+15
+ 
+
+ 
+
+ 
+
+During fiscal 2019,
+the Company entered a consulting contract with NetCapital Systems LLC (“NetCapital”), which allowed the Company to receive
+up to 1,000 membership interest units of NetCapital in return for consulting services. The Company earned 40 units in the quarter ended
+July 31, 2020, at a value of $91.15 per unit, or $3,646. The Company earned all 1,000 Netcapital units but sold a portion of the units
+in fiscal 2020 at a sales price of $91.15 per unit. As of July 31, 2021 and April 30, 2021, the Company owns 528 Netcapital units, at
+a value of $48,128.
+
+ 
+
+In
+July 2020 the Company entered a consulting agreement with Vymedic, Inc. for a $40,000 fee over a 5-month period. Half the fee is payable
+in stock and half is payable in cash. As of April 30, 2021, the Company earned $20,000 worth of stock. As of 
+July
+31, 2021 and April 30, 2021, the Company owns 4,000 units, at a value of $20,000.
+
+ 
+
+In
+August 2020 the Company entered a consulting agreement with C-Reveal Therapeutics LLC (“CRT”). for a $120,000 fee over a
+12-month period. $50,000 of the fee is payable in CRT units. The Company earned the units in fiscal 2021 and received them in the first
+quarter of fiscal 2022. As of 
+July 31, 2021 the Company
+owns 5,000 units, at a value of $50,000.
+
+ 
+
+The following table
+summarizes the components of investments as of July 31, 2021 and April 30, 2021:
+
+ 
+
+Schedule of investments
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+July 31, 2021
+ 
+
+April 30, 2021
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+Netcapital Systems LLC
+ 
+
+$
+48,128
+ 
+ 
+
+$
+48,128
+ 
+
+Watch Party LLC
+ 
+
+ 
+235,400
+ 
+ 
+
+ 
+235,400
+ 
+
+Zelgor Inc.
+ 
+
+ 
+1,400,000
+ 
+ 
+
+ 
+1,400,000
+ 
+
+ChipBrain LLC
+ 
+
+ 
+1,704,480
+ 
+ 
+
+ 
+1,704,480
+ 
+
+Vymedic Inc.
+ 
+
+ 
+20,000
+ 
+ 
+
+ 
+20,000
+ 
+
+C-Reveal
+ 
+
+ 
+50,000
+ 
+ 
+
+ 
+—
+  
+ 
+
+Deuce Drone LLC
+ 
+
+ 
+2,350,000
+ 
+ 
+
+ 
+2,350,000
+ 
+
+Kingscrowd Inc.
+ 
+
+ 
+3,815,745
+ 
+ 
+
+ 
+540,000
+ 
+
+Total Investments at cost
+ 
+
+$
+9,623,753
+ 
+ 
+
+$
+6,298,008
+ 
+
+ 
+
+The above investments in equity securities are within
+the scope of ASC 321. The Company monitors the investments for any changes in observable prices from orderly transactions. All investments
+are initially measured at cost and evaluated for changes in estimated fair value. During the three months ended July 31, 2021, the Company
+identified that one security, Kingscrowd Inc., had an observable price change. The result of the price change was an increase in the fair
+value of the equity securities totaling $3,275,745 in the three months ended July 31, 2021, which was recorded in the income statement
+as an unrealized gain on equity securities.
+
+ 
+
+Note 14 –
+
+Subsequent Events
+
+ 
+
+The Company evaluated
+subsequent events through the date these financial statements were available to be issued. There were no material subsequent events that
+required recognition or additional disclosure in these financial statements.
+
+ 
+
+ 
+
+ 
+16
+ 
+
+ 
+
+Item
+2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+
+ 
+
+This quarterly report
+on Form 10-Q and other reports filed by the Company from time to time with the U.S. Securities and Exchange Commission (collectively,
+the “Filings”) contain or may contain forward-looking statements and information that are based upon beliefs of, and information
+currently available to, the Company’s management as well as estimates and assumptions made by Company’s management. Readers
+are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only as of the date
+hereof. When used in the Filings, the words “anticipate,” “believe,” “estimate,” “expect,”
+“future,” “intend,” “plan,” or the negative of these terms and similar expressions as they relate
+to the Company or the Company’s management identify forward-looking statements. Such statements reflect the current view of the
+Company with respect to future events and are subject to risks, uncertainties, assumptions, and other factors. Should one or more of
+these risks or uncertainties materialize, or should the underlying assumptions prove incorrect, actual results may differ significantly
+from those anticipated, believed, estimated, expected, intended, or planned.
+
+ 
+
+Although the Company
+believes that the expectations reflected in the forward-looking statements are reasonable, the Company cannot guarantee future results,
+levels of activity, performance, or achievements. Except as required by applicable law, including the securities laws of the United States,
+the Company does not intend to update any of the forward-looking statements to conform these statements to actual results.
+
+ 
+
+Our financial statements
+are prepared in accordance with accounting principles generally accepted in the United States (“GAAP”). These accounting
+principles require us to make certain estimates, judgments and assumptions. We believe that the estimates, judgments and assumptions
+upon which we rely are reasonable based upon information available to us at the time that these estimates, judgments and assumptions
+are made. These estimates, judgments and assumptions can affect the reported amounts of assets and liabilities as of the date of the
+financial statements as well as the reported amounts of revenues and expenses during the periods presented. Our financial statements
+would be affected to the extent there are material differences between these estimates and actual results. In many cases, the accounting
+treatment of a particular transaction is specifically dictated by GAAP and does not require management’s judgment in its application.
+There are also areas in which management’s judgment in selecting any available alternative would not produce a materially different
+result. The following discussion should be read in conjunction with our financial statements and notes thereto appearing elsewhere in
+this report.
+
+ 
+
+Overview
+
+ 
+
+We
+are a fintech company with a scalable technology platform that allows private companies to raise capital online and provides private
+equity investment opportunities to investors. The company's consulting group, Netcapital Advisors, delivers marketing and strategic advice
+and takes equity positions in select companies with disruptive technologies. The Netcapital funding portal is registered with the U.S.
+Securities & Exchange Commission (SEC) and is a member of the Financial Industry Regulatory Authority (FINRA), a registered national
+securities association.
+
+We
+specialize in Regulation Crowdfunding (“Reg CF”), under the provisions of Title III of the JOBS Act of 2012. We believe that
+new capital raising techniques, such as Reg CF, democratize capital raising, similar to the way that social networks democratize broadcast
+mechanisms that once belonged only to traditional media. Reg CF is one of three securities exemptions that enable online capital
+formation. Reg D 506(c) allows an unlimited amount of money to be raised from accredited investors. Reg A+ enables an issuer to raise
+up to $75 million online from anyone. Reg CF, the smallest of the crowdfunding exemptions, allows issuers to raise up to $5 million from
+non-accredited investors every 12 months.
+
+The
+$5 million limit was increased on March 15, 2021 by the Securities and Exchange Commission (the "SEC") from the previous level
+of $1.07 million. We believe this change has already impacted the number of issuers and users on our website and consequently increased
+our sales. Our website posted a record number of users and dollars invested in June and July of 2021. We also see from industry statistics
+that investment commitments of Reg CF funding portals increased by $71 million, or 154%, to $117 million for the quarter ended June 30,
+2021, as compared to investment commitments of $46 million for the quarter ended June 30, 2020.
+
+ 
+17
+ 
+
+ 
+
+We are encouraged by our growth over the
+past year, as the market share earned by the Netcapital funding portal in the three months ended July 31, 2021 was 7.4% of the industry
+investment commitments, as compared to 4.0% of the industry investment commitments in the three months ended July 31, 2020. For the month
+of July 2021, Netcapital funding portal’s market share amounted to 8.2% of the industry investment commitments. We believe our
+increase in revenues and our gain in market share over the past year is a trend we can continue. However, our limited operating history
+and the uncertain nature of our future operations and the markets we address or intend to address make predictions of our future results
+of operations difficult.   
+
+Results
+of Operations
+
+ 
+
+For the Three
+Months Ended July 31, 2021 Compared to the Three Months Ended July 31, 2020
+
+ 
+
+Our revenues for
+the three-months ended July 31, 2021 decreased by $1,137,135, or 65%, to $625,187, as compared to $1,762,322 reported for the three months
+ended July 31, 2020.  The decrease in revenues is attributable to a decrease in non-cash revenue from the receipt of equity, which
+amounted to $50,000 in the quarter ended July 31, 2021, as compared to $1,754,046 in the quarter ended July 31, 2020. This decrease was
+offset by revenues from our funding portal and by an unrealized gain in the equity we received in prior quarters of $3,275,745, as a
+result of observable price increases in our equity holdings. We recorded other income consisting of unrealized gains of $3,275,745 in
+the three months ended July 31, 2021 as compared to $0 in the three months ended July 31, 2020.
+
+ 
+
+Costs of revenues
+decreased by $402,714 to $28,305 for the three-months ended July 31, 2021 from $431,019 reported in the three-months ended July 31, 2020.
+ The decrease is attributable to our decrease in non-cash revenues from the receipt of equity.
+
+ 
+
+Payroll and payroll
+related expenses decreased by $168,787, or 15%, to $927,333 for the three months ended July 31, 2021, as compared to $1,096,120 reported
+for the three months ended July 31, 2020. The decrease is attributable to a reduction in staff.
+
+ 
+
+Marketing expense
+increased by $17,725, or 432%, to $21,826 for the three months ended July 31, 2021, as compared to $4,101 reported for the three months
+ended July 31, 2020. The increase in expense is due to additional marketing outlets that we utilized in the three months ended July 31,
+2021.
+
+ 
+
+Rent expense decreased
+by $1,949, or 14%, to $12,130 for the three months ended July 31, 2021, as compared to $14,079 reported for the three months ended July
+31, 2020. The decrease in expense is a result of discounts available to us in the three-month period ended July 31, 2021 and our ability
+to have personnel work from home.
+
+ 
+
+General and administrative
+expenses increased by $353,913, or 860%, to $395,052 for the three months ended July 31, 2021, from $41,139 for the three months ended
+July 31, 2020.  The increase is primarily attributed to additional expenses we incurred in the current fiscal year for our newly
+acquired funding portal business.
+
+ 
+
+Stock-based compensation
+increased by $175,602, to $296,980, or 145%, for the three-months ended July 31, 2021 from $121,378 reported in the three-months ended
+July 31, 2020.  The increase in expense is primarily due to the higher price per share of our common stock when shares were issued.
+
+ 
+
+Interest expense
+increased by $24,962 to $35,245 for the three-months ended July 31, 2021, as compared to $10,283 for the three months ended July 31,
+2020.  The increase in interest expense is attributable to higher debt amounts and a higher interest rate on our secured debt.  
+
+ 
+
+Liquidity and
+Capital Resources
+
+ 
+
+At July 31, 2021,
+we had cash and cash equivalents of $2,059,216 and negative working capital of $1,511,576 as compared to cash and cash equivalents of
+$2,473,956 and negative working capital of $4,666,833 at April 30, 2021.
+
+ 
+
+We have been successful
+in raising capital by selling restricted common stock in private placements and by borrowing funds from the U.S. Small Business Administration.
+The negative working capital balance as of April 30, 2021 has 
+been significantly
+reduced by converting approximately $5 million in current liabilities into shares of common stock at a price range of $9.00 to $9.74
+per share.
+
+ 
+18
+ 
+
+ 
+
+ 
+
+We believe that our
+existing cash investment balances, and our anticipated cash flows from operations will be sufficient to meet our working capital and
+expenditure requirements for the next 12 months. Although we believe we have adequate sources of liquidity over the next 12 months, the
+success of our operations, the global economic outlook, and the pace of sustainable growth in our markets, in each case, in light of
+the market volatility and uncertainty as a result of the COVID-19 pandemic, among other factors, could impact our business and liquidity.
+Up to this point in time, we believe the pandemic has helped drive people to online investing, as we see regular monthly increases in
+users and dollars invested, and an increase in issuers seeking to use online fund-raising services in lieu of face-to-face meetings.
+
+ 
+
+Net cash used in
+operating activities amounted to $887,641 and $1,522,990 in the three months ended July 31, 2021 and 2020, respectively.  The principal
+source of cash from operating activities in the three months ended July 31, 2021 was net income of $1,457,410 and a non-cash item, stock-based
+compensation of $296,980. However, these sources of cash were offset by an unrealized gain on equity securities of $3,275,745. The principal
+source of cash from operating activities in the three months ended July 31, 2020 was net income of $30,781 and a non-cash item, stock-based
+compensation of $121,738. However, these items were offset by changes in non-cash revenue from the receipt of equity of $1,754,046.
+
+ 
+
+Net cash used in
+investing activities amounted to $104,501 in the three months ended July 31, 2021. The use of cash consisted of loans to affiliates of
+$100,000 and an investment in an affiliate of $4,501. There was no investing activity in the three-months ended July 31, 2020.
+
+ 
+
+For the three months
+ended July 31, 2021, cash provided financing activities amounted to $577,399, which consisted of proceeds from stock subscriptions for
+the sale of common stock. For the three months ended July 31, 2020, cash provided by financing activities amounted to $2,385,800, which
+consisted of two loans from the U.S. Small Business Administration.
+
+ 
+
+In the three months
+ended July 31, 2021 and 2020, there were no expenditures for capital assets.  We do not anticipate any capital expenditures in fiscal
+2022.
+
+ 
+
+Item 3. Quantitative
+and Qualitative Disclosures about Market Risk.
+
+ 
+
+We are a smaller
+reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended, and are not required to provide information
+under this item.
+
+ 
+
+Item
+4. Controls and Procedures.
+
+ 
+
+(a) Disclosure
+Controls and Procedures. 
+
+ 
+
+ 
+
+The Company’s
+management, with the participation of the Principal Executive Officer (the “PEO”) and Principal Financial Officer (the “PFO”),
+has evaluated the effectiveness of the Company’s disclosure controls and procedures (as defined in SEC Rule 13a-15(e)) as of July
+31, 2021. Based on that evaluation, the PEO and the PFO concluded that, as of July 31, 2021, such controls and procedures were effective.
+
+ 
+
+(b) Management’s
+Assessment of Internal Control over Financial Reporting
+
+ 
+
+Management is responsible
+for establishing and maintaining adequate internal control over financial reporting, as such term is defined in the Exchange Act Rules
+13a-15(f).  A system of internal control over financial reporting is a process designed to provide reasonable assurance regarding
+the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+accepted accounting principles.
+
+ 
+
+ 
+19
+ 
+
+ 
+
+Under the supervision
+and with the participation of management, including the PEO and the PFO, the Company’s management has evaluated the effectiveness
+of its internal control over financial reporting as of July 31, 2021, based on the criteria established in a report entitled “2013
+Internal Control - Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission” and the
+interpretive guidance issued by the Commission in Release No. 34-55929.  Based on this evaluation, the Company’s management
+has evaluated and concluded that the Company’s internal control over financial reporting was effective as of July 31, 2021.
+
+ 
+
+The Company’s
+annual report on Form 10-K for the year ended April 30, 2021 does not include an attestation report of the Company’s independent
+registered public accounting firm regarding internal control over financial reporting.  The Company’s registered public
+accounting firm was not required to issue an attestation on its internal controls over financial reporting pursuant to the rules of the
+SEC.  The Company will continue to evaluate the effectiveness of internal controls and procedures on an ongoing basis.
+
+ 
+
+ 
+
+(c) Changes in
+Internal Control over Financial Reporting
+
+ 
+
+There have been no
+changes in our internal controls over financial reporting (as such term is defined in Rule 13a-15(f) and 15d-15(f) under the Securities
+Exchange Act) during the quarter ended July 31, 2021 that have materially affected, or are reasonably likely to materially affect, our
+internal control over financial reporting.
+
+ 
+20
+ 
+
+ 
+
+PART II –
+OTHER INFORMATION
+
+ 
+
+Item 1. Legal
+Proceedings.
+
+ 
+
+We are currently
+not involved in any litigation that we believe could have a material adverse effect on our financial condition or results of operations.
+There is no action, suit, proceeding, inquiry or investigation before or by any court, public board, government agency, self-regulatory
+organization or body pending or, to the knowledge of the executive officers of our company or any of our subsidiaries, threatened against
+or affecting our company, our common stock, any of our subsidiaries or of our companies or our subsidiaries’ officers or directors
+in their capacities as such, in which an adverse decision could have a material adverse effect.
+
+ 
+
+Item 1A. Risk
+Factors.
+
+ 
+
+We are a smaller
+reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended, and are not required to provide information
+under this item.
+
+ 
+
+ 
+Item
+ 
+2. Unregistered Sales of Equity Securities and Use of Proceeds.	
+
+ 
+
+During the three-month
+period ended July 31, 2021, we issued 937 shares of unregistered common stock as stock-based compensation, for services rendered to the
+Company. We sold 176,934 shares of unregistered common stock to accredited investors at a sale price of $9.00 per share. We also issued
+361,736 shares of unregistered common stock in conjunction with our purchase of Netcapital Funding Portal Inc.
+
+ 
+
+Item 3. Defaults
+Upon Senior Securities.
+
+ 
+
+None.
+
+ 
+
+Item 4. Mine Safety
+Disclosures.
+
+ 
+
+Not applicable
+.
+
+ 
+
+Item 5. Other
+Information.
+
+ 
+
+None.
+
+ 
+
+Item 6. Exhibits.
+
+ 
+
+31       Rule
+13a-14(a) Certification
+
+32       Rule
+13a-14(b) Certification
+
+ 
+
+101.INS
+XBRL
+ Instance
+
+101.SCH
+XBRL
+ Schema
+
+101.CAL	XBRL
+Calculation
+
+101.DEF
+XBRL
+ Definition
+
+101.LAB
+XBRL
+ Label
+
+101.PRE
+XBRL
+ Presentation
+
+ 
+
+ 
+
+ 
+21
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:
+ September 14, 2021
+
+NETCAPITAL
+ INC.
+
+ 
+
+ 
+
+ 
+
+By: 
+/s/
+ Cecilia Lenk  
+
+ 
+
+	Cecilia
+ Lenk
+
+ 
+
+	Chairman
+ of the Board and Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+By: 
+/s/
+ Coreen Kraysler  
+
+ 
+
+	Coreen
+ Kraysler
+
+ 
+
+	Principal
+ Financial Officer
+
+ 
+
+ 
+22

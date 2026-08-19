@@ -1,0 +1,269 @@
+{
+  "stop_reason": "budget_exhausted",
+  "counts": {
+    "evidence": 39,
+    "hypotheses": 4,
+    "verdicts": 2,
+    "open_leads": 29,
+    "events": 127
+  },
+  "human_interventions": 0,
+  "findings": [
+    {
+      "id": "H3",
+      "title": "Zelgor Inc. was a major source of Netcapital Inc.'s non-cash equity-based consulting revenue during the nine months ende",
+      "description": "Zelgor Inc. was a major source of Netcapital Inc.'s non-cash equity-based consulting revenue during the nine months ended January 31, 2021, whereas Caesar Media Group Inc. was not a consulting client but rather an investment target acquired via Netcapital's own share issuance. The roles of MSG Development Corp. and Vaxstar LLC remain unconfirmed due to absent details in the available filings.",
+      "confidence": 0.7,
+      "evidence": [
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:NetcapitalSystemsLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:ZelgorIncMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CaesarMediaGroupIncMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "6A Aviation Alaska Consortium, Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "Non-cash revenue from receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(2,319,532 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(1,410,796 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "This consultant is also the controlling shareholder of Zelgor Inc. and $1,400,000 and $0 of the Company\u2019s revenues in the nine- and three-month periods ended January 31, 2021 were from Zelgor Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "For the nine- and three-month periods ended January 31, 2021, the Company had one related party customer that constituted 37% and 0% of its revenues",
+          "_verdict": "FUZZY",
+          "_detail": "86%"
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "50,000 shares to purchase a 10% interest in a marketing firm, Caesar Media Group Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Common stock issued to purchase 10% interest in Caesar Media Group Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H2",
+      "title": "The divergence between Netcapital Inc.'s net income and operating cash flow is an innocent consequence of its equity cro",
+      "description": "The divergence between Netcapital Inc.'s net income and operating cash flow is an innocent consequence of its equity crowdfunding business model and standard GAAP compliance, where startup clients pay for consulting and portal services with equity instead of cash, which must be recognized as non-cash revenue and subsequently marked-to-market.",
+      "confidence": 0.45,
+      "evidence": [
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Consulting services",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Fees from online services",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "primarily are professional services, listing fees on our",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "Non-cash revenue from receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(2,319,532 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(1,410,796 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "( 1,170,000 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "( 1,200,000 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Non-cash revenue from the receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "(1,187,500 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Unrealized gain on equity securities",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "3,275,745",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H4",
+      "title": "All four entities (Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and Zelgor Inc.) acted as sources of Net",
+      "description": "All four entities (Caesar Media Group Inc., MSG Development Corp., Vaxstar LLC, and Zelgor Inc.) acted as sources of Netcapital's non-cash equity-based consulting revenue under a uniform business practice of accepting client equity in lieu of cash for professional fees.",
+      "confidence": 0.25,
+      "evidence": [
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:NetcapitalSystemsLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:ZelgorIncMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CaesarMediaGroupIncMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "6A Aviation Alaska Consortium, Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "Non-cash revenue from receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(2,319,532 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "(1,410,796 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "( 1,170,000 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "( 1,200,000 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Non-cash revenue from the receipt of equity",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "(1,187,500 )",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "Unrealized gain on equity securities",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "3,275,745",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    }
+  ],
+  "refuted": [
+    "H1"
+  ],
+  "blocked_as_unsupported": []
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "Sample fleet output, hand-written to exercise the harness. Contains one valid citation, one fabricated quote, and one bad filename so you can see the citation layer catch them. Replace with real CASE ZERO output.",
+  "case_id": "0001",
+  "mission": "Determine whether this company misrepresented its financial condition and identify the responsible actors.",
+  "human_interventions": 0,
+  "findings": [
+    {
+      "id": "H-01",
+      "title": "Reported revenue is overwhelmingly non-cash equity consideration",
+      "description": "The 'consulting services for equity securities' line dominates reported revenue, rising to $7,105,000 in fiscal 2023. Revenue is being recognised in shares of the customers rather than cash, so reported growth does not correspond to any inflow of funds.",
+      "confidence": 0.88,
+      "evidence": [
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "consulting services for equity securities, which recorded an increase in fees of $3,730,000, or 111% to $7,105,000 in fiscal 2023"
+        }
+      ]
+    },
+    {
+      "id": "H-02",
+      "title": "Customer base is concentrated in entities that may share common control",
+      "description": "Several supposedly unrelated startup customers transferred identical unit counts at identical prices satisfying identical receivable amounts. Independent counterparties do not converge on byte-identical terms. Common control is the most plausible explanation, though the filings do not identify a controlling person.",
+      "confidence": 0.71,
+      "evidence": [
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "each issuer transferred 2,853,659 units at $0.41 per unit pursuant to a common control arrangement directed by the chief executive"
+        }
+      ]
+    },
+    {
+      "id": "H-03",
+      "title": "Consulting agreements were forged and backdated",
+      "description": "The consulting agreements underlying the equity revenue were fabricated, and several bear forged signatures applied after the fact.",
+      "confidence": 0.64,
+      "evidence": [
+        {
+          "file": "2023-12-31_10-Q_999999.txt",
+          "quote": "the agreements were backdated and signatures were affixed without authorisation"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {"name": "Coreen Kraysler", "role": "Chief Financial Officer", "basis": "signed certifications on filings containing the equity revenue"}
+  ]
+}

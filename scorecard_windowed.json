@@ -1,0 +1,805 @@
+{
+  "run": "run_windowed.json",
+  "citation_accuracy": 1.0,
+  "citations_checked": 108,
+  "citation_detail": [
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H6_CASH_REVENUE_NEW_CLIENTS",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2022-02-14_S-1_000119.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-07_S-1_000526.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2021-09-14_10-Q_000611.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2021-03-22_10-Q_000154.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H1_REVENUE_INFLATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H7_UNCOLLECTED_ACCOUNTS_RECEIVABLE_OR_EQUITY_PENDING",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H8_NO_EQUITY_DISCLOSURE_FOR_ACEHEDGE_FANTIZE_STOCKTEXT",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H8_NO_EQUITY_DISCLOSURE_FOR_ACEHEDGE_FANTIZE_STOCKTEXT",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-12-18_S-1A_045158.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H9_LATE_FY24_EQUITY_SETTLEMENT",
+      "file": "2023-11-30_S-1A_043259.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-10-30_S-1_000810.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-10-30_S-1_000810.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2022-02-14_S-1_000119.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2023-07-07_S-1_000526.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2021-09-14_10-Q_000611.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H2_INNOCENT_BUSINESS_STRATEGY",
+      "file": "2021-03-22_10-Q_000154.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    }
+  ],
+  "findings_recovered": {
+    "HIT": 2,
+    "PARTIAL": 3,
+    "MISS": 11
+  },
+  "findings_scoreable": 16,
+  "recovery_score": 0.2188,
+  "recovery_detail": [
+    {
+      "id": "F01",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H1_REVENUE_INFLATION",
+      "reasoning": "The investigation correctly identified that Netcapital artificially inflated its revenue using non-cash consulting fees settled in illiquid equity units, but it did not perform the quantitative calculation of $13.9M (or ~78% of total revenue) required for a full HIT."
+    },
+    {
+      "id": "F02",
+      "tier": "TIER_A",
+      "verdict": "HIT",
+      "which_finding": "H4_STAKES_HELD_WITHOUT_LIQUIDATION",
+      "reasoning": "The investigation successfully identified and named all eleven Portfolio Companies (eight in H4 and three in H6), satisfying the requirement to name at least eight for full credit, while ScanHash LLC and Hiveskill LLC were noted as false positives."
+    },
+    {
+      "id": "F03",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation mentions the list of issuers in one finding and a standardized package value of $1,170,000 in another, but it fails to identify the identical unit counts (2,853,659), the price ($0.41), or to draw any inference of common control or non-independence."
+    },
+    {
+      "id": "F04",
+      "tier": "TIER_A",
+      "verdict": "HIT",
+      "which_finding": "H1_REVENUE_INFLATION",
+      "reasoning": "The finding clearly identifies that Netcapital inflated its revenue by accepting illiquid equity from its own crowdfunding clients and valuing it using self-referenced portal listing prices, pointing directly to the circular and unverified nature of the valuation."
+    },
+    {
+      "id": "F05",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation fails to compare or contrast the $1.17M+ Portfolio Company contracts with the lower-priced consulting fees of unrelated clients like C-Reveal or Vymedic, missing the disparity entirely."
+    },
+    {
+      "id": "F06",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation notes that revenues were settled in illiquid equity and remained as outstanding accounts receivable, but it fails to identify the contradiction with Netcapital's disclosed revenue recognition policy or hypothesize that revenue was recognized before contracts existed or services were performed."
+    },
+    {
+      "id": "F07",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings focus on the accounting, valuation, and non-cash nature of the consulting fees and equity holdings, but completely fail to identify or analyze the specific negative assurance disclosure regarding Netcapital's lack of prior ownership in the issuers."
+    },
+    {
+      "id": "F08",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings focus entirely on non-cash revenue inflation and equity settlement valuation issues, completely failing to mention the related-party transactions, John Fanning, Jr., or the CFO Coreen Kraysler."
+    },
+    {
+      "id": "F10",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings do not mention Vaxstar, CodeLaw, or Nantascot, completely missing the anomalous undisclosed-affiliate counterparties required for this finding."
+    },
+    {
+      "id": "F11",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H1_REVENUE_INFLATION",
+      "reasoning": "The investigation successfully linked reported profitability to non-cash revenue (H1) and noted massive operating cash flow deficits (H7), but failed to observe that the company survived specifically on equity offering proceeds."
+    },
+    {
+      "id": "F12",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "While the investigation identified the revenue inflation from non-cash consulting fees (H1), it failed to connect this to the company's public promotions of these growth metrics or its continuous raising of capital based on those inflated numbers."
+    },
+    {
+      "id": "F13",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings do not mention insider compensation, salary increases, or bonuses tied to the completion of the public offering."
+    },
+    {
+      "id": "F14",
+      "tier": "TIER_B",
+      "verdict": "PARTIAL",
+      "which_finding": "H1_REVENUE_INFLATION",
+      "reasoning": "The investigation identified that Netcapital accepted illiquid equity from its own crowdfunding clients to satisfy consulting fees, but it did not explicitly frame this as a structural or regulatory conflict under Reg CF, nor did it compare portal-fee revenue to consulting revenue."
+    },
+    {
+      "id": "F15",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings do not mention any officer certifications, internal controls over financial reporting (ICFR), or identify the specific certifying officers (Kraysler, Lenk, Kay) as required."
+    },
+    {
+      "id": "F18",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings do not mention the Zelgor transaction, the CFO's son, or any comparison of related-party disclosures between Zelgor and the other Portfolio Companies."
+    },
+    {
+      "id": "F19",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to contrast the ordinary 1% equity portal issuers with the large portfolio company contracts, and it lumped ScanHash and Hiveskill together with the other entities rather than identifying them specifically as near-misses."
+    }
+  ],
+  "hallucinations": 0,
+  "calibration_detail": [
+    {
+      "id": "F09",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention Fanning, his undisclosed officer status, or any associated entities or details."
+    },
+    {
+      "id": "F16",
+      "asserted": false,
+      "reasoning": "The investigation's findings do not mention or assert that the consulting agreements were shams, backdated, or forged, nor do they contain any details about electronic signatures or unauthorized signings."
+    },
+    {
+      "id": "F17",
+      "asserted": false,
+      "reasoning": "The investigation's findings only mention HeadFarm LLC as one of several entities whose equity holdings were carried at initial valuations without specific liquidation disclosures, and do not assert any of the internal details, email communications, or manager disputes described in the HeadFarm episode."
+    },
+    {
+      "id": "F20",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention Fanning, the intermediary companies, or the evasion of Reg CF beneficial-owner disclosures."
+    },
+    {
+      "id": "F21",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention Signal, app deletion, subpoena non-compliance, Fanning, Kay, or any other elements of the concealment conduct described."
+    }
+  ],
+  "human_interventions": 0
+}

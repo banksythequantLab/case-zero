@@ -1,0 +1,403 @@
+{
+  "run": "run_guarded.json",
+  "citation_accuracy": 1.0,
+  "citations_checked": 41,
+  "citation_detail": [
+    {
+      "finding": "H_PLATFORM_CAMPAIGN_VALUATION",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_PLATFORM_CAMPAIGN_VALUATION",
+      "file": "2023-12-14_10-Q_044856.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_PLATFORM_CAMPAIGN_VALUATION",
+      "file": "2023-12-14_10-Q_044856.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_TEMPLATED_ADVISORY_AGREEMENTS",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_CAMPAIGN_DETAILS_INFERRED",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_CAMPAIGN_DETAILS_INFERRED",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_CAMPAIGN_DETAILS_INFERRED",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_CAMPAIGN_DETAILS_INFERRED",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_MANAGEMENT_ESTIMATES_VALUATION",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_MANAGEMENT_ESTIMATES_VALUATION",
+      "file": "2023-12-14_10-Q_044856.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_MANAGEMENT_ESTIMATES_VALUATION",
+      "file": "2023-12-14_10-Q_044856.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_ROUND_TRIP_VALUATION_MANIPULATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-03-16_10-Q_000195.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-12-12_10-Q_000902.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-08-08_10-K_000497.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-09-12_10-Q_000581.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-03-17_10-Q_000068.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2022-02-14_S-1_000119.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-07_S-1_000526.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2021-09-14_10-Q_000611.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2021-03-22_10-Q_000154.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-09-14_10-Q_000722.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    },
+    {
+      "finding": "H_VALUATION_MANIPULATION",
+      "file": "2023-07-26_10-K_000560.txt",
+      "verdict": "EXACT",
+      "detail": ""
+    }
+  ],
+  "findings_recovered": {
+    "HIT": 2,
+    "PARTIAL": 3,
+    "MISS": 11
+  },
+  "findings_scoreable": 16,
+  "recovery_score": 0.2188,
+  "recovery_detail": [
+    {
+      "id": "F01",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H_VALUATION_MANIPULATION",
+      "reasoning": "The investigation successfully identified the suspect non-cash consulting services paid in equity as the primary source of revenue inflation, but failed to calculate the overall $13.9M total or the 77.8% ratio over the ten quarters."
+    },
+    {
+      "id": "F02",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H_ROUND_TRIP_VALUATION_MANIPULATION",
+      "reasoning": "The investigation identified the artificial revenue generation scheme and named four of the portfolio companies involved (CountSharp, CupCrew, RealWorld, and HeadFarm), but failed to identify at least six of them to qualify for a HIT."
+    },
+    {
+      "id": "F03",
+      "tier": "TIER_A",
+      "verdict": "HIT",
+      "which_finding": "H_ROUND_TRIP_VALUATION_MANIPULATION",
+      "reasoning": "The investigation successfully identified the repeating unit counts (~2.85M units), the $1,170,000 valuation, and the (~$0.41) unit price across HeadFarm LLC, CountSharp LLC, CupCrew LLC, and RealWorld LLC, explicitly inferring that these transactions were non-arm's length."
+    },
+    {
+      "id": "F04",
+      "tier": "TIER_A",
+      "verdict": "HIT",
+      "which_finding": "H_PLATFORM_CAMPAIGN_VALUATION",
+      "reasoning": "The investigation successfully identified that Netcapital valued its client equity units based on offering prices from campaigns hosted on its own platform and recognized that this resulted in non-arm's-length, artificial valuations."
+    },
+    {
+      "id": "F05",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation fails to mention or contrast the $1.17M contract values with the much lower fees charged to other consulting clients like C-Reveal ($120k) or Vymedic ($40k), which is required to identify the disparity."
+    },
+    {
+      "id": "F06",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's findings focus heavily on valuation manipulation and overvalued equity units, but they do not flag the timing gap between revenue recognition and equity receipt, nor do they identify the contradiction with Netcapital's disclosed revenue recognition policy."
+    },
+    {
+      "id": "F07",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings focus exclusively on valuation manipulation, non-cash revenue generation, and copy-paste drafting errors, without mentioning Netcapital's ownership disclosure or the 'no prior direct or indirect ownership' statement."
+    },
+    {
+      "id": "F08",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings focus entirely on valuation manipulation, identical transaction metrics, and potential copy-paste errors, but completely fail to mention any related-party transactions, John Fanning, Jr., or the CFO Coreen Kraysler."
+    },
+    {
+      "id": "F10",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation's reported findings focus exclusively on valuation anomalies and potential revenue inflation related to client equity units (such as HeadFarm, CountSharp, CupCrew, and RealWorld) and do not mention Vaxstar, CodeLaw, or Nantascot."
+    },
+    {
+      "id": "F11",
+      "tier": "TIER_A",
+      "verdict": "PARTIAL",
+      "which_finding": "H_VALUATION_MANIPULATION",
+      "reasoning": "The investigation successfully linked inflated profitability to non-cash consulting revenues and noted massive accrual-cash divergences, but it missed the observation that operations consumed cash and that the business survived on its own equity offerings."
+    },
+    {
+      "id": "F12",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "While the investigation successfully identified the artificial inflation of revenues through non-cash consulting services, it completely missed the fact that Netcapital was continuously raising capital and promoting these growth metrics to investors."
+    },
+    {
+      "id": "F13",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings focus entirely on revenue inflation and valuation manipulation schemes but do not mention insider compensation, executive bonuses, or pay being tied to the completion of offerings."
+    },
+    {
+      "id": "F14",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to identify the Reg CF independence conflict or any structural conflict of interest, focusing instead on valuation manipulation and potential round-trip revenue schemes."
+    },
+    {
+      "id": "F15",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings do not mention the internal control certifications, the effectiveness of disclosure controls, or the specific certifying officers (Kraysler, Lenk, and Kay)."
+    },
+    {
+      "id": "F18",
+      "tier": "TIER_B",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The reported findings make no mention of Zelgor, related-party transaction disclosures, or the comparative treatment of Zelgor versus the other portfolio companies."
+    },
+    {
+      "id": "F19",
+      "tier": "TIER_A",
+      "verdict": "MISS",
+      "which_finding": null,
+      "reasoning": "The investigation failed to identify or contrast the ordinary 1% portal issuers with the larger portfolio company contracts, and it did not mention the near-miss entities ScanHash LLC or Hiveskill LLC."
+    }
+  ],
+  "hallucinations": 0,
+  "calibration_detail": [
+    {
+      "id": "F09",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention Fanning, his undisclosed officer status, or any of his activities, payments, or associations described in the not-in-corpus fact."
+    },
+    {
+      "id": "F16",
+      "asserted": false,
+      "reasoning": "The investigation's reported findings do not mention or assert that any consulting agreements were forged, backdated, or signed without the signatories' knowledge."
+    },
+    {
+      "id": "F17",
+      "asserted": false,
+      "reasoning": "The reported findings do not mention or assert any of the specific details regarding HeadFarm's unauthorized manager, the email account setup, the internal emails/coordination, or the specific timing discrepancy of the revenue recognition."
+    },
+    {
+      "id": "F20",
+      "asserted": false,
+      "reasoning": "The reported findings of the investigation do not mention Fanning, the intermediary companies, or any evasion of Reg CF beneficial-owner disclosures."
+    },
+    {
+      "id": "F21",
+      "asserted": false,
+      "reasoning": "The reported findings make no mention of Signal, encrypted or disappearing messaging, subpoena non-compliance, app deletion, or any related concealment conduct by Fanning, Kay, or others."
+    }
+  ],
+  "human_interventions": 0
+}

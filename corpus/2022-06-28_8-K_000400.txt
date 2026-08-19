@@ -1,0 +1,502 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000400/f2sncpl8k06242.htm
+FORM: 8-K
+FILED: 2022-06-28
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2022-04-18
+
+2022-04-18
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+April
+ 18, 2022
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+,
+ 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+781
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+Not
+ Applicable
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant
+ to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to
+ Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications
+ pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications
+ pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.     Entry into a Material Definitive
+Agreement
+
+ 
+
+License Agreement
+
+ 
+
+On June 24, 2022, Netcapital Funding Portal Inc. (“NFP”),
+an indirect wholly-owned subsidiary of Netcapital Inc. (the “Company,” “we,” “us” or “our”),
+entered into a license agreement with Netcapital Systems, LLC pursuant to which NFP licensed the software and technology to operate our
+funding portal, for an annual license fee of $380,000, paid in quarterly installments.
+
+ 
+
+The terms and conditions of the License Agreement
+are attached hereto as Exhibit 10.1 and incorporated by reference herein.
+
+ 
+
+ 
+
+Item2.02. Results of Operation and Financial
+Condition.
+
+ 
+
+The Company is reporting our expectations with respect
+to certain of our unaudited results for the year ended April 30, 2022 based upon management estimates.
+
+Preliminary Results for our Fiscal Year
+Ended April 30, 2022
+
+ 
+
+Our audited consolidated financial statements for
+the fiscal year ended April 30, 2022, or fiscal year 2022, are not yet available. We have presented preliminary estimated ranges of certain
+of our financial results below for fiscal year 2022, based on information currently available to management. We have provided ranges,
+rather than specific amounts, for certain financial results below, primarily because our financial closing procedures for the three months
+and year ended April 30, 2022 are not yet complete. As a result, our actual results may vary materially from the estimated preliminary
+results included herein. Accordingly, you should not place undue reliance on these estimates. The preliminary financial data included
+herein has been prepared by, and is the responsibility of, management. Our independent registered public accounting firm has not audited,
+reviewed, compiled, or performed any procedures with respect to the preliminary estimated financial data below and does not express an
+opinion or any other form of assurance with respect thereto. See “Risk Factors,” “Management’s Discussion and
+Analysis of Financial Condition and Results of Operations” and “Special Note Regarding Forward-Looking Statements” for
+additional information regarding factors that could result in differences between the preliminary estimated ranges of certain financial
+results presented below and the financial results we will ultimately report for fiscal year 2022.
+
+ 
+
+For the fiscal year 2022, we estimate that
+our net sales will range from $5.3 million to $5.5 million, an increase of approximately $700,000, or 14.9%, using the mid-point of the
+estimated net sales range when compared with net sales of $4.7 million for the fiscal year ended April 30, 2021, or fiscal year 2021.
+The increase in sales was driven primarily by growth in dollars invested through our funding portal and an increase in consulting fees.
+
+For the fiscal year 2022, we estimate that
+our net income will range from $3.3 million to $3.5 million which includes loan forgiveness of approximately $1.9 million, an increase
+of 126.7%, using the mid-point of the estimated range when compared with net income of $1.5 million for fiscal year 2021.
+
+Item 2.03      Creation
+of a Direct Financial Obligation or a Obligation under an Off-Balance Sheet Arrangement of a Registration
+
+ 
+
+On April 18, 2022, the Company borrowed $400,000 from
+Vaxstar LLC as an additional advance under that certain Loan and Security Agreement dated July 24, 2014 between the Company and Vaxstar
+LLC. Following this advance, we owe Vaxstar LLC an aggrege of $1.4 million in principal under this loan facility. All advances under this
+facility accrue interest at a rate of 8% per annum and have a maturity date of April 30, 2023. In addition, all borrowings with Vaxstar
+LLC are secured by a continuing security interest and first lien on all of our assets.
+
+ 
+
+ 
+Item 5.02. Departure of Directors or Certain Officers, Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On June 23, 2022, the Company appointed Cecilia Lenk to the position of
+President to serve until her successor is appointed. Ms. Lenk currently serves as Chief Executive Officer of the Company.
+
+ 
+
+ 
+
+ 
+
+On June 23, 2022, the Company entered into employment
+agreements with each of Cecilia Lenk, Coreen Kraysler and Jason Frishman, as further described below.
+
+ 
+
+Employment Agreement with Cecilia Lenk
+
+ 
+
+We entered into an employment agreement with Cecilia
+Lenk on June 23, 2022 pursuant to which we employ Ms. Lenk as our President and Chief Executive Officer. The term of her agreement ends
+on June 23, 2025. The agreement provides for an annual base salary during the term of the agreement of $96,000, which will be increased
+to $150,000 upon completion of a subsequent public offering of the Company and listing of our common stock on a national securities exchange.
+Ms. Lenk is eligible for periodic bonuses or for additional salary in addition to her base salary, as may be determined by our board of
+directors or the compensation committee.
+
+ 
+
+The agreement also contains the following material
+provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share plans; eligible to participate
+in any medical and health plans; entitled to sick leave, sick pay and disability benefits; and entitled to reimbursement for all reasonable
+and necessary business expenses. Ms. Lenk agreed to non-compete and non-solicit terms under her agreement.
+
+ 
+
+Employment Agreement with Coreen Kraysler
+
+ 
+
+We entered into an employment agreement with Coreen
+Kraysler on June 23, 2022 pursuant to which we employ Ms. Kraysler as our Chief Financial Officer. The term of her agreement ends on June
+23, 2025. The agreement provides for an annual base salary during the term of the agreement of $96,000, which will be increased to $150,000
+upon completion of a subsequent public offering of the Company and listing of our common stock on a national securities exchange. Ms.
+Kraysler is eligible for periodic bonuses or for additional salary in addition to her base salary, as may be determined by our board of
+directors or the compensation committee.
+
+ 
+
+The agreement also contains the following material
+provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share plans; eligible to participate
+in any medical and health plans;; entitled to sick leave, sick pay and disability benefits; and entitled to reimbursement for all reasonable
+and necessary business expenses. Ms. Kraysler agreed to non-compete and non-solicit terms under her agreement.
+
+ 
+
+Employment Agreement with Jason Frishman
+
+ 
+
+We entered into an employment agreement with Jason
+Frishman on June 23 2022 pursuant to which we employ Mr. Frishman as Chief Executive Officer of NFP. The term of his agreement ends on
+June 23, 2025. The agreement provides for an annual base salary during the term of the agreement of $96,000, which will be increased to
+$150,000 upon completion of a subsequent public offering of the Company and listing of our common stock on a national securities exchange.
+Mr. Frishman is eligible for periodic bonuses or for additional salary in addition to his base salary, as may be determined by our board
+of directors or the compensation committee.
+
+ 
+
+The agreement also contains the following material
+provisions: eligible to participate in all employee fringe benefits and any pension and/or profit share plans; eligible to participate
+in any medical and health plans; entitled to sick leave, sick pay and disability benefits; and entitled to reimbursement for all reasonable
+and necessary business expenses. Mr. Frishman agreed to non-compete and non-solicit terms under his agreement.
+
+ 
+
+The respective employment agreements with Cecilia
+Lenk, Coreen Kraysler and Jason Frishman are subject to the terms and conditions of their respective employment agreements attached hereto
+as Exhibits 10.2, 10.3 and 10.4 and incorporated by reference herein.
+
+  
+
+Item 7.01.
+
+   Regulation FD Disclosure.
+
+ 
+
+On June 28, 2022, the Company
+reported our expectations with respect to certain of our unaudited results for the year ended April 30, 2022.
+
+ 
+
+The information furnished
+pursuant to this Current Report on Form 8-K, shall not be considered “filed” for purposes of Section 18 of the Securities
+Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall
+it be incorporated by reference into future filings by the Company under the Securities Act of 1933, as amended, or under the Exchange
+Act, unless the Company expressly sets forth in such future filing that such information is to be considered “filed” or incorporated
+by reference therein.
+
+ 
+
+On June 28, 2022, the Company posted the attached investor presentation
+in the investor relations section of the Company’s web site at www.netcapitalinc.com. A copy of the investor presentation is attached
+as Exhibit 99.1 to this report and is incorporated herein by reference.
+
+ 
+
+The information in this Current Report on Form 8-K is being furnished
+under Item 7.01 and shall not deemed to be "filed" for the purposes of Section 18 of the Securities and Exchange Act of 1934
+(the "Exchange Act"), or otherwise subject to the liabilities of such section, nor shall such information be deemed incorporated
+by reference in any filing under the Securities Act of 1933 or the Exchange Act, except as shall be expressly set forth by specific reference
+in such a filing.
+
+ 
+
+ 
+
+ 
+
+Item 9.01      Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+10.1
+
+ 
+
+License
+ Agreement between Netcapital Systems LLC, a Delaware limited liability company, and Netcapital Funding Portal Inc.
+
+10.2+
+
+ 
+
+Employment
+ Agreement with Cecilia Lenk
+
+10.3+
+
+ 
+
+Employment
+ Agreement with Coreen Kraysler
+
+10.4+
+
+ 
+
+Employment
+ Agreement with Jason Frishman
+
+ 99.1
+
+ 
+
+Investor Presentation 
+
+ 
+
+ 
+
+SIGNATURE
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+ 
+
+Date: June 28, 2022
+
+/s/ Coreen
+ Kraysler
+
+ 
+
+Coreen Kraysler
+
+ 
+
+Chief Financial Officer
+
+ 
+
+Principal Accounting Officer

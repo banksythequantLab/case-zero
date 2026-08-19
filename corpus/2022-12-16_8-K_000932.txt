@@ -1,0 +1,455 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000932/f2sncpl8k121622.htm
+FORM: 8-K
+FILED: 2022-12-16
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2022-12-13
+
+2022-12-13
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+December
+ 13, 2022
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01. Entry into a Material Definitive Agreement.
+
+ 
+
+On December 13, 2022 (the “Effective Date”),
+Netcapital Inc. (the “Company”) entered into an underwriting agreement (the “Underwriting Agreement”) with ThinkEquity
+LLC (“ThinkEquity”), as representative of the several underwriters listed on Schedule I thereto (the “Underwriters”),
+relating to the public offering (the “Offering”) of 1,247,000 shares (the “Shares”) of the Company’s common
+stock, par value $0.001 per share (the “Common Stock”), at a price to the public of $1.40 per Share (the “Offering Price”).
+Pursuant to the terms of the Underwriting Agreement, the Company has also granted the Underwriters a 45-day option to purchase up to an
+additional 187,000 shares of Common Stock (the “Option Shares” and together with the Shares, the “Securities”)
+solely to cover over-allotments, if any, at the Offering Price less the underwriting discounts and commissions. In connection with the
+Offering, the Company also agreed to issue ThinkEquity, or its designees, warrants to purchase up to 62,350 shares of Common Stock (equal
+to five percent (5%) of the number of Shares sold to the public), or warrants to purchase an aggregate of up to 71,700 shares of Common
+Stock if both the Shares and the Option Shares are sold (the “Representative’s Warrants”).
+
+ 
+
+On December 16, 2022, the Company closed the Offering and issued the
+Shares for aggregate net proceeds of approximately $1.39 million to the Company from the sale of the Shares, after deducting the underwriting
+discounts and commissions and other estimated offering expenses payable by the Company. The Company also issued warrants to purchase up
+to 62,360 shares of Common Stock to ThinkEquity and its designees. If the Underwriters exercise their over-allotment option for the Option
+Shares in full, the Company expects to receive an additional $242,165 in net proceeds. The Company intends to use the net proceeds from
+the Offering for general corporate purposes, working capital and general and administrative expenses.
+
+ 
+
+The Securities were offered, issued and sold to the
+public pursuant to the Company’s shelf registration statement on Form S-3 (File No. 333-267921) previously filed with the Securities
+and Exchange Commission (the “Commission”) on October 18, 2022 and declared effective by the Commission on October 26, 2022
+and related prospectus supplements dated December 13, 2022, as amended on December 16, 2022.
+
+ 
+
+Pursuant to the Underwriting Agreement, subject to
+certain exceptions, we and our officers, directors and certain 5% stockholders have agreed not to sell or otherwise dispose of any of
+the Company’s securities held by them for a period ending three (3) months after the Effective Date without first obtaining the
+written consent of ThinkEquity.
+
+ 
+
+The Underwriting Agreement contains customary representations
+and warranties, agreements and obligations, conditions to closing and termination provisions. The Underwriting Agreement provides for
+indemnification by the Underwriters of the Company, its directors and officers, and by the Company of the Underwriters, for certain liabilities,
+including liabilities arising under the Securities Act of 1933, as amended, and affords certain rights of contribution with respect thereto.
+
+ 
+
+The description of the terms and conditions of the
+Underwriting Agreement and Representative’s Warrants set forth herein does not purport to be complete and is qualified in its entirety
+by the full text of the Underwriting Agreement and the form of Representative’s Warrant, which are attached hereto as Exhibit 1.1
+and Exhibit 4.1, respectively.
+
+ 
+
+The legal opinion of CodeLaw LLC relating to the legality
+of the issuance and sale of the Securities is attached as Exhibit 5.1 to this Current Report on Form 8-K.
+
+ 
+
+This Current Report on Form 8-K does not constitute
+an offer to sell, or the solicitation of an offer to buy, nor shall there be any sale of these securities in any state or jurisdiction
+in which such offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities laws of any
+such state or jurisdiction.
+
+ 
+
+Item 8.01 Other Events.
+
+ 
+
+On December 13, 2022, the
+Company issued a press release announcing the Offering. A copy of the press release is attached as Exhibit 99.1 to this Current Report
+on Form 8-K and is hereby incorporated by reference herein.
+
+ 
+
+On December 13, 2022, the
+Company issued a press release announcing the pricing of the Offering. A copy of the press release is attached as Exhibit 99.2 to this
+Current Report on Form 8-K and is hereby incorporated by reference herein.
+
+ 
+
+On December 16, 2022, the
+Company issued a press release announcing the closing of the Offering. A copy of the press release is attached as Exhibit 99.3 to this
+Current Report on Form 8-K and is hereby incorporated by reference herein.
+
+  
+
+ 
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits.
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+1.1
+
+ 
+
+Underwriting Agreement, dated December 13, 2022, by and between Netcapital Inc. and ThinkEquity LLC
+
+4.1
+
+ 
+
+Form
+ of Representative Warrant (included as Exhibit A to Exhibit 1.1)
+
+5.1
+
+ 
+
+Legal Opinion of CodeLaw LLC
+
+23.1
+
+ 
+
+Consent
+ of CodeLawLLP (contained in Exhibit 5.1)
+
+99.1
+
+ 
+
+Launch
+ Press Release dated December 13, 2022
+
+99.2
+
+ 
+
+Pricing
+ Press Release dated December 13, 2022
+
+99.3
+
+ 
+
+Closing Press Release dated December 16, 2022
+
+104
+
+ 
+
+Cover Page Interactive
+ Data File (embedded within the Inline XBRL document)
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: December 16, 2022
+
+By:
+
+/s/
+ Coreen Kraysler
+
+ 
+
+ 
+
+Coreen Kraysler
+
+ 
+
+ 
+
+Chief Financial Officer

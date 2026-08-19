@@ -1,0 +1,78 @@
+
+==================================================================================
+FORENSIC LEDGER — the books, rebuilt from the filings
+==================================================================================
+
+ENGAGEMENT REGISTER — every consulting engagement, and how it settled
+----------------------------------------------------------------------------------
+  counterparty                  consideration         units    @/unit  first
+  Dark LLC                         $2,100,000     2,100,000     $1.00  2023-03-16
+  NetWire LLC                      $1,300,000     1,911,765     $0.68  2022-12-12
+  Cust Corp                        $1,200,000     3,000,000     $0.40  2022-08-08
+  Reper LLC                        $1,200,000     1,764,706     $0.68  2022-09-12
+  HeadFarm LLC                     $1,170,000     2,853,659     $0.41  2023-07-26
+  CupCrew LLC                      $1,170,000     2,853,659     $0.41  2023-07-26
+  CountSharp LLC                   $1,170,000     2,853,659     $0.41  2023-07-26
+  RealWorld LLC                    $1,170,000     2,853,659     $0.41  2023-09-14
+  ScanHash LLC                       $712,500     1,700,000     $0.25  2022-03-17
+  Hiveskill LLC                      $712,500     2,850,000     $0.25  2022-03-17
+  --------------------------------------------------------------------------------
+  C-Reveal Therapeutics LLC          $120,000             —      cash  2021-09-14
+  Vymedic, Inc                        $40,000             —      cash  2021-03-22
+
+  SETTLED IN COUNTERPARTY EQUITY   10 parties       $11,905,000
+  SETTLED IN CASH                   2 parties          $160,000
+
+DISCLOSED REVENUE CONCENTRATION — the issuer's own admission
+----------------------------------------------------------------------------------
+  six-month period ended October 31, 2023                 75% named
+      AceHedge LLC                            32%
+      Fantize LLC                             32%
+      StockText LLC                           11%
+  three-month period ended July 31, 2023                  74% named
+      AceHedge LLC                            37%
+      Fantize LLC                             37%
+
+CUSTOMER SET — union of both routes (15 counterparties)
+----------------------------------------------------------------------------------
+  AceHedge LLC              C-Reveal Therapeutics LL  CountSharp LLC            
+  CupCrew LLC               Cust Corp                 Dark LLC                  
+  Fantize LLC               HeadFarm LLC              Hiveskill LLC             
+  NetWire LLC               RealWorld LLC             Reper LLC                 
+  ScanHash LLC              StockText LLC             Vymedic, Inc              
+
+RECONCILIATION vs REPORTED REVENUE
+----------------------------------------------------------------------------------
+  Reported revenue, 2021-10-01 to 2024-01-31               $16,754,071
+  Settled in counterparty equity  (disclosed, 10 parties)     $11,905,000    71.1%
+  Named concentration customers  (derived,    3 parties)      $2,671,099
+      AceHedge LLC                  32% of 6mo to 2023-10-31    $1,139,669
+      Fantize LLC                   32% of 6mo to 2023-10-31    $1,139,669
+      StockText LLC                 11% of 6mo to 2023-10-31      $391,761
+  ------------------------------------------------------------------------------
+  Revenue attributable to named counterparties          $14,576,099    87.0%
+  Settled in arm's-length cash                            $160,000     1.0%
+  Revenue remaining once it is removed                  $2,177,972
+
+  >> OVERSTATEMENT OF THE REMAINDER: 669%
+
+  (derived: stated whole-percent share x reported revenue for the same window; longest window per customer, shorter ones discarded)
+
+PRICING — the same service, two prices
+----------------------------------------------------------------------------------
+  Company's own published rate card    $5,000 – $10,000 engagement fee
+  Arm's-length cash engagements        $40,000 – $120,000
+  Equity-settled engagements           $712,500 – $2,100,000   (median $1,170,000)
+
+  >> 117x the published price for the same service, 15x what cash customers paid
+
+SUPPORTING — figures shared across supposedly independent parties
+----------------------------------------------------------------------------------
+     2,853,659  x4  CountSharp LLC, CupCrew LLC, HeadFarm LLC, RealWorld LLC
+     2,856,659  x3  CountSharp LLC, CupCrew LLC, HeadFarm LLC
+     1,170,000  x4  CountSharp LLC, CupCrew LLC, HeadFarm LLC, RealWorld LLC
+  2,853,659 vs 2,856,659 — differ by 3,000 (0.105%), shared by 3
+
+==================================================================================
+All INFERRED. Arithmetic from filed documents; the conclusion is the fleet's to argue.
+

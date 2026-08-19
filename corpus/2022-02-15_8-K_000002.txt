@@ -1,0 +1,369 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359622000002/f2sncpl8k021422.htm
+FORM: 8-K
+FILED: 2022-02-15
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2022-02-09
+
+2022-02-09
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date of Report (Date
+ of earliest event reported): 
+February 9,
+ 2022
+
+ 
+
+ 
+
+ 
+
+NETCAPITAL
+ INC.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+000-55036
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+(339)
+-
+368-8100
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item 1.01.     Entry into a Material Definitive
+Agreement
+
+ 
+
+Private Placement of Convertible Notes 
+
+ 
+
+On February 9, 2022, Netcapital Inc. (the “Company,”
+“we,” or “us”) held a closing at which we entered into definitive note purchase agreements with accredited investors
+under which we issued and sold in a private placement $300,000 of unsecured convertible promissory notes, or the February 2022 Notes.
+These notes bear interest at a rate of 8% per annum and have a maturity date of February 9, 2023. In addition, these February 2022 Notes
+shall automatically convert simultaneously with the closing of a Qualified Equity Financing (as defined below) into a number of securities
+sold in the Qualified Equity Financing equal to the quotient obtained by dividing (a) an amount equal to the amount of the February 2022
+Notes outstanding on the closing date of such Qualified Equity Financing by (b) a conversion price equal to the lesser of (1) $10.00 and
+(2) 80% of the price per share paid for securities sold in such Qualified Equity Financing upon the closing of such Qualified Equity Financing.
+A “Qualified Equity Financing” means the offer and sale for cash by us of any of our equity securities with the principal
+purpose of raising capital and that results in aggregate gross proceeds to us of at least $5,000,000. We received $300,000 in proceeds
+from the sale of the February 2022 Notes, before deducting placement agent and other offering expenses. We intend to use the net proceeds
+for working capital and general corporate purposes. The terms of this financing is more fully set forth in the form of note purchase agreement
+attached hereto as Exhibit 10.1 and incorporated herein by reference. The February 2022 Notes are subject to the terms and conditions
+of the form of convertible note attached hereto as Exhibit 4.2 and incorporated by reference herein.
+
+ 
+
+Item 2.03      Creation
+of a Direct Financial Obligation or a Obligation under an Off-Balance Sheet Arrangement of a Registration
+
+ 
+
+The information set forth in Item 1.01 is incorporated
+herein by reference. 
+
+ 
+
+Item 3.02      Unregistered
+Sale of Equity Securities
+
+ 
+
+The information set forth in Item 1.01 is incorporated
+herein by reference. The issuance was exempt pursuant to Section 4(a)(2) of the Securities Act of 1933, as amended and/or Rule 506 of
+Regulation D promulgated thereunder.
+ 
+
+ 
+
+ 
+Item 5.02. Departure of Directors or Certain Officers, Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+ 
+
+On February 10, 2022, the
+Board of Directors (the “Board”) of the Company approved and authorized compensation, as described below, to its non-employee
+directors to enable the Company to attract and retain qualified non-employee directors in consideration of their service to the Company
+(the “Non-Employee Director Compensation”). The Board approved the following option grants under the Non-Employee Director
+Compensation: each non-employee director to receive an option to purchase 5,000 shares of common stock. The above-described stock options
+vest in equal monthly amounts over the course of four years, have a term of 10 years and an exercise price of $10.50. The option grants
+were made under the Corporation’s 2021 Equity Incentive Plan (the “Plan”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+On February 10, 2022, the
+Board approved and authorized the following equity compensation under the Plan to Cecilia Lenk, CEO, Coreen Kraysler, CFO and Jason Frishman,
+CEO of Netcapital Funding Portal Inc., our wholly owned subsidiary. In consideration of services rendered to the Company: (1) for Cecilia
+Lenk an equity bonus consisting of a stock option to purchase 10,000 shares of common stock; (2) for Coreen Kraysler an equity bonus consisting
+of a stock option to purchase 20,000 shares of common stock; and (3) for Jason Frishman an equity bonus consisting of a stock option to
+purchase 20,000 shares of common stock. The above-described stock options vest in equal monthly amounts over the course of four years,
+have a term of 10 years, and an exercise price of $10.50. The option grants were made under the Plan.
+
+ 
+
+Item 9.01      Financial Statements and Exhibits
+
+ 
+
+(d) Exhibits.
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Form of Convertible Note
+
+10.1
+
+ 
+
+Form of Note Purchase Agreement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant to the requirements of
+the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized.
+
+ 
+
+ 
+
+NETCAPITAL INC.
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/ Cecilia Lenk 
+
+ 
+
+Name: 
+
+Cecilia Lenk
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+Dated: February 15, 2022

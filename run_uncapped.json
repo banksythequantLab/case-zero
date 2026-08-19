@@ -1,0 +1,398 @@
+{
+  "mission": "Determine whether this company misrepresented its financial condition, and identify who is responsible.",
+  "source_run": 1,
+  "of_runs": 1,
+  "stop_reason": "budget_exhausted",
+  "findings": [
+    {
+      "id": "H_LUMPY_NON_CASH_REVENUE_PATTERN",
+      "title": "Non-cash consulting revenues are non-recurring, event-driven transactions associated with specific onboarding campaigns ",
+      "description": "Non-cash consulting revenues are non-recurring, event-driven transactions associated with specific onboarding campaigns (such as the CountSharp, CupCrew, HeadFarm, and RealWorld deals) rather than continuous services, meaning that Q1 non-cash revenues represent almost the entire yearly totals and linear extrapolation would dramatically overestimate full-year numbers.",
+      "confidence": 0.6,
+      "evidence": [
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CountSharpLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:CupCrewLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:HeadFarmLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "ncpl:RealWorldLLCMember",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H_NON_CASH_RUN_RATE_ESTIMATE",
+      "title": "Based on the Q1 FY2024 Form 10-Q statement of cash flows, which reports 'Receipt of equity in lieu of cash' of $1,170,00",
+      "description": "Based on the Q1 FY2024 Form 10-Q statement of cash flows, which reports 'Receipt of equity in lieu of cash' of $1,170,000 for the three months ended July 31, 2023, and $1,200,000 for the three months ended July 31, 2022, a linear extrapolation assumes constant quarterly non-cash revenue, estimating full-year totals of $4,800,000 for FY2023 and $4,680,000 for FY2024.",
+      "confidence": 0.4,
+      "evidence": [
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H_REV_MANIP",
+      "title": "Netcapital artificially inflated its reported revenue and net income through non-cash consulting transactions valued at ",
+      "description": "Netcapital artificially inflated its reported revenue and net income through non-cash consulting transactions valued at up to 117 times the standard rate card, using repetitive or templated equity-for-services agreements that did not reflect genuine economic substance.",
+      "confidence": 0.35,
+      "evidence": [
+        {
+          "file": "2023-03-16_10-Q_000195.txt",
+          "quote": "Note 13 \u2013 Investments In January 2023, the Company received 2,100,000 units of Dark LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $1.00 per unit based on a sales price of $1.00 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $2,100,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-12-12_10-Q_000902.txt",
+          "quote": "Note 13 \u2013 Investments In August 2022, the Company received 1,911,765 units of NetWire LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,300,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-08-08_10-K_000497.txt",
+          "quote": "Investments In April 2022, the Company received 3,000,000 units of Cust Corp. as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.40 per unit based on a sales price of $0.40 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-09-12_10-Q_000581.txt",
+          "quote": "Note 13 \u2013 Investments In May 2022, the Company received 1,764,706 units of Reper LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.68 per unit based on a sales price of $0.68 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,200,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "Investments In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Note 13 \u2013 Investments In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.41 per unit based on a sales price of $0.41 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "e Company owns 1,700,000 units which are valued at $425,000. In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "In January 2022, the Company received 2,850,000 units of Hiveskill LLC as a payment for services rendered in conjunction with a crowdfunding offering. The units are valued at $0.25 per unit based on a sales price of $0.25 per unit on an online funding portal. The receipt of the units satisfied an accounts receivable balance of $712,500.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2022-02-14_S-1_000119.txt",
+          "quote": "The Netcapital funding portal charges a $5,000 engagement fee and a 4.9% success fee for capital raised at closing.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-07_S-1_000526.txt",
+          "quote": "The Netcapital funding portal charges a $5,000 to $10,000 engagement fee a 4.9% success fee for capital raised at closing, and in certain instances a fee payable in equity from the issuer.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-09-14_10-Q_000611.txt",
+          "quote": "In August 2020 the Company entered a consulting agreement with C-Reveal Therapeutics LLC (\u201cCRT\u201d). for a $120,000 fee over a 12-month period. $50,000 of the fee is payable in CRT units.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "On July 20, 2020 the Company entered a consulting agreement with Vymedic, Inc. for a $40,000 fee over a 5-month period.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2021-03-22_10-Q_000154.txt",
+          "quote": "This consultant is also the controlling shareholder of Zelgor Inc. and the Company\u2019s earned revenues from Zelgor Inc. of $1,400,000 and $350,000 in the nine- and three-month periods ended January 31, 2021.",
+          "_verdict": "FUZZY",
+          "_detail": "92%"
+        },
+        {
+          "file": "2022-03-17_10-Q_000068.txt",
+          "quote": "This consultant is also the controlling shareholder of Zelgor Inc. and $1,400,000 and $0 of the Company\u2019s revenues in the nine- and three-month periods ended January 31, 2021 were from Zelgor Inc.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H_OFFERINGS_ABSENT",
+      "title": "The details of the crowdfunding offerings for CountSharp LLC, CupCrew LLC, HeadFarm LLC, and RealWorld LLC, including th",
+      "description": "The details of the crowdfunding offerings for CountSharp LLC, CupCrew LLC, HeadFarm LLC, and RealWorld LLC, including their launch dates, target amounts, and actual amounts raised on the Netcapital portal, are entirely absent from the provided corporate filings and portal records, meaning their existence and active status cannot be verified from the corpus.",
+      "confidence": 0.3,
+      "evidence": []
+    },
+    {
+      "id": "H_10K_ABSENCE",
+      "title": "The Form 10-K filings for the fiscal years ended April 30, 2022, 2023, and 2024 are absent from the corpus, making it im",
+      "description": "The Form 10-K filings for the fiscal years ended April 30, 2022, 2023, and 2024 are absent from the corpus, making it impossible to directly extract the non-cash consulting revenue totals from official annual reports.",
+      "confidence": 0.3,
+      "evidence": []
+    },
+    {
+      "id": "H_UNSUPPORTED_VALUATIONS",
+      "title": "The crowdfunding valuations of $0.41 per unit for CountSharp LLC, CupCrew LLC, HeadFarm LLC, and RealWorld LLC are not s",
+      "description": "The crowdfunding valuations of $0.41 per unit for CountSharp LLC, CupCrew LLC, HeadFarm LLC, and RealWorld LLC are not supported by real public transactions, as details regarding their actual campaigns, launch dates, and external funding amounts are entirely absent from the filings, suggesting the non-cash revenue of $1,170,000 each was recognized without market-clearing transactions.",
+      "confidence": 0.2,
+      "evidence": [
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CountSharp LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "In May 2023, the Company received 2,853,659 units of RealWorld LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "The receipt of the units satisfied an accounts receivable balance of $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of HeadFarm LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "In April 2023, the Company received 2,853,659 units of CupCrew LLC as a payment for services rendered in conjunction with a crowdfunding offering.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-07-26_10-K_000560.txt",
+          "quote": "As of April 30, 2023, the Company owned 2,856,659 units which are valued at $1,170,000.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    },
+    {
+      "id": "H_10K_INDIRECT_INFERENCE",
+      "title": "While the primary Form 10-K filings are absent, the non-cash consulting revenues for these periods can be partially infe",
+      "description": "While the primary Form 10-K filings are absent, the non-cash consulting revenues for these periods can be partially inferred from non-cash equity transaction disclosures (such as the $1,170,000 equity-in-lieu-of-cash receipts) found in the available Form 10-Q filings.",
+      "confidence": 0.2,
+      "evidence": [
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "For the three-month period ended July 31, 2023, the Company had one customer that constituted 37% of revenues and a second customer that constituted 37% of revenues.",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        },
+        {
+          "file": "2023-09-14_10-Q_000722.txt",
+          "quote": "Receipt of equity in lieu of cash",
+          "_verdict": "EXACT",
+          "_detail": ""
+        }
+      ]
+    }
+  ]
+}

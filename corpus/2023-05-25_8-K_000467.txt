@@ -1,0 +1,477 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000190359623000467/ncpl_8k.htm
+FORM: 8-K
+FILED: 2023-05-25
+COMPANY: Netcapital Inc.
+
+0001414767
+
+false
+
+0001414767
+
+2023-05-23
+
+2023-05-23
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+UNITED
+ STATES
+
+SECURITIES
+ AND EXCHANGE COMMISSION
+
+Washington,
+ D.C.  20549
+
+ 
+
+ 
+
+ 
+
+FORM
+ 
+8-K
+
+ 
+
+CURRENT
+ REPORT
+
+ 
+
+ 
+
+ 
+
+PURSUANT
+ TO SECTION 13 OR 15(d) OF
+
+THE
+ SECURITIES EXCHANGE ACT OF 1934
+
+ 
+
+ 
+
+ 
+
+Date
+ of Report (Date of earliest event reported): 
+May 23,
+ 2023
+
+ 
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Exact
+ name of registrant as specified in its charter)
+
+ 
+
+ 
+
+ 
+
+Utah
+
+001-41443
+
+87-0409951
+
+(State or
+ other jurisdiction of incorporation)
+
+(Commission File No.)
+
+(I.R.S. Employer Identification
+ No.)
+
+ 
+
+ 
+
+ 
+
+State
+ Street Financial Center
+, 
+1
+ Lincoln Street
+, 
+Boston
+,
+ 
+Massachusetts
+ 
+02111
+
+(Address
+ of principal executive offices)     (Zip Code)
+
+ 
+
+ 
+
+ 
+
+782
+-
+925-1700
+
+(Registrant's
+ telephone number, including area code)
+
+ 
+
+ 
+Not Applicable
+
+ 
+
+(Former
+ name or former address, if changed since last report)
+
+ 
+
+Check
+ the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+ any of the following provisions:
+
+ 
+
+[
+ ]
+ 
+Written communications pursuant to Rule 425 under
+ the Securities Act (17 CFR 230.425)
+
+ 
+
+[
+ ]
+ 
+Soliciting material pursuant to Rule 14a-12 under
+ the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+[
+ ]
+ 
+Pre-commencement communications pursuant to Rule
+ 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+
+Stock Market LLC
+
+ 
+
+Indicate by check
+mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this
+chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+[
+]
+
+ 
+
+If an emerging growth
+company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or
+revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [ ]
+
+ 
+
+ 
+
+ 
+
+ 
+
+On May 23, 2023, Netcapital Inc., a Utah corporation
+(the “Company”), entered into a securities purchase agreement (the “Purchase Agreement”) with certain institutional
+investors, pursuant to which the Company agreed to issue and sell to such investors, in a registered direct offering (the “Offering”),
+1,100,000 shares (the “Shares”) of the Company’s common stock, par value $0.001 per share (the “Common Stock”),
+at a price of $1.55 per Share, for aggregate gross proceeds of $1,705,000, before deducting the placement agent's fees and other offering
+expenses payable by the Company. The Offering closed on May 25, 2023. The Shares were offered and issued and sold pursuant to the Company’s
+shelf registration statement on Form S-3 (File 333-267921) (the “Shelf Registration Statement”), filed by the Company with
+the Securities and Exchange Commission (the “SEC”) under the Securities Act of 1933, as amended (the “Securities Act”),
+on October 18, 2022 and declared effective on October 26, 2022.
+
+ 
+
+The Company intends to use up to approximately $365,000
+of the net proceeds from the Offering to repay certain indebtedness, including accrued interest, having a 12% interest rate and a maturity
+date of October 31, 2023, and the Company intends to use the remainder of net proceeds for working capital and general corporate purposes.
+
+ 
+
+Also in connection with the Offering, on May 23, 2023,
+the Company entered into a placement agency agreement (the “Placement Agency Agreement”) with ThinkEquity LLC (the “Placement
+Agent”), pursuant to which (i) the Placement Agent agreed to act as placement agent on a “best efforts” basis in connection
+with the Offering, (ii) the Company agreed to pay the Placement Agent an aggregate fee equal to 8.0% of the gross proceeds raised in the
+Offering, and to reimburse the Placement Agent for certain expenses, and (iii) the Company agreed to issue to the Placement Agent warrants
+to purchase up to 55,000 shares of Common Stock at an exercise price of $1.94 (the “Placement Agent Warrants”), which were
+issued on May 25, 2023. The Placement Agent Warrants (and the shares of Common Stock issuable upon the exercise of the Placement Agent
+Warrants) were not registered under the Securities Act, and were offered pursuant to an exemption from the registration requirements of
+the Securities Act provided in Section 4(a)(2) of the Securities Act and Rule 506(b) promulgated thereunder.
+
+ 
+
+The Placement Agency Agreement and the Purchase Agreement
+contain customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations
+of the Company, the Placement Agent, or the investors, as the case may be, other obligations of the parties and termination provisions.
+Pursuant to the terms of the Purchase Agreement, from the date hereof until 30 days after the closing date of the Offering, subject to
+certain exceptions, we may not issue, enter into any agreement to issue or announce the issuance or proposed issuance of any shares of
+Common Stock or Common Stock equivalents, or file any registration statement or any amendment or supplement thereto, other than the prospectus
+supplement. In addition, from the date hereof until 30 days after the closing date of the Offering, we are prohibited from effecting or
+entering into an agreement to effect any issuance of common stock or common stock equivalents involving a variable rate transaction (as
+defined in the securities purchase agreement); provided, that an “at the market offering” shall not constitute a variable
+rate transaction.
+
+ 
+
+In addition, pursuant to certain “lock-up”
+agreements, our officers and directors and 10% stockholders agreed, for a period of 60 days from the May 23, 2023, not to engage in any
+of the following, whether directly or indirectly, without the consent of the investors under the Purchase Agreement: offer to sell, sell,
+contract to sell pledge, grant, lend, or otherwise transfer or dispose of shares of our Common Stock or any securities convertible into
+or exercisable or exchangeable for shares of our Common Stock (the “Lock-Up Securities”); enter into any swap or other arrangement
+that transfers to another, in whole or in part, any of the economic consequences of ownership of the Lock-Up Securities; make any demand
+for or exercise any right or cause to be filed a registration statement, including any amendments thereto, with respect to the registration
+of any Lock-Up Securities; enter into any transaction, swap, hedge, or other arrangement relating to any Lock-Up Securities subject to
+customary exceptions; or publicly disclose the intention to do any of the foregoing.
+
+ 
+
+The foregoing does not purport to be a complete description
+of each of the Placement Agency Agreement, the Placement Agent Warrant, and the Purchase Agreement and is qualified in its entirety by
+reference to the full text of each of such document, which are filed as Exhibits 1.1, 4.1, and 10.1, respectively, to this Current Report
+on Form 8-K (this “Form 8-K”) and incorporated herein by reference.
+
+ 
+
+Codelaw LLC, Utah counsel to the Company, delivered
+an opinion as to the validity of the Shares, a copy of which is attached to this Form 8-K as Exhibit 5.1 and is incorporated herein by
+reference.
+
+ 
+
+ 
+
+Item 3.02.
+
+Unregistered Sale of Equity Securities.
+
+ 
+
+The applicable information set forth in Item 1.01
+of this Form 8-K with respect to the issuance of the Placement Agent Warrant (and the shares of Common Stock issuable upon the exercise
+of the Placement Agent Warrants) is incorporated herein by reference.
+
+ 
+
+Cautionary Statement Regarding Forward-Looking
+Statements
+
+ 
+
+This Form 8-K contains forward-looking statements
+within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Forward-looking statements
+include, but are not limited to, statements that express the Company’s intentions, beliefs, expectations, strategies, predictions
+or any other statements related to the Company’s future activities, or future events or conditions, which can be identified by terminology
+such as “may,” “will,” “expects,” “anticipates,” “aims,” “potential,”
+“future,” “intends,” “plans,” “believes,” “estimates,” “continue,”
+“likely to” and other similar expressions intended to identify forward-looking statements, although not all forward-looking
+statements contain these identifying words. These statements are not historical facts and are based on current expectations, estimates
+and projections about the Company’s business based, in part, on assumptions made by its management, including, without limitation,
+the intended use of proceeds upon consummation of the Offering. These statements are not guarantees of future performance and involve
+risks, uncertainties and assumptions that are difficult to predict, many of which are beyond the Company’s control, including, among
+other things, the Company’s ability to maintain its listing of Common Stock on the Nasdaq Capital Market, and those risks that may
+be included in the periodic reports and other filings that the Company files from time to time with the SEC, which may cause the Company’s
+actual results, performance and achievements to differ materially from those contained in any forward-looking statement. Any forward-looking
+statements speak only as of the date on which they are made, and the Company undertakes no obligation to update any forward-looking statement
+to reflect events or circumstances after the date of this Form 8-K, except as required by applicable law.
+
+ 
+
+Item 7.01.
+
+Regulation FD Disclosure.
+
+ 
+
+The Company issued a press release announcing the
+pricing of the Offering on May 23, 2023. A copy of such press release is furnished herewith as Exhibit 99.1 and incorporated herein by
+reference. In addition, the Company issued a press release announcing the closing of the Offering on May 25, 2023. A copy of such press
+release is furnished herewith as Exhibit 99.2 and incorporated herein by reference. The information in this Item 7.01, including Exhibits
+99.1 and 99.2, are being furnished and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange
+Act of 1934, as amended (the “Exchange Act”), nor shall they be deemed incorporated by reference in any of the Company’s
+filings under the Securities Act or the Exchange Act, whether made before or after the date hereof, except as shall be expressly set forth
+by specific reference to this Form 8-K in such filing.
+
+ 
+
+Item 9.01.
+
+Financial Statements and Exhibits.
+
+ 
+
+(d) Exhibits
+
+ 
+
+Exhibit No.
+
+ 
+
+Description
+
+1.1
+
+ 
+
+Placement Agency Agreement by and between the Company and the Placement Agent dated May 23, 2023.
+
+4.1
+
+ 
+
+Form of Placement Agent Warrant
+
+5.1
+
+ 
+
+Opinion of Codelaw LLC.
+
+10.1
+
+ 
+
+Form of Securities Purchase Agreement by and between the Company and the certain institutional investors dated May 23, 2023.
+
+23.1
+
+ 
+
+Consent of Codelaw LLC (contained in Exhibit 5.1 above).
+
+99.1
+
+ 
+
+Pricing Press Release dated May 23, 2023.
+
+99.2
+
+ 
+
+Closing Press Release dated
+ May 25, 2023. 
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned hereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital Inc.
+
+ 
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+Date: May 25, 2023
+
+By:
+
+/s/
+ 
+Martin Kay
+
+ 
+
+Martin Kay
+
+ 
+
+ 
+
+Chief Executive Officer

@@ -1,0 +1,674 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315224021785/form8-k.htm
+FORM: 8-K
+FILED: 2024-05-29
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2024-05-24
+
+2024-05-24
+
+0001414767
+
+NCPL:CommonStock0.001ParValuePerShareMember
+
+2024-05-24
+
+2024-05-24
+
+0001414767
+
+NCPL:RedeemableWarrantsExercisableForOneShareOfCommonStockAtExercisePriceOf5.19Member
+
+2024-05-24
+
+2024-05-24
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+May 24, 2024
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State or other jurisdiction
+
+of incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address
+ of principal executive offices)
+
+ 
+
+(Zip
+ Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: 
+(781)
+ 
+925-1700
+
+ 
+
+ 
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written
+ communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting
+ material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement
+ communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common
+ Stock, $0.001 par value per share
+
+ 
+
+NCPL
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+Redeemable
+ warrants exercisable for one share of Common Stock at an exercise price of $5.19
+
+ 
+
+NCPLW
+
+ 
+
+The
+ 
+Nasdaq
+ Stock Market LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+ 1.01
+
+Entry
+ into a Material Definitive Agreement.
+
+ 
+
+On
+May 28, 2024, Netcapital, Inc. (the “
+Company
+”) entered into inducement offer letter agreements (the “
+Inducement
+Letters
+”) with certain investors (the “
+Participating Holders
+”) that hold certain outstanding Series A-2
+warrants to purchase up to an aggregate of 14,320,000 shares of the Company’s common stock, par value $0.001 per share (the “
+Common
+Stock
+”), originally issued to the Participating Holders on December 27, 2023 (the “
+Existing Warrants
+”).
+The Existing Warrants had an exercise price of $0.25 per share.
+
+ 
+
+Pursuant
+to the Inducement Letters, the Participating Holders agreed to exercise for cash the Existing Warrants at a reduced exercise price
+of $0.155 per share in partial consideration for the Company’s agreement to issue in a private placement (x) new Series A-3 Common
+Stock purchase warrants (the “
+New Series A-3 Warrants
+”) to purchase up to 14,320,000 shares of Common Stock (the “
+New
+Series A-3 Warrant Shares
+”) and (y) new Series A-4 Common Stock Purchase Warrants (the “
+New Series A-4 Warrants
+”
+and, together with the New Series A-3Warrants, the “
+New Warrants
+”) to purchase up to 14.320,000 shares of Common Stock
+(the “
+New Series A-4 Warrant Shares
+” and, together with the New Series A-3 Warrant Shares, the “
+New Warrant
+Shares
+”). The New Warrants are exercisable beginning on the effective dates of stockholder approval of the issuance of the
+New Warrants and the New Warrant Shares (the “
+Initial Exercise Date
+”) with such warrants expiring on (i) the five
+year anniversary of the Initial Exercise Date for the Series A-3 Warrants and (ii) the eighteen month anniversary of the Initial Exercise
+Date for the Series A-4 Warrants.
+
+ 
+
+The
+closing of the transactions contemplated pursuant to the Inducement Letters occurred on May 29, 2024 (the “
+Closing Date
+”).
+The Company received aggregate gross proceeds of approximately $2.2 million from the exercise of the Existing Warrants by the Holders,
+before deducting placement agent fees and other expenses payable by the Company. The Company intends to use the net proceeds for general
+corporate purposes.
+
+ 
+
+The
+Company engaged H.C. Wainwright & Co., LLC (“
+H.C. Wainwright
+”) to act as its exclusive agent in connection with
+the transactions summarized above and paid H.C. Wainwright a cash fee equal to 7.5% of the aggregate gross proceeds from the exercise
+of the Existing Warrants at the reduced exercise price and a management fee equal to 1.0% of the aggregate gross proceeds from the
+exercise of the Existing Warrants at the reduced exercise price. In addition, the Company reimbursed H.C. Wainwright for $50,000
+of the fees and expenses of H.C. Wainwright’s legal counsel and other of its out-of-pocket expenses, and (ii) its non-accountable
+expenses in the amount of $25,000. The Company also issued to H.C. Wainwright or its designees (“
+PA Warrant Holders
+”)
+placement agent warrants (the “
+Placement Agent Warrants
+”) to purchase up to 1,074,000 shares of Common Stock
+(the “
+Placement Agent Warrant Shares
+”). The Placement Agent Warrants have the same terms as the New Warrants, except
+that the Placement Agent Warrants have an exercise price equal to $0.1938 per share.
+
+ 
+
+The
+original sale or resale of the shares of Common Stock underlying the Existing Warrants have been registered pursuant to an existing registration
+statement on Form S-1, as amended (File Nos. 333-275910) declared effective by the Securities and Exchange Commission (the “
+SEC
+”)
+on December 21, 2023.
+
+ 
+
+The
+Company has agreed to file a registration statement on Form S-3 (or other appropriate form, including on Form S-1 if the Company is not
+then S-3 eligible) providing for the resale of the New Warrant Shares (the “
+Resale Registration Statement
+”)
+within 15 calendar days of the effective date of stockholder approval of the issuance of the shares issuable upon exercise the New Warrants
+and the PA Warrants (the “
+Filing Date
+”), and to use best efforts to cause the Resale Registration Statement to be
+declared effective by the SEC within 60 calendar days following the date of the Filing Date and to keep the Resale Registration Statement
+effective at all times until the Holders no longer own any New Warrants or New Warrant Shares.
+
+ 
+
+Pursuant
+to the Inducement Letters, for a period of twelve (12) months following the Closing Date, the Company agreed not to issue or enter into
+an agreement to effect a Variable Rate Transaction (as defined in the Inducement Letters), subject to certain exceptions.
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+Terms
+of the New Warrants and Placement Agent Warrants
+
+ 
+
+Duration
+and Exercise Price
+
+ 
+
+Each
+New Warrant have an exercise price equal to $0.155 per share. The Placement Agent Warrants have an exercise price equal to $0.1938
+per share. The New Warrants are not exercisable until the shareholders of the Company approve the issuance of the New Warrants and
+the New Warrant Shares (the “Initial Exercise Date), and the New Warrants expire on the (i) 5-year anniversary of the Initial Exercise
+Date for the Series A-3 Warrants and (ii) the eighteen month anniversary of the Initial Exercise Date for the Series A-4 Warrants.
+The Placement Agent Warrants are not exercisable until the shareholders of the Company approve the issuance of the Placement Agent Warrants
+and the Placement Agent Warrant Shares and the Placement Agent Warrants expire on the five-year anniversary of the Initial Exercise
+Date. The exercise price and number of New Warrant Shares and Placement Agent Warrant Shares issuable upon exercise of the New Warrants
+or Placement Agent Warrants are subject to appropriate adjustment in the event of stock dividends, stock splits, subsequent rights offerings,
+pro rata distributions, reorganizations, or similar events affecting the Common Stock and the exercise price.
+
+ 
+
+Exercisability
+
+ 
+
+The
+New Warrants and Placement Agent Warrants are exercisable (following shareholder approval), at the option of each holder, respectively,
+in whole or in part, by delivering a duly executed exercise notice accompanied by payment in full for the number of shares of Common
+Stock purchased upon such exercise (except in the case of a cashless exercise discussed below). A holder or PA Warrant Holder (together
+with their affiliates) may not exercise any portion of their New Warrants or Placement Agent Warrants to the extent that the holder or
+PA Warrant Holder would own more than 4.99% (or, at the election of the holder or H.C. Wainwright, 9.99%) of the outstanding Common Stock
+immediately after exercise, except that upon prior notice from the holder or H.C. Wainwright to the Company, the holder or PA Warrant
+Holder may increase or decrease the amount of ownership of outstanding stock after exercising their New Warrants or Placement Agent Warrants,
+as applicable, up to 9.99% of the number of shares of Common Stock outstanding immediately after giving effect to the exercise, as such
+percentage ownership is determined in accordance with the terms of the New Warrants and Placement Agent Warrants, provided that any increase
+will not be effective until 61 days following notice to the Company.
+
+ 
+
+Cashless
+Exercise
+
+ 
+
+If,
+at the time a holder exercises its New Warrants, or a PA Warrant Holder exercises its Placement Agent Warrants, a registration statement
+registering the resale of the New Warrant Shares and Placement Agent Warrants Shares by the holder and the PA Warrant Holder, respectively,
+under the Securities Act of 1933, as amended (the “
+Securities Act
+”), is not then effective or available, then in lieu
+of making the cash payment otherwise contemplated to be made upon such exercise in payment of the aggregate exercise price, the holder
+or the PA Warrant Holder may elect instead to receive upon such exercise (either in whole or in part), the net number of shares of Common
+Stock determined according to a formula set forth in the New Warrants and Placement Agent Warrants.
+
+ 
+
+Rights
+as a Stockholder
+
+ 
+
+Except
+as otherwise provided in the New Warrants and Placement Agent Warrants, or by virtue of the holder’s or PA Warrant Holder’s
+ownership of shares of Common Stock, such holder or PA Warrant Holder does not have the rights or privileges of a holder of Common Stock,
+including any voting rights, until such holder exercises such holder’s New Warrants or such PA Warrant Holder exercises such Placement
+Agent Warrants. The New Warrants and Placement Agent Warrants provide that the holders of the New Warrants and the PA Warrant Holder
+have the right to participate in certain distributions or dividends paid on shares of Common Stock.
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+Fundamental
+Transactions
+
+ 
+
+If
+at any time the New Warrants and Placement Agent Warrants are outstanding, the Company, either directly or indirectly, in one or more
+related transactions, effects a Fundamental Transaction (as defined in the New Warrants and Placement Agent Warrants), a holder of New
+Warrants and the PA Warrant Holder is entitled to receive the number of shares of common stock of the successor or acquiring corporation,
+or of the Company if the Company is the surviving corporation, and any additional consideration receivable as a result of the Fundamental
+Transaction by such holder of the number of shares of Common Stock for which the New Warrants and Placement Agent Warrants are exercisable
+immediately prior to the Fundamental Transaction. As an alternative, the holder or H.C. Wainwright may, at their option, in the event
+of a Fundamental Transaction, exercisable at any time concurrently with, or within 30 days after, the consummation of the Fundamental
+Transaction (or, if later, the date of the public announcement of the applicable fundamental transaction), cause the Company to purchase
+the unexercised portion of the New Warrants or Placement Agent Warrants from the holder or the PA Warrant Holder, respectively, by paying
+to the holder or the PA Warrant Holder, as applicable, an amount of cash equal to the Black Scholes Value (as defined in the New Warrants
+and Placement Agent Warrants) of the remaining unexercised portion of the New Warrants or Placement Agent Warrants on the date of the
+consummation of such Fundamental Transaction.
+
+ 
+
+Waivers
+and Amendments
+
+ 
+
+The
+New Warrants and Placement Agent Warrants may be modified or amended, or the provisions of the New Warrants or Placement Agent Warrants
+waived, with the Company’s, the holder’s or the PA Warrant Holder’s (as applicable) written consent.
+
+ 
+
+The
+forms of the Inducement Letter, the New Series A-3 Warrant, New Series A-4 Warrant and the Placement Agent Warrant are attached as Exhibits
+10.1, 4.1, 4.2 and 4.3, respectively. The descriptions of the terms of the Inducement Letter, the New Series A-3 Warrant, the New Series
+A-4 Warrant and the Placement Agent Warrant are not intended to be complete and are qualified in their entirety by reference to such
+exhibits. The Inducement Letters contain customary representations, warranties and covenants by the Company which were made only for
+the purposes of such agreements and as of specific dates, were solely for the benefit of the parties to such agreements and may be subject
+to limitations agreed upon by the contracting parties.
+
+ 
+
+Item
+3.02
+
+Unregistered
+ Sales of Equity Securities
+
+ 
+
+The
+offer and sale of the New Warrants, the Placement Agent Warrants, the New Warrant Shares and the Placement Agent Warrant Shares have
+not been registered under the Securities Act and were offered pursuant to the exemption from registration provided in Section 4(a)(2)
+under the Securities Act.
+
+ 
+
+The
+descriptions of the New Warrants and Placement Agent Warrants under Item 1.01 of this Form 8-K is incorporated by reference herein.
+
+ 
+
+Item
+ 3.03
+
+Material
+ Modifications of Rights to Security Holders
+
+ 
+
+On
+May 28, 2024, the board of the directors of the Company agreed to reduce exercise price for all outstanding Series A-2 Warrants to purchase
+16,000,000 shares of Common Stock, including the Existing Warrants to $0.155 per share .
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Form of New Series A-3 Warrant
+
+4.2
+
+ 
+
+Form of New Series A-4 Warrant
+
+4.3
+
+ 
+
+Form of Placement Agent Warrant
+
+10.1
+
+ 
+
+Form of Inducement Letter
+
+99.1
+
+ 
+
+Press Release dated May 24, 2024.
+
+104
+
+ 
+
+Cover
+ Page Interactive Data File (embedded within the Inline XBRL document).
+
+ 
+
+-
+4
+-
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+ May
+ 29, 2024
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+ Martin
+ Kay
+
+ 
+
+Title:
+
+Chief
+ Executive Officer
+
+ 
+
+-
+5
+-

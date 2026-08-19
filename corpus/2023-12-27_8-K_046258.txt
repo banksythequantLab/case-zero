@@ -1,0 +1,549 @@
+SOURCE: https://www.sec.gov/Archives/edgar/data/1414767/000149315223046258/form8-k.htm
+FORM: 8-K
+FILED: 2023-12-27
+COMPANY: Netcapital Inc.
+
+false
+
+0001414767
+
+0001414767
+
+2023-12-21
+
+2023-12-21
+
+iso4217:USD
+
+xbrli:shares
+
+iso4217:USD
+
+xbrli:shares
+
+ 
+
+ 
+
+ 
+
+UNITED
+STATES
+
+SECURITIES
+AND EXCHANGE COMMISSION
+
+WASHINGTON,
+D.C. 20549
+
+ 
+
+ 
+
+ 
+
+FORM
+
+8-K
+
+ 
+
+ 
+
+ 
+
+CURRENT
+REPORT PURSUANT
+
+TO
+SECTION 13 OR 15(d) OF THE
+
+SECURITIES
+EXCHANGE ACT OF 1934
+
+ 
+
+Date
+of Report (Date of earliest event reported): 
+December 21, 2023
+
+ 
+
+NETCAPITAL
+INC.
+
+(Exact
+name of registrant as specified in charter)
+
+ 
+
+Utah
+
+ 
+
+001-41443
+
+ 
+
+87-0409951
+
+(State or other jurisdiction
+ of incorporation)
+
+ 
+
+(Commission
+
+File
+ Number)
+
+ 
+
+(IRS
+ Employer
+
+Identification
+ No.)
+
+ 
+
+1
+ Lincoln Street
+, 
+Boston
+, 
+Massachusetts
+
+ 
+
+02111
+
+(Address of principal executive
+ offices)
+
+ 
+
+(Zip Code)
+
+ 
+
+Registrant’s
+telephone number, including area code: 
+(781)
+ 
+925-1700
+
+ 
+
+ 
+
+ 
+
+(Former
+name or former address, if changed since last report)
+
+ 
+
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under
+any of the following provisions (see General Instruction A.2. below):
+
+ 
+
+☐
+
+Written communications
+ pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+ 
+
+ 
+
+☐
+
+Soliciting material pursuant
+ to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications
+ pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+ 
+
+ 
+
+☐
+
+Pre-commencement communications
+ pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+ 
+
+Securities
+registered pursuant to Section 12(b) of the Act:
+
+ 
+
+Title
+ of each class
+
+ 
+
+Trading
+ symbol(s)
+
+ 
+
+Name
+ of each exchange on which registered
+
+Common Stock, $0.001
+ par value per share
+
+ 
+
+NCPL
+
+ 
+
+The 
+Nasdaq
+ Stock Market
+ LLC
+
+ 
+
+Indicate
+by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1934 (§240.12b-2
+of this chapter)
+
+ 
+
+Emerging
+growth company 
+☐
+.
+
+ 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Item
+1.01 Entry into a Material Definitive Agreement.
+
+ 
+
+The
+information regarding the Purchase Agreement (as defined below) set forth in Item 8.01 of this Current Report on Form 8-K is incorporated
+by reference into this Item 1.01.
+
+ 
+
+Item
+8.01 Other Events.
+
+ 
+
+On
+December 27, 2023, Netcapital Inc., a Utah corporation (the “
+Company
+”), completed a public offering (the “
+Offering”
+)
+of (i) 4,800,000 shares (the “
+Common Shares
+”) of common stock, par value $0.001 per share, of the Company (the “
+Common
+Stock
+”); (ii) 11,200,000 prefunded warrants (the “
+Prefunded Warrants
+”) to purchase 11,200,000 shares of
+Common Stock of the Company (the “
+Prefunded Warrant Shares
+”); (iii) 16,000,000 Series A-1 warrants (the “
+Series
+A-1 Common Warrants
+”) to purchase 16,000,000 shares of Common Stock of the Company (the “
+Series A-1 Common Warrant
+Shares
+”) and (iv) 16,000,000 Series A-2 warrants (the “
+Series A-2 Common Warrants,
+” together with the Series
+A-1 Warrants, the “
+Common Warrants
+”) to purchase 16,000,000 shares of Common Stock of the Company (the “
+Series
+A-2 Common Warrant Shares,
+” together with the Series A-1 Common Warrants Shares, the “
+Common Warrant Shares
+”).
+The offering price of each Common Share and accompanying Series A-1 Common Warrant and Series A-2 Common Warrant was $0.25, and the offering
+price of each Prefunded Warrant and accompanying Series A-1 Common Warrant and Series A-2 Common Warrant was $0.249. The Common Shares,
+Prefunded Warrants, Prefunded Warrant Shares, Series A-1 Common Warrants, Series A-1 Common Warrant Shares, Series A-2 Common Warrants,
+Series A-2 Common Warrant Shares are collectively referred to herein as the “
+Securities
+.”
+
+ 
+
+Each
+Common Warrant has an exercise price of $0.25 per share. The Common Warrants are not exercisable until the shareholders of the Company
+approve the issuance of the Common Warrants and the Common Warrant Shares upon the exercise thereof (the “
+Shareholder Approval
+”).
+The Series A-1 Common Warrants will expire five (5) years following the date of Shareholder Approval. The Series A-2 Common Warrants
+will expire eighteen (18) months following the date of Shareholder Approval. A holder may not exercise any portion of the Common Warrants
+to the extent the Purchaser would own more than 4.99% of the outstanding Common Stock immediately after exercise. A holder may increase
+or decrease this percentage with respect to either the Series A-1 Common Warrants or the Series A-2 Common Warrants to a percentage not
+in excess of 9.99%, 
+except that any such increase shall
+require 
+at least 61 days’ prior notice to the Company.
+
+ 
+
+The
+Prefunded Warrants are immediately exercisable and may be exercised at a nominal exercise price of $0.001 per share of Common Stock at
+any time until all of the Prefunded Warrants are exercised in full. A holder may not exercise any portion of the Common Warrants to the
+extent the Purchaser would own more than 4.99% of the outstanding Common Stock immediately after exercise. A holder may increase or decrease
+this percentage with respect to Prefunded Warrants to a percentage not in excess of 9.99%, except that any such increase shall require
+at least 61 days’ prior notice to the Company.
+
+ 
+
+As
+compensation to H.C. Wainwright & Co., LLC as the exclusive placement agent in connection with the Offering (the “
+Placement
+Agent
+”), the Company paid the Placement Agent a cash fee of 7.5% of the aggregate gross proceeds raised in the Offering, plus
+a management fee equal to 1.0% of the gross proceeds raised in the Offering and reimbursement of certain expenses and legal fees. The
+Company also issued warrants to designees of the Placement Agent (the “
+Placement Agent Warrants
+”) to purchase up to
+1,200,000 shares of Common Stock (the “
+Placement Agent Warrant Shares
+”). The Placement Agent Warrants have substantially
+the same terms as the Common Warrants, except that the Placement Agent Warrants have an exercise price equal to $0.3125 per share and
+expire on the fifth anniversary from the date of the commencement of sales in the Offering.
+
+ 
+
+-
+2
+-
+
+ 
+
+ 
+
+In
+connection with the Offering, the Company entered into Securities Purchase Agreements (the “
+Purchase Agreements
+”)
+with certain institutional investors on December 21, 2023. The Purchase Agreement contained customary representations and warranties
+and agreements of the Company and the Purchasers and customary indemnification rights and obligations of the parties.
+
+ 
+
+Pursuant
+to the terms of the Purchase Agreements, the Company has agreed for a period of 90-days from the date of the Purchase Agreement, subject
+to certain exceptions, not to issue, enter into any agreement to issue or announce the issuance or proposed issuance of any shares of
+Common Stock or Common Stock Equivalents (as defined in the Purchase Agreement), or file any registration statement. In addition, from
+the date of the Purchase Agreement until the one year anniversary of the closing date of the Offering, the Company is prohibited from
+effecting or entering into an agreement to effect any issuance of Common Stock or Common Stock Equivalents (as defined in the Purchase
+Agreement) involving a Variable Rate Transaction (as defined in the Purchase Agreement), subject to an exception.
+
+ 
+
+The
+Securities, the Placement Agent Warrants and Placement Agent Warrant Shares were offered pursuant to the Registration Statement on Form
+S-1 (File No. 333-275210), as amended, which was declared effective by the Securities and Exchange Commission on December 21, 2023.
+
+ 
+
+The
+Company received net proceeds of approximately $3.37 million from the Offering, after deducting the estimated Offering expenses payable
+by the Company, including the Placement Agent fees. The Company intends to use the net proceeds from the Offering for sales and marketing
+and general working capital purposes.
+
+ 
+
+Forms
+of the Purchase Agreement, the Prefunded Warrant, the Series A-1 Common Warrant, the Series A-2 Common Warrant and Placement Agent Warrant
+are filed as exhibits to this Current Report on Form 8-K, and are incorporated by reference herein.
+
+ 
+
+On
+December 21, 2023, the Company issued a press release announcing the pricing of the Offering. On December 27, 2023, the Company issued
+a press release announcing the closing of the Offering. Copies of the press releases are furnished as Exhibit 99.1 and Exhibit 99.2,
+and are incorporated herein by reference.
+
+ 
+
+Item
+9.01 Financial Statements and Exhibits
+
+ 
+
+(d)
+Exhibits.
+
+ 
+
+Exhibit
+ No.
+
+ 
+
+Description
+
+ 
+
+ 
+
+ 
+
+4.1
+
+ 
+
+Form
+ of Prefunded Warrant
+
+4.2
+
+ 
+
+Form
+ of Series A-1 Common Warrant
+
+4.3
+
+ 
+
+Form
+ of Series A-2 Common Warrant
+
+4.4
+
+ 
+
+Form
+ of Placement Agent Warrant
+
+10.1
+
+ 
+
+Form
+ of Securities Purchase Agreement
+
+99.1
+
+ 
+
+Pricing
+ Press Release dated December 21, 2023
+
+99.2
+
+ 
+
+Closing Press Release dated December 27, 2023
+
+104
+
+ 
+
+Cover
+ Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+
+-
+3
+-
+
+ 
+
+ 
+
+SIGNATURES
+
+ 
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned thereunto duly authorized.
+
+ 
+
+ 
+
+Netcapital
+ Inc.
+
+(Registrant)
+
+ 
+
+ 
+
+ 
+
+ 
+
+By:
+
+/s/
+ Martin Kay
+
+ 
+
+Name:
+
+Martin Kay
+
+ 
+
+Title:
+
+Chief Executive Officer
+
+ 
+
+ 
+
+ 
+
+Dated December 27, 2023
+
+ 
+
+ 
+
+ 
+
+-
+4
+-
