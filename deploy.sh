@@ -7,6 +7,16 @@
 set -euo pipefail
 
 PROJECT="${GOOGLE_CLOUD_PROJECT:?set GOOGLE_CLOUD_PROJECT}"
+
+# The fleet needs a model. Fail here rather than deploying a service that
+# starts, serves the board, and then dies on the first dispatch.
+#
+# NOT Vertex. An earlier version of this script hardcoded
+# GOOGLE_GENAI_USE_VERTEXAI=True and every deploy silently undid the manual fix:
+# Vertex returns "404 Publisher model not found" for gemini-3.5-flash in
+# us-central1 on a fresh project. The Gemini API serves it. Same model, different
+# surface, and the rules permit either.
+: "${GOOGLE_API_KEY:?set GOOGLE_API_KEY (get one at https://aistudio.google.com/apikey)}"
 REGION="${GOOGLE_CLOUD_LOCATION:-us-central1}"
 SERVICE="${SERVICE_NAME:-case-zero}"
 SA="case-zero-run@${PROJECT}.iam.gserviceaccount.com"
@@ -36,8 +46,7 @@ gcloud iam service-accounts create case-zero-run \
 # nothing else; a compromised agent cannot reach the rest of the project.
 gcloud projects add-iam-policy-binding "$PROJECT" \
   --member="serviceAccount:${SA}" --role="roles/datastore.user" --condition=None
-gcloud projects add-iam-policy-binding "$PROJECT" \
-  --member="serviceAccount:${SA}" --role="roles/aiplatform.user" --condition=None
+# No aiplatform role: we call the Gemini API with a key, not Vertex with ADC.
 
 # ---------------------------------------------------------------- 4. Deploy
 #
@@ -63,7 +72,7 @@ gcloud run deploy "$SERVICE" \
   --cpu=2 --memory=2Gi \
   --timeout=3600 \
   --allow-unauthenticated \
-  --set-env-vars="CASEZERO_BACKEND=firestore,GOOGLE_CLOUD_PROJECT=${PROJECT},GOOGLE_GENAI_USE_VERTEXAI=True,GOOGLE_CLOUD_LOCATION=${REGION}"
+  --set-env-vars="CASEZERO_BACKEND=firestore,GOOGLE_CLOUD_PROJECT=${PROJECT},GOOGLE_CLOUD_LOCATION=${REGION},GOOGLE_API_KEY=${GOOGLE_API_KEY}"
 
 # max-instances=1 is deliberate: pop_lead() is read-then-update, not
 # transactional, so two orchestrators would claim the same lead. Make that a
