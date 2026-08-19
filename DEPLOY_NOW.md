@@ -10,17 +10,27 @@ instead.
 
 ## 0 · Push the repo first (from your machine, 2 min)
 
-The repo is committed and clean — it just needs a remote. Extract the tarball I
-sent, then:
+**The remote is already set to `https://github.com/banksythequantlab/case-zero.git` and the branch is
+`main`.** Three commits are staged and waiting.
+
+First create the empty repo — **do not** let GitHub add a README, .gitignore or
+licence, or the push will be rejected as a non-fast-forward:
+
+<https://github.com/new?name=case-zero>
+
+Then extract the tarball I sent and push:
 
 ```bash
 cd case_zero
-git remote add origin https://github.com/<you>/case-zero.git
 git push -u origin main
 ```
 
-Private is fine. If private, grant `testing@devpost.com` and
-`cloudhackathons@google.com`.
+Private is fine, and is the safer choice here. If private, grant
+`testing@devpost.com` and `cloudhackathons@google.com` under
+**Settings → Collaborators**.
+
+*If you name the repo something other than `case-zero`, fix the remote first:*
+`git remote set-url origin https://github.com/banksythequantlab/<name>.git`
 
 ---
 
@@ -29,9 +39,12 @@ Private is fine. If private, grant `testing@devpost.com` and
 <https://shell.cloud.google.com>
 
 ```bash
-git clone https://github.com/<you>/case-zero.git
+git clone https://github.com/banksythequantlab/case-zero.git
 cd case-zero
 ```
+
+*(If the repo is private, Cloud Shell will prompt for a GitHub token — a
+fine-grained PAT with read access to this one repo is enough.)*
 
 ---
 

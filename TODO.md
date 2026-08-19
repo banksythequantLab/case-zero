@@ -108,8 +108,11 @@ the commit — so this is already done and verified:
 
 All you need to do:
 
+The remote is already configured and the branch is `main`. Create the empty
+repo at <https://github.com/new?name=case-zero> — **no README, no .gitignore, no
+licence**, or the push is rejected — then:
+
 ```bash
-git remote add origin https://github.com/<you>/case-zero.git
 git push -u origin main
 ```
 
