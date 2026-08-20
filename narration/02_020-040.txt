@@ -1,0 +1,1 @@
+Document investigation eats analyst-months, and the hard part isn't answering questions, it's not knowing which to ask. Seventy-one real S-E-C filings. One instruction: find out what happened. The S-E-C's complaint is the answer key. It is not in the system. I start it, then I don't touch anything.

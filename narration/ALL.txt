@@ -1,0 +1,54 @@
+
+[0:00–0:20 —]  COLD OPEN: what the model does and doesn't know
+[target 20s · 46 words · 138 wpm]
+
+Gemini three-point-five, asked about a company called Netcapital. It knows the company. It even names an executive, unprompted. Ask it about the fraud, nothing. Its training ends January twenty twenty-five. The S-E-C only sued this month. It knows the cast. It does not know the crime.
+
+----------------------------------------------------------------------
+
+[0:20–0:40 —]  THE SETUP
+[target 20s · 48 words · 144 wpm]
+
+Document investigation eats analyst-months, and the hard part isn't answering questions, it's not knowing which to ask. Seventy-one real S-E-C filings. One instruction: find out what happened. The S-E-C's complaint is the answer key. It is not in the system. I start it, then I don't touch anything.
+
+----------------------------------------------------------------------
+
+[0:40–1:15 —]  THE PART THAT ISN'T AN AGENT
+[target 35s · 85 words · 146 wpm]
+
+Before any model runs, arithmetic does. This rebuilds the customer ledger straight from the filings. Fourteen and a half million dollars of revenue, eighty-seven percent of everything reported, settled not in cash but in the customers' own stock. The company's published price for this service is five to ten thousand dollars. These clients were billed a median of one-point-one-seven million. A hundred and seventeen times the rate card. No model. No prompt. No variance. Arithmetic has one right answer, so it doesn't get an agent.
+
+----------------------------------------------------------------------
+
+[1:15–2:10 —]  LET IT RUN
+[target 55s · 69 words · 75 wpm]
+
+Evidence agent. Revenue is almost entirely non-cash, paid in the customers' own shares. Two readings of the same numbers, both alive at once. The innocent one is there because an agent is required to build it. The skeptic exists to attack the other agents' theories, not to agree with them. An agent cited a quote that isn't in the corpus. Caught at ingest, before it could become a hypothesis.
+
+----------------------------------------------------------------------
+
+[2:10–2:45 —]  THE PUNCHLINE
+[target 35s · 70 words · 120 wpm]
+
+Now the part that matters. The fleet worked out that an insider related to the C-F-O controls these customers. It cannot name him. That name is in none of the seventy-one filings. But the model knows him. It named him in three seconds. It also invented an S-E-C case against him that never happened. The fleet still won't say it. Not because it can't. Because the record doesn't support it.
+
+----------------------------------------------------------------------
+
+[2:45–3:10 —]  IT RUNS ON GOOGLE CLOUD
+[target 25s · 49 words · 118 wpm]
+
+Cloud Run, with C-P-U always allocated, the fleet runs on a background thread, so under default billing it would freeze the moment the request returned. Firestore holds the investigation graph. The event stream you just watched is the same immutable log an auditor reads back. One structure, two consumers.
+
+----------------------------------------------------------------------
+
+[3:10–3:33 —]  THE SCORECARD, INCLUDING WHAT IT DOESN'T DO
+[target 23s · 49 words · 128 wpm]
+
+Scored against the S-E-C's own complaint. A hundred and eight citations, every one verified, deterministically, no model in the loop. Five calibration traps: true claims the filings can't support. It asserted none, in every run we've scored. Findings recovered: twenty-two percent. That's not good, and we publish it anyway.
+
+----------------------------------------------------------------------
+
+[3:33–4:00 —]  CLOSE
+[target 27s · 62 words · 138 wpm]
+
+One run reported it couldn't find a figure in the filings. We logged that as a hallucination. It wasn't. We were feeding it the first forty thousand characters of documents where the evidence sat at character three hundred thousand. The agent was right. We were wrong. When an agent says it can't find something, check your retrieval before you check its honesty.

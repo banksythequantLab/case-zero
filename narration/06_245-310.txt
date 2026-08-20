@@ -1,0 +1,1 @@
+Cloud Run, with C-P-U always allocated, the fleet runs on a background thread, so under default billing it would freeze the moment the request returned. Firestore holds the investigation graph. The event stream you just watched is the same immutable log an auditor reads back. One structure, two consumers.

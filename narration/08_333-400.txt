@@ -1,0 +1,1 @@
+One run reported it couldn't find a figure in the filings. We logged that as a hallucination. It wasn't. We were feeding it the first forty thousand characters of documents where the evidence sat at character three hundred thousand. The agent was right. We were wrong. When an agent says it can't find something, check your retrieval before you check its honesty.
