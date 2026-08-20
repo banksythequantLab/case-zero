@@ -215,6 +215,13 @@ Cloud Trace · FastAPI + SSE · Python 3.12
 - **SEC litigation release LR-26607** and the underlying complaint — the withheld
   answer key, never in the fleet's context and deliberately not in the repo.
 
+### Live demo
+
+**https://case-zero-7u5lvpk4ta-uc.a.run.app**
+
+Cloud Run, `--no-cpu-throttling`, Firestore-backed. Click BEGIN INVESTIGATION
+and the deterministic ledger pass reconciles before any model call.
+
 ### Try it
 
 ```bash

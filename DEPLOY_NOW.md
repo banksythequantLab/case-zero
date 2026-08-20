@@ -1,5 +1,10 @@
 # Deploy — the whole thing, in order
 
+> **DEPLOYED AND VERIFIED — https://case-zero-7u5lvpk4ta-uc.a.run.app**
+> Live on Cloud Run in `gen-lang-client-0491046828` / us-central1, confirmed
+> serving current code (the board carries the LEDGER RECONCILED renderer).
+> The steps below are the record of how, and how to redo it.
+
 **Where:** Google Cloud Shell → **<https://shell.cloud.google.com>**
 
 Cloud Shell already has `gcloud` and `git` authenticated as you. Nothing needs

@@ -18,8 +18,7 @@ record a video, push to your GitHub, or fill in a Devpost form.
 | ✅ Cold-prompt test run | `FRAUD_BLIND` — 0 case-specific hits / 5 scored probes |
 | ✅ 121 offline tests green | preflight 8 pass · 2 warn · 0 fail |
 | ✅ Deterministic screens | forensic (XBRL) + ledger (books) + windowed retrieval |
-| ⚠️ **Deployed service runs OLD code** | predates the ledger + retrieval fix — **redeploy before recording** |
-| ⚠️ Cloud Run URL not written down | it is a submission field and it is recorded nowhere |
+| ✅ **Deployed, current code** | https://case-zero-7u5lvpk4ta-uc.a.run.app — verified serving today's build |
 | ⚠️ Exposed Gemini API key | still live — rotate it (STEP 4) |
 | ❌ Video not recorded | **the single biggest scoring risk** |
 | ✅ Git repo committed | 142 files, clean, leak-checked — needs only `git remote add` + push |
