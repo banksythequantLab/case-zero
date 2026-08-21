@@ -115,6 +115,13 @@ def api_start(mission: str = "Determine whether this company misrepresented its 
         return {"ok": False, "reason": "already running"}
     STATE["started"] = True
     loop = STATE["loop"]
+    # A fresh BEGIN gets a fresh budget. The loop object lives as long as the
+    # container process — and --min-instances=1 keeps that process alive for
+    # days — so without this reset every run after the first hits
+    # budget.exhausted() on its opening check and dies in seconds with
+    # "budget_exhausted" and zero dispatches.
+    loop.budget.spent = 0
+    loop.budget.rounds = 0
 
     def _run():
         try:

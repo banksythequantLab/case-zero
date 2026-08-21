@@ -1,0 +1,15 @@
+# Keep the source upload lean — the Dockerfile only copies casezero/,
+# board.html, corpus/ and requirements.txt.
+.git
+.gitignore
+.venv/
+narration/
+case_zero.tar.gz
+ledger_segment.mp4
+*.png
+*.mp4
+run_*.json
+bench_*.json
+scorecard_*.json
+events_live.json
+cold_prompt_result.json
