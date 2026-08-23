@@ -173,6 +173,19 @@ consolidation, windowed retrieval — and recovery stayed in a 12.5–21.9% band
 throughout. **Whatever caps it at ~22% is not retrieval, and we have not
 identified it.**
 
+### Why the window exists
+
+The corpus is 2,252,533 characters — about 1.62M tokens — and the largest
+single filing runs 501,291 characters. Each dispatch sends 8 documents
+windowed to 40,000 characters, roughly 368K characters of context, so a full
+investigation costs $1–3 in tokens and finishes in about 30 minutes. Feeding
+every document whole would put ~1.62M tokens in play per dispatch; at the ~80
+dispatches a run actually consumes, that is on the order of 130M tokens —
+roughly $100 per test run, against the ~$100 this entire project has spent to
+date. A proper recovery study across seeds and budgets at full context is a
+$500–1,000 experiment. The 21.9% is what a $3 run recovers; we publish the
+window alongside the number so nobody mistakes one for the other.
+
 ### What we got wrong, and how we know
 
 - **We thought the fleet was fragmenting** one finding across several weak
