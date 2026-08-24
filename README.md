@@ -297,3 +297,16 @@ BENCHMARK.md        benchmark design and what the corpus supports
 CANDIDATES.md       why this case, and the ~20 that failed
 complaint.pdf/.txt  the withheld answer key — never put this in the fleet's context
 ```
+
+## Reproducible testing
+
+```bash
+pip install -r requirements.txt
+python3 preflight.py                       # 10 checks, no credentials needed
+python3 -m pytest                          # 121 offline tests, no API calls
+python3 -m casezero.ledger --corpus corpus # deterministic forensic pass, ~4.5s
+python3 -m casezero.board --demo           # scripted fleet board, no API key
+```
+
+Live deployment: https://case-zero-7u5lvpk4ta-uc.a.run.app (click BEGIN INVESTIGATION).
+

@@ -1,5 +1,8 @@
 # Benchmarking an autonomous investigator on a case the model can't know
 
+*This post was created for the purposes of entering the All Things Agentic
+Hackathon (Google Cloud / Devpost).*
+
 Every "AI investigates documents" demo has the same hole in it, and once you see
 it you can't unsee it: **the model already knows the answer.**
 
